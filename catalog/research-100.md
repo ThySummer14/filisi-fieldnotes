@@ -61,7 +61,7 @@
 - 057 [第七帧已经画出来 第五帧的按键才到](../research/100-directions/057-rollback-netcode/readable.md) · 游戏网络
 - 058 [同一个种子 为什么还是回放出另一局](../research/100-directions/058-deterministic-replay/readable.md) · 游戏工具
 - 059 [帧率翻倍 角色不该多跳半米](../research/100-directions/059-fixed-timestep/readable.md) · 游戏物理
-- 060 [A星不高估 为什么仍然可能走错路](../research/100-directions/060-astar-heuristic-contract/readable.md) · 搜索算法
+- 060 [估计从不偏高，A星为什么仍会找到较贵的路](../research/100-directions/060-astar-heuristic-contract/readable.md) · 图搜索算法与证明 · 第2版
 - 061 [地上有一条缝 角色却没有一条路](../research/100-directions/061-navmesh-agent-radius/readable.md) · 游戏导航
 - 062 [棋局缓存里的七分 可能只表示至少七分](../research/100-directions/062-chess-transposition-table/readable.md) · 博弈搜索
 - 063 [同样一千五百分 系统可能知道得很不一样](../research/100-directions/063-rating-uncertainty/readable.md) · 竞技系统
@@ -86,7 +86,7 @@
 - 082 [集装箱改变世界 靠的不只是一只铁盒](../research/100-directions/082-shipping-container/readable.md) · 技术史
 - 083 [铅笔留下的黑线 是一层可搬走的材料](../research/100-directions/083-pencil-graphite/readable.md) · 材料文化
 - 084 [不锈钢会生锈 是哪一层出了问题](../research/100-directions/084-stainless-corrosion/readable.md) · 材料科学
-- 085 [罗马混凝土的自愈 不是把旧配方照搬回来](../research/100-directions/085-roman-concrete/readable.md) · 建筑材料
+- 085 [罗马混凝土怎样“自愈”：先看水为什么流不过那条缝](../research/100-directions/085-roman-concrete/readable.md) · 建筑材料实验与考古证据 · 第2版
 - 086 [同一份釉料 为什么换个窑就变了颜色](../research/100-directions/086-glaze-kiln/readable.md) · 陶瓷工艺
 - 087 [轨距统一为何总要等很久](../research/100-directions/087-railway-gauge/readable.md) · 基础设施史
 - 088 [一处饮水点 曾经装下怎样的公共生活](../research/100-directions/088-public-fountains/readable.md) · 城市史

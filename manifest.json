@@ -1,12 +1,12 @@
 {
   "archive_date": "2026-10-07",
-  "item_count": 116,
-  "original_file_count": 124,
+  "item_count": 122,
+  "original_file_count": 130,
   "original_docx_count": 14,
   "original_pdf_count": 6,
-  "original_markdown_count": 104,
+  "original_markdown_count": 110,
   "image_count": 33,
-  "readable_markdown_count": 116,
+  "readable_markdown_count": 122,
   "items": [
     {
       "path": "reading/sociological-imagination",
@@ -2564,33 +2564,36 @@
     },
     {
       "path": "research/100-directions/085-roman-concrete",
-      "title": "罗马混凝土的自愈 不是把旧配方照搬回来",
+      "title": "罗马混凝土怎样“自愈”：先看水为什么流不过那条缝",
       "archived_at": "2026-10-07",
-      "source_version": 1,
-      "status": "原创专题研究；例子、原始研究与方法边界见正文",
-      "summary": "石灰颗粒、火山物质与长期反应解释了一部分耐久性，考古材料和现代工程仍需要分别验证。",
+      "source_version": 2,
+      "status": "深化修订：补充原始研究、论证条件、原创图解与可复核材料；沿用原文章编号，不计新增篇数。",
+      "summary": "石灰团块怎样参与裂缝封闭，2023年实验直接测到了什么，与强度恢复和古代普遍工艺相差哪一步？",
       "readableMarkdown": "research/100-directions/085-roman-concrete/readable.md",
       "sources": "research/100-directions/085-roman-concrete/sources.md",
       "assets": [
-        "research/100-directions/085-roman-concrete/metadata.json"
+        "research/100-directions/085-roman-concrete/metadata.json",
+        "research/100-directions/085-roman-concrete/assets/085-experiment-timeline.png",
+        "research/100-directions/085-roman-concrete/assets/085-experiment-timeline.svg"
       ],
       "originals": [
         {
           "path": "research/100-directions/085-roman-concrete/readable.md",
-          "original_name": "罗马混凝土的自愈 不是把旧配方照搬回来.md",
-          "bytes": 5993,
-          "sha256": "f24f44829f83b1aa2c112effabfa69c9ef046b1d07a58fe33ea9b3c6027cee52",
+          "original_name": "罗马混凝土怎样“自愈”：先看水为什么流不过那条缝.md",
+          "bytes": 10902,
+          "sha256": "725c70975d4d5fb5d9644efc34f3365cd8c8ffd4064ab08e6d61381daf1098f8",
           "byte_identical": true
         }
       ],
       "series": "research-100-20261007",
       "series_number": "085",
-      "topic": "建筑材料",
+      "topic": "建筑材料实验与考古证据",
       "tags": [
         "罗马混凝土",
         "热拌",
         "裂缝"
-      ]
+      ],
+      "revision_note": "深化修订：补充原始研究、论证条件、原创图解与可复核材料；沿用原文章编号，不计新增篇数。"
     },
     {
       "path": "research/100-directions/013-grouping-cue-conflicts",
@@ -3265,33 +3268,38 @@
     },
     {
       "path": "research/100-directions/060-astar-heuristic-contract",
-      "title": "A星不高估 为什么仍然可能走错路",
+      "title": "估计从不偏高，A星为什么仍会找到较贵的路",
       "archived_at": "2026-10-07",
-      "source_version": 1,
-      "status": "原创专题研究；例子、原始研究与方法边界见正文",
-      "summary": "可采纳启发式还需要匹配节点重开与终止规则，四个节点就能说明差别。",
+      "source_version": 2,
+      "status": "深化修订：补充原始研究、论证条件、原创图解与可复核材料；沿用原文章编号，不计新增篇数。",
+      "summary": "为什么可采纳启发式不足以支持永久关闭节点，重开与一致性分别怎样保证最短路？",
       "readableMarkdown": "research/100-directions/060-astar-heuristic-contract/readable.md",
       "sources": "research/100-directions/060-astar-heuristic-contract/sources.md",
       "assets": [
-        "research/100-directions/060-astar-heuristic-contract/metadata.json"
+        "research/100-directions/060-astar-heuristic-contract/metadata.json",
+        "research/100-directions/060-astar-heuristic-contract/assets/060-four-nodes.png",
+        "research/100-directions/060-astar-heuristic-contract/assets/060-four-nodes.svg",
+        "research/100-directions/060-astar-heuristic-contract/assets/060-recomputed.json",
+        "research/100-directions/060-astar-heuristic-contract/assets/recompute_astar.py"
       ],
       "originals": [
         {
           "path": "research/100-directions/060-astar-heuristic-contract/readable.md",
-          "original_name": "A星不高估 为什么仍然可能走错路.md",
-          "bytes": 6496,
-          "sha256": "15e036b59dab5e89d60f121b77238f8fc44d355ff7ecd99bcd7d22999643200d",
+          "original_name": "估计从不偏高，A星为什么仍会找到较贵的路.md",
+          "bytes": 11874,
+          "sha256": "b379e8dca3255ed0946b8ee041a1a5909e2dbe104ccf284b001e12afeae32476",
           "byte_identical": true
         }
       ],
       "series": "research-100-20261007",
       "series_number": "060",
-      "topic": "搜索算法",
+      "topic": "图搜索算法与证明",
       "tags": [
         "A星",
         "启发式",
         "最短路径"
-      ]
+      ],
+      "revision_note": "深化修订：补充原始研究、论证条件、原创图解与可复核材料；沿用原文章编号，不计新增篇数。"
     },
     {
       "path": "research/100-directions/061-navmesh-agent-radius",
@@ -4175,6 +4183,178 @@
         "瞳孔反应",
         "空间记忆",
         "创造性"
+      ]
+    },
+    {
+      "path": "research/deep-studies/105-cavefish-eye-regression",
+      "archived_at": "2026-10-07",
+      "series": "long-term-research",
+      "series_number": "105",
+      "category": "社会与自然",
+      "title": "盲眼洞穴鱼为什么先长出眼睛，再让它退去",
+      "source_version": 1,
+      "status": "原创深化研究；示例、原始研究与方法边界见正文。",
+      "summary": "眼如何在发育中退化，与造成这种机制的变异为何留下，能由同一实验回答吗？",
+      "readableMarkdown": "research/deep-studies/105-cavefish-eye-regression/readable.md",
+      "sources": "research/deep-studies/105-cavefish-eye-regression/sources.md",
+      "assets": [
+        "research/deep-studies/105-cavefish-eye-regression/metadata.json",
+        "research/deep-studies/105-cavefish-eye-regression/assets/cavefish-lens-comparison.png",
+        "research/deep-studies/105-cavefish-eye-regression/assets/cavefish-lens-comparison.svg"
+      ],
+      "topic": "演化发育生物学",
+      "originals": [
+        {
+          "path": "research/deep-studies/105-cavefish-eye-regression/readable.md",
+          "original_name": "盲眼洞穴鱼为什么先长出眼睛，再让它退去.md",
+          "bytes": 12440,
+          "sha256": "4a6022e594b4f348685ae09e5c5cca7af5f9bfa5d328d1608031762692bef4a7",
+          "byte_identical": true
+        }
+      ]
+    },
+    {
+      "path": "research/deep-studies/102-qr-error-correction",
+      "archived_at": "2026-10-07",
+      "series": "long-term-research",
+      "series_number": "102",
+      "category": "计算与系统",
+      "title": "二维码缺了一块，丢掉的数字从哪里回来",
+      "source_version": 1,
+      "status": "原创深化研究；示例、原始研究与方法边界见正文。",
+      "summary": "已知位置的缺失与未知位置的错误为什么消耗不同冗余？",
+      "readableMarkdown": "research/deep-studies/102-qr-error-correction/readable.md",
+      "sources": "research/deep-studies/102-qr-error-correction/sources.md",
+      "assets": [
+        "research/deep-studies/102-qr-error-correction/metadata.json",
+        "research/deep-studies/102-qr-error-correction/assets/recompute_rs7-result.json",
+        "research/deep-studies/102-qr-error-correction/assets/recompute_rs7.py"
+      ],
+      "topic": "纠错编码与信息",
+      "originals": [
+        {
+          "path": "research/deep-studies/102-qr-error-correction/readable.md",
+          "original_name": "二维码缺了一块，丢掉的数字从哪里回来.md",
+          "bytes": 11271,
+          "sha256": "141d0db822e5a2007f6d1b10ae5e7690f39068b085a178678bf2fdab36294a35",
+          "byte_identical": true
+        }
+      ]
+    },
+    {
+      "path": "research/deep-studies/106-rosetta-decipherment",
+      "archived_at": "2026-10-07",
+      "series": "long-term-research",
+      "series_number": "106",
+      "category": "历史与语言",
+      "title": "罗塞塔石碑给了译文，为什么还要花二十多年才读懂",
+      "source_version": 1,
+      "status": "原创深化研究；示例、原始研究与方法边界见正文。",
+      "summary": "双语对照如何成为可在新王名上检验的音值假设？",
+      "readableMarkdown": "research/deep-studies/106-rosetta-decipherment/readable.md",
+      "sources": "research/deep-studies/106-rosetta-decipherment/sources.md",
+      "assets": [
+        "research/deep-studies/106-rosetta-decipherment/metadata.json",
+        "research/deep-studies/106-rosetta-decipherment/assets/rosetta-name-correspondence.png",
+        "research/deep-studies/106-rosetta-decipherment/assets/rosetta-name-correspondence.svg"
+      ],
+      "topic": "文字破译与知识史",
+      "originals": [
+        {
+          "path": "research/deep-studies/106-rosetta-decipherment/readable.md",
+          "original_name": "罗塞塔石碑给了译文，为什么还要花二十多年才读懂.md",
+          "bytes": 11732,
+          "sha256": "bce90344c79f64d033a97b3003fe4bb9f8c4c0b6027090525b3ba62e05b584ba",
+          "byte_identical": true
+        }
+      ]
+    },
+    {
+      "path": "research/deep-studies/101-stable-matching",
+      "archived_at": "2026-10-07",
+      "series": "long-term-research",
+      "series_number": "101",
+      "category": "计算与系统",
+      "title": "同样的志愿表，为什么换一方发起申请可能改变结果",
+      "source_version": 1,
+      "status": "原创深化研究；示例、原始研究与方法边界见正文。",
+      "summary": "谁发起延迟接受为何改变每个人可得的稳定伙伴？",
+      "readableMarkdown": "research/deep-studies/101-stable-matching/readable.md",
+      "sources": "research/deep-studies/101-stable-matching/sources.md",
+      "assets": [
+        "research/deep-studies/101-stable-matching/metadata.json",
+        "research/deep-studies/101-stable-matching/assets/recompute_matching-result.json",
+        "research/deep-studies/101-stable-matching/assets/recompute_matching.py"
+      ],
+      "topic": "双边匹配与机制设计",
+      "originals": [
+        {
+          "path": "research/deep-studies/101-stable-matching/readable.md",
+          "original_name": "同样的志愿表，为什么换一方发起申请可能改变结果.md",
+          "bytes": 11157,
+          "sha256": "5fb9154a48cfd997871f3ff8848f49103ba383b1a829bd405f205464a94437d4",
+          "byte_identical": true
+        }
+      ]
+    },
+    {
+      "path": "research/deep-studies/104-transit-false-positives",
+      "archived_at": "2026-10-07",
+      "series": "long-term-research",
+      "series_number": "104",
+      "category": "社会与自然",
+      "title": "恒星暗了一下，怎样知道前面经过的是行星",
+      "source_version": 1,
+      "status": "原创深化研究；示例、原始研究与方法边界见正文。",
+      "summary": "周期性变暗怎样区别目标行星凌日与背景食双星？",
+      "readableMarkdown": "research/deep-studies/104-transit-false-positives/readable.md",
+      "sources": "research/deep-studies/104-transit-false-positives/sources.md",
+      "assets": [
+        "research/deep-studies/104-transit-false-positives/metadata.json",
+        "research/deep-studies/104-transit-false-positives/assets/recompute_transit-result.json",
+        "research/deep-studies/104-transit-false-positives/assets/recompute_transit.py",
+        "research/deep-studies/104-transit-false-positives/assets/transit-dilution-example.png",
+        "research/deep-studies/104-transit-false-positives/assets/transit-dilution-example.svg"
+      ],
+      "topic": "观测天文学",
+      "originals": [
+        {
+          "path": "research/deep-studies/104-transit-false-positives/readable.md",
+          "original_name": "恒星暗了一下，怎样知道前面经过的是行星.md",
+          "bytes": 10888,
+          "sha256": "2f4afc15fe90f84140bd4e920d17caeec9a8347697c51cd6ce4b2164bfc67fd9",
+          "byte_identical": true
+        }
+      ]
+    },
+    {
+      "path": "research/deep-studies/103-zircon-two-clocks",
+      "archived_at": "2026-10-07",
+      "series": "long-term-research",
+      "series_number": "103",
+      "category": "社会与自然",
+      "title": "一粒锆石报出两个年龄，地质学家怎样找出它经历过什么",
+      "source_version": 1,
+      "status": "原创深化研究；示例、原始研究与方法边界见正文。",
+      "summary": "同一锆石两只钟不一致时，怎样区分失铅、混合与地质事件？",
+      "readableMarkdown": "research/deep-studies/103-zircon-two-clocks/readable.md",
+      "sources": "research/deep-studies/103-zircon-two-clocks/sources.md",
+      "assets": [
+        "research/deep-studies/103-zircon-two-clocks/metadata.json",
+        "research/deep-studies/103-zircon-two-clocks/assets/recompute_concordia.py",
+        "research/deep-studies/103-zircon-two-clocks/assets/zircon-concordia.png",
+        "research/deep-studies/103-zircon-two-clocks/assets/zircon-concordia.svg",
+        "research/deep-studies/103-zircon-two-clocks/assets/zircon-recomputed.json"
+      ],
+      "topic": "同位素年代学",
+      "originals": [
+        {
+          "path": "research/deep-studies/103-zircon-two-clocks/readable.md",
+          "original_name": "一粒锆石报出两个年龄，地质学家怎样找出它经历过什么.md",
+          "bytes": 11337,
+          "sha256": "b99048cf78cb787e1cf5b103b4ae6f40a00b2f4469f2cb265fadd3af73879685",
+          "byte_identical": true
+        }
       ]
     }
   ]

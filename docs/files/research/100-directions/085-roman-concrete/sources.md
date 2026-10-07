@@ -1,14 +1,17 @@
-# 来源与范围
+# 来源与版本
 
 [阅读全文](readable.md)
 
-2026-10-07研究文库归档。本文为原创解释与分析，原始研究、观点与示例的适用范围见正文。
+第2版 · 2026-10-07（UTC）。深化修订：补充原始研究、论证条件、原创图解与可复核材料；沿用原文章编号，不计新增篇数。
 
-- [Seymour et al 2023 Hot mixing Mechanistic insights](https://doi.org/10.1126/sciadv.add1602)
-  - 类型：原始材料研究
-- [Vaserman et al 2025 An unfinished Pompeian construction site](https://doi.org/10.1038/s41467-025-66634-7)
-  - 类型：原始考古材料研究
-- [Vitruvius The Ten Books on Architecture Book II](https://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A1999.02.0073%3Abook%3D2)
-  - 类型：古代一手技术文本的现代译本
-- [Jackson et al 2017 Phillipsite and Al tobermorite mineral cements](https://doi.org/10.2138/am-2017-5993CCBY)
-  - 类型：原始矿物学研究
+- [Seymour et al. (2023), Hot mixing: Mechanistic insights into the durability of ancient Roman concrete](https://media.screeningeagle.com/asset/Downloads/sciadv.add1602.pdf) · 原论文全文PDF
+- [Vaserman et al. (2025), An unfinished Pompeian construction site reveals ancient Roman building technology](https://pmc.ncbi.nlm.nih.gov/articles/PMC12690119/) · 原论文
+- [Jackson et al. (2014), Mechanical resilience and cementitious processes in Imperial Roman architectural mortar](https://pmc.ncbi.nlm.nih.gov/articles/PMC4284584/) · 原论文
+- [Jackson et al. (2013), Unlocking the secrets of Al-tobermorite in Roman seawater concrete](https://open.metu.edu.tr/bitstream/handle/11511/39621/index.pdf) · 机构托管原论文
+- [Jackson et al. (2017), Phillipsite and Al-tobermorite mineral cements produced through low-temperature water-rock reactions in Roman marine concrete](https://msaweb.org/MSA/AmMin/TOC/2017/open_access/AM102P1435.pdf) · 原论文开放PDF
+- [Vitruvius, De Architectura Book II, chapters 5–6 (Gwilt English translation)](https://penelope.uchicago.edu/Thayer/E/Roman/Texts/Vitruvius/2*.html) · 古代一手文本之历史译本
+
+## 原创图解与复算材料
+
+- [085-experiment-timeline.png](assets/085-experiment-timeline.png)
+- [085-experiment-timeline.svg](assets/085-experiment-timeline.svg)

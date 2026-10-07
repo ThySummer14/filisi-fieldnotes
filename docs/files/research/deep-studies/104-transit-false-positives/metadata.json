@@ -1,0 +1,43 @@
+{
+  "id": "104",
+  "slug": "transit-false-positives",
+  "title": "恒星暗了一下，怎样知道前面经过的是行星",
+  "version": 1,
+  "topic": "观测天文学",
+  "question": "周期性变暗怎样区别目标行星凌日与背景食双星？",
+  "description": "周期性变暗怎样区别目标行星凌日与背景食双星？",
+  "language": "zh-CN",
+  "updated": "2026-10-07",
+  "sources": [
+    {
+      "title": "NASA, What’s a transit?",
+      "url": "https://science.nasa.gov/exoplanets/whats-a-transit/",
+      "type": "官方科普"
+    },
+    {
+      "title": "Mandel & Agol (2002), Analytic Light Curves for Planetary Transit Searches",
+      "url": "https://faculty.washington.edu/agol/MandelAgol2002.pdf",
+      "type": "作者原论文"
+    },
+    {
+      "title": "Seager & Mallén-Ornelas (2002 manuscript), On the Unique Solution of Planet and Star Parameters from an Extrasolar Planet Transit Light Curve",
+      "url": "https://arxiv.org/pdf/astro-ph/0206228",
+      "type": "原论文预印本"
+    },
+    {
+      "title": "Twicken et al. (2018), Kepler Data Validation I: Architecture, Diagnostic Tests, and Data Products",
+      "url": "https://arxiv.org/pdf/1803.04526",
+      "type": "原论文预印本"
+    },
+    {
+      "title": "Bryson et al. (2013), Identification of Background False Positives from Kepler Data",
+      "url": "https://arxiv.org/html/1303.0052",
+      "type": "原论文"
+    },
+    {
+      "title": "Charbonneau et al. (2000), Detection of Planetary Transits Across a Sun-like Star",
+      "url": "https://groups.csail.mit.edu/mac/users/wisdom/extrasolar/charbonneau1.pdf",
+      "type": "原论文"
+    }
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "id": "106",
+  "slug": "rosetta-decipherment",
+  "title": "罗塞塔石碑给了译文，为什么还要花二十多年才读懂",
+  "version": 1,
+  "topic": "文字破译与知识史",
+  "question": "双语对照如何成为可在新王名上检验的音值假设？",
+  "description": "双语对照如何成为可在新王名上检验的音值假设？",
+  "language": "zh-CN",
+  "updated": "2026-10-07",
+  "sources": [
+    {
+      "title": "British Museum, Egyptian hieroglyphs decipherment timeline / object EA24",
+      "url": "https://www.britishmuseum.org/collection/object/Y_EA24",
+      "type": "馆藏权威记录"
+    },
+    {
+      "title": "Thomas Young (1823), An account of some recent discoveries in hieroglyphical literature",
+      "url": "https://www.gutenberg.org/cache/epub/74347/pg74347-images.html",
+      "type": "历史一手著作电子转录"
+    },
+    {
+      "title": "Champollion (1822), Lettre à M. Dacier relative à l’alphabet des hiéroglyphes phonétiques",
+      "url": "https://fr.wikisource.org/wiki/Lettre_%C3%A0_M._Dacier_relative_%C3%A0_l%E2%80%99alphabet_des_hi%C3%A9roglyphes_phon%C3%A9tiques",
+      "type": "历史一手信函转录"
+    },
+    {
+      "title": "Friedhelm Hoffmann interview, LMU (2022), How the hieroglyph puzzle was solved",
+      "url": "https://www.lmu.de/en/about-lmu/structure/central-university-administration/media-relations-and-communications/press-room/press-release/how-the-hieroglyph-puzzle-was-solved-09b54754.html",
+      "type": "埃及学研究者机构访谈"
+    },
+    {
+      "title": "Metropolitan Museum, The Art of Ancient Egypt: A Resource for Educators",
+      "url": "https://www.metmuseum.org/-/media/files/learn/for-educators/publications-for-educators/the-art-of-ancient-egypt.pdf",
+      "type": "博物馆教学资料"
+    },
+    {
+      "title": "UCL Digital Egypt for Universities, Selection of determinatives",
+      "url": "https://www.ucl.ac.uk/museums-static/digitalegypt/writing/determinatives.html",
+      "type": "大学埃及学资料"
+    },
+    {
+      "title": "BnF (2022), Dans les pas de Champollion",
+      "url": "https://www.bnf.fr/fr/dans-les-pas-de-champollion",
+      "type": "馆藏负责人与策展人访谈"
+    },
+    {
+      "title": "BnF (2022), L’aventure Champollion, dossier de presse",
+      "url": "https://www.bnf.fr/sites/default/files/2022-02/dp_aventure_Champollion.pdf",
+      "type": "馆藏展览资料"
+    }
+  ]
+}

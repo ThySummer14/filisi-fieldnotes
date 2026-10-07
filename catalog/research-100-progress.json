@@ -359,7 +359,7 @@
     },
     {
       "number": "060",
-      "title": "A星不高估 为什么仍然可能走错路",
+      "title": "估计从不偏高，A星为什么仍会找到较贵的路",
       "topic": "搜索算法",
       "path": "research/100-directions/060-astar-heuristic-contract"
     },
@@ -509,7 +509,7 @@
     },
     {
       "number": "085",
-      "title": "罗马混凝土的自愈 不是把旧配方照搬回来",
+      "title": "罗马混凝土怎样“自愈”：先看水为什么流不过那条缝",
       "topic": "建筑材料",
       "path": "research/100-directions/085-roman-concrete"
     },

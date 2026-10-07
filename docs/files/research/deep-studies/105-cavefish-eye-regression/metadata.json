@@ -1,0 +1,53 @@
+{
+  "id": "105",
+  "slug": "cavefish-eye-regression",
+  "title": "盲眼洞穴鱼为什么先长出眼睛，再让它退去",
+  "version": 1,
+  "topic": "演化发育生物学",
+  "question": "眼如何在发育中退化，与造成这种机制的变异为何留下，能由同一实验回答吗？",
+  "description": "眼如何在发育中退化，与造成这种机制的变异为何留下，能由同一实验回答吗？",
+  "language": "zh-CN",
+  "updated": "2026-10-07",
+  "sources": [
+    {
+      "title": "Strickler, Yamamoto & Jeffery (2007), The lens controls cell survival in the retina",
+      "url": "https://science.umd.edu/labs/Jeffery/Publications/PDF/Strickler%20et%20al%20-%20Dev.Biol.2007.pdf",
+      "type": "作者托管原论文"
+    },
+    {
+      "title": "Yamamoto, Stock & Jeffery (2004), Hedgehog signalling controls eye degeneration in blind cavefish",
+      "url": "https://science.umd.edu/labs/jeffery/Publications/PDF/Yamamoto%20et%20al%20-%20Nature.2004.pdf",
+      "type": "作者托管原论文"
+    },
+    {
+      "title": "Yamamoto et al. (2009), Pleiotropic functions of embryonic sonic hedgehog expression",
+      "url": "https://sdevoto.web.wesleyan.edu/218/readings/yamamoto_jeffery2009.pdf",
+      "type": "机构托管原论文"
+    },
+    {
+      "title": "Protas et al. (2007), Regressive Evolution in the Mexican Cave Tetra",
+      "url": "https://facultyprofiles.dominican.edu/ws/portalfiles/portal/39842418/Regressive%20Evolution%20in%20the%20Mexican%20Cave%20Tetra%20Astyanax%20mexicanu.pdf",
+      "type": "机构托管作者接受稿"
+    },
+    {
+      "title": "Moran, Softley & Warrant (2015), The energetic cost of vision and the evolution of eyeless Mexican cavefish",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4643782/",
+      "type": "原论文全文"
+    },
+    {
+      "title": "Jeffery (2010), Pleiotropy and eye degeneration in cavefish",
+      "url": "https://www.nature.com/articles/hdy20107",
+      "type": "原始学术评论"
+    },
+    {
+      "title": "Wilkens (online 2010; issue 2011), Variability and loss of functionless traits in cave animals",
+      "url": "https://www.nature.com/articles/hdy2010105",
+      "type": "原始学术回复"
+    },
+    {
+      "title": "Ma et al. (2020), Dual roles of the retinal pigment epithelium and lens in cavefish eye degeneration",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7883299/",
+      "type": "原论文作者稿"
+    }
+  ]
+}

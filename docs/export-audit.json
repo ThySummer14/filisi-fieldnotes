@@ -115,7 +115,13 @@
     "research/100-directions/031-border-ownership",
     "research/100-directions/032-visual-softness",
     "research/100-directions/033-odor-naming",
-    "research/100-directions/034-visual-imagery-differences"
+    "research/100-directions/034-visual-imagery-differences",
+    "research/deep-studies/105-cavefish-eye-regression",
+    "research/deep-studies/102-qr-error-correction",
+    "research/deep-studies/106-rosetta-decipherment",
+    "research/deep-studies/101-stable-matching",
+    "research/deep-studies/104-transit-false-positives",
+    "research/deep-studies/103-zircon-two-clocks"
   ],
-  "item_count": 116
+  "item_count": 122
 }

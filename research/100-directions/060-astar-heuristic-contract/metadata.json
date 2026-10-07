@@ -1,29 +1,44 @@
 {
   "id": "060",
-  "title": "A星不高估 为什么仍然可能走错路",
-  "description": "可采纳启发式还需要匹配节点重开与终止规则，四个节点就能说明差别。",
-  "topic": "搜索算法",
-  "tags": [
-    "A星",
-    "启发式",
-    "最短路径"
-  ],
+  "slug": "astar-heuristic-contract",
+  "title": "估计从不偏高，A星为什么仍会找到较贵的路",
+  "version": 2,
+  "topic": "图搜索算法与证明",
+  "question": "为什么可采纳启发式不足以支持永久关闭节点，重开与一致性分别怎样保证最短路？",
+  "description": "为什么可采纳启发式不足以支持永久关闭节点，重开与一致性分别怎样保证最短路？",
+  "language": "zh-CN",
+  "updated": "2026-10-07",
   "sources": [
     {
-      "title": "Berkeley CS188 Fall2022 Note2搜索讲义",
-      "url": "https://inst.eecs.berkeley.edu/~cs188/fa22/assets/notes/cs188-fa22-note02.pdf"
+      "title": "Hart, Nilsson & Raphael (1968), A Formal Basis for the Heuristic Determination of Minimum Cost Paths",
+      "url": "https://www.cs.auckland.ac.nz/courses/compsci709s2c/resources/Mike.d/astarNilsson.pdf",
+      "type": "原论文"
     },
     {
-      "title": "NetworkX astar_path接口",
-      "url": "https://networkx.org/documentation/stable/reference/algorithms/generated/networkx.algorithms.shortest_paths.astar.astar_path.html"
+      "title": "Berkeley CS188 Fall 2022 Note 2",
+      "url": "https://inst.eecs.berkeley.edu/~cs188/fa22/assets/notes/cs188-fa22-note02.pdf",
+      "type": "大学教学讲义"
     },
     {
-      "title": "NetworkX A星原始实现",
-      "url": "https://networkx.org/documentation/stable/_modules/networkx/algorithms/shortest_paths/astar.html"
+      "title": "Poole & Mackworth, Artificial Intelligence: Foundations of Computational Agents, 3e, §3.7",
+      "url": "https://artint.info/3e/html/ArtInt3e.Ch3.S7.html",
+      "type": "作者在线教材"
     },
     {
-      "title": "Godot AStar2D成本接口",
-      "url": "https://docs.godotengine.org/en/stable/classes/class_astar2d.html"
+      "title": "Felner et al. (2011), Inconsistent heuristics in theory and practice",
+      "url": "https://tzin.bgu.ac.il/~felner/2011/sdarticle.pdf",
+      "type": "作者接受稿"
+    },
+    {
+      "title": "NetworkX 3.4.2 astar.py",
+      "url": "https://github.com/networkx/networkx/blob/networkx-3.4.2/networkx/algorithms/shortest_paths/astar.py",
+      "type": "官方固定版本源码"
+    },
+    {
+      "title": "Godot Engine 4.4 AStar2D",
+      "url": "https://docs.godotengine.org/en/4.4/classes/class_astar2d.html",
+      "type": "官方版本文档"
     }
-  ]
+  ],
+  "revision_note": "深化修订：补充原始研究、论证条件、原创图解与可复核材料；沿用原文章编号，不计新增篇数。"
 }

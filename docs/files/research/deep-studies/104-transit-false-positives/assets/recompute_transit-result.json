@@ -1,0 +1,12 @@
+{
+  "depth": 0.01,
+  "radius_ratio_uniform_full_overlap": 0.1,
+  "central_transit_total_h": 3,
+  "central_flat_h": 2.4545454545454546,
+  "each_ingress_min": 16.363636363636363,
+  "diluted_depth": 0.01,
+  "centroid_before_px": 0.08,
+  "centroid_after_px": 0.04040404040404041,
+  "shift_px": -0.039595959595959594,
+  "fainter_background_depth": 0.0010183299389002038
+}

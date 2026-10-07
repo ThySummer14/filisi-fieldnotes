@@ -1,0 +1,38 @@
+{
+  "minimum_distance": 4,
+  "single_error_cases_passed": 1470,
+  "three_erasure_cases_passed": 490,
+  "one_error_one_erasure_cases_passed": 5880,
+  "original": [
+    2,
+    5,
+    1,
+    4,
+    0
+  ],
+  "competing": [
+    2,
+    6,
+    3,
+    0,
+    4
+  ],
+  "ambiguous_received": [
+    2,
+    6,
+    3,
+    4,
+    0
+  ],
+  "nearest_distance": 2,
+  "nearest_messages": [
+    [
+      2,
+      3
+    ],
+    [
+      2,
+      4
+    ]
+  ]
+}

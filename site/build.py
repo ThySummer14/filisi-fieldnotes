@@ -8,6 +8,7 @@ ROOT=Path(__file__).resolve().parent.parent
 SITE=ROOT/'site'
 CATEGORIES={'reading':'阅读与社会','game-design':'游戏设计','research':'跨题研究','motion':'影像与动态','portfolio':'作品档案','game-art':'像素与场景','fiction':'小说创作','design':'平面设计'}
 def category(item):
+    if item.get("category"):return item["category"]
     if item.get('series') == 'research-100-20261007':
         n=int(item['series_number'])
         return '感知与设计' if n<=34 else '计算与系统' if n<=67 else '社会与自然'

@@ -1,0 +1,252 @@
+{
+  "inconsistent_reopen_False": {
+    "cost": 4,
+    "path": [
+      "S",
+      "A",
+      "G"
+    ],
+    "trace": [
+      {
+        "node": "S",
+        "g": 0,
+        "h": 3.5,
+        "f": 3.5,
+        "path": [
+          "S"
+        ]
+      },
+      {
+        "node": "A",
+        "g": 2,
+        "h": 0,
+        "f": 2,
+        "path": [
+          "S",
+          "A"
+        ]
+      },
+      {
+        "node": "B",
+        "g": 1,
+        "h": 2.5,
+        "f": 3.5,
+        "path": [
+          "S",
+          "B"
+        ]
+      },
+      {
+        "node": "G",
+        "g": 4,
+        "h": 0,
+        "f": 4,
+        "path": [
+          "S",
+          "A",
+          "G"
+        ]
+      }
+    ]
+  },
+  "inconsistent_reopen_True": {
+    "cost": 3.5,
+    "path": [
+      "S",
+      "B",
+      "A",
+      "G"
+    ],
+    "trace": [
+      {
+        "node": "S",
+        "g": 0,
+        "h": 3.5,
+        "f": 3.5,
+        "path": [
+          "S"
+        ]
+      },
+      {
+        "node": "A",
+        "g": 2,
+        "h": 0,
+        "f": 2,
+        "path": [
+          "S",
+          "A"
+        ]
+      },
+      {
+        "node": "B",
+        "g": 1,
+        "h": 2.5,
+        "f": 3.5,
+        "path": [
+          "S",
+          "B"
+        ]
+      },
+      {
+        "node": "A",
+        "g": 1.5,
+        "h": 0,
+        "f": 1.5,
+        "path": [
+          "S",
+          "B",
+          "A"
+        ]
+      },
+      {
+        "node": "G",
+        "g": 3.5,
+        "h": 0,
+        "f": 3.5,
+        "path": [
+          "S",
+          "B",
+          "A",
+          "G"
+        ]
+      }
+    ]
+  },
+  "zero_reopen_False": {
+    "cost": 3.5,
+    "path": [
+      "S",
+      "B",
+      "A",
+      "G"
+    ],
+    "trace": [
+      {
+        "node": "S",
+        "g": 0,
+        "h": 0,
+        "f": 0,
+        "path": [
+          "S"
+        ]
+      },
+      {
+        "node": "B",
+        "g": 1,
+        "h": 0,
+        "f": 1,
+        "path": [
+          "S",
+          "B"
+        ]
+      },
+      {
+        "node": "A",
+        "g": 1.5,
+        "h": 0,
+        "f": 1.5,
+        "path": [
+          "S",
+          "B",
+          "A"
+        ]
+      },
+      {
+        "node": "G",
+        "g": 3.5,
+        "h": 0,
+        "f": 3.5,
+        "path": [
+          "S",
+          "B",
+          "A",
+          "G"
+        ]
+      }
+    ]
+  },
+  "consistent_reopen_False": {
+    "cost": 3.5,
+    "path": [
+      "S",
+      "B",
+      "A",
+      "G"
+    ],
+    "trace": [
+      {
+        "node": "S",
+        "g": 0,
+        "h": 1.5,
+        "f": 1.5,
+        "path": [
+          "S"
+        ]
+      },
+      {
+        "node": "B",
+        "g": 1,
+        "h": 0.5,
+        "f": 1.5,
+        "path": [
+          "S",
+          "B"
+        ]
+      },
+      {
+        "node": "A",
+        "g": 1.5,
+        "h": 0,
+        "f": 1.5,
+        "path": [
+          "S",
+          "B",
+          "A"
+        ]
+      },
+      {
+        "node": "G",
+        "g": 3.5,
+        "h": 0,
+        "f": 3.5,
+        "path": [
+          "S",
+          "B",
+          "A",
+          "G"
+        ]
+      }
+    ]
+  },
+  "all_simple_paths": [
+    {
+      "cost": 4,
+      "path": [
+        "S",
+        "A",
+        "G"
+      ]
+    },
+    {
+      "cost": 3.5,
+      "path": [
+        "S",
+        "B",
+        "A",
+        "G"
+      ]
+    },
+    {
+      "cost": 101,
+      "path": [
+        "S",
+        "B",
+        "G"
+      ]
+    }
+  ],
+  "runtime": {
+    "python": "3.12.14",
+    "purpose": "deterministic didactic correctness checks; not a benchmark"
+  }
+}

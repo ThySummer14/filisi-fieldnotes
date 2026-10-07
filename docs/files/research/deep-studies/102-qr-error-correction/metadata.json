@@ -1,0 +1,43 @@
+{
+  "id": "102",
+  "slug": "qr-error-correction",
+  "title": "二维码缺了一块，丢掉的数字从哪里回来",
+  "version": 1,
+  "topic": "纠错编码与信息",
+  "question": "已知位置的缺失与未知位置的错误为什么消耗不同冗余？",
+  "description": "已知位置的缺失与未知位置的错误为什么消耗不同冗余？",
+  "language": "zh-CN",
+  "updated": "2026-10-07",
+  "sources": [
+    {
+      "title": "DENSO WAVE, QR Code omnidirectional reading",
+      "url": "https://www.qrcode.com/en/about/featurePage/featurePage5.html",
+      "type": "发明方官方说明"
+    },
+    {
+      "title": "DENSO WAVE, Error Correction Feature",
+      "url": "https://www.qrcode.com/en/about/error_correction.html",
+      "type": "发明方官方说明"
+    },
+    {
+      "title": "Reed & Solomon (1960), Polynomial Codes Over Certain Finite Fields",
+      "url": "https://sites.math.rutgers.edu/~zeilberg/akherim/ReedS1960.pdf",
+      "type": "原论文"
+    },
+    {
+      "title": "RFC 5510, Reed-Solomon Forward Error Correction",
+      "url": "https://www.rfc-editor.org/rfc/rfc5510.html",
+      "type": "原始技术规范"
+    },
+    {
+      "title": "ZXing 3.5.3, QR Decoder.java",
+      "url": "https://github.com/zxing/zxing/blob/zxing-3.5.3/core/src/main/java/com/google/zxing/qrcode/decoder/Decoder.java",
+      "type": "官方固定版本源码"
+    },
+    {
+      "title": "Nayuki QR-Code-generator 1.8.0, qrcodegen.py",
+      "url": "https://github.com/nayuki/QR-Code-generator/blob/v1.8.0/python/qrcodegen.py",
+      "type": "作者固定版本源码"
+    }
+  ]
+}

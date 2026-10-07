@@ -1,40 +1,44 @@
 {
   "id": "085",
   "slug": "roman-concrete",
-  "topic": "建筑材料",
-  "tags": [
-    "罗马混凝土",
-    "热拌",
-    "裂缝"
-  ],
-  "title": "罗马混凝土的自愈 不是把旧配方照搬回来",
-  "description": "石灰颗粒、火山物质与长期反应解释了一部分耐久性，考古材料和现代工程仍需要分别验证。",
-  "date": "2026-10-07",
+  "title": "罗马混凝土怎样“自愈”：先看水为什么流不过那条缝",
+  "version": 2,
+  "topic": "建筑材料实验与考古证据",
+  "question": "石灰团块怎样参与裂缝封闭，2023年实验直接测到了什么，与强度恢复和古代普遍工艺相差哪一步？",
+  "description": "石灰团块怎样参与裂缝封闭，2023年实验直接测到了什么，与强度恢复和古代普遍工艺相差哪一步？",
   "language": "zh-CN",
+  "updated": "2026-10-07",
   "sources": [
     {
-      "title": "Seymour et al 2023 Hot mixing Mechanistic insights",
-      "url": "https://doi.org/10.1126/sciadv.add1602",
-      "source_type": "原始材料研究",
-      "accessed": "2026-10-07"
+      "title": "Seymour et al. (2023), Hot mixing: Mechanistic insights into the durability of ancient Roman concrete",
+      "url": "https://media.screeningeagle.com/asset/Downloads/sciadv.add1602.pdf",
+      "type": "原论文全文PDF"
     },
     {
-      "title": "Vaserman et al 2025 An unfinished Pompeian construction site",
-      "url": "https://doi.org/10.1038/s41467-025-66634-7",
-      "source_type": "原始考古材料研究",
-      "accessed": "2026-10-07"
+      "title": "Vaserman et al. (2025), An unfinished Pompeian construction site reveals ancient Roman building technology",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12690119/",
+      "type": "原论文"
     },
     {
-      "title": "Vitruvius The Ten Books on Architecture Book II",
-      "url": "https://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A1999.02.0073%3Abook%3D2",
-      "source_type": "古代一手技术文本的现代译本",
-      "accessed": "2026-10-07"
+      "title": "Jackson et al. (2014), Mechanical resilience and cementitious processes in Imperial Roman architectural mortar",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4284584/",
+      "type": "原论文"
     },
     {
-      "title": "Jackson et al 2017 Phillipsite and Al tobermorite mineral cements",
-      "url": "https://doi.org/10.2138/am-2017-5993CCBY",
-      "source_type": "原始矿物学研究",
-      "accessed": "2026-10-07"
+      "title": "Jackson et al. (2013), Unlocking the secrets of Al-tobermorite in Roman seawater concrete",
+      "url": "https://open.metu.edu.tr/bitstream/handle/11511/39621/index.pdf",
+      "type": "机构托管原论文"
+    },
+    {
+      "title": "Jackson et al. (2017), Phillipsite and Al-tobermorite mineral cements produced through low-temperature water-rock reactions in Roman marine concrete",
+      "url": "https://msaweb.org/MSA/AmMin/TOC/2017/open_access/AM102P1435.pdf",
+      "type": "原论文开放PDF"
+    },
+    {
+      "title": "Vitruvius, De Architectura Book II, chapters 5–6 (Gwilt English translation)",
+      "url": "https://penelope.uchicago.edu/Thayer/E/Roman/Texts/Vitruvius/2*.html",
+      "type": "古代一手文本之历史译本"
     }
-  ]
+  ],
+  "revision_note": "深化修订：补充原始研究、论证条件、原创图解与可复核材料；沿用原文章编号，不计新增篇数。"
 }

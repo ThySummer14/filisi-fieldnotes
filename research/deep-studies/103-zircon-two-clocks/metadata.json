@@ -1,0 +1,43 @@
+{
+  "id": "103",
+  "slug": "zircon-two-clocks",
+  "title": "一粒锆石报出两个年龄，地质学家怎样找出它经历过什么",
+  "version": 1,
+  "topic": "同位素年代学",
+  "question": "同一锆石两只钟不一致时，怎样区分失铅、混合与地质事件？",
+  "description": "同一锆石两只钟不一致时，怎样区分失铅、混合与地质事件？",
+  "language": "zh-CN",
+  "updated": "2026-10-07",
+  "sources": [
+    {
+      "title": "Vermeesch, Isotope Geology, Chapter 5: The U-Pb system",
+      "url": "https://www.homepages.ucl.ac.uk/~ucfbpve/geotopes/indexch5.html",
+      "type": "作者大学教材"
+    },
+    {
+      "title": "Schoene (2014), U-Th-Pb Geochronology",
+      "url": "https://timslab.princeton.edu/sites/g/files/toruqf2276/files/schoene-treatisegeochemistry-2014.pdf",
+      "type": "作者权威综述"
+    },
+    {
+      "title": "McKanna et al. (2023), Chemical abrasion: the mechanics of zircon dissolution",
+      "url": "https://gchron.copernicus.org/articles/5/127/2023/",
+      "type": "原论文"
+    },
+    {
+      "title": "McKanna et al. (2024), Geochronological and geochemical effects of zircon chemical abrasion",
+      "url": "https://gchron.copernicus.org/articles/6/1/2024/",
+      "type": "原论文"
+    },
+    {
+      "title": "Vermeesch (2021), On the treatment of discordant detrital zircon U–Pb data",
+      "url": "https://gchron.copernicus.org/articles/3/247/2021/",
+      "type": "原论文"
+    },
+    {
+      "title": "Condon et al. (2015), Metrology and traceability of U–Pb isotope dilution geochronology",
+      "url": "https://timslab.princeton.edu/sites/g/files/toruqf2276/files/condon-2015-geoetcosacta.pdf",
+      "type": "原论文"
+    }
+  ]
+}

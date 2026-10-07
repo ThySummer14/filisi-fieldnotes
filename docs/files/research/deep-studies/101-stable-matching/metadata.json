@@ -1,0 +1,43 @@
+{
+  "id": "101",
+  "slug": "stable-matching",
+  "title": "同样的志愿表，为什么换一方发起申请可能改变结果",
+  "version": 1,
+  "topic": "双边匹配与机制设计",
+  "question": "谁发起延迟接受为何改变每个人可得的稳定伙伴？",
+  "description": "谁发起延迟接受为何改变每个人可得的稳定伙伴？",
+  "language": "zh-CN",
+  "updated": "2026-10-07",
+  "sources": [
+    {
+      "title": "Gale & Shapley (1962), College Admissions and the Stability of Marriage",
+      "url": "https://iqua.ece.toronto.edu/baochun/ece1771f/papers/Gale-Shapley-1962.pdf",
+      "type": "原论文"
+    },
+    {
+      "title": "Paul Beame, CSE421 Stable Matching, Winter 2021",
+      "url": "https://courses.cs.washington.edu/courses/cse421/21wi/StableMatching.pdf",
+      "type": "大学算法讲义"
+    },
+    {
+      "title": "Roth (1982), The Economics of Matching: Stability and Incentives",
+      "url": "https://web.stanford.edu/~alroth/papers/1982_MOR_EconomicsOfMatching.pdf",
+      "type": "作者托管原论文"
+    },
+    {
+      "title": "NRMP, How the Matching Algorithm Works",
+      "url": "https://www.nrmp.org/intro-to-the-match/how-matching-algorithm-works/",
+      "type": "机制运营方官方说明"
+    },
+    {
+      "title": "NRMP, Couples in the Match",
+      "url": "https://www.nrmp.org/residency-applicants/get-ready-for-the-match/couples-in-the-match/",
+      "type": "机制运营方官方说明"
+    },
+    {
+      "title": "Roth, Design of applicant proposing matching algorithm",
+      "url": "https://stanford.edu/~alroth/phase1.html",
+      "type": "设计者研究报告"
+    }
+  ]
+}

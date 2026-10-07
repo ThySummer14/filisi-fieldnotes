@@ -1,0 +1,38 @@
+{
+  "target": 10000,
+  "completed_new_count": 6,
+  "prior_library_excluded": 116,
+  "existing_revisions_this_round": 2,
+  "completed": [
+    {
+      "number": "101",
+      "title": "同样的志愿表，为什么换一方发起申请可能改变结果",
+      "path": "research/deep-studies/101-stable-matching"
+    },
+    {
+      "number": "102",
+      "title": "二维码缺了一块，丢掉的数字从哪里回来",
+      "path": "research/deep-studies/102-qr-error-correction"
+    },
+    {
+      "number": "103",
+      "title": "一粒锆石报出两个年龄，地质学家怎样找出它经历过什么",
+      "path": "research/deep-studies/103-zircon-two-clocks"
+    },
+    {
+      "number": "104",
+      "title": "恒星暗了一下，怎样知道前面经过的是行星",
+      "path": "research/deep-studies/104-transit-false-positives"
+    },
+    {
+      "number": "105",
+      "title": "盲眼洞穴鱼为什么先长出眼睛，再让它退去",
+      "path": "research/deep-studies/105-cavefish-eye-regression"
+    },
+    {
+      "number": "106",
+      "title": "罗塞塔石碑给了译文，为什么还要花二十多年才读懂",
+      "path": "research/deep-studies/106-rosetta-decipherment"
+    }
+  ]
+}
