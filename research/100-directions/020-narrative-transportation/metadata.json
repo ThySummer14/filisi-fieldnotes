@@ -1,0 +1,43 @@
+{
+  "id": "020",
+  "title": "被故事带走之后，哪些看法跟着变了",
+  "description": "故事能影响信念，但效应量不是说服人数，沉浸也不等于停止思考。",
+  "topic": "叙事心理学",
+  "tags": [
+    "叙事运输",
+    "说服",
+    "沉浸",
+    "元分析"
+  ],
+  "language": "zh-CN",
+  "sources": [
+    {
+      "id": 1,
+      "title": "The role of transportation in the persuasiveness of public narratives",
+      "url": "https://weatherhypepodcast.com/uploads/1/0/8/8/10887248/the_role_of_transportation_in_the_persuasiveness_of_public_narratives.pdf",
+      "type": "primary_research",
+      "accessed": "2026-10-07"
+    },
+    {
+      "id": 2,
+      "title": "Meta-analytic evidence for the persuasive effect of narratives on beliefs, attitudes, intentions, and behaviors",
+      "url": "https://www.researchgate.net/publication/309362260_Meta-analytic_evidence_for_the_persuasive_effect_of_narratives_on_beliefs_attitudes_intentions_and_behaviors",
+      "type": "meta_analysis",
+      "accessed": "2026-10-07"
+    },
+    {
+      "id": 3,
+      "title": "The extended transportation-imagery model: A meta-analysis of the antecedents and consequences of consumers’ narrative transportation",
+      "url": "https://www.researchgate.net/publication/255699116_The_Extended_Transportation-Imagery_Model_A_Meta-Analysis_of_the_Antecedents_and_Consequences_of_Consumers%27_Narrative_Transportation",
+      "type": "meta_analysis",
+      "accessed": "2026-10-07"
+    },
+    {
+      "id": 4,
+      "title": "Persuasive effects of fictional narratives increase over time",
+      "url": "https://terpconnect.umd.edu/~nan/475readings/14%20Appel%20Richter%202007%20fictional%20narratives.pdf",
+      "type": "primary_research",
+      "accessed": "2026-10-07"
+    }
+  ]
+}

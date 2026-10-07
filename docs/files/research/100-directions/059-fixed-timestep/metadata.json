@@ -1,0 +1,29 @@
+{
+  "id": "059",
+  "title": "帧率翻倍 角色不该多跳半米",
+  "description": "固定模拟步长把玩法时间与画面更新拆开，但它仍有积分误差、追赶成本与插值延迟。",
+  "topic": "游戏物理",
+  "tags": [
+    "固定步长",
+    "数值积分",
+    "插值"
+  ],
+  "sources": [
+    {
+      "title": "Gaffer Fix Your Timestep",
+      "url": "https://gafferongames.com/post/fix_your_timestep/"
+    },
+    {
+      "title": "Unity FixedUpdate",
+      "url": "https://docs.unity3d.com/6000.0/Documentation/ScriptReference/MonoBehaviour.FixedUpdate.html"
+    },
+    {
+      "title": "Box2D模拟步与子步",
+      "url": "https://box2d.org/documentation/md_simulation.html"
+    },
+    {
+      "title": "Godot物理插值说明",
+      "url": "https://docs.godotengine.org/en/stable/tutorials/physics/interpolation/physics_interpolation_introduction.html"
+    }
+  ]
+}

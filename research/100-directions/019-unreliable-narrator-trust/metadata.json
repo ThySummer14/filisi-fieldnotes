@@ -1,0 +1,43 @@
+{
+  "id": "019",
+  "title": "不可靠的叙述者，也可能把事情说对",
+  "description": "叙述准确、解释失误和价值偏差可以分离；信任与同情也不是同一个读者反应。",
+  "topic": "叙事学",
+  "tags": [
+    "不可靠叙述",
+    "读者信任",
+    "叙述视角",
+    "文学实验"
+  ],
+  "language": "zh-CN",
+  "sources": [
+    {
+      "id": 1,
+      "title": "Unreliability",
+      "url": "https://www-archiv.fdm.uni-hamburg.de/lhn/node/66.html",
+      "type": "authoritative_handbook",
+      "accessed": "2026-10-07"
+    },
+    {
+      "id": 2,
+      "title": "Reconsidering Unreliability: Fallible and Untrustworthy Narrators",
+      "url": "https://www.researchgate.net/publication/236749843_Reconsidering_Unreliability_Fallible_and_Untrustworthy_Narrators",
+      "type": "primary_theoretical_research",
+      "accessed": "2026-10-07"
+    },
+    {
+      "id": 3,
+      "title": "Difficult Empathy: The Effect of Narrative Perspective on Readers’ Engagement with a First-Person Narrator",
+      "url": "https://d-nb.info/1103239996/34",
+      "type": "primary_research",
+      "accessed": "2026-10-07"
+    },
+    {
+      "id": 4,
+      "title": "Trust in Stories: A Reader Response Study of (Un)Reliability in Akutagawa’s “In a Grove”",
+      "url": "https://www.mdpi.com/2410-9789/5/4/24",
+      "type": "exploratory_primary_research",
+      "accessed": "2026-10-07"
+    }
+  ]
+}

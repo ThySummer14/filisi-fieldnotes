@@ -1,0 +1,29 @@
+{
+  "id": "061",
+  "title": "地上有一条缝 角色却没有一条路",
+  "description": "导航网格描述的是特定尺寸角色中心的可行区域，烘焙半径、离散分辨率与移动能力都参与答案。",
+  "topic": "游戏导航",
+  "tags": [
+    "导航网格",
+    "配置空间",
+    "几何建模"
+  ],
+  "sources": [
+    {
+      "title": "LaValle 配置空间与平移障碍",
+      "url": "https://lavalle.pl/planning/node161.html"
+    },
+    {
+      "title": "Godot NavigationPolygon半径",
+      "url": "https://docs.godotengine.org/en/stable/classes/class_navigationpolygon.html"
+    },
+    {
+      "title": "Recast烘焙接口",
+      "url": "https://recastnav.com/group__recast.html"
+    },
+    {
+      "title": "Unity NavMeshSurface",
+      "url": "https://docs.unity3d.com/Packages/com.unity.ai.navigation@2.0/manual/NavMeshSurface.html"
+    }
+  ]
+}

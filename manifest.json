@@ -1,12 +1,12 @@
 {
   "archive_date": "2026-10-07",
-  "item_count": 82,
-  "original_file_count": 90,
+  "item_count": 88,
+  "original_file_count": 96,
   "original_docx_count": 14,
   "original_pdf_count": 6,
-  "original_markdown_count": 70,
+  "original_markdown_count": 76,
   "image_count": 33,
-  "readable_markdown_count": 82,
+  "readable_markdown_count": 88,
   "items": [
     {
       "path": "reading/sociological-imagination",
@@ -3129,6 +3129,189 @@
         "墓园",
         "生境",
         "管理"
+      ]
+    },
+    {
+      "path": "research/100-directions/019-unreliable-narrator-trust",
+      "title": "不可靠的叙述者，也可能把事情说对",
+      "archived_at": "2026-10-07",
+      "source_version": 1,
+      "status": "原创专题研究；例子、原始研究与方法边界见正文",
+      "summary": "叙述准确、解释失误和价值偏差可以分离；信任与同情也不是同一个读者反应。",
+      "readableMarkdown": "research/100-directions/019-unreliable-narrator-trust/readable.md",
+      "sources": "research/100-directions/019-unreliable-narrator-trust/sources.md",
+      "assets": [
+        "research/100-directions/019-unreliable-narrator-trust/metadata.json"
+      ],
+      "originals": [
+        {
+          "path": "research/100-directions/019-unreliable-narrator-trust/readable.md",
+          "original_name": "不可靠的叙述者，也可能把事情说对.md",
+          "bytes": 6550,
+          "sha256": "c1c081dddfbbea427199b1b7d9942c55d465b004e96a78c7300945f49b32ec68",
+          "byte_identical": true
+        }
+      ],
+      "series": "research-100-20261007",
+      "series_number": "019",
+      "topic": "叙事学",
+      "tags": [
+        "不可靠叙述",
+        "读者信任",
+        "叙述视角",
+        "文学实验"
+      ]
+    },
+    {
+      "path": "research/100-directions/020-narrative-transportation",
+      "title": "被故事带走之后，哪些看法跟着变了",
+      "archived_at": "2026-10-07",
+      "source_version": 1,
+      "status": "原创专题研究；例子、原始研究与方法边界见正文",
+      "summary": "故事能影响信念，但效应量不是说服人数，沉浸也不等于停止思考。",
+      "readableMarkdown": "research/100-directions/020-narrative-transportation/readable.md",
+      "sources": "research/100-directions/020-narrative-transportation/sources.md",
+      "assets": [
+        "research/100-directions/020-narrative-transportation/metadata.json"
+      ],
+      "originals": [
+        {
+          "path": "research/100-directions/020-narrative-transportation/readable.md",
+          "original_name": "被故事带走之后，哪些看法跟着变了.md",
+          "bytes": 6946,
+          "sha256": "ad4a9f37d5e8f094eee8f203ce7bdc2d31587e7a5d8fa924cf55c9f94d615b0a",
+          "byte_identical": true
+        }
+      ],
+      "series": "research-100-20261007",
+      "series_number": "020",
+      "topic": "叙事心理学",
+      "tags": [
+        "叙事运输",
+        "说服",
+        "沉浸",
+        "元分析"
+      ]
+    },
+    {
+      "path": "research/100-directions/021-spoilers-enjoyment",
+      "title": "剧透让故事更好看？研究没有给出通行证",
+      "archived_at": "2026-10-07",
+      "source_version": 1,
+      "status": "原创专题研究；例子、原始研究与方法边界见正文",
+      "summary": "从2011正向结果到2025空结果，剧透研究的分歧与读者选择权。",
+      "readableMarkdown": "research/100-directions/021-spoilers-enjoyment/readable.md",
+      "sources": "research/100-directions/021-spoilers-enjoyment/sources.md",
+      "assets": [
+        "research/100-directions/021-spoilers-enjoyment/metadata.json"
+      ],
+      "originals": [
+        {
+          "path": "research/100-directions/021-spoilers-enjoyment/readable.md",
+          "original_name": "剧透让故事更好看？研究没有给出通行证.md",
+          "bytes": 6801,
+          "sha256": "a25dc72740b351d1c67b01c66143945ae4d5b64d4434a7fb4d6d6ec960e8a87f",
+          "byte_identical": true
+        }
+      ],
+      "series": "research-100-20261007",
+      "series_number": "021",
+      "topic": "叙事体验",
+      "tags": [
+        "剧透",
+        "阅读享受",
+        "流畅性",
+        "重复验证"
+      ]
+    },
+    {
+      "path": "research/100-directions/059-fixed-timestep",
+      "title": "帧率翻倍 角色不该多跳半米",
+      "archived_at": "2026-10-07",
+      "source_version": 1,
+      "status": "原创专题研究；例子、原始研究与方法边界见正文",
+      "summary": "固定模拟步长把玩法时间与画面更新拆开，但它仍有积分误差、追赶成本与插值延迟。",
+      "readableMarkdown": "research/100-directions/059-fixed-timestep/readable.md",
+      "sources": "research/100-directions/059-fixed-timestep/sources.md",
+      "assets": [
+        "research/100-directions/059-fixed-timestep/metadata.json"
+      ],
+      "originals": [
+        {
+          "path": "research/100-directions/059-fixed-timestep/readable.md",
+          "original_name": "帧率翻倍 角色不该多跳半米.md",
+          "bytes": 6180,
+          "sha256": "cd96e0bdb866b6cd664a87ab015884495441a65e6c4878f7b5a8b7a491bc8827",
+          "byte_identical": true
+        }
+      ],
+      "series": "research-100-20261007",
+      "series_number": "059",
+      "topic": "游戏物理",
+      "tags": [
+        "固定步长",
+        "数值积分",
+        "插值"
+      ]
+    },
+    {
+      "path": "research/100-directions/060-astar-heuristic-contract",
+      "title": "A星不高估 为什么仍然可能走错路",
+      "archived_at": "2026-10-07",
+      "source_version": 1,
+      "status": "原创专题研究；例子、原始研究与方法边界见正文",
+      "summary": "可采纳启发式还需要匹配节点重开与终止规则，四个节点就能说明差别。",
+      "readableMarkdown": "research/100-directions/060-astar-heuristic-contract/readable.md",
+      "sources": "research/100-directions/060-astar-heuristic-contract/sources.md",
+      "assets": [
+        "research/100-directions/060-astar-heuristic-contract/metadata.json"
+      ],
+      "originals": [
+        {
+          "path": "research/100-directions/060-astar-heuristic-contract/readable.md",
+          "original_name": "A星不高估 为什么仍然可能走错路.md",
+          "bytes": 6496,
+          "sha256": "15e036b59dab5e89d60f121b77238f8fc44d355ff7ecd99bcd7d22999643200d",
+          "byte_identical": true
+        }
+      ],
+      "series": "research-100-20261007",
+      "series_number": "060",
+      "topic": "搜索算法",
+      "tags": [
+        "A星",
+        "启发式",
+        "最短路径"
+      ]
+    },
+    {
+      "path": "research/100-directions/061-navmesh-agent-radius",
+      "title": "地上有一条缝 角色却没有一条路",
+      "archived_at": "2026-10-07",
+      "source_version": 1,
+      "status": "原创专题研究；例子、原始研究与方法边界见正文",
+      "summary": "导航网格描述的是特定尺寸角色中心的可行区域，烘焙半径、离散分辨率与移动能力都参与答案。",
+      "readableMarkdown": "research/100-directions/061-navmesh-agent-radius/readable.md",
+      "sources": "research/100-directions/061-navmesh-agent-radius/sources.md",
+      "assets": [
+        "research/100-directions/061-navmesh-agent-radius/metadata.json"
+      ],
+      "originals": [
+        {
+          "path": "research/100-directions/061-navmesh-agent-radius/readable.md",
+          "original_name": "地上有一条缝 角色却没有一条路.md",
+          "bytes": 5870,
+          "sha256": "ea18484d915924d609df656470bec6542b74d6c966dce1b04c43c0c56886861b",
+          "byte_identical": true
+        }
+      ],
+      "series": "research-100-20261007",
+      "series_number": "061",
+      "topic": "游戏导航",
+      "tags": [
+        "导航网格",
+        "配置空间",
+        "几何建模"
       ]
     }
   ]

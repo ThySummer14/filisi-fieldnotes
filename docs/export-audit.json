@@ -81,7 +81,13 @@
     "research/100-directions/058-deterministic-replay",
     "research/100-directions/089-activated-sludge",
     "research/100-directions/090-parking-space",
-    "research/100-directions/091-cemetery-ecology"
+    "research/100-directions/091-cemetery-ecology",
+    "research/100-directions/019-unreliable-narrator-trust",
+    "research/100-directions/020-narrative-transportation",
+    "research/100-directions/021-spoilers-enjoyment",
+    "research/100-directions/059-fixed-timestep",
+    "research/100-directions/060-astar-heuristic-contract",
+    "research/100-directions/061-navmesh-agent-radius"
   ],
-  "item_count": 82
+  "item_count": 88
 }

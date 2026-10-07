@@ -1,6 +1,6 @@
 # 100个研究方向
 
-已收录 66 / 100 篇新研究。原有16篇专题研究与书稿不计入这个目标。编号是方向索引，不表示中间编号已经完成。
+已收录 72 / 100 篇新研究。原有16篇专题研究与书稿不计入这个目标。编号是方向索引，不表示中间编号已经完成。
 
 - 001 [同一条裙子，两套照明](../research/100-directions/001-dress-color-constancy/readable.md) · 视觉与色彩
 - 002 [余光中的字，为什么越挤越认不出](../research/100-directions/002-peripheral-crowding/readable.md) · 视觉与版式
@@ -20,6 +20,9 @@
 - 016 [镜头已经换了，人却还在接电话](../research/100-directions/016-edit-blindness/readable.md) · 电影认知
 - 017 [明知他会获救，还是想让他快一点](../research/100-directions/017-known-ending-suspense/readable.md) · 叙事情绪
 - 018 [一件事结束时，记忆开始换一种组织](../research/100-directions/018-event-boundaries-memory/readable.md) · 事件知觉与记忆
+- 019 [不可靠的叙述者，也可能把事情说对](../research/100-directions/019-unreliable-narrator-trust/readable.md) · 叙事学
+- 020 [被故事带走之后，哪些看法跟着变了](../research/100-directions/020-narrative-transportation/readable.md) · 叙事心理学
+- 021 [剧透让故事更好看？研究没有给出通行证](../research/100-directions/021-spoilers-enjoyment/readable.md) · 叙事体验
 - 035 [0.1加0.2之后 系统究竟答应了什么](../research/100-directions/035-floating-point-contract/readable.md) · 数值计算
 - 036 [删除键眼里的一个字](../research/100-directions/036-unicode-cursor/readable.md) · 文本系统
 - 037 [明天中午和二十四小时后是两个任务](../research/100-directions/037-time-is-not-duration/readable.md) · 时间建模
@@ -44,6 +47,9 @@
 - 056 [播放按钮的背后 不止播放和暂停](../research/100-directions/056-statechart-hidden-states/readable.md) · 交互架构
 - 057 [第七帧已经画出来 第五帧的按键才到](../research/100-directions/057-rollback-netcode/readable.md) · 游戏网络
 - 058 [同一个种子 为什么还是回放出另一局](../research/100-directions/058-deterministic-replay/readable.md) · 游戏工具
+- 059 [帧率翻倍 角色不该多跳半米](../research/100-directions/059-fixed-timestep/readable.md) · 游戏物理
+- 060 [A星不高估 为什么仍然可能走错路](../research/100-directions/060-astar-heuristic-contract/readable.md) · 搜索算法
+- 061 [地上有一条缝 角色却没有一条路](../research/100-directions/061-navmesh-agent-radius/readable.md) · 游戏导航
 - 068 [日落后 城市还在退还白天的热](../research/100-directions/068-urban-night-heat/readable.md) · 城市气候
 - 069 [菌根网络存在之后 还需要证明什么](../research/100-directions/069-forest-fungal-networks/readable.md) · 森林生态
 - 070 [水坝留下的泥沙账单](../research/100-directions/070-dam-sediment/readable.md) · 河流地貌

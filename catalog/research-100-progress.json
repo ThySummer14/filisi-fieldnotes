@@ -1,6 +1,6 @@
 {
   "target": 100,
-  "completed_count": 66,
+  "completed_count": 72,
   "existing_library_excluded": 16,
   "completed": [
     {
@@ -110,6 +110,24 @@
       "title": "一件事结束时，记忆开始换一种组织",
       "topic": "事件知觉与记忆",
       "path": "research/100-directions/018-event-boundaries-memory"
+    },
+    {
+      "number": "019",
+      "title": "不可靠的叙述者，也可能把事情说对",
+      "topic": "叙事学",
+      "path": "research/100-directions/019-unreliable-narrator-trust"
+    },
+    {
+      "number": "020",
+      "title": "被故事带走之后，哪些看法跟着变了",
+      "topic": "叙事心理学",
+      "path": "research/100-directions/020-narrative-transportation"
+    },
+    {
+      "number": "021",
+      "title": "剧透让故事更好看？研究没有给出通行证",
+      "topic": "叙事体验",
+      "path": "research/100-directions/021-spoilers-enjoyment"
     },
     {
       "number": "035",
@@ -254,6 +272,24 @@
       "title": "同一个种子 为什么还是回放出另一局",
       "topic": "游戏工具",
       "path": "research/100-directions/058-deterministic-replay"
+    },
+    {
+      "number": "059",
+      "title": "帧率翻倍 角色不该多跳半米",
+      "topic": "游戏物理",
+      "path": "research/100-directions/059-fixed-timestep"
+    },
+    {
+      "number": "060",
+      "title": "A星不高估 为什么仍然可能走错路",
+      "topic": "搜索算法",
+      "path": "research/100-directions/060-astar-heuristic-contract"
+    },
+    {
+      "number": "061",
+      "title": "地上有一条缝 角色却没有一条路",
+      "topic": "游戏导航",
+      "path": "research/100-directions/061-navmesh-agent-radius"
     },
     {
       "number": "068",

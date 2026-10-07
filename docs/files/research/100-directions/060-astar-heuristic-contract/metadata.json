@@ -1,0 +1,29 @@
+{
+  "id": "060",
+  "title": "A星不高估 为什么仍然可能走错路",
+  "description": "可采纳启发式还需要匹配节点重开与终止规则，四个节点就能说明差别。",
+  "topic": "搜索算法",
+  "tags": [
+    "A星",
+    "启发式",
+    "最短路径"
+  ],
+  "sources": [
+    {
+      "title": "Berkeley CS188 Fall2022 Note2搜索讲义",
+      "url": "https://inst.eecs.berkeley.edu/~cs188/fa22/assets/notes/cs188-fa22-note02.pdf"
+    },
+    {
+      "title": "NetworkX astar_path接口",
+      "url": "https://networkx.org/documentation/stable/reference/algorithms/generated/networkx.algorithms.shortest_paths.astar.astar_path.html"
+    },
+    {
+      "title": "NetworkX A星原始实现",
+      "url": "https://networkx.org/documentation/stable/_modules/networkx/algorithms/shortest_paths/astar.html"
+    },
+    {
+      "title": "Godot AStar2D成本接口",
+      "url": "https://docs.godotengine.org/en/stable/classes/class_astar2d.html"
+    }
+  ]
+}

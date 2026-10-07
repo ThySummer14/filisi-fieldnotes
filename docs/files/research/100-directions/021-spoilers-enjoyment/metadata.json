@@ -1,0 +1,43 @@
+{
+  "id": "021",
+  "title": "剧透让故事更好看？研究没有给出通行证",
+  "description": "从2011正向结果到2025空结果，剧透研究的分歧与读者选择权。",
+  "topic": "叙事体验",
+  "tags": [
+    "剧透",
+    "阅读享受",
+    "流畅性",
+    "重复验证"
+  ],
+  "language": "zh-CN",
+  "sources": [
+    {
+      "id": 1,
+      "title": "Story spoilers don’t spoil stories",
+      "url": "https://www.researchgate.net/publication/51571027_Story_Spoilers_Don%27t_Spoil_Stories",
+      "type": "primary_research",
+      "accessed": "2026-10-07"
+    },
+    {
+      "id": 2,
+      "title": "The fluency of spoilers: Why giving away endings improves stories",
+      "url": "https://www.researchgate.net/publication/263306478_The_fluency_of_spoilers_Why_giving_away_endings_improves_stories",
+      "type": "primary_research",
+      "accessed": "2026-10-07"
+    },
+    {
+      "id": 3,
+      "title": "Spoiler alert: Consequences of narrative spoilers for dimensions of enjoyment, appreciation, and transportation",
+      "url": "https://research.vu.nl/en/publications/spoiler-alert-consequences-of-narrative-spoilers-for-dimensions-o/",
+      "type": "primary_research",
+      "accessed": "2026-10-07"
+    },
+    {
+      "id": 4,
+      "title": "The role of different spoiler types in the experience of short stories",
+      "url": "https://www.researchgate.net/publication/391472927_The_Role_of_Different_Spoiler_Types_in_the_Experience_of_Short_Stories",
+      "type": "primary_research",
+      "accessed": "2026-10-07"
+    }
+  ]
+}
