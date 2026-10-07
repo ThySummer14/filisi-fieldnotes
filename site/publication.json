@@ -22,6 +22,12 @@
     "research/100-directions/037-time-is-not-duration",
     "research/100-directions/068-urban-night-heat",
     "research/100-directions/069-forest-fungal-networks",
-    "research/100-directions/070-dam-sediment"
+    "research/100-directions/070-dam-sediment",
+    "research/100-directions/001-dress-color-constancy",
+    "research/100-directions/002-peripheral-crowding",
+    "research/100-directions/003-mcgurk-and-real-speech",
+    "research/100-directions/038-shuffle-bias",
+    "research/100-directions/039-bloom-filter-deletion",
+    "research/100-directions/040-hyperloglog-registers"
   ]
 }

@@ -1,0 +1,29 @@
+{
+  "id": "038",
+  "title": "三张牌就能拆穿的洗牌算法",
+  "description": "不靠看起来够乱，也不靠抽样运气，穷举三张牌检查一个常见洗牌错误。",
+  "topic": "随机算法",
+  "tags": [
+    "概率",
+    "洗牌",
+    "可复现计算"
+  ],
+  "sources": [
+    {
+      "title": "Python random官方文档",
+      "url": "https://docs.python.org/3/library/random.html"
+    },
+    {
+      "title": "CPython v3.12.0 random.py",
+      "url": "https://github.com/python/cpython/blob/v3.12.0/Lib/random.py"
+    },
+    {
+      "title": "Lemire Fast Random Integer Generation in an Interval",
+      "url": "https://arxiv.org/html/1805.10941v4"
+    },
+    {
+      "title": "Python secrets官方文档",
+      "url": "https://docs.python.org/3/library/secrets.html"
+    }
+  ]
+}

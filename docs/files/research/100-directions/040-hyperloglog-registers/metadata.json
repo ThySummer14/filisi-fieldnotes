@@ -1,0 +1,29 @@
+{
+  "id": "040",
+  "title": "不记住访客名单 还能数出多少人",
+  "description": "HyperLogLog保留罕见哈希模式而舍弃身份，这种压缩适合统计，也决定了不能删除和追查的边界。",
+  "topic": "统计计算",
+  "tags": [
+    "HyperLogLog",
+    "数据流",
+    "近似查询"
+  ],
+  "sources": [
+    {
+      "title": "Ertl New Cardinality Estimation Methods for HyperLogLog Sketches",
+      "url": "https://arxiv.org/pdf/1706.07290"
+    },
+    {
+      "title": "Heule等 HyperLogLog in Practice",
+      "url": "https://research.google/pubs/hyperloglog-in-practice-algorithmic-engineering-of-a-state-of-the-art-cardinality-estimation-algorithm/"
+    },
+    {
+      "title": "Redis HyperLogLog官方文档",
+      "url": "https://redis.io/docs/latest/develop/data-types/probabilistic/hyperloglogs/"
+    },
+    {
+      "title": "Redis 7.2 hyperloglog.c",
+      "url": "https://github.com/redis/redis/blob/7.2/src/hyperloglog.c"
+    }
+  ]
+}

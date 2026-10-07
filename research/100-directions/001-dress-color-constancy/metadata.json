@@ -1,0 +1,50 @@
+{
+  "id": "001",
+  "title": "同一条裙子，两套照明",
+  "description": "从原始配色实验到作息假说，分清裙子颜色争议中已知的机制与未定的解释。",
+  "topic": "视觉与色彩",
+  "tags": [
+    "色恒常",
+    "照明估计",
+    "知觉差异",
+    "实验方法"
+  ],
+  "language": "zh-CN",
+  "sources": [
+    {
+      "id": 1,
+      "title": "Striking individual differences in color perception uncovered by ‘the dress’ photograph",
+      "url": "https://www1.wellesley.edu/sites/default/files/assets/departments/neuroscience/images/lafersousahermannconway_thedress_2015_withsupp-1.pdf",
+      "type": "primary_research",
+      "accessed": "2026-10-07"
+    },
+    {
+      "id": 2,
+      "title": "The most reasonable explanation of “the dress”: Implicit assumptions about illumination",
+      "url": "https://doi.org/10.1167/17.2.1",
+      "type": "primary_research",
+      "accessed": "2026-10-07"
+    },
+    {
+      "id": 3,
+      "title": "Asymmetries in blue-yellow color perception and in the color of ‘the dress’",
+      "url": "https://sites.socsci.uci.edu/~kjameson/WinklerEtAl.pdf",
+      "type": "primary_research",
+      "accessed": "2026-10-07"
+    },
+    {
+      "id": 4,
+      "title": "Illumination assumptions account for individual differences in the perceptual interpretation of a profoundly ambiguous stimulus in the color domain: “The dress”",
+      "url": "https://doi.org/10.1167/17.4.5",
+      "type": "primary_research",
+      "accessed": "2026-10-07"
+    },
+    {
+      "id": 5,
+      "title": "#TheDress: Categorical perception of an ambiguous color image",
+      "url": "https://doi.org/10.1167/17.12.25",
+      "type": "primary_research",
+      "accessed": "2026-10-07"
+    }
+  ]
+}

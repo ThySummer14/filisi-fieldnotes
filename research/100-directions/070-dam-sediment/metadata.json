@@ -9,43 +9,38 @@
   ],
   "title": "水坝留下的泥沙账单",
   "description": "水流经过大坝以后，泥沙供给可能被截断。下游河床、河口和海岸并不在同一天收到后果。",
+  "date": "2026-10-07",
+  "language": "zh-CN",
   "sources": [
     {
       "title": "Kondolf 1997 Hungry Water Effects of Dams and Gravel Mining on River Channels",
       "url": "https://doi.org/10.1007/s002679900048",
       "source_type": "学术综述",
-      "annotation": "核读原文PDF下切、粗化及条件；学校托管PDF https://people.wou.edu/~taylors/g473/refs/kondolf_97.pdf。",
       "accessed": "2026-10-07"
     },
     {
       "title": "Ritchie et al 2018 Morphodynamic evolution following sediment release",
       "url": "https://www.usgs.gov/publications/morphodynamic-evolution-following-sediment-release-worlds-largest-dam-removal",
       "source_type": "原始研究摘要",
-      "annotation": "核读五年收支；30Mt、65%、90%、60ha均保持原统计对象。",
       "accessed": "2026-10-07"
     },
     {
       "title": "USGS 2017 Coastal habitat and biological community response",
       "url": "https://www.usgs.gov/publications/coastal-habitat-and-biological-community-response-dam-removal-elwha-river",
       "source_type": "原始研究摘要",
-      "annotation": "核读沉积与群落响应，不假定各生物同步受益。",
       "accessed": "2026-10-07"
     },
     {
       "title": "Hou et al 2024 Sustained increase in suspended sediments near global river deltas",
       "url": "https://www.nature.com/articles/s41467-024-47598-6",
       "source_type": "原始研究摘要",
-      "annotation": "核读349个三角洲、2000–2020时段和海岸SSC与河流供沙可异向；全文直开受站点跳转限制，未声称通读全文。",
       "accessed": "2026-10-07"
     },
     {
       "title": "Fang et al 2023 Substantial role of check dams in sediment trapping",
       "url": "https://www.nature.com/articles/s43247-023-00728-2",
       "source_type": "原始研究",
-      "annotation": "核读摘要、结果及方法中遥感识别50226座淤地坝；区分拦蓄估计与黄河同期入海量的比较。",
       "accessed": "2026-10-07"
     }
-  ],
-  "date": "2026-10-07",
-  "language": "zh-CN"
+  ]
 }

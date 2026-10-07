@@ -9,36 +9,32 @@
   ],
   "title": "日落后 城市还在退还白天的热",
   "description": "夜间热岛最容易误读的地方，是把城乡温差当成城市绝对温度，把屋顶温度当成人身边的气温。",
+  "date": "2026-10-07",
+  "language": "zh-CN",
   "sources": [
     {
       "title": "US EPA What Are Heat Islands",
       "url": "https://www.epa.gov/heatislands/what-are-heat-islands",
       "source_type": "官方科学说明",
-      "annotation": "核读原因、地表与大气热岛分类；未把美国区间当全球定值。",
       "accessed": "2026-10-07"
     },
     {
       "title": "US EPA Measuring Heat Islands",
       "url": "https://www.epa.gov/heatislands/measuring-heat-islands",
       "source_type": "官方方法说明",
-      "annotation": "核读空气与地表数据、目标和采样位置。",
       "accessed": "2026-10-07"
     },
     {
       "title": "Oke 1982 The energetic basis of the urban heat island",
       "url": "https://doi.org/10.1002/qj.49710845502",
       "source_type": "学术综述",
-      "annotation": "核读原文PDF第9–12页街谷能量与天空可视因子，PDF访问于https://www.patarnott.com/pdf/Oake1982_UHI.pdf。",
       "accessed": "2026-10-07"
     },
     {
       "title": "Zhao et al 2014 Strong contributions of local background climate to urban heat islands",
       "url": "https://www.nature.com/articles/nature13462",
       "source_type": "原始研究",
-      "annotation": "核读作者机构PDF正文和方法；65座北美城市、MODIS晴空地表与模型，不能直接代表人体气温。",
       "accessed": "2026-10-07"
     }
-  ],
-  "date": "2026-10-07",
-  "language": "zh-CN"
+  ]
 }

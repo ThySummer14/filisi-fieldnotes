@@ -1,0 +1,29 @@
+{
+  "id": "039",
+  "title": "布隆过滤器说有的时候 还不能作数",
+  "description": "单向错误怎样降低查询成本，以及删除、过期副本和基数误判怎样破坏它的保证。",
+  "topic": "概率数据结构",
+  "tags": [
+    "布隆过滤器",
+    "缓存",
+    "数据一致性"
+  ],
+  "sources": [
+    {
+      "title": "Redis Bloom filter",
+      "url": "https://redis.io/docs/latest/develop/data-types/probabilistic/bloom-filter/"
+    },
+    {
+      "title": "Redis BF.RESERVE容量公式",
+      "url": "https://redis.io/docs/latest/commands/bf.reserve/"
+    },
+    {
+      "title": "LevelDB bloom.cc原始代码",
+      "url": "https://github.com/google/leveldb/blob/main/util/bloom.cc"
+    },
+    {
+      "title": "Redis Cuckoo filter",
+      "url": "https://redis.io/docs/latest/develop/data-types/probabilistic/cuckoo-filter/"
+    }
+  ]
+}

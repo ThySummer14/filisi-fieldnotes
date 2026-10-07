@@ -1,0 +1,50 @@
+{
+  "id": "003",
+  "title": "嘴型改写听觉之后，还剩什么问题",
+  "description": "麦格克效应的个体差异很稳定，但它测到的未必是日常交谈中的视听收益。",
+  "topic": "听觉与多感官",
+  "tags": [
+    "麦格克效应",
+    "视听语音",
+    "个体差异",
+    "测量效度"
+  ],
+  "language": "zh-CN",
+  "sources": [
+    {
+      "id": 1,
+      "title": "Individual differences in susceptibility to the McGurk effect: Links with lipreading and detecting audiovisual incongruity",
+      "url": "https://doi.org/10.1044/2014_JSLHR-H-14-0059",
+      "type": "primary_research",
+      "accessed": "2026-10-07"
+    },
+    {
+      "id": 2,
+      "title": "Variability and stability in the McGurk effect: Contributions of participants, stimuli, time, and response type",
+      "url": "https://link.springer.com/article/10.3758/s13423-015-0817-4",
+      "type": "primary_research",
+      "accessed": "2026-10-07"
+    },
+    {
+      "id": 3,
+      "title": "What accounts for individual differences in susceptibility to the McGurk effect?",
+      "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0207160",
+      "type": "primary_research",
+      "accessed": "2026-10-07"
+    },
+    {
+      "id": 4,
+      "title": "Audiovisual sentence recognition not predicted by susceptibility to the McGurk effect",
+      "url": "https://csd.utexas.edu/sites/default/files/VanEngenetal2016_APP.pdf",
+      "type": "primary_research",
+      "accessed": "2026-10-07"
+    },
+    {
+      "id": 5,
+      "title": "Audiovisual speech perception: Moving beyond McGurk",
+      "url": "https://pubs.aip.org/asa/jasa/article-pdf/152/6/3216/16707219/3216_1_online.pdf",
+      "type": "peer_reviewed_review",
+      "accessed": "2026-10-07"
+    }
+  ]
+}

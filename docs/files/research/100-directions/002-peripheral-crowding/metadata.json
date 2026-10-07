@@ -1,0 +1,43 @@
+{
+  "id": "002",
+  "title": "余光中的字，为什么越挤越认不出",
+  "description": "从临界间距讲到增添方框反而改善辨认的反例，避免把视觉拥挤缩成一条排版公式。",
+  "topic": "视觉与版式",
+  "tags": [
+    "视觉拥挤",
+    "外周视觉",
+    "知觉分组",
+    "排版"
+  ],
+  "language": "zh-CN",
+  "sources": [
+    {
+      "id": 1,
+      "title": "The uncrowded window of object recognition",
+      "url": "https://denispelli.com/pubs/pelli2008uncrowded-complete.pdf",
+      "type": "peer_reviewed_review",
+      "accessed": "2026-10-07"
+    },
+    {
+      "id": 2,
+      "title": "When crowding of crowding leads to uncrowding",
+      "url": "https://whitneylab.berkeley.edu/PDFs/Manassi2013_Jov.pdf",
+      "type": "primary_research",
+      "accessed": "2026-10-07"
+    },
+    {
+      "id": 3,
+      "title": "Crowding, grouping, and object recognition: A matter of appearance",
+      "url": "https://infoscience.epfl.ch/server/api/core/bitstreams/70bece5d-1c56-4c57-b571-3e473d706a5e/content",
+      "type": "peer_reviewed_review",
+      "accessed": "2026-10-07"
+    },
+    {
+      "id": 4,
+      "title": "What crowds in crowding?",
+      "url": "https://whitneylab.berkeley.edu/PDFs/Manassi_2016_Crowding.pdf",
+      "type": "peer_reviewed_review",
+      "accessed": "2026-10-07"
+    }
+  ]
+}

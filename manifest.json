@@ -1,12 +1,12 @@
 {
   "archive_date": "2026-10-07",
-  "item_count": 22,
-  "original_file_count": 30,
+  "item_count": 28,
+  "original_file_count": 36,
   "original_docx_count": 14,
   "original_pdf_count": 6,
-  "original_markdown_count": 10,
+  "original_markdown_count": 16,
   "image_count": 33,
-  "readable_markdown_count": 22,
+  "readable_markdown_count": 28,
   "items": [
     {
       "path": "reading/sociological-imagination",
@@ -1310,6 +1310,189 @@
         "泥沙",
         "三角洲",
         "水坝"
+      ]
+    },
+    {
+      "path": "research/100-directions/001-dress-color-constancy",
+      "title": "同一条裙子，两套照明",
+      "archived_at": "2026-10-07",
+      "source_version": 1,
+      "status": "原创专题研究；例子、原始研究与方法边界见正文",
+      "summary": "从原始配色实验到作息假说，分清裙子颜色争议中已知的机制与未定的解释。",
+      "readableMarkdown": "research/100-directions/001-dress-color-constancy/readable.md",
+      "sources": "research/100-directions/001-dress-color-constancy/sources.md",
+      "assets": [
+        "research/100-directions/001-dress-color-constancy/metadata.json"
+      ],
+      "originals": [
+        {
+          "path": "research/100-directions/001-dress-color-constancy/readable.md",
+          "original_name": "同一条裙子，两套照明.md",
+          "bytes": 6889,
+          "sha256": "a8418ef545ca696390e7b82198bac6ef40a4301189cd03317741778da9ae9b26",
+          "byte_identical": true
+        }
+      ],
+      "series": "research-100-20261007",
+      "series_number": "001",
+      "topic": "视觉与色彩",
+      "tags": [
+        "色恒常",
+        "照明估计",
+        "知觉差异",
+        "实验方法"
+      ]
+    },
+    {
+      "path": "research/100-directions/002-peripheral-crowding",
+      "title": "余光中的字，为什么越挤越认不出",
+      "archived_at": "2026-10-07",
+      "source_version": 1,
+      "status": "原创专题研究；例子、原始研究与方法边界见正文",
+      "summary": "从临界间距讲到增添方框反而改善辨认的反例，避免把视觉拥挤缩成一条排版公式。",
+      "readableMarkdown": "research/100-directions/002-peripheral-crowding/readable.md",
+      "sources": "research/100-directions/002-peripheral-crowding/sources.md",
+      "assets": [
+        "research/100-directions/002-peripheral-crowding/metadata.json"
+      ],
+      "originals": [
+        {
+          "path": "research/100-directions/002-peripheral-crowding/readable.md",
+          "original_name": "余光中的字，为什么越挤越认不出.md",
+          "bytes": 6170,
+          "sha256": "ed04801f19367b768c667cbce960c31f7bb5521e23b7dfc1d34af936836aff49",
+          "byte_identical": true
+        }
+      ],
+      "series": "research-100-20261007",
+      "series_number": "002",
+      "topic": "视觉与版式",
+      "tags": [
+        "视觉拥挤",
+        "外周视觉",
+        "知觉分组",
+        "排版"
+      ]
+    },
+    {
+      "path": "research/100-directions/003-mcgurk-and-real-speech",
+      "title": "嘴型改写听觉之后，还剩什么问题",
+      "archived_at": "2026-10-07",
+      "source_version": 1,
+      "status": "原创专题研究；例子、原始研究与方法边界见正文",
+      "summary": "麦格克效应的个体差异很稳定，但它测到的未必是日常交谈中的视听收益。",
+      "readableMarkdown": "research/100-directions/003-mcgurk-and-real-speech/readable.md",
+      "sources": "research/100-directions/003-mcgurk-and-real-speech/sources.md",
+      "assets": [
+        "research/100-directions/003-mcgurk-and-real-speech/metadata.json"
+      ],
+      "originals": [
+        {
+          "path": "research/100-directions/003-mcgurk-and-real-speech/readable.md",
+          "original_name": "嘴型改写听觉之后，还剩什么问题.md",
+          "bytes": 6786,
+          "sha256": "d5e8a1da29d08fd192d5e6acb21de2aad9316e1e9c27693264882b26b03470ea",
+          "byte_identical": true
+        }
+      ],
+      "series": "research-100-20261007",
+      "series_number": "003",
+      "topic": "听觉与多感官",
+      "tags": [
+        "麦格克效应",
+        "视听语音",
+        "个体差异",
+        "测量效度"
+      ]
+    },
+    {
+      "path": "research/100-directions/038-shuffle-bias",
+      "title": "三张牌就能拆穿的洗牌算法",
+      "archived_at": "2026-10-07",
+      "source_version": 1,
+      "status": "原创专题研究；例子、原始研究与方法边界见正文",
+      "summary": "不靠看起来够乱，也不靠抽样运气，穷举三张牌检查一个常见洗牌错误。",
+      "readableMarkdown": "research/100-directions/038-shuffle-bias/readable.md",
+      "sources": "research/100-directions/038-shuffle-bias/sources.md",
+      "assets": [
+        "research/100-directions/038-shuffle-bias/metadata.json"
+      ],
+      "originals": [
+        {
+          "path": "research/100-directions/038-shuffle-bias/readable.md",
+          "original_name": "三张牌就能拆穿的洗牌算法.md",
+          "bytes": 5955,
+          "sha256": "66c1c0f7ec3f2ee6939bee8b649ebe9e2598daa6cb112a4ea7b300e188af8b77",
+          "byte_identical": true
+        }
+      ],
+      "series": "research-100-20261007",
+      "series_number": "038",
+      "topic": "随机算法",
+      "tags": [
+        "概率",
+        "洗牌",
+        "可复现计算"
+      ]
+    },
+    {
+      "path": "research/100-directions/039-bloom-filter-deletion",
+      "title": "布隆过滤器说有的时候 还不能作数",
+      "archived_at": "2026-10-07",
+      "source_version": 1,
+      "status": "原创专题研究；例子、原始研究与方法边界见正文",
+      "summary": "单向错误怎样降低查询成本，以及删除、过期副本和基数误判怎样破坏它的保证。",
+      "readableMarkdown": "research/100-directions/039-bloom-filter-deletion/readable.md",
+      "sources": "research/100-directions/039-bloom-filter-deletion/sources.md",
+      "assets": [
+        "research/100-directions/039-bloom-filter-deletion/metadata.json"
+      ],
+      "originals": [
+        {
+          "path": "research/100-directions/039-bloom-filter-deletion/readable.md",
+          "original_name": "布隆过滤器说有的时候 还不能作数.md",
+          "bytes": 6150,
+          "sha256": "12b3e087f8fe8b374ef0c71ed62b362267b77a036ccdf7a0203eb49b2fdcf374",
+          "byte_identical": true
+        }
+      ],
+      "series": "research-100-20261007",
+      "series_number": "039",
+      "topic": "概率数据结构",
+      "tags": [
+        "布隆过滤器",
+        "缓存",
+        "数据一致性"
+      ]
+    },
+    {
+      "path": "research/100-directions/040-hyperloglog-registers",
+      "title": "不记住访客名单 还能数出多少人",
+      "archived_at": "2026-10-07",
+      "source_version": 1,
+      "status": "原创专题研究；例子、原始研究与方法边界见正文",
+      "summary": "HyperLogLog保留罕见哈希模式而舍弃身份，这种压缩适合统计，也决定了不能删除和追查的边界。",
+      "readableMarkdown": "research/100-directions/040-hyperloglog-registers/readable.md",
+      "sources": "research/100-directions/040-hyperloglog-registers/sources.md",
+      "assets": [
+        "research/100-directions/040-hyperloglog-registers/metadata.json"
+      ],
+      "originals": [
+        {
+          "path": "research/100-directions/040-hyperloglog-registers/readable.md",
+          "original_name": "不记住访客名单 还能数出多少人.md",
+          "bytes": 6260,
+          "sha256": "e04e84764c73999e68a9aa784ad0b152e5d33d529409c22db4e9e5f8f03a2e44",
+          "byte_identical": true
+        }
+      ],
+      "series": "research-100-20261007",
+      "series_number": "040",
+      "topic": "统计计算",
+      "tags": [
+        "HyperLogLog",
+        "数据流",
+        "近似查询"
       ]
     }
   ]

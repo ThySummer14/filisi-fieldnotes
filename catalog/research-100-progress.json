@@ -1,8 +1,26 @@
 {
   "target": 100,
-  "completed_count": 6,
+  "completed_count": 12,
   "existing_library_excluded": 16,
   "completed": [
+    {
+      "number": "001",
+      "title": "同一条裙子，两套照明",
+      "topic": "视觉与色彩",
+      "path": "research/100-directions/001-dress-color-constancy"
+    },
+    {
+      "number": "002",
+      "title": "余光中的字，为什么越挤越认不出",
+      "topic": "视觉与版式",
+      "path": "research/100-directions/002-peripheral-crowding"
+    },
+    {
+      "number": "003",
+      "title": "嘴型改写听觉之后，还剩什么问题",
+      "topic": "听觉与多感官",
+      "path": "research/100-directions/003-mcgurk-and-real-speech"
+    },
     {
       "number": "035",
       "title": "0.1加0.2之后 系统究竟答应了什么",
@@ -20,6 +38,24 @@
       "title": "明天中午和二十四小时后是两个任务",
       "topic": "时间建模",
       "path": "research/100-directions/037-time-is-not-duration"
+    },
+    {
+      "number": "038",
+      "title": "三张牌就能拆穿的洗牌算法",
+      "topic": "随机算法",
+      "path": "research/100-directions/038-shuffle-bias"
+    },
+    {
+      "number": "039",
+      "title": "布隆过滤器说有的时候 还不能作数",
+      "topic": "概率数据结构",
+      "path": "research/100-directions/039-bloom-filter-deletion"
+    },
+    {
+      "number": "040",
+      "title": "不记住访客名单 还能数出多少人",
+      "topic": "统计计算",
+      "path": "research/100-directions/040-hyperloglog-registers"
     },
     {
       "number": "068",

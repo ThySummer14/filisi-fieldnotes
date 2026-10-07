@@ -773,5 +773,26 @@
     "claim": "伊内丝对博士的判断",
     "source": "DM-5 END [31]",
     "other_plot_prose_changed": false
+  },
+  "research_100_batch_2": {
+    "ids": [
+      "001",
+      "002",
+      "003",
+      "038",
+      "039",
+      "040"
+    ],
+    "new_completed": 12,
+    "existing_excluded": 16,
+    "privacy_review": "passed",
+    "source_scope_limits_preserved": true,
+    "synthetic_checks": [
+      "three-card shuffle enumeration",
+      "Bloom capacity arithmetic",
+      "HLL register bytes and standard-error arithmetic",
+      "0.29 squared"
+    ],
+    "metadata_public_fields": "bibliographic fields only"
   }
 }
