@@ -1,0 +1,29 @@
+{
+  "id": "041",
+  "title": "加一台服务器为什么会搬走四分之三的数据",
+  "description": "一致性哈希减少的是成员变化后的重新映射；热点、故障域和迁移协议仍需分别解决。",
+  "topic": "分布式系统",
+  "tags": [
+    "一致性哈希",
+    "分片",
+    "负载均衡"
+  ],
+  "sources": [
+    {
+      "title": "Dynamo SOSP 2007论文",
+      "url": "https://www.allthingsdistributed.com/files/amazon-dynamo-sosp2007.pdf"
+    },
+    {
+      "title": "Lamping与Veach Jump Consistent Hash",
+      "url": "https://arxiv.org/pdf/1406.2294"
+    },
+    {
+      "title": "AWS DynamoDB分区键设计",
+      "url": "https://docs.aws.amazon.com/amazondynamodb/latest/developerguide/bp-partition-key-design.html"
+    },
+    {
+      "title": "AWS DynamoDB写分片",
+      "url": "https://docs.aws.amazon.com/amazondynamodb/latest/developerguide/bp-partition-key-sharding.html"
+    }
+  ]
+}

@@ -794,5 +794,24 @@
       "0.29 squared"
     ],
     "metadata_public_fields": "bibliographic fields only"
+  },
+  "research_100_batch_3": {
+    "ids": [
+      "041",
+      "042",
+      "043",
+      "071",
+      "072",
+      "073"
+    ],
+    "new_completed": 18,
+    "existing_excluded": 16,
+    "privacy_review": "passed",
+    "source_limits_preserved": true,
+    "local_mapping_checks": {
+      "modulo_moved": 90,
+      "ring_moved": 20
+    },
+    "third_party_source_texts_packaged": false
   }
 }

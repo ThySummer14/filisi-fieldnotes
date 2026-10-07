@@ -1,12 +1,12 @@
 {
   "archive_date": "2026-10-07",
-  "item_count": 28,
-  "original_file_count": 36,
+  "item_count": 34,
+  "original_file_count": 42,
   "original_docx_count": 14,
   "original_pdf_count": 6,
-  "original_markdown_count": 16,
+  "original_markdown_count": 22,
   "image_count": 33,
-  "readable_markdown_count": 28,
+  "readable_markdown_count": 34,
   "items": [
     {
       "path": "reading/sociological-imagination",
@@ -1121,7 +1121,8 @@
           "original_name": "明日方舟剧情导读.md",
           "bytes": 25558,
           "sha256": "0c36b89cb7baed61e724208a242d07c08a84666f7cdaa07cc9246410d0044977",
-          "byte_identical": true
+          "byte_identical": false,
+          "revision_reason": "引用定位的明确修订；下载正文匹配本版哈希，不等同首次交付版本。"
         }
       ],
       "source_urls": 509,
@@ -1493,6 +1494,186 @@
         "HyperLogLog",
         "数据流",
         "近似查询"
+      ]
+    },
+    {
+      "path": "research/100-directions/041-consistent-hash-movement",
+      "title": "加一台服务器为什么会搬走四分之三的数据",
+      "archived_at": "2026-10-07",
+      "source_version": 1,
+      "status": "原创专题研究；例子、原始研究与方法边界见正文",
+      "summary": "一致性哈希减少的是成员变化后的重新映射；热点、故障域和迁移协议仍需分别解决。",
+      "readableMarkdown": "research/100-directions/041-consistent-hash-movement/readable.md",
+      "sources": "research/100-directions/041-consistent-hash-movement/sources.md",
+      "assets": [
+        "research/100-directions/041-consistent-hash-movement/metadata.json"
+      ],
+      "originals": [
+        {
+          "path": "research/100-directions/041-consistent-hash-movement/readable.md",
+          "original_name": "加一台服务器为什么会搬走四分之三的数据.md",
+          "bytes": 5937,
+          "sha256": "5347631b3f13fd59a6dbb777e8d0ee2909b90187864cd42b43df2a968bd676b3",
+          "byte_identical": true
+        }
+      ],
+      "series": "research-100-20261007",
+      "series_number": "041",
+      "topic": "分布式系统",
+      "tags": [
+        "一致性哈希",
+        "分片",
+        "负载均衡"
+      ]
+    },
+    {
+      "path": "research/100-directions/042-crdt-delete-intent",
+      "title": "所有副本都同意 文字仍然可能不对",
+      "archived_at": "2026-10-07",
+      "source_version": 1,
+      "status": "原创专题研究；例子、原始研究与方法边界见正文",
+      "summary": "CRDT的收敛保证不能代替删除语义、多人编辑意图和应用不变量。",
+      "readableMarkdown": "research/100-directions/042-crdt-delete-intent/readable.md",
+      "sources": "research/100-directions/042-crdt-delete-intent/sources.md",
+      "assets": [
+        "research/100-directions/042-crdt-delete-intent/metadata.json"
+      ],
+      "originals": [
+        {
+          "path": "research/100-directions/042-crdt-delete-intent/readable.md",
+          "original_name": "所有副本都同意 文字仍然可能不对.md",
+          "bytes": 5768,
+          "sha256": "7dad86c44c2e9e962d2024777b6039796b67437bee48bb417b26b5fb85f05b1b",
+          "byte_identical": true
+        }
+      ],
+      "series": "research-100-20261007",
+      "series_number": "042",
+      "topic": "协作软件",
+      "tags": [
+        "CRDT",
+        "离线优先",
+        "并发语义"
+      ]
+    },
+    {
+      "path": "research/100-directions/043-undo-after-collaboration",
+      "title": "撤销按钮不该把别人刚写的字也带走",
+      "archived_at": "2026-10-07",
+      "source_version": 1,
+      "status": "原创专题研究；例子、原始研究与方法边界见正文",
+      "summary": "从选择性撤销到事件重放与补偿，恢复旧状态和撤回一次意图不是同一种操作。",
+      "readableMarkdown": "research/100-directions/043-undo-after-collaboration/readable.md",
+      "sources": "research/100-directions/043-undo-after-collaboration/sources.md",
+      "assets": [
+        "research/100-directions/043-undo-after-collaboration/metadata.json"
+      ],
+      "originals": [
+        {
+          "path": "research/100-directions/043-undo-after-collaboration/readable.md",
+          "original_name": "撤销按钮不该把别人刚写的字也带走.md",
+          "bytes": 6009,
+          "sha256": "5d0095a084e1b8a871591bb4c588d2ab40035cd694e308dfb6bb6f2e4deea7b6",
+          "byte_identical": true
+        }
+      ],
+      "series": "research-100-20261007",
+      "series_number": "043",
+      "topic": "交互与状态管理",
+      "tags": [
+        "撤销",
+        "协作编辑",
+        "事件溯源"
+      ]
+    },
+    {
+      "path": "research/100-directions/071-construction-sand",
+      "title": "沙漠很多 建筑用砂仍会短缺",
+      "archived_at": "2026-10-07",
+      "source_version": 1,
+      "status": "原创专题研究；例子、原始研究与方法边界见正文",
+      "summary": "砂的短缺是粒径、配料、运输和生态承载力交叠的结果，沙丘也并非一律不能成为原料。",
+      "readableMarkdown": "research/100-directions/071-construction-sand/readable.md",
+      "sources": "research/100-directions/071-construction-sand/sources.md",
+      "assets": [
+        "research/100-directions/071-construction-sand/metadata.json"
+      ],
+      "originals": [
+        {
+          "path": "research/100-directions/071-construction-sand/readable.md",
+          "original_name": "沙漠很多 建筑用砂仍会短缺.md",
+          "bytes": 6260,
+          "sha256": "1e6c857ea6ce53289eff512e8f9e800fc35c3ca53e610d2841ad255288b1389e",
+          "byte_identical": true
+        }
+      ],
+      "series": "research-100-20261007",
+      "series_number": "071",
+      "topic": "物质资源",
+      "tags": [
+        "混凝土",
+        "河砂",
+        "供应链"
+      ]
+    },
+    {
+      "path": "research/100-directions/072-river-cutoffs",
+      "title": "河流切掉一个弯 变化会传得很远",
+      "archived_at": "2026-10-07",
+      "source_version": 1,
+      "status": "原创专题研究；例子、原始研究与方法边界见正文",
+      "summary": "一片牛轭湖记录的不只是河道缩短，截弯还会改变相邻河段的迁移和河漫滩更新。",
+      "readableMarkdown": "research/100-directions/072-river-cutoffs/readable.md",
+      "sources": "research/100-directions/072-river-cutoffs/sources.md",
+      "assets": [
+        "research/100-directions/072-river-cutoffs/metadata.json"
+      ],
+      "originals": [
+        {
+          "path": "research/100-directions/072-river-cutoffs/readable.md",
+          "original_name": "河流切掉一个弯 变化会传得很远.md",
+          "bytes": 5914,
+          "sha256": "739aa0e7e861d98df366f156362824cb5d5e89b71a9ca080995fd95941da675b",
+          "byte_identical": true
+        }
+      ],
+      "series": "research-100-20261007",
+      "series_number": "072",
+      "topic": "河流地貌",
+      "tags": [
+        "曲流",
+        "牛轭湖",
+        "洪水"
+      ]
+    },
+    {
+      "path": "research/100-directions/073-peat-water-carbon",
+      "title": "泥炭地一旦排水 地下的旧碳就开始见天日",
+      "archived_at": "2026-10-07",
+      "source_version": 1,
+      "status": "原创专题研究；例子、原始研究与方法边界见正文",
+      "summary": "水位控制分解的条件。重新变湿通常能减少旧碳损失，却不保证立即找回原来的植物群落。",
+      "readableMarkdown": "research/100-directions/073-peat-water-carbon/readable.md",
+      "sources": "research/100-directions/073-peat-water-carbon/sources.md",
+      "assets": [
+        "research/100-directions/073-peat-water-carbon/metadata.json"
+      ],
+      "originals": [
+        {
+          "path": "research/100-directions/073-peat-water-carbon/readable.md",
+          "original_name": "泥炭地一旦排水 地下的旧碳就开始见天日.md",
+          "bytes": 6229,
+          "sha256": "cda34dbd0f483b0178433e8a0501b6d01f5c4e29efce21d8387afcc38a6a5df3",
+          "byte_identical": true
+        }
+      ],
+      "series": "research-100-20261007",
+      "series_number": "073",
+      "topic": "湿地生态",
+      "tags": [
+        "泥炭",
+        "水位",
+        "碳循环"
       ]
     }
   ]

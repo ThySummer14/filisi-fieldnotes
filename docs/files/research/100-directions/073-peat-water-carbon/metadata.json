@@ -1,0 +1,52 @@
+{
+  "id": "073",
+  "slug": "peat-water-carbon",
+  "topic": "湿地生态",
+  "tags": [
+    "泥炭",
+    "水位",
+    "碳循环"
+  ],
+  "title": "泥炭地一旦排水 地下的旧碳就开始见天日",
+  "description": "水位控制分解的条件。重新变湿通常能减少旧碳损失，却不保证立即找回原来的植物群落。",
+  "date": "2026-10-07",
+  "language": "zh-CN",
+  "sources": [
+    {
+      "title": "IUCN 2021 Peatlands and climate change",
+      "url": "https://iucn.org/sites/default/files/2022-04/iucn_issues_brief_peatlands_and_climate_change_final_nov21.pdf",
+      "source_type": "机构科学综述",
+      "accessed": "2026-10-07"
+    },
+    {
+      "title": "UNEP Global Peatlands Assessment 2022",
+      "url": "https://www.unep.org/resources/global-peatlands-assessment-2022",
+      "source_type": "机构评估摘要",
+      "accessed": "2026-10-07"
+    },
+    {
+      "title": "Evans et al 2021 Overriding water table control",
+      "url": "https://doi.org/10.1038/s41586-021-03523-1",
+      "source_type": "原始研究摘要及机构说明",
+      "accessed": "2026-10-07"
+    },
+    {
+      "title": "Günther et al 2020 Prompt rewetting reduces climate warming",
+      "url": "https://doi.org/10.1038/s41467-020-15499-z",
+      "source_type": "原始模拟研究摘要",
+      "accessed": "2026-10-07"
+    },
+    {
+      "title": "Kreyling et al 2021 Rewetting does not return drained fen peatlands to their old selves",
+      "url": "https://doi.org/10.1038/s41467-021-25619-y",
+      "source_type": "原始比较研究",
+      "accessed": "2026-10-07"
+    },
+    {
+      "title": "Author Correction 2024 Prompt rewetting of drained peatlands reduces climate warming despite methane emissions",
+      "url": "https://www.nature.com/articles/s41467-024-47604-x",
+      "source_type": "作者更正",
+      "accessed": "2026-10-07"
+    }
+  ]
+}

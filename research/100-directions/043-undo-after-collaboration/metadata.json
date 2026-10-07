@@ -1,0 +1,29 @@
+{
+  "id": "043",
+  "title": "撤销按钮不该把别人刚写的字也带走",
+  "description": "从选择性撤销到事件重放与补偿，恢复旧状态和撤回一次意图不是同一种操作。",
+  "topic": "交互与状态管理",
+  "tags": [
+    "撤销",
+    "协作编辑",
+    "事件溯源"
+  ],
+  "sources": [
+    {
+      "title": "Yjs UndoManager",
+      "url": "https://docs.yjs.dev/api/undo-manager"
+    },
+    {
+      "title": "ProseMirror history.ts",
+      "url": "https://github.com/ProseMirror/prosemirror-history/blob/master/src/history.ts"
+    },
+    {
+      "title": "Martin Fowler Event Sourcing",
+      "url": "https://martinfowler.com/eaaDev/EventSourcing.html"
+    },
+    {
+      "title": "Microsoft Azure补偿事务模式",
+      "url": "https://learn.microsoft.com/en-us/azure/architecture/patterns/compensating-transaction"
+    }
+  ]
+}

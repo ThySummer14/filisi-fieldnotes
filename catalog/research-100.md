@@ -1,6 +1,6 @@
 # 100个研究方向
 
-已收录 12 / 100 篇新研究。原有16篇专题研究与书稿不计入这个目标。编号是方向索引，不表示中间编号已经完成。
+已收录 18 / 100 篇新研究。原有16篇专题研究与书稿不计入这个目标。编号是方向索引，不表示中间编号已经完成。
 
 - 001 [同一条裙子，两套照明](../research/100-directions/001-dress-color-constancy/readable.md) · 视觉与色彩
 - 002 [余光中的字，为什么越挤越认不出](../research/100-directions/002-peripheral-crowding/readable.md) · 视觉与版式
@@ -11,6 +11,12 @@
 - 038 [三张牌就能拆穿的洗牌算法](../research/100-directions/038-shuffle-bias/readable.md) · 随机算法
 - 039 [布隆过滤器说有的时候 还不能作数](../research/100-directions/039-bloom-filter-deletion/readable.md) · 概率数据结构
 - 040 [不记住访客名单 还能数出多少人](../research/100-directions/040-hyperloglog-registers/readable.md) · 统计计算
+- 041 [加一台服务器为什么会搬走四分之三的数据](../research/100-directions/041-consistent-hash-movement/readable.md) · 分布式系统
+- 042 [所有副本都同意 文字仍然可能不对](../research/100-directions/042-crdt-delete-intent/readable.md) · 协作软件
+- 043 [撤销按钮不该把别人刚写的字也带走](../research/100-directions/043-undo-after-collaboration/readable.md) · 交互与状态管理
 - 068 [日落后 城市还在退还白天的热](../research/100-directions/068-urban-night-heat/readable.md) · 城市气候
 - 069 [菌根网络存在之后 还需要证明什么](../research/100-directions/069-forest-fungal-networks/readable.md) · 森林生态
 - 070 [水坝留下的泥沙账单](../research/100-directions/070-dam-sediment/readable.md) · 河流地貌
+- 071 [沙漠很多 建筑用砂仍会短缺](../research/100-directions/071-construction-sand/readable.md) · 物质资源
+- 072 [河流切掉一个弯 变化会传得很远](../research/100-directions/072-river-cutoffs/readable.md) · 河流地貌
+- 073 [泥炭地一旦排水 地下的旧碳就开始见天日](../research/100-directions/073-peat-water-carbon/readable.md) · 湿地生态

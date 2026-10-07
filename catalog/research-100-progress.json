@@ -1,6 +1,6 @@
 {
   "target": 100,
-  "completed_count": 12,
+  "completed_count": 18,
   "existing_library_excluded": 16,
   "completed": [
     {
@@ -58,6 +58,24 @@
       "path": "research/100-directions/040-hyperloglog-registers"
     },
     {
+      "number": "041",
+      "title": "加一台服务器为什么会搬走四分之三的数据",
+      "topic": "分布式系统",
+      "path": "research/100-directions/041-consistent-hash-movement"
+    },
+    {
+      "number": "042",
+      "title": "所有副本都同意 文字仍然可能不对",
+      "topic": "协作软件",
+      "path": "research/100-directions/042-crdt-delete-intent"
+    },
+    {
+      "number": "043",
+      "title": "撤销按钮不该把别人刚写的字也带走",
+      "topic": "交互与状态管理",
+      "path": "research/100-directions/043-undo-after-collaboration"
+    },
+    {
       "number": "068",
       "title": "日落后 城市还在退还白天的热",
       "topic": "城市气候",
@@ -74,6 +92,24 @@
       "title": "水坝留下的泥沙账单",
       "topic": "河流地貌",
       "path": "research/100-directions/070-dam-sediment"
+    },
+    {
+      "number": "071",
+      "title": "沙漠很多 建筑用砂仍会短缺",
+      "topic": "物质资源",
+      "path": "research/100-directions/071-construction-sand"
+    },
+    {
+      "number": "072",
+      "title": "河流切掉一个弯 变化会传得很远",
+      "topic": "河流地貌",
+      "path": "research/100-directions/072-river-cutoffs"
+    },
+    {
+      "number": "073",
+      "title": "泥炭地一旦排水 地下的旧碳就开始见天日",
+      "topic": "湿地生态",
+      "path": "research/100-directions/073-peat-water-carbon"
     }
   ]
 }

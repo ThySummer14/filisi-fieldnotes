@@ -1,0 +1,29 @@
+{
+  "id": "042",
+  "title": "所有副本都同意 文字仍然可能不对",
+  "description": "CRDT的收敛保证不能代替删除语义、多人编辑意图和应用不变量。",
+  "topic": "协作软件",
+  "tags": [
+    "CRDT",
+    "离线优先",
+    "并发语义"
+  ],
+  "sources": [
+    {
+      "title": "Preguiça等 CRDT综述",
+      "url": "https://arxiv.org/pdf/1805.06358"
+    },
+    {
+      "title": "Automerge Conflicts",
+      "url": "https://automerge.org/docs/reference/documents/conflicts/"
+    },
+    {
+      "title": "Yjs Y.Text接口",
+      "url": "https://docs.yjs.dev/api/shared-types/y.text"
+    },
+    {
+      "title": "Kleppmann等 Interleaving anomalies",
+      "url": "https://martin.kleppmann.com/papers/interleaving-papoc19.pdf"
+    }
+  ]
+}

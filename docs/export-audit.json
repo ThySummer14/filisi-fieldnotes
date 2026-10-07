@@ -27,7 +27,13 @@
     "research/100-directions/003-mcgurk-and-real-speech",
     "research/100-directions/038-shuffle-bias",
     "research/100-directions/039-bloom-filter-deletion",
-    "research/100-directions/040-hyperloglog-registers"
+    "research/100-directions/040-hyperloglog-registers",
+    "research/100-directions/041-consistent-hash-movement",
+    "research/100-directions/042-crdt-delete-intent",
+    "research/100-directions/043-undo-after-collaboration",
+    "research/100-directions/071-construction-sand",
+    "research/100-directions/072-river-cutoffs",
+    "research/100-directions/073-peat-water-carbon"
   ],
-  "item_count": 28
+  "item_count": 34
 }

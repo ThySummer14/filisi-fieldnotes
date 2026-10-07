@@ -1,0 +1,40 @@
+{
+  "id": "072",
+  "slug": "river-cutoffs",
+  "topic": "河流地貌",
+  "tags": [
+    "曲流",
+    "牛轭湖",
+    "洪水"
+  ],
+  "title": "河流切掉一个弯 变化会传得很远",
+  "description": "一片牛轭湖记录的不只是河道缩短，截弯还会改变相邻河段的迁移和河漫滩更新。",
+  "date": "2026-10-07",
+  "language": "zh-CN",
+  "sources": [
+    {
+      "title": "USGS EROS Oxbow Lakes",
+      "url": "https://eros.usgs.gov/earthshots/oxbow-lakes",
+      "source_type": "官方遥感解读",
+      "accessed": "2026-10-07"
+    },
+    {
+      "title": "Constantine et al 2014 Sediment supply as a driver of river meandering",
+      "url": "https://www.nature.com/articles/ngeo2282",
+      "source_type": "原始研究摘要",
+      "accessed": "2026-10-07"
+    },
+    {
+      "title": "Schwenk and Foufoula Georgiou 2016 Meander cutoffs nonlocally accelerate migration",
+      "url": "https://doi.org/10.1002/2016GL071670",
+      "source_type": "原始研究",
+      "accessed": "2026-10-07"
+    },
+    {
+      "title": "NASA 2014 Meandering in the Amazon",
+      "url": "https://science.nasa.gov/earth/earth-observatory/meandering-in-the-amazon-84833/",
+      "source_type": "官方影像解读",
+      "accessed": "2026-10-07"
+    }
+  ]
+}
