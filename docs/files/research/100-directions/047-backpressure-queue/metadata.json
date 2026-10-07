@@ -1,0 +1,29 @@
+{
+  "id": "047",
+  "title": "队列变长以后 请求只是晚一点失败",
+  "description": "背压把下游容量传回上游；扩大缓冲只能吸收短暂波动，不能创造处理能力。",
+  "topic": "系统性能",
+  "tags": [
+    "背压",
+    "排队论",
+    "流处理"
+  ],
+  "sources": [
+    {
+      "title": "MIT Little公式推导",
+      "url": "https://web.mit.edu/urban_or_book/www/book/chapter4/4.4.html"
+    },
+    {
+      "title": "Node.js Backpressuring in Streams",
+      "url": "https://nodejs.org/en/learn/modules/backpressuring-in-streams"
+    },
+    {
+      "title": "Reactive Streams v1.0.4规范",
+      "url": "https://github.com/reactive-streams/reactive-streams-jvm/blob/v1.0.4/README.md"
+    },
+    {
+      "title": "Google SRE Handling Overload",
+      "url": "https://sre.google/sre-book/handling-overload/"
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "id": "079",
+  "slug": "sealed-soil",
+  "topic": "城市水文",
+  "tags": [
+    "不透水面",
+    "渗透",
+    "径流"
+  ],
+  "title": "雨落到铺装以后 城市改了它的时间表",
+  "description": "不透水面改变的不只是多少水进入下水道，还有它何时到达河道、携带什么，以及是否有机会重新渗入地下。",
+  "date": "2026-10-07",
+  "language": "zh-CN",
+  "sources": [
+    {
+      "title": "USGS Impervious Surfaces and Flooding",
+      "url": "https://www.usgs.gov/water-science-school/science/impervious-surfaces-and-flooding",
+      "source_type": "官方科学说明",
+      "accessed": "2026-10-07"
+    },
+    {
+      "title": "Walsh et al 2005 The urban stream syndrome",
+      "url": "https://doi.org/10.1899/04-028.1",
+      "source_type": "学术综述",
+      "accessed": "2026-10-07"
+    },
+    {
+      "title": "EPA Types of Green Infrastructure",
+      "url": "https://www.epa.gov/green-infrastructure/types-green-infrastructure",
+      "source_type": "官方技术说明",
+      "accessed": "2026-10-07"
+    },
+    {
+      "title": "EPA 2021 Permeable Pavements",
+      "url": "https://www.epa.gov/system/files/documents/2021-11/bmp-permeable-pavements.pdf",
+      "source_type": "官方技术资料",
+      "accessed": "2026-10-07"
+    }
+  ]
+}

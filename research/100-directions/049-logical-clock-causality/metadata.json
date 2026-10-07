@@ -1,0 +1,29 @@
+{
+  "id": "049",
+  "title": "两条日志的时间戳 能证明谁先影响谁吗",
+  "description": "物理时间、单调时间和逻辑时间分别回答不同问题，排序结果不能自动当作因果证据。",
+  "topic": "分布式理论",
+  "tags": [
+    "Lamport时钟",
+    "向量时钟",
+    "因果关系"
+  ],
+  "sources": [
+    {
+      "title": "Lamport Time Clocks and Ordering of Events",
+      "url": "https://lamport.azurewebsites.net/pubs/time-clocks.pdf"
+    },
+    {
+      "title": "Dynamo SOSP2007 版本向量",
+      "url": "https://www.allthingsdistributed.com/files/amazon-dynamo-sosp2007.pdf"
+    },
+    {
+      "title": "Go time Monotonic Clocks",
+      "url": "https://pkg.go.dev/time#hdr-Monotonic_Clocks"
+    },
+    {
+      "title": "CockroachDB Transaction Layer",
+      "url": "https://www.cockroachlabs.com/docs/stable/architecture/transaction-layer"
+    }
+  ]
+}

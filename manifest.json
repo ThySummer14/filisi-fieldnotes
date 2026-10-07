@@ -1,12 +1,12 @@
 {
   "archive_date": "2026-10-07",
-  "item_count": 46,
-  "original_file_count": 54,
+  "item_count": 52,
+  "original_file_count": 60,
   "original_docx_count": 14,
   "original_pdf_count": 6,
-  "original_markdown_count": 34,
+  "original_markdown_count": 40,
   "image_count": 33,
-  "readable_markdown_count": 46,
+  "readable_markdown_count": 52,
   "items": [
     {
       "path": "reading/sociological-imagination",
@@ -2040,6 +2040,186 @@
         "海獭",
         "海胆",
         "海带林"
+      ]
+    },
+    {
+      "path": "research/100-directions/047-backpressure-queue",
+      "title": "队列变长以后 请求只是晚一点失败",
+      "archived_at": "2026-10-07",
+      "source_version": 1,
+      "status": "原创专题研究；例子、原始研究与方法边界见正文",
+      "summary": "背压把下游容量传回上游；扩大缓冲只能吸收短暂波动，不能创造处理能力。",
+      "readableMarkdown": "research/100-directions/047-backpressure-queue/readable.md",
+      "sources": "research/100-directions/047-backpressure-queue/sources.md",
+      "assets": [
+        "research/100-directions/047-backpressure-queue/metadata.json"
+      ],
+      "originals": [
+        {
+          "path": "research/100-directions/047-backpressure-queue/readable.md",
+          "original_name": "队列变长以后 请求只是晚一点失败.md",
+          "bytes": 6076,
+          "sha256": "aabe936c064a2436a72e33b66be321166ea261d722069846c4493c0739d9a3fd",
+          "byte_identical": true
+        }
+      ],
+      "series": "research-100-20261007",
+      "series_number": "047",
+      "topic": "系统性能",
+      "tags": [
+        "背压",
+        "排队论",
+        "流处理"
+      ]
+    },
+    {
+      "path": "research/100-directions/048-tail-latency-fanout",
+      "title": "一百个很快的请求 也能拼出一个慢页面",
+      "archived_at": "2026-10-07",
+      "source_version": 1,
+      "status": "原创专题研究；例子、原始研究与方法边界见正文",
+      "summary": "扇出会放大单请求尾部，备用请求和更激进的超时又可能反过来加重负载。",
+      "readableMarkdown": "research/100-directions/048-tail-latency-fanout/readable.md",
+      "sources": "research/100-directions/048-tail-latency-fanout/sources.md",
+      "assets": [
+        "research/100-directions/048-tail-latency-fanout/metadata.json"
+      ],
+      "originals": [
+        {
+          "path": "research/100-directions/048-tail-latency-fanout/readable.md",
+          "original_name": "一百个很快的请求 也能拼出一个慢页面.md",
+          "bytes": 5824,
+          "sha256": "bbb2075c17bb615df4e48a2012795063fd8b68c198165173f91336846c2af3ef",
+          "byte_identical": true
+        }
+      ],
+      "series": "research-100-20261007",
+      "series_number": "048",
+      "topic": "分布式性能",
+      "tags": [
+        "尾延迟",
+        "扇出",
+        "请求对冲"
+      ]
+    },
+    {
+      "path": "research/100-directions/049-logical-clock-causality",
+      "title": "两条日志的时间戳 能证明谁先影响谁吗",
+      "archived_at": "2026-10-07",
+      "source_version": 1,
+      "status": "原创专题研究；例子、原始研究与方法边界见正文",
+      "summary": "物理时间、单调时间和逻辑时间分别回答不同问题，排序结果不能自动当作因果证据。",
+      "readableMarkdown": "research/100-directions/049-logical-clock-causality/readable.md",
+      "sources": "research/100-directions/049-logical-clock-causality/sources.md",
+      "assets": [
+        "research/100-directions/049-logical-clock-causality/metadata.json"
+      ],
+      "originals": [
+        {
+          "path": "research/100-directions/049-logical-clock-causality/readable.md",
+          "original_name": "两条日志的时间戳 能证明谁先影响谁吗.md",
+          "bytes": 5798,
+          "sha256": "bd31ecbc8ce3bc94ca72c5f3824c9b3dd47693b7100d1c8733000c996715997d",
+          "byte_identical": true
+        }
+      ],
+      "series": "research-100-20261007",
+      "series_number": "049",
+      "topic": "分布式理论",
+      "tags": [
+        "Lamport时钟",
+        "向量时钟",
+        "因果关系"
+      ]
+    },
+    {
+      "path": "research/100-directions/077-pigeon-city",
+      "title": "鸽子把楼房当悬崖 还继承了人的选择",
+      "archived_at": "2026-10-07",
+      "source_version": 1,
+      "status": "原创专题研究；例子、原始研究与方法边界见正文",
+      "summary": "城市鸽子的成功同时依赖岩鸽的生活方式、长期驯化与城市资源，羽色也不能直接拿来读污染地图。",
+      "readableMarkdown": "research/100-directions/077-pigeon-city/readable.md",
+      "sources": "research/100-directions/077-pigeon-city/sources.md",
+      "assets": [
+        "research/100-directions/077-pigeon-city/metadata.json"
+      ],
+      "originals": [
+        {
+          "path": "research/100-directions/077-pigeon-city/readable.md",
+          "original_name": "鸽子把楼房当悬崖 还继承了人的选择.md",
+          "bytes": 5957,
+          "sha256": "f79b1db30cb8537a56e47339ef1e7849c7c8c6dce8e570fc9b59f223c517bbda",
+          "byte_identical": true
+        }
+      ],
+      "series": "research-100-20261007",
+      "series_number": "077",
+      "topic": "城市动物",
+      "tags": [
+        "岩鸽",
+        "驯化",
+        "城市生态"
+      ]
+    },
+    {
+      "path": "research/100-directions/078-street-tree-pits",
+      "title": "树池画得很大 地下可能仍是一只小花盆",
+      "archived_at": "2026-10-07",
+      "source_version": 1,
+      "status": "原创专题研究；例子、原始研究与方法边界见正文",
+      "summary": "街树需要的是可通气、可取水、能够连续生根的土壤体积，地面开口大小只是线索。",
+      "readableMarkdown": "research/100-directions/078-street-tree-pits/readable.md",
+      "sources": "research/100-directions/078-street-tree-pits/sources.md",
+      "assets": [
+        "research/100-directions/078-street-tree-pits/metadata.json"
+      ],
+      "originals": [
+        {
+          "path": "research/100-directions/078-street-tree-pits/readable.md",
+          "original_name": "树池画得很大 地下可能仍是一只小花盆.md",
+          "bytes": 5757,
+          "sha256": "00dc3fe56507ceff1404a063919863fe6ef0eb3fe7f66fba192bdbeef9dd684d",
+          "byte_identical": true
+        }
+      ],
+      "series": "research-100-20261007",
+      "series_number": "078",
+      "topic": "城市树木",
+      "tags": [
+        "树池",
+        "根系",
+        "土壤压实"
+      ]
+    },
+    {
+      "path": "research/100-directions/079-sealed-soil",
+      "title": "雨落到铺装以后 城市改了它的时间表",
+      "archived_at": "2026-10-07",
+      "source_version": 1,
+      "status": "原创专题研究；例子、原始研究与方法边界见正文",
+      "summary": "不透水面改变的不只是多少水进入下水道，还有它何时到达河道、携带什么，以及是否有机会重新渗入地下。",
+      "readableMarkdown": "research/100-directions/079-sealed-soil/readable.md",
+      "sources": "research/100-directions/079-sealed-soil/sources.md",
+      "assets": [
+        "research/100-directions/079-sealed-soil/metadata.json"
+      ],
+      "originals": [
+        {
+          "path": "research/100-directions/079-sealed-soil/readable.md",
+          "original_name": "雨落到铺装以后 城市改了它的时间表.md",
+          "bytes": 6020,
+          "sha256": "3daed09ef52aaa211e5dfac9520adec3804b1a7c3b08c10cf7e691b999218621",
+          "byte_identical": true
+        }
+      ],
+      "series": "research-100-20261007",
+      "series_number": "079",
+      "topic": "城市水文",
+      "tags": [
+        "不透水面",
+        "渗透",
+        "径流"
       ]
     }
   ]

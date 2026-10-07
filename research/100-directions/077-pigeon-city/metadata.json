@@ -1,0 +1,40 @@
+{
+  "id": "077",
+  "slug": "pigeon-city",
+  "topic": "城市动物",
+  "tags": [
+    "岩鸽",
+    "驯化",
+    "城市生态"
+  ],
+  "title": "鸽子把楼房当悬崖 还继承了人的选择",
+  "description": "城市鸽子的成功同时依赖岩鸽的生活方式、长期驯化与城市资源，羽色也不能直接拿来读污染地图。",
+  "date": "2026-10-07",
+  "language": "zh-CN",
+  "sources": [
+    {
+      "title": "Cornell Lab Rock Pigeon Life History",
+      "url": "https://www.allaboutbirds.org/guide/Rock_Pigeon/lifehistory",
+      "source_type": "学术机构物种资料",
+      "accessed": "2026-10-07"
+    },
+    {
+      "title": "Shapiro et al 2013 Genomic diversity and evolution of the head crest",
+      "url": "https://doi.org/10.1126/science.1230422",
+      "source_type": "原始研究摘要",
+      "accessed": "2026-10-07"
+    },
+    {
+      "title": "Chatelain et al 2014 Adaptive function of melanin based plumage to trace metals",
+      "url": "https://doi.org/10.1098/rsbl.2014.0164",
+      "source_type": "原始实验摘要",
+      "accessed": "2026-10-07"
+    },
+    {
+      "title": "Oxford 2022 Rare wild ancestors of feral pigeons",
+      "url": "https://www.ox.ac.uk/news/2022-07-01-rare-wild-ancestors-feral-pigeons-found-living-british-and-irish-islands",
+      "source_type": "作者机构研究说明",
+      "accessed": "2026-10-07"
+    }
+  ]
+}

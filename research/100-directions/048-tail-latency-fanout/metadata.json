@@ -1,0 +1,29 @@
+{
+  "id": "048",
+  "title": "一百个很快的请求 也能拼出一个慢页面",
+  "description": "扇出会放大单请求尾部，备用请求和更激进的超时又可能反过来加重负载。",
+  "topic": "分布式性能",
+  "tags": [
+    "尾延迟",
+    "扇出",
+    "请求对冲"
+  ],
+  "sources": [
+    {
+      "title": "Dean与Barroso The Tail at Scale",
+      "url": "https://www.barroso.org/publications/TheTailAtScale.pdf"
+    },
+    {
+      "title": "gRPC Request Hedging",
+      "url": "https://grpc.io/docs/guides/request-hedging/"
+    },
+    {
+      "title": "Google SRE Datacenter Load Balancing",
+      "url": "https://sre.google/sre-book/load-balancing-datacenter/"
+    },
+    {
+      "title": "gRPC Deadlines",
+      "url": "https://grpc.io/docs/guides/deadlines/"
+    }
+  ]
+}

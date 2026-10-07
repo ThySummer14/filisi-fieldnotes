@@ -1,0 +1,40 @@
+{
+  "id": "078",
+  "slug": "street-tree-pits",
+  "topic": "城市树木",
+  "tags": [
+    "树池",
+    "根系",
+    "土壤压实"
+  ],
+  "title": "树池画得很大 地下可能仍是一只小花盆",
+  "description": "街树需要的是可通气、可取水、能够连续生根的土壤体积，地面开口大小只是线索。",
+  "date": "2026-10-07",
+  "language": "zh-CN",
+  "sources": [
+    {
+      "title": "Lindsey and Bassuk 1991 Specifying Soil Volumes",
+      "url": "https://joa.isa-arbor.com/request.asp?ArticleID=2436&JournalID=1&Type=2",
+      "source_type": "原始方法论文",
+      "accessed": "2026-10-07"
+    },
+    {
+      "title": "Cornell Using CU Structural Soil in the Urban Environment",
+      "url": "https://www.hort.cornell.edu/uhi/outreach/pdfs/custructuralsoilwebpdf.pdf",
+      "source_type": "大学技术手册",
+      "accessed": "2026-10-07"
+    },
+    {
+      "title": "UF IFAS Urban Design",
+      "url": "https://hort.ifas.ufl.edu/woody/urban-design.shtml",
+      "source_type": "大学推广技术资料",
+      "accessed": "2026-10-07"
+    },
+    {
+      "title": "EPA Stormwater to Street Trees",
+      "url": "https://nepis.epa.gov/Exe/ZyPURL.cgi?Dockey=P100H2RQ.TXT",
+      "source_type": "官方技术报告",
+      "accessed": "2026-10-07"
+    }
+  ]
+}

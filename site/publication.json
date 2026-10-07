@@ -46,6 +46,12 @@
     "research/100-directions/009-soundscape-beyond-decibels",
     "research/100-directions/074-marine-snow",
     "research/100-directions/075-ocean-oxygen",
-    "research/100-directions/076-sea-otters-kelp"
+    "research/100-directions/076-sea-otters-kelp",
+    "research/100-directions/047-backpressure-queue",
+    "research/100-directions/048-tail-latency-fanout",
+    "research/100-directions/049-logical-clock-causality",
+    "research/100-directions/077-pigeon-city",
+    "research/100-directions/078-street-tree-pits",
+    "research/100-directions/079-sealed-soil"
   ]
 }

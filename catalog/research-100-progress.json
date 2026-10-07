@@ -1,6 +1,6 @@
 {
   "target": 100,
-  "completed_count": 30,
+  "completed_count": 36,
   "existing_library_excluded": 16,
   "completed": [
     {
@@ -130,6 +130,24 @@
       "path": "research/100-directions/046-retry-idempotency"
     },
     {
+      "number": "047",
+      "title": "队列变长以后 请求只是晚一点失败",
+      "topic": "系统性能",
+      "path": "research/100-directions/047-backpressure-queue"
+    },
+    {
+      "number": "048",
+      "title": "一百个很快的请求 也能拼出一个慢页面",
+      "topic": "分布式性能",
+      "path": "research/100-directions/048-tail-latency-fanout"
+    },
+    {
+      "number": "049",
+      "title": "两条日志的时间戳 能证明谁先影响谁吗",
+      "topic": "分布式理论",
+      "path": "research/100-directions/049-logical-clock-causality"
+    },
+    {
       "number": "068",
       "title": "日落后 城市还在退还白天的热",
       "topic": "城市气候",
@@ -182,6 +200,24 @@
       "title": "海獭很多 海带林为什么还会变秃",
       "topic": "生态关系",
       "path": "research/100-directions/076-sea-otters-kelp"
+    },
+    {
+      "number": "077",
+      "title": "鸽子把楼房当悬崖 还继承了人的选择",
+      "topic": "城市动物",
+      "path": "research/100-directions/077-pigeon-city"
+    },
+    {
+      "number": "078",
+      "title": "树池画得很大 地下可能仍是一只小花盆",
+      "topic": "城市树木",
+      "path": "research/100-directions/078-street-tree-pits"
+    },
+    {
+      "number": "079",
+      "title": "雨落到铺装以后 城市改了它的时间表",
+      "topic": "城市水文",
+      "path": "research/100-directions/079-sealed-soil"
     }
   ]
 }
