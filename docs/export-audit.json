@@ -33,7 +33,13 @@
     "research/100-directions/043-undo-after-collaboration",
     "research/100-directions/071-construction-sand",
     "research/100-directions/072-river-cutoffs",
-    "research/100-directions/073-peat-water-carbon"
+    "research/100-directions/073-peat-water-carbon",
+    "research/100-directions/004-auditory-grouping",
+    "research/100-directions/005-missing-fundamental",
+    "research/100-directions/006-shepard-pitch-circle",
+    "research/100-directions/044-sqlite-wal-reader",
+    "research/100-directions/045-http-cache-freshness",
+    "research/100-directions/046-retry-idempotency"
   ],
-  "item_count": 34
+  "item_count": 40
 }

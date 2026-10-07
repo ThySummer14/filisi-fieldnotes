@@ -1,0 +1,43 @@
+{
+  "id": "004",
+  "title": "耳朵收到一条波形，听见几个人",
+  "description": "从同步纯音到非谐波语音实验，看听觉怎样从混合输入中组织声源。",
+  "topic": "听觉组织",
+  "tags": [
+    "听觉场景分析",
+    "谐波",
+    "时间相干",
+    "注意力"
+  ],
+  "language": "zh-CN",
+  "sources": [
+    {
+      "id": 1,
+      "title": "The cocktail party problem",
+      "url": "https://mcdermottlab.mit.edu/papers/McDermott_2010_cocktail_party_problem.pdf",
+      "type": "peer_reviewed_review",
+      "accessed": "2026-10-07"
+    },
+    {
+      "id": 2,
+      "title": "Temporal coherence in the perceptual organization and cortical representation of auditory scenes",
+      "url": "https://engineering.jhu.edu/lcap/data/uploads/pdfs/neuron2009_elhilali.pdf",
+      "type": "primary_research",
+      "accessed": "2026-10-07"
+    },
+    {
+      "id": 3,
+      "title": "Inharmonic speech reveals the role of harmonicity in the cocktail party problem",
+      "url": "https://mcdermottlab.mit.edu/papers/Popham_etal_2018_inharmonic_speech_separation.pdf",
+      "type": "primary_research",
+      "accessed": "2026-10-07"
+    },
+    {
+      "id": 4,
+      "title": "Interaction between attention and bottom-up saliency mediates the representation of foreground and background in an auditory scene",
+      "url": "https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.1000129",
+      "type": "primary_research",
+      "accessed": "2026-10-07"
+    }
+  ]
+}

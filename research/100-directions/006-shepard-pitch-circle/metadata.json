@@ -1,0 +1,43 @@
+{
+  "id": "006",
+  "title": "永远上楼的音阶，在哪里回到了一楼",
+  "description": "循环音高靠局部方向与整体高度脱钩；三全音研究还揭示了听觉信心的差异。",
+  "topic": "音乐知觉",
+  "tags": [
+    "谢泼德音",
+    "三全音悖论",
+    "音高",
+    "知觉信心"
+  ],
+  "language": "zh-CN",
+  "sources": [
+    {
+      "id": 1,
+      "title": "Circularity in judgments of relative pitch",
+      "url": "https://doi.org/10.1121/1.1919362",
+      "type": "primary_research",
+      "accessed": "2026-10-07"
+    },
+    {
+      "id": 2,
+      "title": "A musical paradox",
+      "url": "https://deutsch.ucsd.edu/pdf/MP-1986_3_275-280.pdf",
+      "type": "primary_research",
+      "accessed": "2026-10-07"
+    },
+    {
+      "id": 3,
+      "title": "Interindividual variability in auditory scene analysis revealed by confidence judgements",
+      "url": "https://doi.org/10.1098/rstb.2016.0107",
+      "type": "primary_research",
+      "accessed": "2026-10-07"
+    },
+    {
+      "id": 4,
+      "title": "Aftereffects of spectrally similar and dissimilar spectral motion adaptors in the tritone paradox",
+      "url": "https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2018.00677/full",
+      "type": "primary_research",
+      "accessed": "2026-10-07"
+    }
+  ]
+}

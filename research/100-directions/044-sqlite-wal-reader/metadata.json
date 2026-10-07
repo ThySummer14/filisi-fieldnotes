@@ -1,0 +1,29 @@
+{
+  "id": "044",
+  "title": "一直没结束的读事务 会留下多大的日志",
+  "description": "用两个SQLite连接观察快照读取怎样阻止检查点推进，并区分提交、检查点和安全备份。",
+  "topic": "数据库",
+  "tags": [
+    "SQLite",
+    "WAL",
+    "快照隔离"
+  ],
+  "sources": [
+    {
+      "title": "SQLite WAL",
+      "url": "https://www.sqlite.org/wal.html"
+    },
+    {
+      "title": "SQLite Isolation",
+      "url": "https://www.sqlite.org/isolation.html"
+    },
+    {
+      "title": "SQLite PRAGMA wal_checkpoint",
+      "url": "https://www.sqlite.org/pragma.html#pragma_wal_checkpoint"
+    },
+    {
+      "title": "SQLite Online Backup API",
+      "url": "https://www.sqlite.org/backup.html"
+    }
+  ]
+}

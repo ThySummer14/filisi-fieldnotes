@@ -1,12 +1,12 @@
 {
   "archive_date": "2026-10-07",
-  "item_count": 34,
-  "original_file_count": 42,
+  "item_count": 40,
+  "original_file_count": 48,
   "original_docx_count": 14,
   "original_pdf_count": 6,
-  "original_markdown_count": 22,
+  "original_markdown_count": 28,
   "image_count": 33,
-  "readable_markdown_count": 34,
+  "readable_markdown_count": 40,
   "items": [
     {
       "path": "reading/sociological-imagination",
@@ -1674,6 +1674,189 @@
         "泥炭",
         "水位",
         "碳循环"
+      ]
+    },
+    {
+      "path": "research/100-directions/004-auditory-grouping",
+      "title": "耳朵收到一条波形，听见几个人",
+      "archived_at": "2026-10-07",
+      "source_version": 1,
+      "status": "原创专题研究；例子、原始研究与方法边界见正文",
+      "summary": "从同步纯音到非谐波语音实验，看听觉怎样从混合输入中组织声源。",
+      "readableMarkdown": "research/100-directions/004-auditory-grouping/readable.md",
+      "sources": "research/100-directions/004-auditory-grouping/sources.md",
+      "assets": [
+        "research/100-directions/004-auditory-grouping/metadata.json"
+      ],
+      "originals": [
+        {
+          "path": "research/100-directions/004-auditory-grouping/readable.md",
+          "original_name": "耳朵收到一条波形，听见几个人.md",
+          "bytes": 6395,
+          "sha256": "c1c6acaf0abc8f4b6f99f4d928979bcd9358837abf26ff0777bdec456aa00985",
+          "byte_identical": true
+        }
+      ],
+      "series": "research-100-20261007",
+      "series_number": "004",
+      "topic": "听觉组织",
+      "tags": [
+        "听觉场景分析",
+        "谐波",
+        "时间相干",
+        "注意力"
+      ]
+    },
+    {
+      "path": "research/100-directions/005-missing-fundamental",
+      "title": "音箱没有放出的低音",
+      "archived_at": "2026-10-07",
+      "source_version": 1,
+      "status": "原创专题研究；例子、原始研究与方法边界见正文",
+      "summary": "音高可以在基频缺席时保留，虚拟低音却不能替音箱补回全部物理低频。",
+      "readableMarkdown": "research/100-directions/005-missing-fundamental/readable.md",
+      "sources": "research/100-directions/005-missing-fundamental/sources.md",
+      "assets": [
+        "research/100-directions/005-missing-fundamental/metadata.json"
+      ],
+      "originals": [
+        {
+          "path": "research/100-directions/005-missing-fundamental/readable.md",
+          "original_name": "音箱没有放出的低音.md",
+          "bytes": 6261,
+          "sha256": "3e2f38b4f82460616ab4271b79e1e600e5ba4f8b9fbebdfe301e3ce51859f5f4",
+          "byte_identical": true
+        }
+      ],
+      "series": "research-100-20261007",
+      "series_number": "005",
+      "topic": "音高知觉",
+      "tags": [
+        "缺失基频",
+        "虚拟低音",
+        "谐波",
+        "听觉编码"
+      ]
+    },
+    {
+      "path": "research/100-directions/006-shepard-pitch-circle",
+      "title": "永远上楼的音阶，在哪里回到了一楼",
+      "archived_at": "2026-10-07",
+      "source_version": 1,
+      "status": "原创专题研究；例子、原始研究与方法边界见正文",
+      "summary": "循环音高靠局部方向与整体高度脱钩；三全音研究还揭示了听觉信心的差异。",
+      "readableMarkdown": "research/100-directions/006-shepard-pitch-circle/readable.md",
+      "sources": "research/100-directions/006-shepard-pitch-circle/sources.md",
+      "assets": [
+        "research/100-directions/006-shepard-pitch-circle/metadata.json"
+      ],
+      "originals": [
+        {
+          "path": "research/100-directions/006-shepard-pitch-circle/readable.md",
+          "original_name": "永远上楼的音阶，在哪里回到了一楼.md",
+          "bytes": 6077,
+          "sha256": "7b2744ff0c66252415c3ea21de38c7e3d8d596d3f874c5e05be40bd5c592a9cb",
+          "byte_identical": true
+        }
+      ],
+      "series": "research-100-20261007",
+      "series_number": "006",
+      "topic": "音乐知觉",
+      "tags": [
+        "谢泼德音",
+        "三全音悖论",
+        "音高",
+        "知觉信心"
+      ]
+    },
+    {
+      "path": "research/100-directions/044-sqlite-wal-reader",
+      "title": "一直没结束的读事务 会留下多大的日志",
+      "archived_at": "2026-10-07",
+      "source_version": 1,
+      "status": "原创专题研究；例子、原始研究与方法边界见正文",
+      "summary": "用两个SQLite连接观察快照读取怎样阻止检查点推进，并区分提交、检查点和安全备份。",
+      "readableMarkdown": "research/100-directions/044-sqlite-wal-reader/readable.md",
+      "sources": "research/100-directions/044-sqlite-wal-reader/sources.md",
+      "assets": [
+        "research/100-directions/044-sqlite-wal-reader/metadata.json"
+      ],
+      "originals": [
+        {
+          "path": "research/100-directions/044-sqlite-wal-reader/readable.md",
+          "original_name": "一直没结束的读事务 会留下多大的日志.md",
+          "bytes": 5891,
+          "sha256": "c2dcb021f27833b1961bf0e268e21234a9861a6fc354838985d286841bc5a356",
+          "byte_identical": true
+        }
+      ],
+      "series": "research-100-20261007",
+      "series_number": "044",
+      "topic": "数据库",
+      "tags": [
+        "SQLite",
+        "WAL",
+        "快照隔离"
+      ]
+    },
+    {
+      "path": "research/100-directions/045-http-cache-freshness",
+      "title": "缓存里的新鲜 不等于服务器上的最新",
+      "archived_at": "2026-10-07",
+      "source_version": 1,
+      "status": "原创专题研究；例子、原始研究与方法边界见正文",
+      "summary": "HTTP缓存的年龄、验证与陈旧响应策略，以及更新后页面仍旧的几种具体原因。",
+      "readableMarkdown": "research/100-directions/045-http-cache-freshness/readable.md",
+      "sources": "research/100-directions/045-http-cache-freshness/sources.md",
+      "assets": [
+        "research/100-directions/045-http-cache-freshness/metadata.json"
+      ],
+      "originals": [
+        {
+          "path": "research/100-directions/045-http-cache-freshness/readable.md",
+          "original_name": "缓存里的新鲜 不等于服务器上的最新.md",
+          "bytes": 5932,
+          "sha256": "d10a14ab877a1dcece808080e81fa59dbbb2a3b006d5a9cb666a29f558fecdfd",
+          "byte_identical": true
+        }
+      ],
+      "series": "research-100-20261007",
+      "series_number": "045",
+      "topic": "Web协议",
+      "tags": [
+        "HTTP缓存",
+        "ETag",
+        "内容发布"
+      ]
+    },
+    {
+      "path": "research/100-directions/046-retry-idempotency",
+      "title": "请求超时以后 那一次到底算不算",
+      "archived_at": "2026-10-07",
+      "source_version": 1,
+      "status": "原创专题研究；例子、原始研究与方法边界见正文",
+      "summary": "幂等键要标识一次业务意图，去重记录还必须与副作用一起处理失败。",
+      "readableMarkdown": "research/100-directions/046-retry-idempotency/readable.md",
+      "sources": "research/100-directions/046-retry-idempotency/sources.md",
+      "assets": [
+        "research/100-directions/046-retry-idempotency/metadata.json"
+      ],
+      "originals": [
+        {
+          "path": "research/100-directions/046-retry-idempotency/readable.md",
+          "original_name": "请求超时以后 那一次到底算不算.md",
+          "bytes": 6014,
+          "sha256": "3aae84377d240ef4ac5d628bc61d91a4b8ce5b3b96c82a21e98619d05709dc12",
+          "byte_identical": true
+        }
+      ],
+      "series": "research-100-20261007",
+      "series_number": "046",
+      "topic": "可靠性工程",
+      "tags": [
+        "幂等",
+        "重试",
+        "网络协议"
       ]
     }
   ]

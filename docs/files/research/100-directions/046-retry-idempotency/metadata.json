@@ -1,0 +1,29 @@
+{
+  "id": "046",
+  "title": "请求超时以后 那一次到底算不算",
+  "description": "幂等键要标识一次业务意图，去重记录还必须与副作用一起处理失败。",
+  "topic": "可靠性工程",
+  "tags": [
+    "幂等",
+    "重试",
+    "网络协议"
+  ],
+  "sources": [
+    {
+      "title": "AWS Making retries safe with idempotent APIs",
+      "url": "https://aws.amazon.com/builders-library/making-retries-safe-with-idempotent-APIs/"
+    },
+    {
+      "title": "Stripe Idempotent requests",
+      "url": "https://docs.stripe.com/api/idempotent_requests"
+    },
+    {
+      "title": "RFC 9110幂等方法",
+      "url": "https://httpwg.org/specs/rfc9110.html#idempotent.methods"
+    },
+    {
+      "title": "AWS Exponential Backoff and Jitter",
+      "url": "https://aws.amazon.com/blogs/architecture/exponential-backoff-and-jitter/"
+    }
+  ]
+}

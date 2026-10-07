@@ -1,0 +1,29 @@
+{
+  "id": "045",
+  "title": "缓存里的新鲜 不等于服务器上的最新",
+  "description": "HTTP缓存的年龄、验证与陈旧响应策略，以及更新后页面仍旧的几种具体原因。",
+  "topic": "Web协议",
+  "tags": [
+    "HTTP缓存",
+    "ETag",
+    "内容发布"
+  ],
+  "sources": [
+    {
+      "title": "RFC 9111 HTTP Caching",
+      "url": "https://www.rfc-editor.org/rfc/rfc9111"
+    },
+    {
+      "title": "RFC 9110 HTTP Semantics",
+      "url": "https://httpwg.org/specs/rfc9110.html"
+    },
+    {
+      "title": "RFC 5861 陈旧缓存扩展",
+      "url": "https://www.rfc-editor.org/rfc/rfc5861"
+    },
+    {
+      "title": "MDN HTTP缓存指南",
+      "url": "https://developer.mozilla.org/en-US/docs/Web/HTTP/Guides/Caching"
+    }
+  ]
+}

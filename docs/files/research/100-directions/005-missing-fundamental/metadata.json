@@ -1,0 +1,43 @@
+{
+  "id": "005",
+  "title": "音箱没有放出的低音",
+  "description": "音高可以在基频缺席时保留，虚拟低音却不能替音箱补回全部物理低频。",
+  "topic": "音高知觉",
+  "tags": [
+    "缺失基频",
+    "虚拟低音",
+    "谐波",
+    "听觉编码"
+  ],
+  "language": "zh-CN",
+  "sources": [
+    {
+      "id": 1,
+      "title": "Pitch perception",
+      "url": "https://doi.org/10.1523/JNEUROSCI.3815-12.2012",
+      "type": "peer_reviewed_review",
+      "accessed": "2026-10-07"
+    },
+    {
+      "id": 2,
+      "title": "Correct tonotopic representation is necessary for complex pitch perception",
+      "url": "https://doi.org/10.1073/pnas.0306958101",
+      "type": "primary_research",
+      "accessed": "2026-10-07"
+    },
+    {
+      "id": 3,
+      "title": "Cortical pitch regions in humans respond primarily to resolved harmonics and are located in specific tonotopic regions of anterior auditory cortex",
+      "url": "https://web.mit.edu/svnh/www/homepage/Research_files/Norman-Haignere_Kanwisher_McDermott_2013_pitch_regions.pdf",
+      "type": "primary_research",
+      "accessed": "2026-10-07"
+    },
+    {
+      "id": 4,
+      "title": "Reproducing low-pitched signals through small loudspeakers",
+      "url": "https://aes.org/publications/elibrary-page/?id=11088",
+      "type": "primary_research",
+      "accessed": "2026-10-07"
+    }
+  ]
+}

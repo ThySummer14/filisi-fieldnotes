@@ -1,6 +1,6 @@
 {
   "target": 100,
-  "completed_count": 18,
+  "completed_count": 24,
   "existing_library_excluded": 16,
   "completed": [
     {
@@ -20,6 +20,24 @@
       "title": "嘴型改写听觉之后，还剩什么问题",
       "topic": "听觉与多感官",
       "path": "research/100-directions/003-mcgurk-and-real-speech"
+    },
+    {
+      "number": "004",
+      "title": "耳朵收到一条波形，听见几个人",
+      "topic": "听觉组织",
+      "path": "research/100-directions/004-auditory-grouping"
+    },
+    {
+      "number": "005",
+      "title": "音箱没有放出的低音",
+      "topic": "音高知觉",
+      "path": "research/100-directions/005-missing-fundamental"
+    },
+    {
+      "number": "006",
+      "title": "永远上楼的音阶，在哪里回到了一楼",
+      "topic": "音乐知觉",
+      "path": "research/100-directions/006-shepard-pitch-circle"
     },
     {
       "number": "035",
@@ -74,6 +92,24 @@
       "title": "撤销按钮不该把别人刚写的字也带走",
       "topic": "交互与状态管理",
       "path": "research/100-directions/043-undo-after-collaboration"
+    },
+    {
+      "number": "044",
+      "title": "一直没结束的读事务 会留下多大的日志",
+      "topic": "数据库",
+      "path": "research/100-directions/044-sqlite-wal-reader"
+    },
+    {
+      "number": "045",
+      "title": "缓存里的新鲜 不等于服务器上的最新",
+      "topic": "Web协议",
+      "path": "research/100-directions/045-http-cache-freshness"
+    },
+    {
+      "number": "046",
+      "title": "请求超时以后 那一次到底算不算",
+      "topic": "可靠性工程",
+      "path": "research/100-directions/046-retry-idempotency"
     },
     {
       "number": "068",
