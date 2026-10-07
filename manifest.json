@@ -1,12 +1,12 @@
 {
   "archive_date": "2026-10-07",
-  "item_count": 15,
-  "original_file_count": 23,
+  "item_count": 16,
+  "original_file_count": 24,
   "original_docx_count": 14,
   "original_pdf_count": 6,
-  "original_markdown_count": 3,
+  "original_markdown_count": 4,
   "image_count": 33,
-  "readable_markdown_count": 15,
+  "readable_markdown_count": 16,
   "items": [
     {
       "path": "reading/sociological-imagination",
@@ -1102,6 +1102,34 @@
       "pages": 11,
       "sources_opened": 13,
       "revision_note": "2026-10-07事后审稿修订：精修五处预告与重复总结；标题、两表及13项来源未变。"
+    },
+    {
+      "path": "reading/arknights-story-guide",
+      "title": "明日方舟剧情导读",
+      "archived_at": "2026-10-07",
+      "source_version": 1,
+      "status": "原创剧透导读；主线0至17与四篇关联故事；文本与视听边界已明确",
+      "summary": "重大剧透导读：主线0至17章与四篇关联故事，连接人物选择、组织责任与历史记忆；附14组人物索引与509条公开剧情入口。",
+      "readableMarkdown": "reading/arknights-story-guide/readable.md",
+      "sources": "reading/arknights-story-guide/sources.md",
+      "assets": [
+        "reading/arknights-story-guide/source-index.json"
+      ],
+      "originals": [
+        {
+          "path": "reading/arknights-story-guide/readable.md",
+          "original_name": "明日方舟剧情导读.md",
+          "bytes": 25504,
+          "sha256": "2104c33e804d1d288cd23c1042d42032d7aa33b6bbb665f772b533ef1181ee54",
+          "byte_identical": true
+        }
+      ],
+      "source_urls": 509,
+      "key_sources_reverified": 38,
+      "video_unwatched": {
+        "pure": 4,
+        "embedded_minimum": 2
+      }
     }
   ]
 }

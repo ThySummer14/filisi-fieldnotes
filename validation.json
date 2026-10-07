@@ -735,5 +735,16 @@
     "edited_passages": 5,
     "heading_source_table_sequences_unchanged": true,
     "other_articles_originals_unchanged": 20
+  },
+  "arknights_addendum": {
+    "prior_originals_unchanged": 23,
+    "unique_source_urls": 509,
+    "main_reference_occurrences": 40,
+    "main_sources_match_index": true,
+    "private_patterns_found": 0,
+    "full_game_scripts_included": false,
+    "pure_videos_unwatched": 4,
+    "embedded_videos_unwatched_minimum": 2,
+    "new_100_research_count": 0
   }
 }
