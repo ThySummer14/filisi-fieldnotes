@@ -99,7 +99,13 @@
     "research/100-directions/067-error-values-api",
     "research/100-directions/095-rewilding-baselines",
     "research/100-directions/096-desert-biocrust",
-    "research/100-directions/097-surging-glaciers"
+    "research/100-directions/097-surging-glaciers",
+    "research/100-directions/022-music-and-face-judgment",
+    "research/100-directions/023-bouba-kiki-boundaries",
+    "research/100-directions/024-pitch-crossmodal-correspondence",
+    "research/100-directions/098-mangrove-salt",
+    "research/100-directions/099-deep-sea-vents",
+    "research/100-directions/100-tidal-day"
   ],
-  "item_count": 100
+  "item_count": 106
 }

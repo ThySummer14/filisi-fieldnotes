@@ -1,0 +1,43 @@
+{
+  "id": "024",
+  "title": "高音为什么总想往上走",
+  "description": "高音配小、亮、上方的倾向，如何因任务和语言而改变意义。",
+  "topic": "跨感官对应",
+  "tags": [
+    "音高",
+    "空间",
+    "大小",
+    "语言隐喻"
+  ],
+  "language": "zh-CN",
+  "sources": [
+    {
+      "id": 1,
+      "title": "Crossmodal correspondences: A tutorial review",
+      "url": "https://link.springer.com/content/pdf/10.3758/s13414-010-0073-7.pdf",
+      "type": "peer_reviewed_review",
+      "accessed": "2026-10-07"
+    },
+    {
+      "id": 2,
+      "title": "Natural cross-modal mappings between visual and auditory features",
+      "url": "https://www.researchgate.net/publication/49738810_Natural_cross-modal_mappings_between_visual_and_auditory_features",
+      "type": "primary_research",
+      "accessed": "2026-10-07"
+    },
+    {
+      "id": 3,
+      "title": "“When birds of a feather flock together”: Synesthetic correspondences modulate audiovisual integration in non-synesthetes",
+      "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0005664",
+      "type": "primary_research",
+      "accessed": "2026-10-07"
+    },
+    {
+      "id": 4,
+      "title": "Embodied space-pitch associations are shaped by language",
+      "url": "https://pure.mpg.de/pubman/item/item_3357444_3/component/file_3369323/Holler_etal_2022_Embodied%2Bspace%2Bpitch%2Bassociations%2Bare%2Bshaped%2Bby%2Blanguage.pdf",
+      "type": "primary_research",
+      "accessed": "2026-10-07"
+    }
+  ]
+}

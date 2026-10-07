@@ -1,0 +1,52 @@
+{
+  "id": "100",
+  "slug": "tidal-day",
+  "topic": "海洋科学",
+  "tags": [
+    "潮汐",
+    "月球",
+    "海盆"
+  ],
+  "title": "海边两次高潮之间 为什么通常不是整十二小时",
+  "description": "月球在地球转动时也向前运行，主月半日潮因此比十二小时长；真正抵达岸边的高潮，还经过太阳分潮与海盆地形的共同改写。",
+  "date": "2026-10-07",
+  "language": "zh-CN",
+  "sources": [
+    {
+      "title": "NOAA How frequent are tides?",
+      "url": "https://oceanservice.noaa.gov/facts/tidefrequency.html",
+      "source_type": "官方科学说明",
+      "accessed": "2026-10-07"
+    },
+    {
+      "title": "NOAA About Harmonic Constituents",
+      "url": "https://tidesandcurrents.noaa.gov/about_harmonic_constituents",
+      "source_type": "官方技术说明",
+      "accessed": "2026-10-07"
+    },
+    {
+      "title": "NOAA Types and Causes of Tidal Cycles",
+      "url": "https://oceanservice.noaa.gov/education/tutorial_tides/tides07_cycles.html",
+      "source_type": "官方教学说明",
+      "accessed": "2026-10-07"
+    },
+    {
+      "title": "NOAA Tidal Variations — The Influence of Position and Distance",
+      "url": "https://oceanservice.noaa.gov/education/tutorial_tides/tides06_variations.html",
+      "source_type": "官方教学说明",
+      "accessed": "2026-10-07"
+    },
+    {
+      "title": "英国国家海洋学中心 Storms, Tides and Waves",
+      "url": "https://www.noc.ac.uk/our-work/hazards-and-pollution/natural-hazards/storms-tides-and-waves",
+      "source_type": "学术机构科学说明",
+      "accessed": "2026-10-07"
+    },
+    {
+      "title": "NOAA Tides & Currents Frequently Asked Questions",
+      "url": "https://tidesandcurrents.noaa.gov/faq.html",
+      "source_type": "官方技术问答",
+      "accessed": "2026-10-07"
+    }
+  ]
+}

@@ -1,0 +1,52 @@
+{
+  "id": "099",
+  "slug": "deep-sea-vents",
+  "topic": "深海生态",
+  "tags": [
+    "热泉",
+    "化能合成",
+    "共生"
+  ],
+  "title": "深海热泉旁的生命怎样绕开阳光取得食物",
+  "description": "热泉食物网依靠微生物利用化学反应制造有机物。谁提供硫化物、谁提供氧，以及哪些代谢真正发生，决定这份食物如何形成。",
+  "date": "2026-10-07",
+  "language": "zh-CN",
+  "sources": [
+    {
+      "title": "伍兹霍尔海洋研究所 Life at vents & seeps",
+      "url": "https://www.whoi.edu/ocean-learning-hub/ocean-topics/ocean-life/ecosystems/life-at-vents-seeps/",
+      "source_type": "学术机构科学说明",
+      "accessed": "2026-10-07"
+    },
+    {
+      "title": "NOAA Ocean Exploration Chemosynthesis Fact Sheet",
+      "url": "https://oceanexplorer.noaa.gov/wp-content/uploads/2023/02/chemosynthesis-fact-sheet.pdf",
+      "source_type": "官方科学教育简报",
+      "accessed": "2026-10-07"
+    },
+    {
+      "title": "伍兹霍尔海洋研究所（2014）Expedition 15 Videos — Tubeworm dissection",
+      "url": "https://divediscover.whoi.edu/archives/expedition15/videos/dissection.html",
+      "source_type": "学术机构科考材料",
+      "accessed": "2026-10-07"
+    },
+    {
+      "title": "Petersen 等（2011）Hydrogen is an energy source for hydrothermal vent symbioses",
+      "url": "https://www.nature.com/articles/nature10325",
+      "source_type": "同行评议原始研究",
+      "accessed": "2026-10-07"
+    },
+    {
+      "title": "Mitchell 等（2020）Hydrogen Does Not Appear To Be a Major Electron Donor for Symbiosis with the Deep-Sea Hydrothermal Vent Tubeworm Riftia pachyptila",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC6912073/",
+      "source_type": "同行评议生理实验",
+      "accessed": "2026-10-07"
+    },
+    {
+      "title": "伍兹霍尔海洋研究所（2002）New Hydrothermal Vent Sites Found, Original Vent May Have been Covered by Volcanic Eruption",
+      "url": "https://www.whoi.edu/press-room/news-release/new-hydrothermal-vent-sites-found-original-vent-may-have-been-covered-by-volcanic-eruption/",
+      "source_type": "学术机构一手科考报告",
+      "accessed": "2026-10-07"
+    }
+  ]
+}

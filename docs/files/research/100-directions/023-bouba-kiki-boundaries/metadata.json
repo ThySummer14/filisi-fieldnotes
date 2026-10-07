@@ -1,0 +1,43 @@
+{
+  "id": "023",
+  "title": "“布巴”圆，“奇奇”尖，但别急着宣布天生如此",
+  "description": "跨25语言的广泛声音形状联系，仍受计分、书写、感觉经验和任务制约。",
+  "topic": "声音象征",
+  "tags": [
+    "bouba-kiki",
+    "语言",
+    "形状",
+    "跨文化"
+  ],
+  "language": "zh-CN",
+  "sources": [
+    {
+      "id": 1,
+      "title": "The bouba/kiki effect is robust across cultures and writing systems",
+      "url": "https://findresearcher.sdu.dk/ws/portalfiles/portal/196586109/Open_Access_Version.pdf",
+      "type": "primary_research",
+      "accessed": "2026-10-07"
+    },
+    {
+      "id": 2,
+      "title": "Sound symbolism in sighted and blind: The role of vision and orthography in sound-shape correspondences",
+      "url": "https://iris.unitn.it/bitstream/11572/240692/4/pdf_BottiniBarilariCollignon_2019_Cognition.pdf",
+      "type": "primary_research",
+      "accessed": "2026-10-07"
+    },
+    {
+      "id": 3,
+      "title": "Assessing sound symbolism: Investigating phonetic forms, visual shapes and letter fonts in an implicit bouba-kiki experimental paradigm",
+      "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0208874",
+      "type": "primary_research",
+      "accessed": "2026-10-07"
+    },
+    {
+      "id": 4,
+      "title": "Five mechanisms of sound symbolic association",
+      "url": "https://link.springer.com/article/10.3758/s13423-017-1361-1",
+      "type": "theoretical_review",
+      "accessed": "2026-10-07"
+    }
+  ]
+}

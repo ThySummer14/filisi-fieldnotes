@@ -1,12 +1,12 @@
 {
   "archive_date": "2026-10-07",
-  "item_count": 100,
-  "original_file_count": 108,
+  "item_count": 106,
+  "original_file_count": 114,
   "original_docx_count": 14,
   "original_pdf_count": 6,
-  "original_markdown_count": 88,
+  "original_markdown_count": 94,
   "image_count": 33,
-  "readable_markdown_count": 100,
+  "readable_markdown_count": 106,
   "items": [
     {
       "path": "reading/sociological-imagination",
@@ -3672,6 +3672,189 @@
         "跃动冰川",
         "底部水压",
         "冰流"
+      ]
+    },
+    {
+      "path": "research/100-directions/022-music-and-face-judgment",
+      "title": "音乐响起后，那张脸变了吗",
+      "archived_at": "2026-10-07",
+      "source_version": 1,
+      "status": "原创专题研究；例子、原始研究与方法边界见正文",
+      "summary": "音乐能改变面孔情绪判断，但视觉表征、反应标准与观看者心情需要分开检验。",
+      "readableMarkdown": "research/100-directions/022-music-and-face-judgment/readable.md",
+      "sources": "research/100-directions/022-music-and-face-judgment/sources.md",
+      "assets": [
+        "research/100-directions/022-music-and-face-judgment/metadata.json"
+      ],
+      "originals": [
+        {
+          "path": "research/100-directions/022-music-and-face-judgment/readable.md",
+          "original_name": "音乐响起后，那张脸变了吗.md",
+          "bytes": 6587,
+          "sha256": "2d25d2cd8099f882ae801b662382182cafa3fbac7bfa8e98b0ce286381e5cedc",
+          "byte_identical": true
+        }
+      ],
+      "series": "research-100-20261007",
+      "series_number": "022",
+      "topic": "跨感官情绪",
+      "tags": [
+        "音乐",
+        "面孔",
+        "情绪启动",
+        "知觉判断"
+      ]
+    },
+    {
+      "path": "research/100-directions/023-bouba-kiki-boundaries",
+      "title": "“布巴”圆，“奇奇”尖，但别急着宣布天生如此",
+      "archived_at": "2026-10-07",
+      "source_version": 1,
+      "status": "原创专题研究；例子、原始研究与方法边界见正文",
+      "summary": "跨25语言的广泛声音形状联系，仍受计分、书写、感觉经验和任务制约。",
+      "readableMarkdown": "research/100-directions/023-bouba-kiki-boundaries/readable.md",
+      "sources": "research/100-directions/023-bouba-kiki-boundaries/sources.md",
+      "assets": [
+        "research/100-directions/023-bouba-kiki-boundaries/metadata.json"
+      ],
+      "originals": [
+        {
+          "path": "research/100-directions/023-bouba-kiki-boundaries/readable.md",
+          "original_name": "“布巴”圆，“奇奇”尖，但别急着宣布天生如此.md",
+          "bytes": 6629,
+          "sha256": "a4b219b2c7f5f701ad000ed351797a09e9479f6bd44a8c260b90ecbdaec797e5",
+          "byte_identical": true
+        }
+      ],
+      "series": "research-100-20261007",
+      "series_number": "023",
+      "topic": "声音象征",
+      "tags": [
+        "bouba-kiki",
+        "语言",
+        "形状",
+        "跨文化"
+      ]
+    },
+    {
+      "path": "research/100-directions/024-pitch-crossmodal-correspondence",
+      "title": "高音为什么总想往上走",
+      "archived_at": "2026-10-07",
+      "source_version": 1,
+      "status": "原创专题研究；例子、原始研究与方法边界见正文",
+      "summary": "高音配小、亮、上方的倾向，如何因任务和语言而改变意义。",
+      "readableMarkdown": "research/100-directions/024-pitch-crossmodal-correspondence/readable.md",
+      "sources": "research/100-directions/024-pitch-crossmodal-correspondence/sources.md",
+      "assets": [
+        "research/100-directions/024-pitch-crossmodal-correspondence/metadata.json"
+      ],
+      "originals": [
+        {
+          "path": "research/100-directions/024-pitch-crossmodal-correspondence/readable.md",
+          "original_name": "高音为什么总想往上走.md",
+          "bytes": 6494,
+          "sha256": "954f47ec3633ec5e6bbc174cf6824d971d69ce4928928da16561cfb9a78294aa",
+          "byte_identical": true
+        }
+      ],
+      "series": "research-100-20261007",
+      "series_number": "024",
+      "topic": "跨感官对应",
+      "tags": [
+        "音高",
+        "空间",
+        "大小",
+        "语言隐喻"
+      ]
+    },
+    {
+      "path": "research/100-directions/098-mangrove-salt",
+      "title": "红树林怎样在盐水与缺氧泥地里活下来",
+      "archived_at": "2026-10-07",
+      "source_version": 1,
+      "status": "原创专题研究；例子、原始研究与方法边界见正文",
+      "summary": "水就在根边，却可能很难吸收；叶片在空气里，根部仍可能缺氧。红树林必须同时处理两种不同的生理限制。",
+      "readableMarkdown": "research/100-directions/098-mangrove-salt/readable.md",
+      "sources": "research/100-directions/098-mangrove-salt/sources.md",
+      "assets": [
+        "research/100-directions/098-mangrove-salt/metadata.json"
+      ],
+      "originals": [
+        {
+          "path": "research/100-directions/098-mangrove-salt/readable.md",
+          "original_name": "红树林怎样在盐水与缺氧泥地里活下来.md",
+          "bytes": 5794,
+          "sha256": "b39460c0cd904055a921500f356415d6e800ac5698bc482cc4f779d69bdd2751",
+          "byte_identical": true
+        }
+      ],
+      "series": "research-100-20261007",
+      "series_number": "098",
+      "topic": "植物生态",
+      "tags": [
+        "红树林",
+        "盐分",
+        "潮间带"
+      ]
+    },
+    {
+      "path": "research/100-directions/099-deep-sea-vents",
+      "title": "深海热泉旁的生命怎样绕开阳光取得食物",
+      "archived_at": "2026-10-07",
+      "source_version": 1,
+      "status": "原创专题研究；例子、原始研究与方法边界见正文",
+      "summary": "热泉食物网依靠微生物利用化学反应制造有机物。谁提供硫化物、谁提供氧，以及哪些代谢真正发生，决定这份食物如何形成。",
+      "readableMarkdown": "research/100-directions/099-deep-sea-vents/readable.md",
+      "sources": "research/100-directions/099-deep-sea-vents/sources.md",
+      "assets": [
+        "research/100-directions/099-deep-sea-vents/metadata.json"
+      ],
+      "originals": [
+        {
+          "path": "research/100-directions/099-deep-sea-vents/readable.md",
+          "original_name": "深海热泉旁的生命怎样绕开阳光取得食物.md",
+          "bytes": 6323,
+          "sha256": "c0149b357a2a2427f4fee138b2e535ac5ce9f940e53b1dc4991a59ff34ac15c8",
+          "byte_identical": true
+        }
+      ],
+      "series": "research-100-20261007",
+      "series_number": "099",
+      "topic": "深海生态",
+      "tags": [
+        "热泉",
+        "化能合成",
+        "共生"
+      ]
+    },
+    {
+      "path": "research/100-directions/100-tidal-day",
+      "title": "海边两次高潮之间 为什么通常不是整十二小时",
+      "archived_at": "2026-10-07",
+      "source_version": 1,
+      "status": "原创专题研究；例子、原始研究与方法边界见正文",
+      "summary": "月球在地球转动时也向前运行，主月半日潮因此比十二小时长；真正抵达岸边的高潮，还经过太阳分潮与海盆地形的共同改写。",
+      "readableMarkdown": "research/100-directions/100-tidal-day/readable.md",
+      "sources": "research/100-directions/100-tidal-day/sources.md",
+      "assets": [
+        "research/100-directions/100-tidal-day/metadata.json"
+      ],
+      "originals": [
+        {
+          "path": "research/100-directions/100-tidal-day/readable.md",
+          "original_name": "海边两次高潮之间 为什么通常不是整十二小时.md",
+          "bytes": 5948,
+          "sha256": "ecf1bda9741612660919dc193b219cd5100b477ec0a31fe1dd32f183c9ebca53",
+          "byte_identical": true
+        }
+      ],
+      "series": "research-100-20261007",
+      "series_number": "100",
+      "topic": "海洋科学",
+      "tags": [
+        "潮汐",
+        "月球",
+        "海盆"
       ]
     }
   ]

@@ -1,0 +1,40 @@
+{
+  "id": "098",
+  "slug": "mangrove-salt",
+  "topic": "植物生态",
+  "tags": [
+    "红树林",
+    "盐分",
+    "潮间带"
+  ],
+  "title": "红树林怎样在盐水与缺氧泥地里活下来",
+  "description": "水就在根边，却可能很难吸收；叶片在空气里，根部仍可能缺氧。红树林必须同时处理两种不同的生理限制。",
+  "date": "2026-10-07",
+  "language": "zh-CN",
+  "sources": [
+    {
+      "title": "史密森学会海洋门户 Mangroves",
+      "url": "https://ocean.si.edu/ocean-life/plants-algae/mangroves",
+      "source_type": "学术机构科学说明",
+      "accessed": "2026-10-07"
+    },
+    {
+      "title": "Reef 与 Lovelock（2015）Regulation of water balance in mangroves",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4332601/",
+      "source_type": "同行评议综述",
+      "accessed": "2026-10-07"
+    },
+    {
+      "title": "Genetic and molecular mechanisms underlying mangrove adaptations to intertidal environments（2021）",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8693430/",
+      "source_type": "同行评议综述",
+      "accessed": "2026-10-07"
+    },
+    {
+      "title": "NOAA Record-Breaking Effort to Restore Puerto Rico’s Hurricane-Damaged Mangroves",
+      "url": "https://www.coast.noaa.gov/states/stories/mangrove-restoration.html",
+      "source_type": "官方项目说明",
+      "accessed": "2026-10-07"
+    }
+  ]
+}

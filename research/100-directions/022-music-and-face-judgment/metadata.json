@@ -1,0 +1,43 @@
+{
+  "id": "022",
+  "title": "音乐响起后，那张脸变了吗",
+  "description": "音乐能改变面孔情绪判断，但视觉表征、反应标准与观看者心情需要分开检验。",
+  "topic": "跨感官情绪",
+  "tags": [
+    "音乐",
+    "面孔",
+    "情绪启动",
+    "知觉判断"
+  ],
+  "language": "zh-CN",
+  "sources": [
+    {
+      "id": 1,
+      "title": "Crossmodal transfer of emotion by music",
+      "url": "https://www.researchgate.net/publication/24279933_Crossmodal_transfer_of_emotion_by_music",
+      "type": "primary_research",
+      "accessed": "2026-10-07"
+    },
+    {
+      "id": 2,
+      "title": "Music alters visual perception",
+      "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0018861",
+      "type": "primary_research",
+      "accessed": "2026-10-07"
+    },
+    {
+      "id": 3,
+      "title": "Multimodal recognition of emotions in music and facial expressions",
+      "url": "https://www.frontiersin.org/journals/human-neuroscience/articles/10.3389/fnhum.2020.00032/full",
+      "type": "primary_research",
+      "accessed": "2026-10-07"
+    },
+    {
+      "id": 4,
+      "title": "Investigating emotional top down modulation of ambiguous faces by single pulse TMS on early visual cortices",
+      "url": "https://www.frontiersin.org/journals/neuroscience/articles/10.3389/fnins.2016.00305/full",
+      "type": "primary_research",
+      "accessed": "2026-10-07"
+    }
+  ]
+}

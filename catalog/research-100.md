@@ -1,6 +1,6 @@
 # 100个研究方向
 
-已收录 84 / 100 篇新研究。原有16篇专题研究与书稿不计入这个目标。编号是方向索引，不表示中间编号已经完成。
+已收录 90 / 100 篇新研究。原有16篇专题研究与书稿不计入这个目标。编号是方向索引，不表示中间编号已经完成。
 
 - 001 [同一条裙子，两套照明](../research/100-directions/001-dress-color-constancy/readable.md) · 视觉与色彩
 - 002 [余光中的字，为什么越挤越认不出](../research/100-directions/002-peripheral-crowding/readable.md) · 视觉与版式
@@ -23,6 +23,9 @@
 - 019 [不可靠的叙述者，也可能把事情说对](../research/100-directions/019-unreliable-narrator-trust/readable.md) · 叙事学
 - 020 [被故事带走之后，哪些看法跟着变了](../research/100-directions/020-narrative-transportation/readable.md) · 叙事心理学
 - 021 [剧透让故事更好看？研究没有给出通行证](../research/100-directions/021-spoilers-enjoyment/readable.md) · 叙事体验
+- 022 [音乐响起后，那张脸变了吗](../research/100-directions/022-music-and-face-judgment/readable.md) · 跨感官情绪
+- 023 [“布巴”圆，“奇奇”尖，但别急着宣布天生如此](../research/100-directions/023-bouba-kiki-boundaries/readable.md) · 声音象征
+- 024 [高音为什么总想往上走](../research/100-directions/024-pitch-crossmodal-correspondence/readable.md) · 跨感官对应
 - 035 [0.1加0.2之后 系统究竟答应了什么](../research/100-directions/035-floating-point-contract/readable.md) · 数值计算
 - 036 [删除键眼里的一个字](../research/100-directions/036-unicode-cursor/readable.md) · 文本系统
 - 037 [明天中午和二十四小时后是两个任务](../research/100-directions/037-time-is-not-duration/readable.md) · 时间建模
@@ -86,3 +89,6 @@
 - 095 [把大动物放回去以后 什么才算恢复成功](../research/100-directions/095-rewilding-baselines/readable.md) · 保护科学
 - 096 [沙漠表面那层黑皮 为什么不能随便踩](../research/100-directions/096-desert-biocrust/readable.md) · 干旱区生态
 - 097 [冰川为什么会突然加速冲下山谷](../research/100-directions/097-surging-glaciers/readable.md) · 冰川科学
+- 098 [红树林怎样在盐水与缺氧泥地里活下来](../research/100-directions/098-mangrove-salt/readable.md) · 植物生态
+- 099 [深海热泉旁的生命怎样绕开阳光取得食物](../research/100-directions/099-deep-sea-vents/readable.md) · 深海生态
+- 100 [海边两次高潮之间 为什么通常不是整十二小时](../research/100-directions/100-tidal-day/readable.md) · 海洋科学

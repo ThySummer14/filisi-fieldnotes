@@ -1,6 +1,6 @@
 {
   "target": 100,
-  "completed_count": 84,
+  "completed_count": 90,
   "existing_library_excluded": 16,
   "completed": [
     {
@@ -128,6 +128,24 @@
       "title": "剧透让故事更好看？研究没有给出通行证",
       "topic": "叙事体验",
       "path": "research/100-directions/021-spoilers-enjoyment"
+    },
+    {
+      "number": "022",
+      "title": "音乐响起后，那张脸变了吗",
+      "topic": "跨感官情绪",
+      "path": "research/100-directions/022-music-and-face-judgment"
+    },
+    {
+      "number": "023",
+      "title": "“布巴”圆，“奇奇”尖，但别急着宣布天生如此",
+      "topic": "声音象征",
+      "path": "research/100-directions/023-bouba-kiki-boundaries"
+    },
+    {
+      "number": "024",
+      "title": "高音为什么总想往上走",
+      "topic": "跨感官对应",
+      "path": "research/100-directions/024-pitch-crossmodal-correspondence"
     },
     {
       "number": "035",
@@ -506,6 +524,24 @@
       "title": "冰川为什么会突然加速冲下山谷",
       "topic": "冰川科学",
       "path": "research/100-directions/097-surging-glaciers"
+    },
+    {
+      "number": "098",
+      "title": "红树林怎样在盐水与缺氧泥地里活下来",
+      "topic": "植物生态",
+      "path": "research/100-directions/098-mangrove-salt"
+    },
+    {
+      "number": "099",
+      "title": "深海热泉旁的生命怎样绕开阳光取得食物",
+      "topic": "深海生态",
+      "path": "research/100-directions/099-deep-sea-vents"
+    },
+    {
+      "number": "100",
+      "title": "海边两次高潮之间 为什么通常不是整十二小时",
+      "topic": "海洋科学",
+      "path": "research/100-directions/100-tidal-day"
     }
   ]
 }
