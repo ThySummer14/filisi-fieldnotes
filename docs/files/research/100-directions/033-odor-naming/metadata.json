@@ -1,0 +1,43 @@
+{
+  "id": "033",
+  "title": "闻着熟悉却叫不出名字",
+  "description": "从Jahai自由命名到气味再认实验，区分鼻子闻到了什么、语言说出了什么与记忆留下了什么。",
+  "topic": "嗅觉与语言",
+  "tags": [
+    "嗅觉命名",
+    "鼻尖现象",
+    "语言经验",
+    "气味记忆"
+  ],
+  "language": "zh-CN",
+  "sources": [
+    {
+      "id": 1,
+      "title": "Olofsson与Gottfried（2015）：The muted sense: neurocognitive limitations of olfactory language",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4457599/",
+      "type": "peer_reviewed_review",
+      "accessed": "2026-10-07"
+    },
+    {
+      "id": 2,
+      "title": "Majid与Burenhult（2014）：Odors are expressible in language, as long as you speak the right language",
+      "url": "https://doi.org/10.1016/j.cognition.2013.11.004",
+      "type": "primary_research",
+      "accessed": "2026-10-07"
+    },
+    {
+      "id": 3,
+      "title": "Majid与Kruspe（2018）：Hunter-Gatherer Olfaction Is Special",
+      "url": "https://eprints.whiterose.ac.uk/id/eprint/136310/1/1_s2.0_S0960982217316160_main.pdf",
+      "type": "primary_research",
+      "accessed": "2026-10-07"
+    },
+    {
+      "id": 4,
+      "title": "Frank等（2011）：Odor Recognition Memory as a Function of Odor-Naming Performance",
+      "url": "https://homepages.uc.edu/~martinj/Taste%20Food%20%26%20Wine/Qualia/Taste_and_Smell/Frank%20-%20Odror%20Recognition%20Memory.pdf",
+      "type": "primary_research",
+      "accessed": "2026-10-07"
+    }
+  ]
+}

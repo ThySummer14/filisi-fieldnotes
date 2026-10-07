@@ -1,6 +1,6 @@
 # 100个研究方向
 
-已收录 96 / 100 篇新研究。原有16篇专题研究与书稿不计入这个目标。编号是方向索引，不表示中间编号已经完成。
+已收录 100 / 100 篇新研究。原有16篇专题研究与书稿不计入这个目标。编号是方向索引，不表示中间编号已经完成。
 
 - 001 [同一条裙子，两套照明](../research/100-directions/001-dress-color-constancy/readable.md) · 视觉与色彩
 - 002 [余光中的字，为什么越挤越认不出](../research/100-directions/002-peripheral-crowding/readable.md) · 视觉与版式
@@ -32,6 +32,10 @@
 - 028 [给画面称重，能称出美感吗](../research/100-directions/028-balance-and-symmetry/readable.md) · 构图与审美
 - 029 [一条倒U形曲线，可能没有一个人站在峰顶](../research/100-directions/029-complexity-and-insight/readable.md) · 复杂性与审美
 - 030 [顺眼与想再看，可能来自不同过程](../research/100-directions/030-familiarity-and-surprise/readable.md) · 审美加工机制
+- 031 [杯沿还是鼻梁，同一条线为何会换主人](../research/100-directions/031-border-ownership/readable.md) · 知觉组织
+- 032 [手还没伸过去，柔软已经有了轮廓](../research/100-directions/032-visual-softness/readable.md) · 材质与多感官知觉
+- 033 [闻着熟悉却叫不出名字](../research/100-directions/033-odor-naming/readable.md) · 嗅觉与语言
+- 034 [没有心中画面的人怎样画出房间](../research/100-directions/034-visual-imagery-differences/readable.md) · 视觉意象与记忆
 - 035 [0.1加0.2之后 系统究竟答应了什么](../research/100-directions/035-floating-point-contract/readable.md) · 数值计算
 - 036 [删除键眼里的一个字](../research/100-directions/036-unicode-cursor/readable.md) · 文本系统
 - 037 [明天中午和二十四小时后是两个任务](../research/100-directions/037-time-is-not-duration/readable.md) · 时间建模

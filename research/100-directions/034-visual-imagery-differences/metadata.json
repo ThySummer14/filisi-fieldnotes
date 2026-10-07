@@ -1,0 +1,44 @@
+{
+  "id": "034",
+  "title": "没有心中画面的人怎样画出房间",
+  "description": "问卷、双眼竞争、记忆画与瞳孔反应怎样相互校验，以及这些结果不能替创造力下什么结论。",
+  "topic": "视觉意象与记忆",
+  "tags": [
+    "无视觉意象",
+    "双眼竞争",
+    "瞳孔反应",
+    "空间记忆",
+    "创造性"
+  ],
+  "language": "zh-CN",
+  "sources": [
+    {
+      "id": 1,
+      "title": "Zeman等（2015）：Lives without imagery — Congenital aphantasia",
+      "url": "https://doi.org/10.1016/j.cortex.2015.05.019",
+      "type": "primary_research",
+      "accessed": "2026-10-07"
+    },
+    {
+      "id": 2,
+      "title": "Keogh与Pearson（2018）：The blind mind: No sensory visual imagery in aphantasia",
+      "url": "https://gwern.net/doc/psychology/vision/aphantasia/2018-keogh.pdf",
+      "type": "primary_research",
+      "accessed": "2026-10-07"
+    },
+    {
+      "id": 3,
+      "title": "Bainbridge等（2021）：Quantifying aphantasia through drawing",
+      "url": "https://westminsterresearch.westminster.ac.uk/download/da66278af8ade761262648c043b38cf5da0ed54b3a65261e8bc04c8381dc8920/6298596/aphantasia-10-19-cortex-submitted-nohighlights_accepted.pdf",
+      "type": "primary_research",
+      "accessed": "2026-10-07"
+    },
+    {
+      "id": 4,
+      "title": "Kay等（2022）：The pupillary light response as a physiological index of aphantasia, sensory and phenomenological imagery strength",
+      "url": "https://elifesciences.org/articles/72484",
+      "type": "primary_research",
+      "accessed": "2026-10-07"
+    }
+  ]
+}

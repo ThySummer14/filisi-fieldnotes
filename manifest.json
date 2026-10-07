@@ -1,12 +1,12 @@
 {
   "archive_date": "2026-10-07",
-  "item_count": 112,
-  "original_file_count": 120,
+  "item_count": 116,
+  "original_file_count": 124,
   "original_docx_count": 14,
   "original_pdf_count": 6,
-  "original_markdown_count": 100,
+  "original_markdown_count": 104,
   "image_count": 33,
-  "readable_markdown_count": 112,
+  "readable_markdown_count": 116,
   "items": [
     {
       "path": "reading/sociological-imagination",
@@ -4048,6 +4048,131 @@
         "流畅性",
         "预测误差",
         "愉悦与兴趣"
+      ]
+    },
+    {
+      "path": "research/100-directions/031-border-ownership",
+      "title": "杯沿还是鼻梁，同一条线为何会换主人",
+      "archived_at": "2026-10-07",
+      "source_version": 1,
+      "status": "原创专题研究；例子、原始研究与方法边界见正文",
+      "summary": "从鲁宾杯到猕猴边缘细胞，检验经验与注意如何参与轮廓归属，又有哪些结论不能从实验中跳过去。",
+      "readableMarkdown": "research/100-directions/031-border-ownership/readable.md",
+      "sources": "research/100-directions/031-border-ownership/sources.md",
+      "assets": [
+        "research/100-directions/031-border-ownership/metadata.json"
+      ],
+      "originals": [
+        {
+          "path": "research/100-directions/031-border-ownership/readable.md",
+          "original_name": "杯沿还是鼻梁，同一条线为何会换主人.md",
+          "bytes": 8049,
+          "sha256": "6cdf6489af4ee4778688afda9b6984e8e523fd86daccaa898673a73e123d0ec4",
+          "byte_identical": true
+        }
+      ],
+      "series": "research-100-20261007",
+      "series_number": "031",
+      "topic": "知觉组织",
+      "tags": [
+        "轮廓归属",
+        "图形背景",
+        "注意",
+        "形状记忆"
+      ]
+    },
+    {
+      "path": "research/100-directions/032-visual-softness",
+      "title": "手还没伸过去，柔软已经有了轮廓",
+      "archived_at": "2026-10-07",
+      "source_version": 1,
+      "status": "原创专题研究；例子、原始研究与方法边界见正文",
+      "summary": "静图、形变视频和主动按压提供不同证据；从六项研究看视觉如何预测手感，以及最优融合何时失效。",
+      "readableMarkdown": "research/100-directions/032-visual-softness/readable.md",
+      "sources": "research/100-directions/032-visual-softness/sources.md",
+      "assets": [
+        "research/100-directions/032-visual-softness/metadata.json"
+      ],
+      "originals": [
+        {
+          "path": "research/100-directions/032-visual-softness/readable.md",
+          "original_name": "手还没伸过去，柔软已经有了轮廓.md",
+          "bytes": 9876,
+          "sha256": "cf32181c23a7dfabc2595697e6cd3c79d4dfee80b462bc9de4ba2aed5aa582ec",
+          "byte_identical": true
+        }
+      ],
+      "series": "research-100-20261007",
+      "series_number": "032",
+      "topic": "材质与多感官知觉",
+      "tags": [
+        "柔软度",
+        "视觉纹理",
+        "形变",
+        "视觉触觉融合"
+      ]
+    },
+    {
+      "path": "research/100-directions/033-odor-naming",
+      "title": "闻着熟悉却叫不出名字",
+      "archived_at": "2026-10-07",
+      "source_version": 1,
+      "status": "原创专题研究；例子、原始研究与方法边界见正文",
+      "summary": "从Jahai自由命名到气味再认实验，区分鼻子闻到了什么、语言说出了什么与记忆留下了什么。",
+      "readableMarkdown": "research/100-directions/033-odor-naming/readable.md",
+      "sources": "research/100-directions/033-odor-naming/sources.md",
+      "assets": [
+        "research/100-directions/033-odor-naming/metadata.json"
+      ],
+      "originals": [
+        {
+          "path": "research/100-directions/033-odor-naming/readable.md",
+          "original_name": "闻着熟悉却叫不出名字.md",
+          "bytes": 6247,
+          "sha256": "dd33a7fb8ca319bf55ec15c9d0f3b3dd134069aefa9a20b71c160e8a689b0dd2",
+          "byte_identical": true
+        }
+      ],
+      "series": "research-100-20261007",
+      "series_number": "033",
+      "topic": "嗅觉与语言",
+      "tags": [
+        "嗅觉命名",
+        "鼻尖现象",
+        "语言经验",
+        "气味记忆"
+      ]
+    },
+    {
+      "path": "research/100-directions/034-visual-imagery-differences",
+      "title": "没有心中画面的人怎样画出房间",
+      "archived_at": "2026-10-07",
+      "source_version": 1,
+      "status": "原创专题研究；例子、原始研究与方法边界见正文",
+      "summary": "问卷、双眼竞争、记忆画与瞳孔反应怎样相互校验，以及这些结果不能替创造力下什么结论。",
+      "readableMarkdown": "research/100-directions/034-visual-imagery-differences/readable.md",
+      "sources": "research/100-directions/034-visual-imagery-differences/sources.md",
+      "assets": [
+        "research/100-directions/034-visual-imagery-differences/metadata.json"
+      ],
+      "originals": [
+        {
+          "path": "research/100-directions/034-visual-imagery-differences/readable.md",
+          "original_name": "没有心中画面的人怎样画出房间.md",
+          "bytes": 6796,
+          "sha256": "a7e9f6e89977fb5a36588a13653fef4d3108f96f3e79edf2363a4b381a58a9cd",
+          "byte_identical": true
+        }
+      ],
+      "series": "research-100-20261007",
+      "series_number": "034",
+      "topic": "视觉意象与记忆",
+      "tags": [
+        "无视觉意象",
+        "双眼竞争",
+        "瞳孔反应",
+        "空间记忆",
+        "创造性"
       ]
     }
   ]

@@ -1,6 +1,6 @@
 {
   "target": 100,
-  "completed_count": 96,
+  "completed_count": 100,
   "existing_library_excluded": 16,
   "completed": [
     {
@@ -182,6 +182,30 @@
       "title": "顺眼与想再看，可能来自不同过程",
       "topic": "审美加工机制",
       "path": "research/100-directions/030-familiarity-and-surprise"
+    },
+    {
+      "number": "031",
+      "title": "杯沿还是鼻梁，同一条线为何会换主人",
+      "topic": "知觉组织",
+      "path": "research/100-directions/031-border-ownership"
+    },
+    {
+      "number": "032",
+      "title": "手还没伸过去，柔软已经有了轮廓",
+      "topic": "材质与多感官知觉",
+      "path": "research/100-directions/032-visual-softness"
+    },
+    {
+      "number": "033",
+      "title": "闻着熟悉却叫不出名字",
+      "topic": "嗅觉与语言",
+      "path": "research/100-directions/033-odor-naming"
+    },
+    {
+      "number": "034",
+      "title": "没有心中画面的人怎样画出房间",
+      "topic": "视觉意象与记忆",
+      "path": "research/100-directions/034-visual-imagery-differences"
     },
     {
       "number": "035",
