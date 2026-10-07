@@ -1,6 +1,6 @@
 {
   "target": 10000,
-  "completed_new_count": 14,
+  "completed_new_count": 16,
   "prior_library_excluded": 116,
   "existing_revisions_this_round": 0,
   "completed": [
@@ -73,6 +73,16 @@
       "number": "114",
       "title": "两个相隔很远的仪器，怎样用四种设置检验预先写好的答案",
       "path": "research/deep-studies/114-bell-locality-test"
+    },
+    {
+      "number": "115",
+      "title": "不同培养瓶的巨大波动，怎样揭示突变发生在筛选之前",
+      "path": "research/deep-studies/115-mutation-timing"
+    },
+    {
+      "number": "116",
+      "title": "为什么南极臭氧在春天骤减，关键条件却形成于冬天",
+      "path": "research/deep-studies/116-antarctic-ozone"
     }
   ]
 }

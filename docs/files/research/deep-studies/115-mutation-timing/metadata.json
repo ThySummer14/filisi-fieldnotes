@@ -1,0 +1,49 @@
+{
+  "id": "115",
+  "slug": "mutation-timing",
+  "title": "不同培养瓶的巨大波动，怎样揭示突变发生在筛选之前",
+  "version": 1,
+  "topic": "遗传学史与概率模型",
+  "question": "末尾的变体计数怎样区分早期遗传家族与末尾独立改变，原始波动与复制位置证据支持到哪里？",
+  "description": "末尾的变体计数怎样区分早期遗传家族与末尾独立改变，原始波动与复制位置证据支持到哪里？",
+  "language": "zh-CN",
+  "updated": "2026-10-07",
+  "sources": [
+    {
+      "title": "Luria & Delbruck (1943), Mutations of Bacteria from Virus Sensitivity to Virus Resistance",
+      "url": "https://people.sissa.it/~marco/papers/luria-delbruck.pdf",
+      "type": "原始实验及理论论文"
+    },
+    {
+      "title": "J. Lederberg & E. M. Lederberg (1952), Replica Plating and Indirect Selection of Bacterial Mutants",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC169282/",
+      "type": "原始实验论文"
+    },
+    {
+      "title": "Armitage (1953), Statistical Concepts in the Theory of Bacterial Mutation",
+      "url": "https://www.cambridge.org/core/services/aop-cambridge-core/content/view/8C89CCA22D210C87D4A6080777C81FD3/S0022172400015606a.pdf/statistical_concepts_in_the_theory_of_bacterial_mutation.pdf",
+      "type": "原始统计分析论文"
+    },
+    {
+      "title": "Foster (2006), Methods for Determining Spontaneous Mutation Rates",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC2041832/",
+      "additional_urls": [
+        "https://scispace.com/pdf/methods-for-determining-spontaneous-mutation-rates-3qfwmvdfb6.pdf"
+      ],
+      "type": "作者方法综述章节"
+    },
+    {
+      "title": "Ycart (2013), Fluctuation Analysis: Can Estimates Be Trusted?",
+      "url": "https://arxiv.org/pdf/1305.3075",
+      "additional_urls": [
+        "https://doi.org/10.1371/journal.pone.0080958"
+      ],
+      "type": "作者原始统计研究稿v3"
+    },
+    {
+      "title": "Frenoy & Bonhoeffer (2018), Death and Population Dynamics Affect Mutation Rate Estimates and Evolvability under Stress in Bacteria",
+      "url": "https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.2005056",
+      "type": "原始建模与实验研究"
+    }
+  ]
+}

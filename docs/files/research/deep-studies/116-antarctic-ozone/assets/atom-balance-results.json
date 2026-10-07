@@ -1,0 +1,157 @@
+{
+  "model": "Exact stoichiometric bookkeeping for one idealized ClO dimer cycle",
+  "not_a_claim_about": [
+    "reaction rate",
+    "actual cycle count",
+    "atmospheric loss fraction"
+  ],
+  "omitted_from_atom_count": [
+    "Photons carry energy, not atoms",
+    "M is the unchanged third-body collision partner"
+  ],
+  "reaction_checks": [
+    {
+      "step": "surface activation",
+      "reactants": {
+        "HCl": 1,
+        "ClONO2": 1
+      },
+      "products": {
+        "Cl2": 1,
+        "HNO3": 1
+      },
+      "atoms_each_side": {
+        "Cl": 2,
+        "H": 1,
+        "N": 1,
+        "O": 3
+      },
+      "balanced": true
+    },
+    {
+      "step": "precursor photolysis",
+      "reactants": {
+        "Cl2": 1
+      },
+      "products": {
+        "Cl": 2
+      },
+      "atoms_each_side": {
+        "Cl": 2
+      },
+      "balanced": true
+    },
+    {
+      "step": "ozone consumption, twice",
+      "reactants": {
+        "Cl": 2,
+        "O3": 2
+      },
+      "products": {
+        "ClO": 2,
+        "O2": 2
+      },
+      "atoms_each_side": {
+        "Cl": 2,
+        "O": 6
+      },
+      "balanced": true
+    },
+    {
+      "step": "dimer formation",
+      "reactants": {
+        "ClO": 2
+      },
+      "products": {
+        "ClOOCl": 1
+      },
+      "atoms_each_side": {
+        "Cl": 2,
+        "O": 2
+      },
+      "balanced": true
+    },
+    {
+      "step": "dimer photolysis",
+      "reactants": {
+        "ClOOCl": 1
+      },
+      "products": {
+        "Cl": 1,
+        "ClOO": 1
+      },
+      "atoms_each_side": {
+        "Cl": 2,
+        "O": 2
+      },
+      "balanced": true
+    },
+    {
+      "step": "intermediate decomposition",
+      "reactants": {
+        "ClOO": 1
+      },
+      "products": {
+        "Cl": 1,
+        "O2": 1
+      },
+      "atoms_each_side": {
+        "Cl": 1,
+        "O": 2
+      },
+      "balanced": true
+    }
+  ],
+  "diagram_states": [
+    {
+      "species": {
+        "Cl": 2,
+        "O3": 2
+      },
+      "atoms": {
+        "Cl": 2,
+        "O": 6
+      }
+    },
+    {
+      "species": {
+        "ClO": 2,
+        "O2": 2
+      },
+      "atoms": {
+        "Cl": 2,
+        "O": 6
+      }
+    },
+    {
+      "species": {
+        "ClOOCl": 1,
+        "O2": 2
+      },
+      "atoms": {
+        "Cl": 2,
+        "O": 6
+      }
+    },
+    {
+      "species": {
+        "Cl": 2,
+        "O2": 3
+      },
+      "atoms": {
+        "Cl": 2,
+        "O": 6
+      }
+    }
+  ],
+  "net_molecule_change_per_completed_cycle": {
+    "O2": 3,
+    "O3": -2
+  },
+  "illustration": {
+    "completed_cycles_assumed": 100,
+    "O3_consumed": 200,
+    "O2_produced": 300,
+    "Cl_atoms_recycled": 2
+  }
+}

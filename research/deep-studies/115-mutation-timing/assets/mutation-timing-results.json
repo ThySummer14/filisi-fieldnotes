@@ -1,0 +1,80 @@
+{
+  "historical_counts": {
+    "source": "Luria & Delbruck (1943), original pages 503 and 504",
+    "same_culture_table1_experiment_10a": {
+      "counts": [
+        14,
+        15,
+        13,
+        21,
+        15,
+        14,
+        26,
+        16,
+        20,
+        13
+      ],
+      "n": 10,
+      "sum": 167,
+      "mean": 16.7,
+      "sample_variance_n_minus_1": 18.233333333333334,
+      "sample_variance_divided_by_mean": 1.0918163672654693
+    },
+    "independent_cultures_table2_experiment_17": {
+      "counts": [
+        1,
+        0,
+        0,
+        7,
+        0,
+        303,
+        0,
+        0,
+        3,
+        48,
+        1,
+        4
+      ],
+      "n": 12,
+      "sum": 367,
+      "mean": 30.583333333333332,
+      "sample_variance_n_minus_1": 7542.265151515152,
+      "sample_variance_divided_by_mean": 246.61357443646276
+    },
+    "scope": "Counts per tested sample; samples and conditions differ. Mean and n-1 variance are recalculated from listed counts. The original paper's summary rows, including its sampling-corrected table-2 variances, are NOT copied as these values."
+  },
+  "invented_inheritance_model": {
+    "initial_cells": 1,
+    "generations": 10,
+    "final_cells": 1024,
+    "probability_per_normal_parent_division": 0.0009775171065493646,
+    "expected_final_altered_cells": 4.993894103104484,
+    "variance_of_final_altered_count": 507.26378374046845,
+    "probability_of_zero_altered_cells": 0.36769956367813933,
+    "one_event_after_generation_2_descendants_at_10": 256,
+    "one_event_after_generation_9_descendants_at_10": 2,
+    "scope": "All parameters invented; same growth, no deaths, no reverse change, full detection. No practical biological rate implied."
+  },
+  "invented_change_at_endpoint_model": {
+    "independent_endpoint_probability_per_cell": 0.004876849710062973,
+    "expected_final_altered_cells": 4.993894103104484,
+    "variance_of_final_altered_count": 4.969539632095674,
+    "probability_of_zero_altered_cells": 0.006696896458729885,
+    "scope": "Probability chosen to MATCH the first model's mean."
+  },
+  "zero_class_example": {
+    "original_experiment": "Luria & Delbruck table 3, experiment 23",
+    "zero_count": 29,
+    "culture_count": 87,
+    "estimated_mean_event_count_assuming_poisson": 1.0986122886681098,
+    "scope": "A mean EVENT count, not a per-division mutation rate; requires the detection and survival assumptions described."
+  },
+  "birth_death_arithmetic": {
+    "initial": 100,
+    "final": 200,
+    "deaths": 50,
+    "required_binary_divisions": 150,
+    "scope": "An invented count identity, not a culture prescription."
+  },
+  "small_model_distribution_crosscheck_passed": true
+}

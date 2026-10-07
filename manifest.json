@@ -1,12 +1,12 @@
 {
  "archive_date": "2026-10-07",
- "item_count": 130,
- "original_file_count": 138,
+ "item_count": 132,
+ "original_file_count": 140,
  "original_docx_count": 14,
  "original_pdf_count": 6,
- "original_markdown_count": 118,
+ "original_markdown_count": 120,
  "image_count": 33,
- "readable_markdown_count": 130,
+ "readable_markdown_count": 132,
  "items": [
   {
    "path": "reading/sociological-imagination",
@@ -4599,6 +4599,67 @@
      "original_name": "两个相隔很远的仪器，怎样用四种设置检验预先写好的答案.md",
      "bytes": 13280,
      "sha256": "84aa6dc7bb03c620387b22c4de55b2d61349372224dcb459677e99c358a6abaf",
+     "byte_identical": true
+    }
+   ]
+  },
+  {
+   "path": "research/deep-studies/115-mutation-timing",
+   "archived_at": "2026-10-07",
+   "series": "long-term-research",
+   "series_number": "115",
+   "category": "社会与自然",
+   "title": "不同培养瓶的巨大波动，怎样揭示突变发生在筛选之前",
+   "source_version": 1,
+   "status": "原创深化研究；示例、原始研究与方法边界见正文。",
+   "summary": "末尾的变体计数怎样区分早期遗传家族与末尾独立改变，原始波动与复制位置证据支持到哪里？",
+   "readableMarkdown": "research/deep-studies/115-mutation-timing/readable.md",
+   "sources": "research/deep-studies/115-mutation-timing/sources.md",
+   "assets": [
+    "research/deep-studies/115-mutation-timing/metadata.json",
+    "research/deep-studies/115-mutation-timing/assets/fluctuation-counts.png",
+    "research/deep-studies/115-mutation-timing/assets/fluctuation-counts.svg",
+    "research/deep-studies/115-mutation-timing/assets/mutation-timing-results.json",
+    "research/deep-studies/115-mutation-timing/assets/recompute_mutation_timing.py"
+   ],
+   "topic": "遗传学史与概率模型",
+   "originals": [
+    {
+     "path": "research/deep-studies/115-mutation-timing/readable.md",
+     "original_name": "不同培养瓶的巨大波动，怎样揭示突变发生在筛选之前.md",
+     "bytes": 12472,
+     "sha256": "2c7ce960d30a72c86914e12ef66742c11294974aa54aaf596e4072bf9ca3e49e",
+     "byte_identical": true
+    }
+   ]
+  },
+  {
+   "path": "research/deep-studies/116-antarctic-ozone",
+   "archived_at": "2026-10-07",
+   "series": "long-term-research",
+   "series_number": "116",
+   "category": "社会与自然",
+   "title": "为什么南极臭氧在春天骤减，关键条件却形成于冬天",
+   "source_version": 1,
+   "status": "原创深化研究；示例、原始研究与方法边界见正文。",
+   "summary": "为什么冬季氯活化与春季阳光重叠能造成快速臭氧损失，观测如何排除仅由输运造成的解释？",
+   "readableMarkdown": "research/deep-studies/116-antarctic-ozone/readable.md",
+   "sources": "research/deep-studies/116-antarctic-ozone/sources.md",
+   "assets": [
+    "research/deep-studies/116-antarctic-ozone/metadata.json",
+    "research/deep-studies/116-antarctic-ozone/assets/atom-balance-results.json",
+    "research/deep-studies/116-antarctic-ozone/assets/chlorine-season-cycle.png",
+    "research/deep-studies/116-antarctic-ozone/assets/chlorine-season-cycle.svg",
+    "research/deep-studies/116-antarctic-ozone/assets/make_cycle_diagram.py",
+    "research/deep-studies/116-antarctic-ozone/assets/recompute_atoms.py"
+   ],
+   "topic": "大气化学与极地平流层",
+   "originals": [
+    {
+     "path": "research/deep-studies/116-antarctic-ozone/readable.md",
+     "original_name": "为什么南极臭氧在春天骤减，关键条件却形成于冬天.md",
+     "bytes": 13344,
+     "sha256": "b013ffb8d8d59f3d847176c6e77bd484e51461d1ea332ece0f326e46933eb651",
      "byte_identical": true
     }
    ]

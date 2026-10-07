@@ -1,0 +1,102 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1120" height="740" viewBox="0 0 1120 740" role="img" aria-labelledby="title desc">
+<title id="title">共同培养历史和独立培养历史留下不同波动</title>
+<desc id="desc">两组共用0到320的纵轴。共同培养物的十次取样计数介于13与26；独立培养物的十二次取样包括五个零、48和303。原始数据来自Luria和Delbruck1943年表1实验10a及表2实验17。组间条件不同，图不据均值推断突变率差。</desc>
+<rect width="1120" height="740" fill="#faf9f5"/>
+<g font-family="Noto Sans CJK SC, sans-serif" fill="#183542">
+<text x="45" y="52" font-size="32" text-anchor="start" font-weight="bold" fill="#183542">相同的纵轴，看看波动藏在哪里</text>
+<text x="45" y="90" font-size="21" text-anchor="start" font-weight="normal" fill="#183542">纵轴：每份受检样本中的耐受菌落数；横轴：样本编号</text>
+<text x="86" y="137" font-size="24" text-anchor="start" font-weight="bold" fill="#183542">同一培养物，末尾取10份样本</text>
+<path d="M86,545.000h446" stroke="#d6dfdf" stroke-width="1"/>
+<text x="73" y="551.0" font-size="18" text-anchor="end" font-weight="normal" fill="#183542">0</text>
+<path d="M86,451.750h446" stroke="#d6dfdf" stroke-width="1"/>
+<text x="73" y="457.75" font-size="18" text-anchor="end" font-weight="normal" fill="#183542">80</text>
+<path d="M86,358.500h446" stroke="#d6dfdf" stroke-width="1"/>
+<text x="73" y="364.5" font-size="18" text-anchor="end" font-weight="normal" fill="#183542">160</text>
+<path d="M86,265.250h446" stroke="#d6dfdf" stroke-width="1"/>
+<text x="73" y="271.25" font-size="18" text-anchor="end" font-weight="normal" fill="#183542">240</text>
+<path d="M86,172.000h446" stroke="#d6dfdf" stroke-width="1"/>
+<text x="73" y="178.0" font-size="18" text-anchor="end" font-weight="normal" fill="#183542">320</text>
+<path d="M86,172V545h446" stroke="#52666d" fill="none"/>
+<rect x="96.035" y="528.681" width="24.530" height="16.319" fill="#237782"/>
+<text x="108.3" y="520.68125" font-size="18" text-anchor="middle" font-weight="normal" fill="#237782">14</text>
+<text x="108.3" y="574" font-size="17" text-anchor="middle" font-weight="normal" fill="#183542">1</text>
+<rect x="140.635" y="527.516" width="24.530" height="17.484" fill="#237782"/>
+<text x="152.9" y="519.515625" font-size="18" text-anchor="middle" font-weight="normal" fill="#237782">15</text>
+<text x="152.9" y="574" font-size="17" text-anchor="middle" font-weight="normal" fill="#183542">2</text>
+<rect x="185.235" y="529.847" width="24.530" height="15.153" fill="#237782"/>
+<text x="197.5" y="521.846875" font-size="18" text-anchor="middle" font-weight="normal" fill="#237782">13</text>
+<text x="197.5" y="574" font-size="17" text-anchor="middle" font-weight="normal" fill="#183542">3</text>
+<rect x="229.835" y="520.522" width="24.530" height="24.478" fill="#237782"/>
+<text x="242.1" y="512.521875" font-size="18" text-anchor="middle" font-weight="normal" fill="#237782">21</text>
+<text x="242.1" y="574" font-size="17" text-anchor="middle" font-weight="normal" fill="#183542">4</text>
+<rect x="274.435" y="527.516" width="24.530" height="17.484" fill="#237782"/>
+<text x="286.70000000000005" y="519.515625" font-size="18" text-anchor="middle" font-weight="normal" fill="#237782">15</text>
+<text x="286.70000000000005" y="574" font-size="17" text-anchor="middle" font-weight="normal" fill="#183542">5</text>
+<rect x="319.035" y="528.681" width="24.530" height="16.319" fill="#237782"/>
+<text x="331.3" y="520.68125" font-size="18" text-anchor="middle" font-weight="normal" fill="#237782">14</text>
+<text x="331.3" y="574" font-size="17" text-anchor="middle" font-weight="normal" fill="#183542">6</text>
+<rect x="363.635" y="514.694" width="24.530" height="30.306" fill="#237782"/>
+<text x="375.90000000000003" y="506.69375" font-size="18" text-anchor="middle" font-weight="normal" fill="#237782">26</text>
+<text x="375.90000000000003" y="574" font-size="17" text-anchor="middle" font-weight="normal" fill="#183542">7</text>
+<rect x="408.235" y="526.350" width="24.530" height="18.650" fill="#237782"/>
+<text x="420.5" y="518.35" font-size="18" text-anchor="middle" font-weight="normal" fill="#237782">16</text>
+<text x="420.5" y="574" font-size="17" text-anchor="middle" font-weight="normal" fill="#183542">8</text>
+<rect x="452.835" y="521.688" width="24.530" height="23.312" fill="#237782"/>
+<text x="465.1" y="513.6875" font-size="18" text-anchor="middle" font-weight="normal" fill="#237782">20</text>
+<text x="465.1" y="574" font-size="17" text-anchor="middle" font-weight="normal" fill="#183542">9</text>
+<rect x="497.435" y="529.847" width="24.530" height="15.153" fill="#237782"/>
+<text x="509.7" y="521.846875" font-size="18" text-anchor="middle" font-weight="normal" fill="#237782">13</text>
+<text x="509.7" y="574" font-size="17" text-anchor="middle" font-weight="normal" fill="#183542">10</text>
+<text x="86" y="615" font-size="21" text-anchor="start" font-weight="normal" fill="#183542">均值 16.70；样本方差 18.23</text>
+<text x="634" y="137" font-size="24" text-anchor="start" font-weight="bold" fill="#183542">12份独立培养物，分别取样</text>
+<path d="M634,545.000h446" stroke="#d6dfdf" stroke-width="1"/>
+<text x="621" y="551.0" font-size="18" text-anchor="end" font-weight="normal" fill="#183542">0</text>
+<path d="M634,451.750h446" stroke="#d6dfdf" stroke-width="1"/>
+<text x="621" y="457.75" font-size="18" text-anchor="end" font-weight="normal" fill="#183542">80</text>
+<path d="M634,358.500h446" stroke="#d6dfdf" stroke-width="1"/>
+<text x="621" y="364.5" font-size="18" text-anchor="end" font-weight="normal" fill="#183542">160</text>
+<path d="M634,265.250h446" stroke="#d6dfdf" stroke-width="1"/>
+<text x="621" y="271.25" font-size="18" text-anchor="end" font-weight="normal" fill="#183542">240</text>
+<path d="M634,172.000h446" stroke="#d6dfdf" stroke-width="1"/>
+<text x="621" y="178.0" font-size="18" text-anchor="end" font-weight="normal" fill="#183542">320</text>
+<path d="M634,172V545h446" stroke="#52666d" fill="none"/>
+<rect x="642.363" y="543.834" width="20.442" height="1.166" fill="#a85330"/>
+<text x="652.5833333333334" y="535.834375" font-size="18" text-anchor="middle" font-weight="normal" fill="#a85330">1</text>
+<text x="652.5833333333334" y="574" font-size="17" text-anchor="middle" font-weight="normal" fill="#183542">1</text>
+<circle cx="689.750" cy="545" r="3" fill="#a85330"/>
+<text x="689.75" y="537.0" font-size="18" text-anchor="middle" font-weight="normal" fill="#a85330">0</text>
+<text x="689.75" y="574" font-size="17" text-anchor="middle" font-weight="normal" fill="#183542">2</text>
+<circle cx="726.917" cy="545" r="3" fill="#a85330"/>
+<text x="726.9166666666666" y="537.0" font-size="18" text-anchor="middle" font-weight="normal" fill="#a85330">0</text>
+<text x="726.9166666666666" y="574" font-size="17" text-anchor="middle" font-weight="normal" fill="#183542">3</text>
+<rect x="753.862" y="536.841" width="20.442" height="8.159" fill="#a85330"/>
+<text x="764.0833333333333" y="528.840625" font-size="18" text-anchor="middle" font-weight="normal" fill="#a85330">7</text>
+<text x="764.0833333333333" y="574" font-size="17" text-anchor="middle" font-weight="normal" fill="#183542">4</text>
+<circle cx="801.250" cy="545" r="3" fill="#a85330"/>
+<text x="801.25" y="537.0" font-size="18" text-anchor="middle" font-weight="normal" fill="#a85330">0</text>
+<text x="801.25" y="574" font-size="17" text-anchor="middle" font-weight="normal" fill="#183542">5</text>
+<rect x="828.196" y="191.816" width="20.442" height="353.184" fill="#a85330"/>
+<text x="838.4166666666666" y="183.815625" font-size="18" text-anchor="middle" font-weight="normal" fill="#a85330">303</text>
+<text x="838.4166666666666" y="574" font-size="17" text-anchor="middle" font-weight="normal" fill="#183542">6</text>
+<circle cx="875.583" cy="545" r="3" fill="#a85330"/>
+<text x="875.5833333333333" y="537.0" font-size="18" text-anchor="middle" font-weight="normal" fill="#a85330">0</text>
+<text x="875.5833333333333" y="574" font-size="17" text-anchor="middle" font-weight="normal" fill="#183542">7</text>
+<circle cx="912.750" cy="545" r="3" fill="#a85330"/>
+<text x="912.75" y="537.0" font-size="18" text-anchor="middle" font-weight="normal" fill="#a85330">0</text>
+<text x="912.75" y="574" font-size="17" text-anchor="middle" font-weight="normal" fill="#183542">8</text>
+<rect x="939.696" y="541.503" width="20.442" height="3.497" fill="#a85330"/>
+<text x="949.9166666666666" y="533.503125" font-size="18" text-anchor="middle" font-weight="normal" fill="#a85330">3</text>
+<text x="949.9166666666666" y="574" font-size="17" text-anchor="middle" font-weight="normal" fill="#183542">9</text>
+<rect x="976.862" y="489.050" width="20.442" height="55.950" fill="#a85330"/>
+<text x="987.0833333333333" y="481.05" font-size="18" text-anchor="middle" font-weight="normal" fill="#a85330">48</text>
+<text x="987.0833333333333" y="574" font-size="17" text-anchor="middle" font-weight="normal" fill="#183542">10</text>
+<rect x="1014.029" y="543.834" width="20.442" height="1.166" fill="#a85330"/>
+<text x="1024.25" y="535.834375" font-size="18" text-anchor="middle" font-weight="normal" fill="#a85330">1</text>
+<text x="1024.25" y="574" font-size="17" text-anchor="middle" font-weight="normal" fill="#183542">11</text>
+<rect x="1051.196" y="540.337" width="20.442" height="4.663" fill="#a85330"/>
+<text x="1061.4166666666665" y="532.3375" font-size="18" text-anchor="middle" font-weight="normal" fill="#a85330">4</text>
+<text x="1061.4166666666665" y="574" font-size="17" text-anchor="middle" font-weight="normal" fill="#183542">12</text>
+<text x="634" y="615" font-size="21" text-anchor="start" font-weight="normal" fill="#183542">均值 30.58；样本方差 7542.27</text>
+<text x="45" y="666" font-size="20" text-anchor="start" font-weight="normal" fill="#183542">教学重绘：据原表逐项计数重算，样本方差采用“平方差和 ÷（样本数−1）”。</text>
+<text x="45" y="705" font-size="20" text-anchor="start" font-weight="normal" fill="#183542">两组取样和培养条件不同；它们用于比较波动，不能仅凭均值大小比较突变率。</text>
+</g></svg>

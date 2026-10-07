@@ -1,6 +1,6 @@
 # 长期深化研究
 
-累计新增14篇，长期目标按新增文章计为14/10000。此前116篇不计入这一新目标。另有2篇原文深化修订，沿用编号、不重复计数。
+累计新增16篇，长期目标按新增文章计为16/10000。此前116篇不计入这一新目标。另有2篇原文深化修订，沿用编号、不重复计数。
 
 ## 新增文章
 
@@ -22,6 +22,9 @@
 
 - 113 [银行放一笔贷款，怎样同时生出存款，又为什么仍要找钱](../research/deep-studies/113-bank-deposit-creation/readable.md)
 - 114 [两个相隔很远的仪器，怎样用四种设置检验预先写好的答案](../research/deep-studies/114-bell-locality-test/readable.md)
+
+- 115 [不同培养瓶的巨大波动，怎样揭示突变发生在筛选之前](../research/deep-studies/115-mutation-timing/readable.md)
+- 116 [为什么南极臭氧在春天骤减，关键条件却形成于冬天](../research/deep-studies/116-antarctic-ozone/readable.md)
 
 ## 原编号深化修订
 

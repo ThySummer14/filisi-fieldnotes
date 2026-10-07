@@ -1,0 +1,53 @@
+{
+  "id": "116",
+  "slug": "antarctic-ozone",
+  "title": "为什么南极臭氧在春天骤减，关键条件却形成于冬天",
+  "version": 1,
+  "topic": "大气化学与极地平流层",
+  "question": "为什么冬季氯活化与春季阳光重叠能造成快速臭氧损失，观测如何排除仅由输运造成的解释？",
+  "description": "为什么冬季氯活化与春季阳光重叠能造成快速臭氧损失，观测如何排除仅由输运造成的解释？",
+  "language": "zh-CN",
+  "updated": "2026-10-07",
+  "sources": [
+    {
+      "title": "Anderson (1989), Free Radicals in the Earth's Atmosphere: Measurement and Interpretation",
+      "url": "https://ntrs.nasa.gov/api/citations/19900002785/downloads/19900002785.pdf#page=70",
+      "type": "参与研究者同期会议论文集章节"
+    },
+    {
+      "title": "Anderson, Brune & Proffitt (1989), Ozone destruction by chlorine radicals within the Antarctic vortex: The spatial and temporal evolution of ClO-O3 anticorrelation based on in situ ER-2 data",
+      "url": "https://doi.org/10.1029/JD094iD09p11465",
+      "type": "原始观测论文，仅摘要"
+    },
+    {
+      "title": "NASA AAOE (1987), AAOE Early Findings",
+      "url": "https://espo.nasa.gov/aaoe/content/AAOE_Early_Findings",
+      "type": "任务团队同期官方初步结果"
+    },
+    {
+      "title": "Molina (1989), Heterogeneous Chemical Processes in Ozone Depletion",
+      "url": "https://ntrs.nasa.gov/api/citations/19900002785/downloads/19900002785.pdf#page=62",
+      "type": "原实验研究者同期会议论文集章节"
+    },
+    {
+      "title": "McNeill et al. (2006), Hydrogen chloride-induced surface disordering on ice",
+      "url": "https://www.loerting.at/publications/mcneill06-pnas.pdf",
+      "type": "原始实验论文，作者公开PDF"
+    },
+    {
+      "title": "von Clarmann & Johansson (2018), Chlorine nitrate in the atmosphere",
+      "url": "https://doi.org/10.5194/acp-18-15363-2018",
+      "type": "开放领域综述"
+    },
+    {
+      "title": "Wohltmann, Lehmann & Rex (2017), A quantitative analysis of the reactions involved in stratospheric ozone depletion in the polar vortex core",
+      "url": "https://doi.org/10.5194/acp-17-10535-2017",
+      "type": "原始化学输运模型研究"
+    },
+    {
+      "title": "Salawitch et al. (2023), Twenty Questions and Answers About the Ozone Layer: 2022 Update",
+      "url": "https://csl.noaa.gov/assessments/ozone/2022/twentyquestions/",
+      "type": "WMO科学评估权威说明，NOAA托管"
+    }
+  ]
+}

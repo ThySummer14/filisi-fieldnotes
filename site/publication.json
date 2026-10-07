@@ -130,6 +130,8 @@
     "research/deep-studies/111-graphite-lithium-plating",
     "research/deep-studies/112-mercator-tradeoff",
     "research/deep-studies/113-bank-deposit-creation",
-    "research/deep-studies/114-bell-locality-test"
+    "research/deep-studies/114-bell-locality-test",
+    "research/deep-studies/115-mutation-timing",
+    "research/deep-studies/116-antarctic-ozone"
   ]
 }
