@@ -1,0 +1,574 @@
+{
+  "unit": "10,000 yuan; all invented",
+  "main_sequence": [
+    {
+      "event": "initial",
+      "banks": {
+        "A": {
+          "reserves": 20,
+          "loans": {
+            "legacy": 80,
+            "Lin": 0
+          },
+          "deposits": {
+            "existing": 90,
+            "Lin": 0,
+            "seller": 0,
+            "employee": 0
+          },
+          "equity": 10,
+          "total_loans": 80,
+          "total_deposits": 90,
+          "total_assets": 100,
+          "balance_error": 0
+        },
+        "B": {
+          "reserves": 20,
+          "loans": {
+            "legacy": 80,
+            "Lin": 0
+          },
+          "deposits": {
+            "existing": 90,
+            "Lin": 0,
+            "seller": 0,
+            "employee": 0
+          },
+          "equity": 10,
+          "total_loans": 80,
+          "total_deposits": 90,
+          "total_assets": 100,
+          "balance_error": 0
+        }
+      },
+      "system": {
+        "customer_deposits": 180,
+        "central_bank_reserves": 40,
+        "loans": 160,
+        "equity": 20
+      }
+    },
+    {
+      "event": "A creates loan and Lin deposit of 10",
+      "banks": {
+        "A": {
+          "reserves": 20,
+          "loans": {
+            "legacy": 80,
+            "Lin": 10
+          },
+          "deposits": {
+            "existing": 90,
+            "Lin": 10,
+            "seller": 0,
+            "employee": 0
+          },
+          "equity": 10,
+          "total_loans": 90,
+          "total_deposits": 100,
+          "total_assets": 110,
+          "balance_error": 0
+        },
+        "B": {
+          "reserves": 20,
+          "loans": {
+            "legacy": 80,
+            "Lin": 0
+          },
+          "deposits": {
+            "existing": 90,
+            "Lin": 0,
+            "seller": 0,
+            "employee": 0
+          },
+          "equity": 10,
+          "total_loans": 80,
+          "total_deposits": 90,
+          "total_assets": 100,
+          "balance_error": 0
+        }
+      },
+      "system": {
+        "customer_deposits": 190,
+        "central_bank_reserves": 40,
+        "loans": 170,
+        "equity": 20
+      }
+    },
+    {
+      "event": "Lin buys machine; A settles with B",
+      "banks": {
+        "A": {
+          "reserves": 10,
+          "loans": {
+            "legacy": 80,
+            "Lin": 10
+          },
+          "deposits": {
+            "existing": 90,
+            "Lin": 0,
+            "seller": 0,
+            "employee": 0
+          },
+          "equity": 10,
+          "total_loans": 90,
+          "total_deposits": 90,
+          "total_assets": 100,
+          "balance_error": 0
+        },
+        "B": {
+          "reserves": 30,
+          "loans": {
+            "legacy": 80,
+            "Lin": 0
+          },
+          "deposits": {
+            "existing": 90,
+            "Lin": 0,
+            "seller": 10,
+            "employee": 0
+          },
+          "equity": 10,
+          "total_loans": 80,
+          "total_deposits": 100,
+          "total_assets": 110,
+          "balance_error": 0
+        }
+      },
+      "system": {
+        "customer_deposits": 190,
+        "central_bank_reserves": 40,
+        "loans": 170,
+        "equity": 20
+      }
+    },
+    {
+      "event": "seller pays Lin for a service within B",
+      "banks": {
+        "A": {
+          "reserves": 10,
+          "loans": {
+            "legacy": 80,
+            "Lin": 10
+          },
+          "deposits": {
+            "existing": 90,
+            "Lin": 0,
+            "seller": 0,
+            "employee": 0
+          },
+          "equity": 10,
+          "total_loans": 90,
+          "total_deposits": 90,
+          "total_assets": 100,
+          "balance_error": 0
+        },
+        "B": {
+          "reserves": 30,
+          "loans": {
+            "legacy": 80,
+            "Lin": 0
+          },
+          "deposits": {
+            "existing": 90,
+            "Lin": 10,
+            "seller": 0,
+            "employee": 0
+          },
+          "equity": 10,
+          "total_loans": 80,
+          "total_deposits": 100,
+          "total_assets": 110,
+          "balance_error": 0
+        }
+      },
+      "system": {
+        "customer_deposits": 190,
+        "central_bank_reserves": 40,
+        "loans": 170,
+        "equity": 20
+      }
+    },
+    {
+      "event": "Lin repays A from account at B",
+      "banks": {
+        "A": {
+          "reserves": 20,
+          "loans": {
+            "legacy": 80,
+            "Lin": 0
+          },
+          "deposits": {
+            "existing": 90,
+            "Lin": 0,
+            "seller": 0,
+            "employee": 0
+          },
+          "equity": 10,
+          "total_loans": 80,
+          "total_deposits": 90,
+          "total_assets": 100,
+          "balance_error": 0
+        },
+        "B": {
+          "reserves": 20,
+          "loans": {
+            "legacy": 80,
+            "Lin": 0
+          },
+          "deposits": {
+            "existing": 90,
+            "Lin": 0,
+            "seller": 0,
+            "employee": 0
+          },
+          "equity": 10,
+          "total_loans": 80,
+          "total_deposits": 90,
+          "total_assets": 100,
+          "balance_error": 0
+        }
+      },
+      "system": {
+        "customer_deposits": 180,
+        "central_bank_reserves": 40,
+        "loans": 160,
+        "equity": 20
+      }
+    }
+  ],
+  "same_bank_repayment": [
+    {
+      "event": "A lends 10 before same-bank repayment",
+      "banks": {
+        "A": {
+          "reserves": 20,
+          "loans": {
+            "legacy": 80,
+            "Lin": 10
+          },
+          "deposits": {
+            "existing": 90,
+            "Lin": 10,
+            "seller": 0,
+            "employee": 0
+          },
+          "equity": 10,
+          "total_loans": 90,
+          "total_deposits": 100,
+          "total_assets": 110,
+          "balance_error": 0
+        },
+        "B": {
+          "reserves": 20,
+          "loans": {
+            "legacy": 80,
+            "Lin": 0
+          },
+          "deposits": {
+            "existing": 90,
+            "Lin": 0,
+            "seller": 0,
+            "employee": 0
+          },
+          "equity": 10,
+          "total_loans": 80,
+          "total_deposits": 90,
+          "total_assets": 100,
+          "balance_error": 0
+        }
+      },
+      "system": {
+        "customer_deposits": 190,
+        "central_bank_reserves": 40,
+        "loans": 170,
+        "equity": 20
+      }
+    },
+    {
+      "event": "same-bank principal repayment",
+      "banks": {
+        "A": {
+          "reserves": 20,
+          "loans": {
+            "legacy": 80,
+            "Lin": 0
+          },
+          "deposits": {
+            "existing": 90,
+            "Lin": 0,
+            "seller": 0,
+            "employee": 0
+          },
+          "equity": 10,
+          "total_loans": 80,
+          "total_deposits": 90,
+          "total_assets": 100,
+          "balance_error": 0
+        },
+        "B": {
+          "reserves": 20,
+          "loans": {
+            "legacy": 80,
+            "Lin": 0
+          },
+          "deposits": {
+            "existing": 90,
+            "Lin": 0,
+            "seller": 0,
+            "employee": 0
+          },
+          "equity": 10,
+          "total_loans": 80,
+          "total_deposits": 90,
+          "total_assets": 100,
+          "balance_error": 0
+        }
+      },
+      "system": {
+        "customer_deposits": 180,
+        "central_bank_reserves": 40,
+        "loans": 160,
+        "equity": 20
+      }
+    }
+  ],
+  "interest_and_wage": [
+    {
+      "event": "independent interest example before receipt",
+      "banks": {
+        "A": {
+          "reserves": 20,
+          "loans": {
+            "legacy": 80,
+            "Lin": 0
+          },
+          "deposits": {
+            "existing": 90,
+            "Lin": 0,
+            "seller": 0,
+            "employee": 0
+          },
+          "equity": 10,
+          "total_loans": 80,
+          "total_deposits": 90,
+          "total_assets": 100,
+          "balance_error": 0
+        },
+        "B": {
+          "reserves": 20,
+          "loans": {
+            "legacy": 80,
+            "Lin": 0
+          },
+          "deposits": {
+            "existing": 90,
+            "Lin": 0,
+            "seller": 0,
+            "employee": 0
+          },
+          "equity": 10,
+          "total_loans": 80,
+          "total_deposits": 90,
+          "total_assets": 100,
+          "balance_error": 0
+        }
+      },
+      "system": {
+        "customer_deposits": 180,
+        "central_bank_reserves": 40,
+        "loans": 160,
+        "equity": 20
+      }
+    },
+    {
+      "event": "interest of 1 received and retained",
+      "banks": {
+        "A": {
+          "reserves": 20,
+          "loans": {
+            "legacy": 80,
+            "Lin": 0
+          },
+          "deposits": {
+            "existing": 89,
+            "Lin": 0,
+            "seller": 0,
+            "employee": 0
+          },
+          "equity": 11,
+          "total_loans": 80,
+          "total_deposits": 89,
+          "total_assets": 100,
+          "balance_error": 0
+        },
+        "B": {
+          "reserves": 20,
+          "loans": {
+            "legacy": 80,
+            "Lin": 0
+          },
+          "deposits": {
+            "existing": 90,
+            "Lin": 0,
+            "seller": 0,
+            "employee": 0
+          },
+          "equity": 10,
+          "total_loans": 80,
+          "total_deposits": 90,
+          "total_assets": 100,
+          "balance_error": 0
+        }
+      },
+      "system": {
+        "customer_deposits": 179,
+        "central_bank_reserves": 40,
+        "loans": 160,
+        "equity": 21
+      }
+    },
+    {
+      "event": "A pays wage of 1 to its own depositor",
+      "banks": {
+        "A": {
+          "reserves": 20,
+          "loans": {
+            "legacy": 80,
+            "Lin": 0
+          },
+          "deposits": {
+            "existing": 89,
+            "Lin": 0,
+            "seller": 0,
+            "employee": 1
+          },
+          "equity": 10,
+          "total_loans": 80,
+          "total_deposits": 90,
+          "total_assets": 100,
+          "balance_error": 0
+        },
+        "B": {
+          "reserves": 20,
+          "loans": {
+            "legacy": 80,
+            "Lin": 0
+          },
+          "deposits": {
+            "existing": 90,
+            "Lin": 0,
+            "seller": 0,
+            "employee": 0
+          },
+          "equity": 10,
+          "total_loans": 80,
+          "total_deposits": 90,
+          "total_assets": 100,
+          "balance_error": 0
+        }
+      },
+      "system": {
+        "customer_deposits": 180,
+        "central_bank_reserves": 40,
+        "loans": 160,
+        "equity": 20
+      }
+    }
+  ],
+  "loss": {
+    "event": "independent loss of 6, no earlier provision in this toy ledger",
+    "banks": {
+      "A": {
+        "reserves": 20,
+        "loans": {
+          "legacy": 74,
+          "Lin": 0
+        },
+        "deposits": {
+          "existing": 90,
+          "Lin": 0,
+          "seller": 0,
+          "employee": 0
+        },
+        "equity": 4,
+        "total_loans": 74,
+        "total_deposits": 90,
+        "total_assets": 94,
+        "balance_error": 0
+      },
+      "B": {
+        "reserves": 20,
+        "loans": {
+          "legacy": 80,
+          "Lin": 0
+        },
+        "deposits": {
+          "existing": 90,
+          "Lin": 0,
+          "seller": 0,
+          "employee": 0
+        },
+        "equity": 10,
+        "total_loans": 80,
+        "total_deposits": 90,
+        "total_assets": 100,
+        "balance_error": 0
+      }
+    },
+    "system": {
+      "customer_deposits": 180,
+      "central_bank_reserves": 40,
+      "loans": 154,
+      "equity": 14
+    }
+  },
+  "nonbank_transfer": {
+    "event": "friend lends existing deposit; private loan outside bank ledger",
+    "banks": {
+      "A": {
+        "reserves": 10,
+        "loans": {
+          "legacy": 80,
+          "Lin": 0
+        },
+        "deposits": {
+          "existing": 80,
+          "Lin": 0,
+          "seller": 0,
+          "employee": 0
+        },
+        "equity": 10,
+        "total_loans": 80,
+        "total_deposits": 80,
+        "total_assets": 90,
+        "balance_error": 0
+      },
+      "B": {
+        "reserves": 30,
+        "loans": {
+          "legacy": 80,
+          "Lin": 0
+        },
+        "deposits": {
+          "existing": 90,
+          "Lin": 10,
+          "seller": 0,
+          "employee": 0
+        },
+        "equity": 10,
+        "total_loans": 80,
+        "total_deposits": 100,
+        "total_assets": 110,
+        "balance_error": 0
+      }
+    },
+    "system": {
+      "customer_deposits": 180,
+      "central_bank_reserves": 40,
+      "loans": 160,
+      "equity": 20
+    }
+  },
+  "all_balance_identities_and_expected_totals_passed": true
+}

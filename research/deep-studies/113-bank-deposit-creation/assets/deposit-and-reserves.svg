@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="700" viewBox="0 0 1000 700" role="img" aria-labelledby="title desc">
+<title id="title">同一笔付款，改动两层账户</title>
+<desc id="desc">小林付给乙行卖家10万元，甲行小林存款从10变0，乙行卖家从0变10。央行账户中甲行准备金20变10，乙行20变30。两行存款总额和准备金总额在本次付款中分别保持190与40万元。</desc>
+<rect width="1000" height="700" fill="#faf9f5"/>
+<defs><marker id="arrow" markerWidth="8" markerHeight="8" refX="7" refY="4" orient="auto"><path d="M0,0 L8,4 L0,8Z" fill="#3e5262"/></marker></defs>
+<g font-family="Noto Sans CJK SC, sans-serif" fill="#172d3e">
+<text x="45" y="55" font-size="32" text-anchor="start" font-weight="bold">同一笔付款，改动两层账户</text>
+<text x="45" y="93" font-size="20" text-anchor="start" font-weight="normal">教学例 · 单位：万元 · 只画付款前后</text>
+<text x="45" y="139" font-size="23" text-anchor="start" font-weight="bold" fill="#934600">客户在商业银行的存款</text>
+<rect x="45" y="160" width="365" height="160" rx="15" fill="#ffe7c8"/>
+<text x="227.5" y="202" font-size="25" text-anchor="middle" font-weight="normal">甲行：小林的账户</text>
+<text x="227.5" y="258" font-size="40" text-anchor="middle" font-weight="bold">10 → 0</text>
+<text x="227.5" y="295" font-size="18" text-anchor="middle" font-weight="normal">客户的资产 / 商业银行的负债</text>
+<rect x="590" y="160" width="365" height="160" rx="15" fill="#ffe7c8"/>
+<text x="772.5" y="202" font-size="25" text-anchor="middle" font-weight="normal">乙行：卖家的账户</text>
+<text x="772.5" y="258" font-size="40" text-anchor="middle" font-weight="bold">0 → 10</text>
+<text x="772.5" y="295" font-size="18" text-anchor="middle" font-weight="normal">客户的资产 / 商业银行的负债</text>
+<path d="M425,245 L575,245" stroke="#3e5262" stroke-width="3" marker-end="url(#arrow)"/>
+<text x="500" y="223" font-size="19" text-anchor="middle" font-weight="normal">支付10</text>
+<text x="45" y="376" font-size="23" text-anchor="start" font-weight="bold" fill="#195d8a">商业银行在央行的账户余额</text>
+<rect x="45" y="397" width="365" height="160" rx="15" fill="#dceef8"/>
+<text x="227.5" y="439" font-size="24" text-anchor="middle" font-weight="normal">央行账本：甲行余额</text>
+<text x="227.5" y="495" font-size="40" text-anchor="middle" font-weight="bold">20 → 10</text>
+<text x="227.5" y="532" font-size="18" text-anchor="middle" font-weight="normal">商业银行的资产 / 央行的负债</text>
+<rect x="590" y="397" width="365" height="160" rx="15" fill="#dceef8"/>
+<text x="772.5" y="439" font-size="24" text-anchor="middle" font-weight="normal">央行账本：乙行余额</text>
+<text x="772.5" y="495" font-size="40" text-anchor="middle" font-weight="bold">20 → 30</text>
+<text x="772.5" y="532" font-size="18" text-anchor="middle" font-weight="normal">商业银行的资产 / 央行的负债</text>
+<path d="M425,482 L575,482" stroke="#3e5262" stroke-width="3" marker-end="url(#arrow)"/>
+<text x="500" y="460" font-size="19" text-anchor="middle" font-weight="normal">结算10</text>
+<text x="45" y="602" font-size="23" text-anchor="start" font-weight="normal">两行客户存款合计：190 → 190；准备金合计：40 → 40</text>
+<text x="45" y="646" font-size="22" text-anchor="start" font-weight="normal">甲行仍持有对小林的10万元贷款，贷款没有随付款转到乙行。</text>
+</g></svg>

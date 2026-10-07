@@ -1,6 +1,6 @@
 {
   "target": 10000,
-  "completed_new_count": 12,
+  "completed_new_count": 14,
   "prior_library_excluded": 116,
   "existing_revisions_this_round": 0,
   "completed": [
@@ -63,6 +63,16 @@
       "number": "112",
       "title": "墨卡托地图为什么把高纬地区放大，却能把恒向航线画直",
       "path": "research/deep-studies/112-mercator-tradeoff"
+    },
+    {
+      "number": "113",
+      "title": "银行放一笔贷款，怎样同时生出存款，又为什么仍要找钱",
+      "path": "research/deep-studies/113-bank-deposit-creation"
+    },
+    {
+      "number": "114",
+      "title": "两个相隔很远的仪器，怎样用四种设置检验预先写好的答案",
+      "path": "research/deep-studies/114-bell-locality-test"
     }
   ]
 }
