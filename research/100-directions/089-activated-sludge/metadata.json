@@ -1,0 +1,40 @@
+{
+  "id": "089",
+  "slug": "activated-sludge",
+  "topic": "环境技术",
+  "tags": [
+    "活性污泥",
+    "曝气",
+    "水处理"
+  ],
+  "title": "污水厂为什么把沉下去的泥又送回池里",
+  "description": "活性污泥的关键，是留住能够工作又能分离的微生物群落，让水和生物拥有不同的停留时间。",
+  "date": "2026-10-07",
+  "language": "zh-CN",
+  "sources": [
+    {
+      "title": "EPA Primer for Municipal Wastewater Treatment Systems",
+      "url": "https://www.epa.gov/sites/default/files/2015-09/documents/primer.pdf",
+      "source_type": "官方科普技术资料",
+      "accessed": "2026-10-07"
+    },
+    {
+      "title": "Tian et al 2006 Functions and behaviors of activated sludge EPS",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/17294634/",
+      "source_type": "学术综述摘要",
+      "accessed": "2026-10-07"
+    },
+    {
+      "title": "Liu and Wang 2014 Role of Solids Retention Time on Complete Nitrification",
+      "url": "https://hero.epa.gov/reference/2522480/",
+      "source_type": "原始实验摘要",
+      "accessed": "2026-10-07"
+    },
+    {
+      "title": "IWA MEWE 2021 Ardern Lockett historical introduction",
+      "url": "https://www.iwa-network.org/news/iwa-specialist-group-on-microbial-ecology-and-water-engineering-mewe-2021-award-winners",
+      "source_type": "专业协会历史说明",
+      "accessed": "2026-10-07"
+    }
+  ]
+}

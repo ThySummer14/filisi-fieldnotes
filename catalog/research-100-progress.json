@@ -1,6 +1,6 @@
 {
   "target": 100,
-  "completed_count": 60,
+  "completed_count": 66,
   "existing_library_excluded": 16,
   "completed": [
     {
@@ -238,6 +238,24 @@
       "path": "research/100-directions/055-reversible-cellular-automata"
     },
     {
+      "number": "056",
+      "title": "播放按钮的背后 不止播放和暂停",
+      "topic": "交互架构",
+      "path": "research/100-directions/056-statechart-hidden-states"
+    },
+    {
+      "number": "057",
+      "title": "第七帧已经画出来 第五帧的按键才到",
+      "topic": "游戏网络",
+      "path": "research/100-directions/057-rollback-netcode"
+    },
+    {
+      "number": "058",
+      "title": "同一个种子 为什么还是回放出另一局",
+      "topic": "游戏工具",
+      "path": "research/100-directions/058-deterministic-replay"
+    },
+    {
       "number": "068",
       "title": "日落后 城市还在退还白天的热",
       "topic": "城市气候",
@@ -362,6 +380,24 @@
       "title": "一处饮水点 曾经装下怎样的公共生活",
       "topic": "城市史",
       "path": "research/100-directions/088-public-fountains"
+    },
+    {
+      "number": "089",
+      "title": "污水厂为什么把沉下去的泥又送回池里",
+      "topic": "环境技术",
+      "path": "research/100-directions/089-activated-sludge"
+    },
+    {
+      "number": "090",
+      "title": "一个停车位的面积 要从车道一起算",
+      "topic": "城市观察",
+      "path": "research/100-directions/090-parking-space"
+    },
+    {
+      "number": "091",
+      "title": "墓园为什么会留住别处消失的生物",
+      "topic": "城市生态",
+      "path": "research/100-directions/091-cemetery-ecology"
     }
   ]
 }

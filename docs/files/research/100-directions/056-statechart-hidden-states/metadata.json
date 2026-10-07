@@ -1,0 +1,29 @@
+{
+  "id": "056",
+  "title": "播放按钮的背后 不止播放和暂停",
+  "description": "状态机能把不合法组合和异步竞态摆到台面上，前提是把用户意图与实际资源状态分开。",
+  "topic": "交互架构",
+  "tags": [
+    "状态图",
+    "异步任务",
+    "界面建模"
+  ],
+  "sources": [
+    {
+      "title": "HTML Standard媒体状态",
+      "url": "https://html.spec.whatwg.org/multipage/media.html#media-elements"
+    },
+    {
+      "title": "W3C SCXML",
+      "url": "https://www.w3.org/TR/scxml/"
+    },
+    {
+      "title": "Stately Parallel states",
+      "url": "https://stately.ai/docs/parallel-states"
+    },
+    {
+      "title": "Stately Invoke生命周期",
+      "url": "https://stately.ai/docs/invoke"
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "id": "091",
+  "slug": "cemetery-ecology",
+  "topic": "城市生态",
+  "tags": [
+    "墓园",
+    "生境",
+    "管理"
+  ],
+  "title": "墓园为什么会留住别处消失的生物",
+  "description": "长久保留的土地、老树、草地和石面，可以提供少见的连续生境。它仍然首先是有人纪念和哀悼的地方。",
+  "date": "2026-10-07",
+  "language": "zh-CN",
+  "sources": [
+    {
+      "title": "Löki et al 2019 Biodiversity potential of burial places",
+      "url": "https://doi.org/10.1016/j.gecco.2019.e00614",
+      "source_type": "学术综述",
+      "accessed": "2026-10-07"
+    },
+    {
+      "title": "Kowarik et al 2016 Biodiversity functions of urban cemeteries",
+      "url": "https://doi.org/10.1016/j.ufug.2016.06.023",
+      "source_type": "原始多类群调查",
+      "accessed": "2026-10-07"
+    },
+    {
+      "title": "Historic England Importance of Historic Cemeteries and Burial Grounds",
+      "url": "https://historicengland.org.uk/advice/caring-for-heritage/cemeteries-and-burial-grounds/importance/",
+      "source_type": "官方遗产说明",
+      "accessed": "2026-10-07"
+    },
+    {
+      "title": "Straka et al 2022 Urban Cemeteries as Shared Habitats",
+      "url": "https://doi.org/10.3390/land11081237",
+      "source_type": "原始问卷研究",
+      "accessed": "2026-10-07"
+    }
+  ]
+}

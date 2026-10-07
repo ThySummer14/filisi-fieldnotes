@@ -1,0 +1,29 @@
+{
+  "id": "058",
+  "title": "同一个种子 为什么还是回放出另一局",
+  "description": "可重放系统需要保存初始状态、输入时序和所有影响模拟的隐含选择，随机种子只是其中之一。",
+  "topic": "游戏工具",
+  "tags": [
+    "确定性回放",
+    "随机流",
+    "调试"
+  ],
+  "sources": [
+    {
+      "title": "Gaffer Deterministic Lockstep",
+      "url": "https://gafferongames.com/post/deterministic_lockstep/"
+    },
+    {
+      "title": "Godot RandomNumberGenerator",
+      "url": "https://docs.godotengine.org/en/stable/classes/class_randomnumbergenerator.html"
+    },
+    {
+      "title": "Box2D 3.1 Simulation Determinism",
+      "url": "https://box2d.org/documentation/md_simulation.html"
+    },
+    {
+      "title": "Factorio FFF302第一手开发记录",
+      "url": "https://factorio.com/blog/post/fff-302"
+    }
+  ]
+}

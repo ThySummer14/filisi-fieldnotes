@@ -75,7 +75,13 @@
     "research/100-directions/018-event-boundaries-memory",
     "research/100-directions/086-glaze-kiln",
     "research/100-directions/087-railway-gauge",
-    "research/100-directions/088-public-fountains"
+    "research/100-directions/088-public-fountains",
+    "research/100-directions/056-statechart-hidden-states",
+    "research/100-directions/057-rollback-netcode",
+    "research/100-directions/058-deterministic-replay",
+    "research/100-directions/089-activated-sludge",
+    "research/100-directions/090-parking-space",
+    "research/100-directions/091-cemetery-ecology"
   ],
-  "item_count": 76
+  "item_count": 82
 }

@@ -1,0 +1,29 @@
+{
+  "id": "057",
+  "title": "第七帧已经画出来 第五帧的按键才到",
+  "description": "回滚网络用预测换取即时响应，再用保存状态与重演修正过去，代价落在计算和画面一致性上。",
+  "topic": "游戏网络",
+  "tags": [
+    "Rollback",
+    "输入预测",
+    "状态快照"
+  ],
+  "sources": [
+    {
+      "title": "SnapNet Rollback架构",
+      "url": "https://www.snapnet.dev/blog/netcode-architectures-part-2-rollback/"
+    },
+    {
+      "title": "GGPO ggponet.h回调接口",
+      "url": "https://github.com/pond3r/ggpo/blob/master/src/include/ggponet.h"
+    },
+    {
+      "title": "GGPO项目原始说明",
+      "url": "https://github.com/pond3r/ggpo"
+    },
+    {
+      "title": "Gaffer State Synchronization",
+      "url": "https://gafferongames.com/post/state_synchronization/"
+    }
+  ]
+}

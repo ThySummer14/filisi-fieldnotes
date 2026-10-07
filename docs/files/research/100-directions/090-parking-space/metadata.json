@@ -1,0 +1,40 @@
+{
+  "id": "090",
+  "slug": "parking-space",
+  "topic": "城市观察",
+  "tags": [
+    "停车",
+    "土地",
+    "交通"
+  ],
+  "title": "一个停车位的面积 要从车道一起算",
+  "description": "白线框住的只是停放位置，通道、坡道和不同目的地的重复供给，才解释了停车为何占用这么多城市空间。",
+  "date": "2026-10-07",
+  "language": "zh-CN",
+  "sources": [
+    {
+      "title": "Manville and Shoup Parking People and Cities",
+      "url": "https://shoup.bol.ucla.edu/People%2CParking%2CCitiesJUPD.pdf",
+      "source_type": "原始城市研究",
+      "accessed": "2026-10-07"
+    },
+    {
+      "title": "Chester et al 2010 Parking infrastructure life cycle accounting",
+      "url": "https://doi.org/10.1088/1748-9326/5/3/034001",
+      "source_type": "原始生命周期研究摘要",
+      "accessed": "2026-10-07"
+    },
+    {
+      "title": "SFMTA SFpark Evaluation",
+      "url": "https://www.sfmta.com/getting-around/drive-park/demand-responsive-pricing/sfpark-evaluation",
+      "source_type": "官方试点评估",
+      "accessed": "2026-10-07"
+    },
+    {
+      "title": "NACTO Curb Management",
+      "url": "https://nacto.org/program/reimagining-city-streets/multimodal-streets/curb-management/",
+      "source_type": "交通专业机构技术说明",
+      "accessed": "2026-10-07"
+    }
+  ]
+}

@@ -1,12 +1,12 @@
 {
   "archive_date": "2026-10-07",
-  "item_count": 76,
-  "original_file_count": 84,
+  "item_count": 82,
+  "original_file_count": 90,
   "original_docx_count": 14,
   "original_pdf_count": 6,
-  "original_markdown_count": 64,
+  "original_markdown_count": 70,
   "image_count": 33,
-  "readable_markdown_count": 76,
+  "readable_markdown_count": 82,
   "items": [
     {
       "path": "reading/sociological-imagination",
@@ -2949,6 +2949,186 @@
         "公共饮水",
         "基础设施",
         "公共空间"
+      ]
+    },
+    {
+      "path": "research/100-directions/056-statechart-hidden-states",
+      "title": "播放按钮的背后 不止播放和暂停",
+      "archived_at": "2026-10-07",
+      "source_version": 1,
+      "status": "原创专题研究；例子、原始研究与方法边界见正文",
+      "summary": "状态机能把不合法组合和异步竞态摆到台面上，前提是把用户意图与实际资源状态分开。",
+      "readableMarkdown": "research/100-directions/056-statechart-hidden-states/readable.md",
+      "sources": "research/100-directions/056-statechart-hidden-states/sources.md",
+      "assets": [
+        "research/100-directions/056-statechart-hidden-states/metadata.json"
+      ],
+      "originals": [
+        {
+          "path": "research/100-directions/056-statechart-hidden-states/readable.md",
+          "original_name": "播放按钮的背后 不止播放和暂停.md",
+          "bytes": 6045,
+          "sha256": "abcc8ddde992f5a1438e0697dd9aaffdba911276988bbf1e246441291d4d864f",
+          "byte_identical": true
+        }
+      ],
+      "series": "research-100-20261007",
+      "series_number": "056",
+      "topic": "交互架构",
+      "tags": [
+        "状态图",
+        "异步任务",
+        "界面建模"
+      ]
+    },
+    {
+      "path": "research/100-directions/057-rollback-netcode",
+      "title": "第七帧已经画出来 第五帧的按键才到",
+      "archived_at": "2026-10-07",
+      "source_version": 1,
+      "status": "原创专题研究；例子、原始研究与方法边界见正文",
+      "summary": "回滚网络用预测换取即时响应，再用保存状态与重演修正过去，代价落在计算和画面一致性上。",
+      "readableMarkdown": "research/100-directions/057-rollback-netcode/readable.md",
+      "sources": "research/100-directions/057-rollback-netcode/sources.md",
+      "assets": [
+        "research/100-directions/057-rollback-netcode/metadata.json"
+      ],
+      "originals": [
+        {
+          "path": "research/100-directions/057-rollback-netcode/readable.md",
+          "original_name": "第七帧已经画出来 第五帧的按键才到.md",
+          "bytes": 5806,
+          "sha256": "b5c36dcbe41da27b965931ecabd3ab03f1618b42636eabc998cd86fd379787f1",
+          "byte_identical": true
+        }
+      ],
+      "series": "research-100-20261007",
+      "series_number": "057",
+      "topic": "游戏网络",
+      "tags": [
+        "Rollback",
+        "输入预测",
+        "状态快照"
+      ]
+    },
+    {
+      "path": "research/100-directions/058-deterministic-replay",
+      "title": "同一个种子 为什么还是回放出另一局",
+      "archived_at": "2026-10-07",
+      "source_version": 1,
+      "status": "原创专题研究；例子、原始研究与方法边界见正文",
+      "summary": "可重放系统需要保存初始状态、输入时序和所有影响模拟的隐含选择，随机种子只是其中之一。",
+      "readableMarkdown": "research/100-directions/058-deterministic-replay/readable.md",
+      "sources": "research/100-directions/058-deterministic-replay/sources.md",
+      "assets": [
+        "research/100-directions/058-deterministic-replay/metadata.json"
+      ],
+      "originals": [
+        {
+          "path": "research/100-directions/058-deterministic-replay/readable.md",
+          "original_name": "同一个种子 为什么还是回放出另一局.md",
+          "bytes": 6003,
+          "sha256": "d00a613f9621f73179f15a47cc0f9d8babedfa4585c7bdb77e8587837e1d0d7c",
+          "byte_identical": true
+        }
+      ],
+      "series": "research-100-20261007",
+      "series_number": "058",
+      "topic": "游戏工具",
+      "tags": [
+        "确定性回放",
+        "随机流",
+        "调试"
+      ]
+    },
+    {
+      "path": "research/100-directions/089-activated-sludge",
+      "title": "污水厂为什么把沉下去的泥又送回池里",
+      "archived_at": "2026-10-07",
+      "source_version": 1,
+      "status": "原创专题研究；例子、原始研究与方法边界见正文",
+      "summary": "活性污泥的关键，是留住能够工作又能分离的微生物群落，让水和生物拥有不同的停留时间。",
+      "readableMarkdown": "research/100-directions/089-activated-sludge/readable.md",
+      "sources": "research/100-directions/089-activated-sludge/sources.md",
+      "assets": [
+        "research/100-directions/089-activated-sludge/metadata.json"
+      ],
+      "originals": [
+        {
+          "path": "research/100-directions/089-activated-sludge/readable.md",
+          "original_name": "污水厂为什么把沉下去的泥又送回池里.md",
+          "bytes": 6130,
+          "sha256": "14390a3c7fbd764a6fb9fcf23710f70720a36287b41b417c4d5fd063e75aebd2",
+          "byte_identical": true
+        }
+      ],
+      "series": "research-100-20261007",
+      "series_number": "089",
+      "topic": "环境技术",
+      "tags": [
+        "活性污泥",
+        "曝气",
+        "水处理"
+      ]
+    },
+    {
+      "path": "research/100-directions/090-parking-space",
+      "title": "一个停车位的面积 要从车道一起算",
+      "archived_at": "2026-10-07",
+      "source_version": 1,
+      "status": "原创专题研究；例子、原始研究与方法边界见正文",
+      "summary": "白线框住的只是停放位置，通道、坡道和不同目的地的重复供给，才解释了停车为何占用这么多城市空间。",
+      "readableMarkdown": "research/100-directions/090-parking-space/readable.md",
+      "sources": "research/100-directions/090-parking-space/sources.md",
+      "assets": [
+        "research/100-directions/090-parking-space/metadata.json"
+      ],
+      "originals": [
+        {
+          "path": "research/100-directions/090-parking-space/readable.md",
+          "original_name": "一个停车位的面积 要从车道一起算.md",
+          "bytes": 6035,
+          "sha256": "33423a96a155b9f17898ab4da19061c79c01bdcb4831dbb15f8ffaea672606c3",
+          "byte_identical": true
+        }
+      ],
+      "series": "research-100-20261007",
+      "series_number": "090",
+      "topic": "城市观察",
+      "tags": [
+        "停车",
+        "土地",
+        "交通"
+      ]
+    },
+    {
+      "path": "research/100-directions/091-cemetery-ecology",
+      "title": "墓园为什么会留住别处消失的生物",
+      "archived_at": "2026-10-07",
+      "source_version": 1,
+      "status": "原创专题研究；例子、原始研究与方法边界见正文",
+      "summary": "长久保留的土地、老树、草地和石面，可以提供少见的连续生境。它仍然首先是有人纪念和哀悼的地方。",
+      "readableMarkdown": "research/100-directions/091-cemetery-ecology/readable.md",
+      "sources": "research/100-directions/091-cemetery-ecology/sources.md",
+      "assets": [
+        "research/100-directions/091-cemetery-ecology/metadata.json"
+      ],
+      "originals": [
+        {
+          "path": "research/100-directions/091-cemetery-ecology/readable.md",
+          "original_name": "墓园为什么会留住别处消失的生物.md",
+          "bytes": 5953,
+          "sha256": "e38fab761e5da009f5b10ac949255248a2a11500e5d115a2c51fa26f025ab31a",
+          "byte_identical": true
+        }
+      ],
+      "series": "research-100-20261007",
+      "series_number": "091",
+      "topic": "城市生态",
+      "tags": [
+        "墓园",
+        "生境",
+        "管理"
       ]
     }
   ]
