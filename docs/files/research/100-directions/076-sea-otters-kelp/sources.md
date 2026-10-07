@@ -12,3 +12,7 @@
   - 类型：研究机构说明
 - [Smith and Tinker 2022 Alternations in foraging behaviour drive patch transition dynamics](https://doi.org/10.1111/ele.14064)
   - 类型：原始研究
+
+## 版本记录
+
+2026-10-07 · 第2版：根据2022年论文Discussion校正深礁恢复段：迁移为较简约的可能解释，保留深浅水海胆行为改变的替代解释。原文位置：[Smith与Tinker（2022）Discussion](https://onlinelibrary.wiley.com/doi/10.1111/ele.14064)，深水向浅水移动与替代解释的相邻段落。

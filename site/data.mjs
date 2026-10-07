@@ -1,0 +1,10 @@
+export function routeGate(){let version=0;return {next:()=>++version,current:n=>n===version};}
+export class LibraryData {
+ constructor(index,fetcher=fetch){this.index=index;this.fetcher=fetcher;this.cache=new Map();this.active=0;this.queue=[];this.searchPromise=null;this.progress=null;}
+ async slot(){if(this.active>=4)await new Promise(resolve=>this.queue.push(resolve));this.active++;}
+ release(){this.active--;this.queue.shift()?.();}
+ json(url){if(this.cache.has(url))return this.cache.get(url);const promise=(async()=>{await this.slot();try{const controller=new AbortController();const timer=setTimeout(()=>controller.abort(),20000);try{const response=await this.fetcher(url,{signal:controller.signal});if(!response.ok)throw Error('无法读取 '+url);return await response.json();}finally{clearTimeout(timer);}}finally{this.release();}})();this.cache.set(url,promise);promise.catch(()=>this.cache.delete(url));return promise;}
+ async metadata(){const shards=await Promise.all(this.index.metadata.map(url=>this.json(url)));const items=shards.flatMap(s=>s.items).map(d=>({...d,text:''}));if(items.length!==this.index.item_count||new Set(items.map(d=>d.id)).size!==items.length)throw Error('文库目录不完整');return items;}
+ async article(d){const manifest=await this.json(d.article);const parts=await Promise.all(manifest.parts.map(url=>this.json(url)));return {...d,html:parts.map(p=>p.html).join(''),toc:manifest.toc};}
+ async fulltext(items,onProgress){this.progress=onProgress;if(!this.searchPromise){this.searchPromise=(async()=>{let done=0;const shards=await Promise.all(this.index.search.map(async url=>{const data=await this.json(url);this.progress?.(++done,this.index.search.length);return data;}));const texts=new Map();for(const shard of shards)for(const e of shard.entries)texts.set(e.id,(texts.get(e.id)||'')+e.text);for(const d of items)if(!texts.has(d.id))throw Error('全文索引不完整');return texts;})();this.searchPromise.catch(()=>{this.searchPromise=null;});}const texts=await this.searchPromise;return items.map(d=>({...d,text:texts.get(d.id)}));}
+}

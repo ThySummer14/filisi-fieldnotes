@@ -2021,7 +2021,7 @@
       "path": "research/100-directions/076-sea-otters-kelp",
       "title": "海獭很多 海带林为什么还会变秃",
       "archived_at": "2026-10-07",
-      "source_version": 1,
+      "source_version": 2,
       "status": "原创专题研究；例子、原始研究与方法边界见正文",
       "summary": "蒙特雷湾的反例提醒人们，捕食者挑选的是值得吃的猎物，保护残林与让荒场恢复并非同一件事。",
       "readableMarkdown": "research/100-directions/076-sea-otters-kelp/readable.md",
@@ -2033,9 +2033,10 @@
         {
           "path": "research/100-directions/076-sea-otters-kelp/readable.md",
           "original_name": "海獭很多 海带林为什么还会变秃.md",
-          "bytes": 5853,
-          "sha256": "d7c05c3f98627037521917ffe0e3b397edae58f5be7c958aabf3094730c2bdc7",
-          "byte_identical": true
+          "bytes": 5970,
+          "sha256": "3f1d40cf0489de618a3be14b47802c907ac87860c6005999e956545c2c11d3f9",
+          "byte_identical": false,
+          "revision_reason": "根据2022年论文Discussion校正深礁恢复段：迁移为较简约的可能解释，保留深浅水海胆行为改变的替代解释。"
         }
       ],
       "series": "research-100-20261007",
@@ -2045,7 +2046,8 @@
         "海獭",
         "海胆",
         "海带林"
-      ]
+      ],
+      "revision_note": "根据2022年论文Discussion校正深礁恢复段：迁移为较简约的可能解释，保留深浅水海胆行为改变的替代解释。"
     },
     {
       "path": "research/100-directions/047-backpressure-queue",

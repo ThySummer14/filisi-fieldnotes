@@ -67,7 +67,7 @@ def build(policy,output):
         if not (output/'.fieldnotes-build').exists():raise ValueError('Output exists without build ownership marker')
         shutil.rmtree(output)
     output.mkdir(parents=True);(output/'.fieldnotes-build').write_text('Generated static export\n');(output/'.nojekyll').touch()
-    for f in ['index.html','style.css','app.js','search.mjs']:shutil.copyfile(SITE/f,output/f)
+    for f in ['index.html','style.css','app.js','search.mjs','data.mjs']:shutil.copyfile(SITE/f,output/f)
     docs=[]
     for key in selected:
         item=byid[key];declared=[item['readableMarkdown']]+([item['sources']] if item.get('sources') else [])+item.get('assets',[])+[f['path'] for f in item.get('originals',[])]
@@ -76,14 +76,40 @@ def build(policy,output):
             src=inside(p);dst=output/'files'/p;dst.parent.mkdir(parents=True,exist_ok=True);shutil.copyfile(src,dst)
         body,text,toc=convert(item,allowed)
         docs.append({'id':key,'title':item['title'],'category':category(item),'topic':item.get('topic',''),'tags':item.get('tags',[]),'summary':item.get('summary',''),'status':item.get('status',''),'date':item.get('archived_at',''),'text':text,'html':body,'toc':toc,'downloads':[{'name':f['original_name'],'url':'./files/'+quote(f['path'],safe='/'),'format':Path(f['path']).suffix[1:].upper()} for f in item.get('originals',[])],'sources':'./files/'+quote(item['sources'],safe='/') if item.get('sources') else None})
-    (output/'catalog.json').write_text(json.dumps({'schema':1,'items':docs},ensure_ascii=False))
-    # Fingerprint catalog-dependent assets so a new publication cannot reuse an old index.
-    digest=hashlib.sha256((output/'catalog.json').read_bytes()).hexdigest()[:16]
-    app=(output/'app.js').read_text().replace("fetch('./catalog.json')", "fetch('./catalog.json?v="+digest+"')")
-    app=app.replace("'./search.mjs'", "'./search.mjs?v="+digest+"'")
+    # Content-addressed, bounded JSON resources: landing pages never fetch full bodies.
+    limit=180_000
+    def encoded(value):return json.dumps(value,ensure_ascii=False,separators=(',',':')).encode()
+    def resource(kind,value):
+        data=encoded(value)
+        if len(data)>limit:raise ValueError('JSON resource exceeds byte budget: '+kind)
+        digest=hashlib.sha256(data).hexdigest()[:24]
+        path=Path('data')/kind/(digest+'.json');target=output/path;target.parent.mkdir(parents=True,exist_ok=True);target.write_bytes(data)
+        return './'+path.as_posix()
+    def packed(kind,key,entries):
+        urls=[];batch=[]
+        for entry in entries:
+            if batch and len(encoded({key:batch+[entry]}))>limit:
+                urls.append(resource(kind,{key:batch}));batch=[]
+            batch.append(entry)
+        if batch:urls.append(resource(kind,{key:batch}))
+        return urls
+    metadata=[];search_entries=[]
+    for d in docs:
+        parts=[resource('body',{'html':d['html'][n:n+16000]}) for n in range(0,len(d['html']),16000)]
+        article=resource('articles',{'parts':parts,'toc':d['toc']})
+        metadata.append({**{k:v for k,v in d.items() if k not in ['html','text','toc']},'textLength':len(d['text']),'article':article})
+        search_entries.extend({'id':d['id'],'text':d['text'][n:n+16000]} for n in range(0,len(d['text']),16000))
+    index={'schema':2,'item_count':len(docs),'metadata':packed('metadata','items',metadata),'search':packed('search','entries',search_entries)}
+    index_data=encoded(index)
+    if len(index_data)>limit:raise ValueError('Catalog index exceeds byte budget')
+    (output/'catalog.json').write_bytes(index_data)
+    digest=hashlib.sha256(index_data+b''.join((SITE/f).read_bytes()for f in ['app.js','data.mjs','search.mjs'])).hexdigest()[:16]
+    app=(output/'app.js').read_text().replace("fetch('./catalog.json'", "fetch('./catalog.json?v="+digest+"'")
+    for module in ['search.mjs','data.mjs']:
+        app=app.replace("'./"+module+"'", "'./"+module+"?v="+digest+"'")
     (output/'app.js').write_text(app)
-    index=(output/'index.html').read_text().replace('src="./app.js"','src="./app.js?v='+digest+'"')
-    (output/'index.html').write_text(index)
+    index_html=(output/'index.html').read_text().replace('src="./app.js"','src="./app.js?v='+digest+'"')
+    (output/'index.html').write_text(index_html)
     (output/'export-audit.json').write_text(json.dumps({'approved_items':selected,'item_count':len(docs)},ensure_ascii=False,indent=2))
     print(f'Built {len(docs)} explicitly selected articles → {output}')
     return docs

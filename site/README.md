@@ -54,3 +54,18 @@ node --check search.mjs
 - `publication.json`：逐项公开白名单
 - `test_build.py` / `test_search.mjs` / `test_browser.py`：测试
 - `dist/`：可再生发布产物，不作为源文件提交
+
+## 分片数据与发布边界
+
+构建输出使用 schema 2。`catalog.json` 仅列出内容寻址的元数据、搜索分片；每个生成 JSON 不超过 180,000 字节，测试以 200,000 字节为硬上限。首页只加载元数据；文章分享链接按需加载对应的阅读清单及 HTML 分块；第一次非空搜索才读取全文索引，分块按原次序合并。正文、目录锚点、来源和原格式下载保持完整。
+
+`data/` 文件名来自内容 SHA-256，入口脚本带本次索引版本。修改一篇文章时，复用其他文章的数据文件。发布必须把数据文件、索引和脚本纳入同一提交，不先改线上索引再补内容。回滚使用上一提交的完整站点产物。
+
+验证：`python3 -m unittest test_build -v`、`node test_search.mjs`、`node test_data.mjs`、`node test_sharded_library.mjs ../docs`。全文检索测试逐篇使用正文片段探测，并校验阅读分块复原与下载路径。数据加载失败时保留明确错误和重试入口；异步旧请求不能替换新路由。
+
+
+## 分片数据（schema 2）
+
+首页的 catalog.json 仅列出元数据和搜索分片。每篇正文通过独立清单加载HTML分块；首次输入查询时加载全文搜索分片，并显示进度与失败重试。加载并发上限为4，旧查询或旧阅读路由不能覆盖最新页面。列表每次显示60条，可继续展开。分享URL和原文件下载路径保持一致。
+
+所有生成JSON限制在180000字节以内，文件名含内容哈希；修改单篇不必重传整库正文。构建拒绝超限资源。此限制针对网站数据，归档原件及主manifest仍需按各自大小管理。运行 python3 -m unittest test_build 和 node test_search.mjs、node test_data.mjs 检查完整重组、搜索覆盖、重试和路由门禁。发布应保留前一提交，必要时以普通revert提交回滚。
