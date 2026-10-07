@@ -1,0 +1,39 @@
+{
+  "scope": "Invented teaching expectations, not measured fragments or fitted PMD probabilities",
+  "mixtures": [
+    {
+      "initial_ancient": 100,
+      "initial_modern": 900,
+      "expected_retained_ancient": 30.0,
+      "expected_retained_modern": 9.0,
+      "expected_purity": 0.7692307692307693,
+      "ancient_recall": 0.3,
+      "modern_false_positive_rate": 0.01
+    },
+    {
+      "initial_ancient": 900,
+      "initial_modern": 100,
+      "expected_retained_ancient": 270.0,
+      "expected_retained_modern": 1.0,
+      "expected_purity": 0.996309963099631,
+      "ancient_recall": 0.3,
+      "modern_false_positive_rate": 0.01
+    }
+  ],
+  "reported_table1_sample_a": {
+    "source": "Rohland et al. 2015 Table 1, extract a",
+    "untreated_percent": [
+      32.74,
+      24.19
+    ],
+    "partial_udg_percent": [
+      10.92,
+      0.46
+    ],
+    "positions": [
+      "terminal",
+      "penultimate"
+    ],
+    "not_all_sample_average": true
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "id": "109",
+  "slug": "ancient-dna-authenticity",
+  "title": "古骨头里的DNA，怎样与后来混进去的现代DNA分开",
+  "version": 1,
+  "topic": "古遗传学与分子证据鉴别",
+  "question": "化学损伤、酶处理对照和统计筛选怎样分辨古DNA与现代污染，为什么筛选准确率还取决于起始混合比例？",
+  "description": "化学损伤、酶处理对照和统计筛选怎样分辨古DNA与现代污染，为什么筛选准确率还取决于起始混合比例？",
+  "language": "zh-CN",
+  "updated": "2026-10-07",
+  "sources": [
+    {
+      "title": "Dabney, Meyer & Pääbo (2013), Ancient DNA Damage",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC3685887/",
+      "type": "领域研究者综述"
+    },
+    {
+      "title": "Briggs et al. (2007), Patterns of damage in genomic DNA sequences from a Neandertal",
+      "url": "https://www.eva.mpg.de/documents/NatlAcadSciences/Briggs_Patterns_PNAS_2007_1554768.pdf",
+      "type": "原论文作者公开稿"
+    },
+    {
+      "title": "Rohland et al. (2015), Partial uracil–DNA–glycosylase treatment for screening of ancient DNA",
+      "url": "https://reich.hms.harvard.edu/sites/reich.hms.harvard.edu/files/inline-files/2015_ProcB_Rohland_UDG_half.pdf",
+      "type": "原论文作者公开稿"
+    },
+    {
+      "title": "Skoglund et al. (2014), Separating endogenous ancient DNA from modern day contamination in a Siberian Neandertal",
+      "url": "https://www.eva.mpg.de/documents/NatlAcadSciences/Skoglund_Separating_PNAS_2014_1922375.pdf",
+      "type": "原论文及补充材料作者公开PDF"
+    },
+    {
+      "title": "Renaud et al. (2015), Schmutzi: estimation of contamination and endogenous mitochondrial consensus calling for ancient DNA",
+      "url": "https://pure.mpg.de/rest/items/item_2240115_10/component/file_2240113/content",
+      "type": "原论文机构库PDF"
+    },
+    {
+      "title": "Peyrégne & Peter (2020), AuthentiCT: a model of ancient DNA damage to estimate the proportion of present-day DNA contamination",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7490890/",
+      "type": "原始模型与验证论文"
+    }
+  ]
+}

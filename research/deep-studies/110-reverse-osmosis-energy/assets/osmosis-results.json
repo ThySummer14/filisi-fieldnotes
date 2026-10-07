@@ -1,0 +1,80 @@
+{
+  "description": "Original teaching calculation, not measured plant performance",
+  "assumptions": [
+    "1 m^3 initial feed",
+    "pure permeate",
+    "perfect salt retention",
+    "constant temperature",
+    "osmotic pressure proportional to concentration"
+  ],
+  "bar_m3_to_kwh": 0.027777777777777776,
+  "recovery_comparison": [
+    {
+      "recovery": 0.1,
+      "end_osmotic_bar": 27.77777777777778,
+      "least_kwh_per_m3_product": 0.7316702476237936,
+      "midpoint_10000_steps": 0.7316702476170065
+    },
+    {
+      "recovery": 0.5,
+      "end_osmotic_bar": 50.0,
+      "least_kwh_per_m3_product": 0.9627044174443684,
+      "midpoint_10000_steps": 0.9627044170103407
+    },
+    {
+      "recovery": 0.75,
+      "end_osmotic_bar": 100.0,
+      "least_kwh_per_m3_product": 1.2836058899258247,
+      "midpoint_10000_steps": 1.283605886670616
+    }
+  ],
+  "local_flux_example": [
+    {
+      "A_l_m2_h_bar": 1,
+      "J_l_m2_h": 20,
+      "delta_pi_bar": 25,
+      "delta_P_bar": 45.0
+    },
+    {
+      "A_l_m2_h_bar": 3,
+      "J_l_m2_h": 20,
+      "delta_pi_bar": 25,
+      "delta_P_bar": 31.666666666666668
+    },
+    {
+      "A_l_m2_h_bar": 1000000,
+      "J_l_m2_h": 20,
+      "delta_pi_bar": 25,
+      "delta_P_bar": 25.00002
+    }
+  ],
+  "half_recovery": {
+    "feed_m3": 1,
+    "product_m3": 0.5,
+    "brine_m3": 0.5,
+    "constant_pressure_bar": 50.0,
+    "gross_pump_kwh": 1.3888888888888888,
+    "ideal_brine_recovery_kwh": 0.6944444444444444,
+    "net_kwh": 0.6944444444444444,
+    "without_ERD_kwh_per_m3_product": 2.7777777777777777,
+    "with_ideal_ERD_kwh_per_m3_product": 1.3888888888888888,
+    "reversible_kwh_per_m3_product": 0.9627044174443684
+  },
+  "five_segment_midpoint": {
+    "midpoint_recovery": [
+      0.05,
+      0.15000000000000002,
+      0.25,
+      0.35000000000000003,
+      0.45
+    ],
+    "pressure_bar": [
+      26.315789473684212,
+      29.411764705882355,
+      33.333333333333336,
+      38.46153846153847,
+      45.45454545454545
+    ],
+    "kwh_per_m3_product": 0.9609831746054657
+  }
+}

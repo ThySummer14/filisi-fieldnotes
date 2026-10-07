@@ -1,6 +1,6 @@
 # 长期深化研究
 
-累计新增8篇，长期目标按新增文章计为8/10000。此前116篇不计入这一新目标。另有2篇原文深化修订，沿用编号、不重复计数。
+累计新增10篇，长期目标按新增文章计为10/10000。此前116篇不计入这一新目标。另有2篇原文深化修订，沿用编号、不重复计数。
 
 ## 新增文章
 
@@ -13,6 +13,9 @@
 
 - 107 [GPS卫星钟为什么不能只在发射前对准一次](../research/deep-studies/107-gps-clock-rate/readable.md)
 - 108 [显微镜看不清挤在一起的分子，为什么让它们轮流发光就有用](../research/deep-studies/108-localization-microscopy/readable.md)
+
+- 109 [古骨头里的DNA，怎样与后来混进去的现代DNA分开](../research/deep-studies/109-ancient-dna-authenticity/readable.md)
+- 110 [反渗透膜透水再快，为什么海水淡化也不能变成零耗能](../research/deep-studies/110-reverse-osmosis-energy/readable.md)
 
 ## 原编号深化修订
 

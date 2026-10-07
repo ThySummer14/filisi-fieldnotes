@@ -1,6 +1,6 @@
 {
   "target": 10000,
-  "completed_new_count": 8,
+  "completed_new_count": 10,
   "prior_library_excluded": 116,
   "existing_revisions_this_round": 0,
   "completed": [
@@ -43,6 +43,16 @@
       "number": "108",
       "title": "显微镜看不清挤在一起的分子，为什么让它们轮流发光就有用",
       "path": "research/deep-studies/108-localization-microscopy"
+    },
+    {
+      "number": "109",
+      "title": "古骨头里的DNA，怎样与后来混进去的现代DNA分开",
+      "path": "research/deep-studies/109-ancient-dna-authenticity"
+    },
+    {
+      "number": "110",
+      "title": "反渗透膜透水再快，为什么海水淡化也不能变成零耗能",
+      "path": "research/deep-studies/110-reverse-osmosis-energy"
     }
   ]
 }

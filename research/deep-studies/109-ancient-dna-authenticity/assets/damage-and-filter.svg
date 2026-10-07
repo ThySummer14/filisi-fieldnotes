@@ -1,0 +1,50 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="730" viewBox="0 0 1080 730">
+<rect width="1080" height="730" fill="#fcfbf7"/>
+<style>text{font-family:"Noto Sans CJK SC",sans-serif;fill:#24353b}.title{font-size:27px;font-weight:700}.sub{font-size:19px}.small{font-size:16px}</style>
+<text x="40" y="43" class="title" text-anchor="start">酶处理改变读数；同一筛选规则也不保证同一纯度</text>
+<text x="40" y="80" class="sub" text-anchor="start">上：Rohland 等（2015）表 1 的同一提取物 a，按报告数据重绘</text>
+<text x="40" y="109" class="small" text-anchor="start">不是八份样本平均；原表没有此处可用的误差条。</text>
+<text x="40" y="134" class="small" text-anchor="start">比例按两端相应的参考C/G位点统计；不是全部片段的比例，也不是古DNA纯度。</text>
+<rect x="645" y="92" width="18" height="18" rx="5" fill="#5d7889"/>
+<text x="672" y="108" class="small" text-anchor="start">未处理</text>
+<rect x="815" y="92" width="18" height="18" rx="5" fill="#d07e49"/>
+<text x="842" y="108" class="small" text-anchor="start">部分 UDG</text>
+<text x="210" y="182" class="sub" text-anchor="end">最末端</text>
+<rect x="250" y="150" width="556.58" height="24" rx="5" fill="#5d7889"/>
+<text x="816.58" y="169" class="small" text-anchor="start">32.74%</text>
+<rect x="250" y="184" width="185.64" height="24" rx="5" fill="#d07e49"/>
+<text x="445.64" y="203" class="small" text-anchor="start">10.92%</text>
+<text x="210" y="275" class="sub" text-anchor="end">向内第二个位置</text>
+<rect x="250" y="243" width="411.23" height="24" rx="5" fill="#5d7889"/>
+<text x="671.23" y="262" class="small" text-anchor="start">24.19%</text>
+<rect x="250" y="277" width="7.82" height="24" rx="5" fill="#d07e49"/>
+<text x="267.82" y="296" class="small" text-anchor="start">0.46%</text>
+<line x1="250" y1="320" x2="250" y2="326" stroke="#617078"/>
+<text x="250" y="348" class="small" text-anchor="middle">0</text>
+<line x1="420" y1="320" x2="420" y2="326" stroke="#617078"/>
+<text x="420" y="348" class="small" text-anchor="middle">10</text>
+<line x1="590" y1="320" x2="590" y2="326" stroke="#617078"/>
+<text x="590" y="348" class="small" text-anchor="middle">20</text>
+<line x1="760" y1="320" x2="760" y2="326" stroke="#617078"/>
+<text x="760" y="348" class="small" text-anchor="middle">30</text>
+<line x1="930" y1="320" x2="930" y2="326" stroke="#617078"/>
+<text x="930" y="348" class="small" text-anchor="middle">40</text>
+<line x1="250" y1="320" x2="930" y2="320" stroke="#617078"/>
+<text x="930" y="375" class="small" text-anchor="end">相应末端位置的损伤率（%）</text>
+<line x1="40" y1="400" x2="1040" y2="400" stroke="#c9cec9"/>
+<text x="40" y="439" class="sub" text-anchor="start">下：教学设定，古老片段通过 30%，现代片段误通过 1%</text>
+<text x="40" y="470" class="small" text-anchor="start">显示按设定比例计算的期望数量，不是测序实测数据。</text>
+<rect x="40" y="505" width="350" height="60" rx="5" fill="#edf0ec"/>
+<text x="215" y="543" class="sub" text-anchor="middle">100 古老 + 900 现代</text>
+<text x="435" y="543" class="title" text-anchor="middle">→</text>
+<rect x="480" y="505" width="350" height="60" rx="5" fill="#e0ebe6"/>
+<text x="655" y="543" class="sub" text-anchor="middle">30 古老 + 9 现代</text>
+<text x="1025" y="543" class="sub" text-anchor="end">纯度 76.9%</text>
+<rect x="40" y="605" width="350" height="60" rx="5" fill="#edf0ec"/>
+<text x="215" y="643" class="sub" text-anchor="middle">900 古老 + 100 现代</text>
+<text x="435" y="643" class="title" text-anchor="middle">→</text>
+<rect x="480" y="605" width="350" height="60" rx="5" fill="#e0ebe6"/>
+<text x="655" y="643" class="sub" text-anchor="middle">270 古老 + 1 现代</text>
+<text x="1025" y="643" class="sub" text-anchor="end">纯度 99.63%</text>
+<text x="40" y="711" class="small" text-anchor="start">同样的通过率，起始混合比例不同，留下来的组成就不同。</text>
+</svg>
