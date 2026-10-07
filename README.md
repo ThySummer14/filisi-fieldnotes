@@ -23,7 +23,7 @@
 
 ## 新增声音设计研究
 
-- [门后的世界 电影声音设计如何讲故事](motion/film-sound-storytelling/readable.md) · 2026-10-07 · 11页
+- [门后的世界 电影声音设计如何讲故事](motion/film-sound-storytelling/readable.md) · 2026-10-07 · 11页 · 事后审稿修订版
   - 环境底声、声音视点、声桥、掩蔽与动态；含原创雨夜MV与恐怖游戏走廊案例。
   - [来源与Word/PDF](motion/film-sound-storytelling/sources.md)
 

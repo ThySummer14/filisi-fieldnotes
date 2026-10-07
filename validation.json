@@ -728,5 +728,12 @@
     "tracked_changes": 0,
     "comments": 0,
     "third_party_media_included": false
+  },
+  "sound_design_revision": {
+    "version": 2,
+    "post_delivery_review": true,
+    "edited_passages": 5,
+    "heading_source_table_sequences_unchanged": true,
+    "other_articles_originals_unchanged": 20
   }
 }

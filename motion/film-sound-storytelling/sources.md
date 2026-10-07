@@ -1,6 +1,6 @@
 # 来源与版本说明
 
-2026-10-07归档。原文、Word和PDF按字节保存。11页，13项来源；电影片段讨论据创作者访谈，原创MV与游戏场景未作实听/观众实验。没有附带电影音轨、剧照或第三方音频素材。
+2026-10-07归档，同日事后审稿修订。原文、Word和PDF按字节保存。11页，13项来源；电影片段讨论据创作者访谈，原创MV与游戏场景未作实听/观众实验。没有附带电影音轨、剧照或第三方音频素材。
 
 [阅读全文](readable.md) · [Word](originals/report.docx) · [PDF](originals/report.pdf)
 
@@ -45,3 +45,7 @@
 
 13. Lucas O. Seastrom，Randy Thom Looks Back on 40 Years with Skywalker Sound，Lucasfilm，2019年12月9日。核对首个关于声音设计师职责的问答，以及 How is collaboration important in sound design and sound editing。
     https://www.lucasfilm.com/news/randy-thom-looks-back-on-40-years-with-skywalker-sound/
+
+## 修订记录
+
+第二版：首次交付后精修五处文字，收紧行文预告，删除重复总结；标题、两张表、13项来源与主要结论保持不变。旧版保留于Git提交历史。
