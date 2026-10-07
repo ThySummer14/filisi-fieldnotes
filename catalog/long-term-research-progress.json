@@ -1,6 +1,6 @@
 {
   "target": 10000,
-  "completed_new_count": 10,
+  "completed_new_count": 12,
   "prior_library_excluded": 116,
   "existing_revisions_this_round": 0,
   "completed": [
@@ -53,6 +53,16 @@
       "number": "110",
       "title": "反渗透膜透水再快，为什么海水淡化也不能变成零耗能",
       "path": "research/deep-studies/110-reverse-osmosis-energy"
+    },
+    {
+      "number": "111",
+      "title": "石墨电极平均还没充满，为什么局部已经析出金属锂",
+      "path": "research/deep-studies/111-graphite-lithium-plating"
+    },
+    {
+      "number": "112",
+      "title": "墨卡托地图为什么把高纬地区放大，却能把恒向航线画直",
+      "path": "research/deep-studies/112-mercator-tradeoff"
     }
   ]
 }

@@ -1,0 +1,29 @@
+{
+  "scope": "Mass-transport toy, not an electrochemical model or plating prediction",
+  "surface_capacity_fraction": 0.2,
+  "interior_capacity_fraction": 0.8,
+  "inflow_per_arbitrary_time": 0.5,
+  "cases": [
+    {
+      "label": "内部转移慢",
+      "k": 0.2,
+      "surface_full_time_arbitrary": 0.5040938468010625,
+      "surface_occupancy": 1.0000000000000004,
+      "bulk_occupancy": 0.06505865425066398,
+      "mean_occupancy": 0.25204692340053125,
+      "euler_surface": 1.0000016915223005,
+      "euler_bulk": 0.06505823137008779
+    },
+    {
+      "label": "内部转移快",
+      "k": 2.0,
+      "surface_full_time_arbitrary": 1.680000000242642,
+      "surface_occupancy": 1.0,
+      "bulk_occupancy": 0.8000000001516513,
+      "mean_occupancy": 0.840000000121321,
+      "euler_surface": 1.0000000000002611,
+      "euler_bulk": 0.8000000001515771
+    }
+  ],
+  "warning": "The endpoint means this toy surface compartment is full; it is not a predicted lithium-plating threshold."
+}

@@ -1,0 +1,43 @@
+{
+  "id": "111",
+  "slug": "graphite-lithium-plating",
+  "title": "石墨电极平均还没充满，为什么局部已经析出金属锂",
+  "version": 1,
+  "topic": "锂离子电池输运与原位观测",
+  "question": "局部锂运输和嵌锂反应如何偏离整体平均值，怎样用原位观察与独立测量确认析锂？",
+  "description": "局部锂运输和嵌锂反应如何偏离整体平均值，怎样用原位观察与独立测量确认析锂？",
+  "language": "zh-CN",
+  "updated": "2026-10-07",
+  "sources": [
+    {
+      "title": "Chen et al. (2021), Operando video microscopy of Li plating and re-intercalation on graphite anodes during fast charging",
+      "url": "https://www.osti.gov/servlets/purl/1924793",
+      "type": "原论文作者公开稿"
+    },
+    {
+      "title": "Finegan et al. (2020), Spatial dynamics of lithiation and lithium plating during high-rate operation of graphite electrodes",
+      "url": "https://hal.science/hal-03725760v1/file/En_Env_Sc_13_2570.pdf",
+      "type": "HAL机构公开原论文"
+    },
+    {
+      "title": "Lu et al. (2023), Multiscale dynamics of charging and plating in graphite electrodes coupling operando microscopy and phase-field modelling",
+      "url": "https://www.nature.com/articles/s41467-023-40574-6",
+      "type": "原论文开放正文"
+    },
+    {
+      "title": "Wang et al. (2021), Resolution of Lithium Deposition versus Intercalation of Graphite Anodes in Lithium Ion Batteries: An In Situ Electron Paramagnetic Resonance Study",
+      "url": "https://d-nb.info/1238988296/34",
+      "type": "国家图书馆托管原论文"
+    },
+    {
+      "title": "McShane et al. (2020), Quantification of Inactive Lithium and Solid–Electrolyte Interphase Species on Graphite Electrodes after Fast Charging",
+      "url": "https://www.osti.gov/servlets/purl/1660095",
+      "type": "DOE公开作者接受稿"
+    },
+    {
+      "title": "Brown et al. (2021), Detecting onset of lithium plating during fast charging of Li-ion batteries using operando electrochemical impedance spectroscopy",
+      "url": "https://www.osti.gov/servlets/purl/1899125",
+      "type": "原论文公开全文"
+    }
+  ]
+}

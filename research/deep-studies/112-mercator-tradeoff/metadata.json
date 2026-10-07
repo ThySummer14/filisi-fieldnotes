@@ -1,0 +1,43 @@
+{
+  "id": "112",
+  "slug": "mercator-tradeoff",
+  "title": "墨卡托地图为什么把高纬地区放大，却能把恒向航线画直",
+  "version": 1,
+  "topic": "地图投影与球面几何",
+  "question": "经线等距与局部保角如何迫使高纬放大，为什么恒向直线又不保证最短距离？",
+  "description": "经线等距与局部保角如何迫使高纬放大，为什么恒向直线又不保证最短距离？",
+  "language": "zh-CN",
+  "updated": "2026-10-07",
+  "sources": [
+    {
+      "title": "Snyder (1987), Map Projections—A Working Manual, NPS 2003 excerpt",
+      "url": "https://www.oc.nps.edu/oc2902w/maps/synder.pdf",
+      "type": "USGS作者手册的海军研究生院公开节选"
+    },
+    {
+      "title": "NGA (2019), American Practical Navigator, Chapter 4 Nautical Charts",
+      "url": "https://thenauticalalmanac.com/2019_Bowditch-_American_Practical_Navigator/Volume-_1/03-%20Part%201-%20Fundamentals/Chapter%204-%20Nautical%20Charts.pdf",
+      "type": "官方航海手册公开镜像章节"
+    },
+    {
+      "title": "PROJ documentation, Mercator",
+      "url": "https://proj.org/en/stable/operations/projections/merc.html",
+      "type": "坐标计算软件官方数学文档"
+    },
+    {
+      "title": "Karney, Algorithms for geodesics, arXiv:1109.4448v2",
+      "url": "https://arxiv.org/pdf/1109.4448",
+      "type": "作者2012修订预印本，对应2013期刊论文"
+    },
+    {
+      "title": "OGC (2022), Two Dimensional Tile Matrix Set and Tile Set Metadata, 17-083r4",
+      "url": "https://docs.ogc.org/is/17-083r4/17-083r4.pdf",
+      "type": "标准发布机构原文件"
+    },
+    {
+      "title": "PROJ documentation, Web Mercator / Pseudo Mercator",
+      "url": "https://proj.org/en/stable/operations/projections/webmerc.html",
+      "type": "坐标软件官方定义"
+    }
+  ]
+}

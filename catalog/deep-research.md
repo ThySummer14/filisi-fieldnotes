@@ -1,6 +1,6 @@
 # 长期深化研究
 
-累计新增10篇，长期目标按新增文章计为10/10000。此前116篇不计入这一新目标。另有2篇原文深化修订，沿用编号、不重复计数。
+累计新增12篇，长期目标按新增文章计为12/10000。此前116篇不计入这一新目标。另有2篇原文深化修订，沿用编号、不重复计数。
 
 ## 新增文章
 
@@ -16,6 +16,9 @@
 
 - 109 [古骨头里的DNA，怎样与后来混进去的现代DNA分开](../research/deep-studies/109-ancient-dna-authenticity/readable.md)
 - 110 [反渗透膜透水再快，为什么海水淡化也不能变成零耗能](../research/deep-studies/110-reverse-osmosis-energy/readable.md)
+
+- 111 [石墨电极平均还没充满，为什么局部已经析出金属锂](../research/deep-studies/111-graphite-lithium-plating/readable.md)
+- 112 [墨卡托地图为什么把高纬地区放大，却能把恒向航线画直](../research/deep-studies/112-mercator-tradeoff/readable.md)
 
 ## 原编号深化修订
 

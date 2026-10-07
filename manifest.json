@@ -1,12 +1,12 @@
 {
  "archive_date": "2026-10-07",
- "item_count": 126,
- "original_file_count": 134,
+ "item_count": 128,
+ "original_file_count": 136,
  "original_docx_count": 14,
  "original_pdf_count": 6,
- "original_markdown_count": 114,
+ "original_markdown_count": 116,
  "image_count": 33,
- "readable_markdown_count": 126,
+ "readable_markdown_count": 128,
  "items": [
   {
    "path": "reading/sociological-imagination",
@@ -4475,6 +4475,68 @@
      "original_name": "反渗透膜透水再快，为什么海水淡化也不能变成零耗能.md",
      "bytes": 12737,
      "sha256": "3ea966bb1dc19671ae03a45e592b3addec12d2e7ec434993989096bc401258cd",
+     "byte_identical": true
+    }
+   ]
+  },
+  {
+   "path": "research/deep-studies/111-graphite-lithium-plating",
+   "archived_at": "2026-10-07",
+   "series": "long-term-research",
+   "series_number": "111",
+   "category": "社会与自然",
+   "title": "石墨电极平均还没充满，为什么局部已经析出金属锂",
+   "source_version": 1,
+   "status": "原创深化研究；示例、原始研究与方法边界见正文。",
+   "summary": "局部锂运输和嵌锂反应如何偏离整体平均值，怎样用原位观察与独立测量确认析锂？",
+   "readableMarkdown": "research/deep-studies/111-graphite-lithium-plating/readable.md",
+   "sources": "research/deep-studies/111-graphite-lithium-plating/sources.md",
+   "assets": [
+    "research/deep-studies/111-graphite-lithium-plating/metadata.json",
+    "research/deep-studies/111-graphite-lithium-plating/assets/recompute_transport.py",
+    "research/deep-studies/111-graphite-lithium-plating/assets/surface-before-average.png",
+    "research/deep-studies/111-graphite-lithium-plating/assets/surface-before-average.svg",
+    "research/deep-studies/111-graphite-lithium-plating/assets/transport-results.json"
+   ],
+   "topic": "锂离子电池输运与原位观测",
+   "originals": [
+    {
+     "path": "research/deep-studies/111-graphite-lithium-plating/readable.md",
+     "original_name": "石墨电极平均还没充满，为什么局部已经析出金属锂.md",
+     "bytes": 12777,
+     "sha256": "7eada6a0c5eec6a7a3a7220fc0bbdb04e75560ac7cda1687184d7dfdc25df2c4",
+     "byte_identical": true
+    }
+   ]
+  },
+  {
+   "path": "research/deep-studies/112-mercator-tradeoff",
+   "archived_at": "2026-10-07",
+   "series": "long-term-research",
+   "series_number": "112",
+   "category": "社会与自然",
+   "title": "墨卡托地图为什么把高纬地区放大，却能把恒向航线画直",
+   "source_version": 1,
+   "status": "原创深化研究；示例、原始研究与方法边界见正文。",
+   "summary": "经线等距与局部保角如何迫使高纬放大，为什么恒向直线又不保证最短距离？",
+   "readableMarkdown": "research/deep-studies/112-mercator-tradeoff/readable.md",
+   "sources": "research/deep-studies/112-mercator-tradeoff/sources.md",
+   "assets": [
+    "research/deep-studies/112-mercator-tradeoff/metadata.json",
+    "research/deep-studies/112-mercator-tradeoff/assets/mercator-results.json",
+    "research/deep-studies/112-mercator-tradeoff/assets/mercator-scale.png",
+    "research/deep-studies/112-mercator-tradeoff/assets/mercator-scale.svg",
+    "research/deep-studies/112-mercator-tradeoff/assets/recompute_mercator.py",
+    "research/deep-studies/112-mercator-tradeoff/assets/rhumb-and-great-circle.png",
+    "research/deep-studies/112-mercator-tradeoff/assets/rhumb-and-great-circle.svg"
+   ],
+   "topic": "地图投影与球面几何",
+   "originals": [
+    {
+     "path": "research/deep-studies/112-mercator-tradeoff/readable.md",
+     "original_name": "墨卡托地图为什么把高纬地区放大，却能把恒向航线画直.md",
+     "bytes": 11522,
+     "sha256": "e68803f6079e3f1c006cb29b76a9d845a91ab143ef5d0669b5ba02962c869c53",
      "byte_identical": true
     }
    ]

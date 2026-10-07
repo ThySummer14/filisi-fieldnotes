@@ -1,0 +1,56 @@
+{
+  "sphere_radius_km": 6371.0,
+  "equator_scale": 1,
+  "local_distortion": [
+    {
+      "latitude_degrees": 0,
+      "local_length_scale": 1.0,
+      "local_area_scale": 1.0
+    },
+    {
+      "latitude_degrees": 30,
+      "local_length_scale": 1.1547005383792515,
+      "local_area_scale": 1.3333333333333333
+    },
+    {
+      "latitude_degrees": 60,
+      "local_length_scale": 1.9999999999999996,
+      "local_area_scale": 3.9999999999999982
+    },
+    {
+      "latitude_degrees": 80,
+      "local_length_scale": 5.758770483143631,
+      "local_area_scale": 33.16343747752633
+    }
+  ],
+  "small_true_NE_vector": {
+    "true_bearing_degrees": 45,
+    "plate_carree_bearing_at_60N": 63.43494882292201,
+    "mercator_bearing_at_60N": 45
+  },
+  "routes": {
+    "endpoints_lat_lon": [
+      [
+        60,
+        -60
+      ],
+      [
+        60,
+        60
+      ]
+    ],
+    "rhumb_km": 6671.695598673526,
+    "great_circle_km": 5706.280401668459,
+    "difference_km": 965.4151970050671,
+    "shorter_percent": 14.470312422482406,
+    "maximum_great_circle_latitude": 73.89788624801398,
+    "initial_great_circle_bearing_degrees": 33.6900675259798
+  },
+  "square_web_mercator_cutoff_degrees": 85.0511287798066,
+  "finite_difference_y_derivative_at_60N": 2.0000000011677344,
+  "notes": [
+    "Pure spherical teaching calculations; not a navigational plan.",
+    "Local area scale is not an entire country area multiplier.",
+    "Spherical Mercator is distinct from ellipsoidal Mercator and Web Mercator on ellipsoidal coordinates."
+  ]
+}
