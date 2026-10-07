@@ -1,6 +1,6 @@
 {
   "target": 100,
-  "completed_count": 72,
+  "completed_count": 78,
   "existing_library_excluded": 16,
   "completed": [
     {
@@ -292,6 +292,24 @@
       "path": "research/100-directions/061-navmesh-agent-radius"
     },
     {
+      "number": "062",
+      "title": "棋局缓存里的七分 可能只表示至少七分",
+      "topic": "博弈搜索",
+      "path": "research/100-directions/062-chess-transposition-table"
+    },
+    {
+      "number": "063",
+      "title": "同样一千五百分 系统可能知道得很不一样",
+      "topic": "竞技系统",
+      "path": "research/100-directions/063-rating-uncertainty"
+    },
+    {
+      "number": "064",
+      "title": "弹窗打开以后 Tab键去了哪里",
+      "topic": "无障碍交互",
+      "path": "research/100-directions/064-keyboard-focus-contract"
+    },
+    {
       "number": "068",
       "title": "日落后 城市还在退还白天的热",
       "topic": "城市气候",
@@ -434,6 +452,24 @@
       "title": "墓园为什么会留住别处消失的生物",
       "topic": "城市生态",
       "path": "research/100-directions/091-cemetery-ecology"
+    },
+    {
+      "number": "092",
+      "title": "活着却不发芽 种子在等哪些条件",
+      "topic": "植物科学",
+      "path": "research/100-directions/092-seed-dormancy"
+    },
+    {
+      "number": "093",
+      "title": "地衣里有几位伙伴 这个问题可能问得太整齐",
+      "topic": "共生生态",
+      "path": "research/100-directions/093-lichen-partners"
+    },
+    {
+      "number": "094",
+      "title": "让森林多年不烧 为什么有时更危险",
+      "topic": "火生态",
+      "path": "research/100-directions/094-fire-suppression"
     }
   ]
 }

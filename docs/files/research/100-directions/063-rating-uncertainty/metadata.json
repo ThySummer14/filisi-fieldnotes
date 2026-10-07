@@ -1,0 +1,29 @@
+{
+  "id": "063",
+  "title": "同样一千五百分 系统可能知道得很不一样",
+  "description": "评级的中心值、估计不确定度和实力波动需要分开，匹配质量也不能只看胜率接近一半。",
+  "topic": "竞技系统",
+  "tags": [
+    "Glicko",
+    "TrueSkill",
+    "不确定性"
+  ],
+  "sources": [
+    {
+      "title": "Mark Glickman Glicko系统说明",
+      "url": "https://www.glicko.net/glicko/glicko.pdf"
+    },
+    {
+      "title": "Mark Glickman Glicko-2说明",
+      "url": "https://www.glicko.net/glicko/glicko2.pdf"
+    },
+    {
+      "title": "Microsoft TrueSkill原始研究",
+      "url": "https://www.microsoft.com/en-us/research/publication/trueskilltm-a-bayesian-skill-rating-system/"
+    },
+    {
+      "title": "Microsoft TrueSkill 2研究",
+      "url": "https://www.microsoft.com/en-us/research/publication/trueskill-2-improved-bayesian-skill-rating-system/"
+    }
+  ]
+}

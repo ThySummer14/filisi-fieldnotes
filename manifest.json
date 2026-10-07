@@ -1,12 +1,12 @@
 {
   "archive_date": "2026-10-07",
-  "item_count": 88,
-  "original_file_count": 96,
+  "item_count": 94,
+  "original_file_count": 102,
   "original_docx_count": 14,
   "original_pdf_count": 6,
-  "original_markdown_count": 76,
+  "original_markdown_count": 82,
   "image_count": 33,
-  "readable_markdown_count": 88,
+  "readable_markdown_count": 94,
   "items": [
     {
       "path": "reading/sociological-imagination",
@@ -3312,6 +3312,186 @@
         "导航网格",
         "配置空间",
         "几何建模"
+      ]
+    },
+    {
+      "path": "research/100-directions/062-chess-transposition-table",
+      "title": "棋局缓存里的七分 可能只表示至少七分",
+      "archived_at": "2026-10-07",
+      "source_version": 1,
+      "status": "原创专题研究；例子、原始研究与方法边界见正文",
+      "summary": "置换表保存的是带深度、边界与上下文的搜索结果；把它当普通字典会误用旧答案。",
+      "readableMarkdown": "research/100-directions/062-chess-transposition-table/readable.md",
+      "sources": "research/100-directions/062-chess-transposition-table/sources.md",
+      "assets": [
+        "research/100-directions/062-chess-transposition-table/metadata.json"
+      ],
+      "originals": [
+        {
+          "path": "research/100-directions/062-chess-transposition-table/readable.md",
+          "original_name": "棋局缓存里的七分 可能只表示至少七分.md",
+          "bytes": 6008,
+          "sha256": "6501bcfdc65c65209e21db671a3b4a12ff534640bf9c4d14bb776020e8449432",
+          "byte_identical": true
+        }
+      ],
+      "series": "research-100-20261007",
+      "series_number": "062",
+      "topic": "博弈搜索",
+      "tags": [
+        "置换表",
+        "Alpha Beta",
+        "缓存语义"
+      ]
+    },
+    {
+      "path": "research/100-directions/063-rating-uncertainty",
+      "title": "同样一千五百分 系统可能知道得很不一样",
+      "archived_at": "2026-10-07",
+      "source_version": 1,
+      "status": "原创专题研究；例子、原始研究与方法边界见正文",
+      "summary": "评级的中心值、估计不确定度和实力波动需要分开，匹配质量也不能只看胜率接近一半。",
+      "readableMarkdown": "research/100-directions/063-rating-uncertainty/readable.md",
+      "sources": "research/100-directions/063-rating-uncertainty/sources.md",
+      "assets": [
+        "research/100-directions/063-rating-uncertainty/metadata.json"
+      ],
+      "originals": [
+        {
+          "path": "research/100-directions/063-rating-uncertainty/readable.md",
+          "original_name": "同样一千五百分 系统可能知道得很不一样.md",
+          "bytes": 6043,
+          "sha256": "ff9aa149ef05284edbacb0d0753cc89fc37dd58d5d3f6b5ca64e8a10e68e163c",
+          "byte_identical": true
+        }
+      ],
+      "series": "research-100-20261007",
+      "series_number": "063",
+      "topic": "竞技系统",
+      "tags": [
+        "Glicko",
+        "TrueSkill",
+        "不确定性"
+      ]
+    },
+    {
+      "path": "research/100-directions/064-keyboard-focus-contract",
+      "title": "弹窗打开以后 Tab键去了哪里",
+      "archived_at": "2026-10-07",
+      "source_version": 1,
+      "status": "原创专题研究；例子、原始研究与方法边界见正文",
+      "summary": "焦点进入、退出、可见性与背景隔离共同决定键盘用户能否完成一次对话。",
+      "readableMarkdown": "research/100-directions/064-keyboard-focus-contract/readable.md",
+      "sources": "research/100-directions/064-keyboard-focus-contract/sources.md",
+      "assets": [
+        "research/100-directions/064-keyboard-focus-contract/metadata.json"
+      ],
+      "originals": [
+        {
+          "path": "research/100-directions/064-keyboard-focus-contract/readable.md",
+          "original_name": "弹窗打开以后 Tab键去了哪里.md",
+          "bytes": 6345,
+          "sha256": "cf296ebde521c82fb70a2e22c0aac8f746d30a6e5790d66e2682b04e9000931b",
+          "byte_identical": true
+        }
+      ],
+      "series": "research-100-20261007",
+      "series_number": "064",
+      "topic": "无障碍交互",
+      "tags": [
+        "键盘焦点",
+        "模态对话框",
+        "WCAG"
+      ]
+    },
+    {
+      "path": "research/100-directions/092-seed-dormancy",
+      "title": "活着却不发芽 种子在等哪些条件",
+      "archived_at": "2026-10-07",
+      "source_version": 1,
+      "status": "原创专题研究；例子、原始研究与方法边界见正文",
+      "summary": "缺水、真正休眠和已经失活会留下相同的外观。种子寿命与休眠机制需要分开理解。",
+      "readableMarkdown": "research/100-directions/092-seed-dormancy/readable.md",
+      "sources": "research/100-directions/092-seed-dormancy/sources.md",
+      "assets": [
+        "research/100-directions/092-seed-dormancy/metadata.json"
+      ],
+      "originals": [
+        {
+          "path": "research/100-directions/092-seed-dormancy/readable.md",
+          "original_name": "活着却不发芽 种子在等哪些条件.md",
+          "bytes": 6377,
+          "sha256": "9686f8320148679160b7cc425b6bdd5b2eb2342dab541557f981300dd5278677",
+          "byte_identical": true
+        }
+      ],
+      "series": "research-100-20261007",
+      "series_number": "092",
+      "topic": "植物科学",
+      "tags": [
+        "休眠",
+        "种子库",
+        "萌发"
+      ]
+    },
+    {
+      "path": "research/100-directions/093-lichen-partners",
+      "title": "地衣里有几位伙伴 这个问题可能问得太整齐",
+      "archived_at": "2026-10-07",
+      "source_version": 1,
+      "status": "原创专题研究；例子、原始研究与方法边界见正文",
+      "summary": "真菌与光合伙伴构成核心关系，酵母和细菌等成员又使地衣更像一个有结构的微生物群落。",
+      "readableMarkdown": "research/100-directions/093-lichen-partners/readable.md",
+      "sources": "research/100-directions/093-lichen-partners/sources.md",
+      "assets": [
+        "research/100-directions/093-lichen-partners/metadata.json"
+      ],
+      "originals": [
+        {
+          "path": "research/100-directions/093-lichen-partners/readable.md",
+          "original_name": "地衣里有几位伙伴 这个问题可能问得太整齐.md",
+          "bytes": 6020,
+          "sha256": "33d8227cfa7dec643348e0ce482e26ef3b317c2ae15bc092e821a9e79491e0d5",
+          "byte_identical": true
+        }
+      ],
+      "series": "research-100-20261007",
+      "series_number": "093",
+      "topic": "共生生态",
+      "tags": [
+        "地衣",
+        "真菌",
+        "共生"
+      ]
+    },
+    {
+      "path": "research/100-directions/094-fire-suppression",
+      "title": "让森林多年不烧 为什么有时更危险",
+      "archived_at": "2026-10-07",
+      "source_version": 1,
+      "status": "原创专题研究；例子、原始研究与方法边界见正文",
+      "summary": "火的频率、强度、季节和燃料结构共同塑造生态。干燥松林的经验，不能直接套给每一种植被。",
+      "readableMarkdown": "research/100-directions/094-fire-suppression/readable.md",
+      "sources": "research/100-directions/094-fire-suppression/sources.md",
+      "assets": [
+        "research/100-directions/094-fire-suppression/metadata.json"
+      ],
+      "originals": [
+        {
+          "path": "research/100-directions/094-fire-suppression/readable.md",
+          "original_name": "让森林多年不烧 为什么有时更危险.md",
+          "bytes": 6329,
+          "sha256": "c14b56fe5b69d97c519969d4df61c07a015e9f245a3d1691d5175763f67f04d4",
+          "byte_identical": true
+        }
+      ],
+      "series": "research-100-20261007",
+      "series_number": "094",
+      "topic": "火生态",
+      "tags": [
+        "火制度",
+        "燃料",
+        "森林"
       ]
     }
   ]

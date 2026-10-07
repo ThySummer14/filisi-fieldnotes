@@ -1,0 +1,46 @@
+{
+  "id": "092",
+  "slug": "seed-dormancy",
+  "topic": "植物科学",
+  "tags": [
+    "休眠",
+    "种子库",
+    "萌发"
+  ],
+  "title": "活着却不发芽 种子在等哪些条件",
+  "description": "缺水、真正休眠和已经失活会留下相同的外观。种子寿命与休眠机制需要分开理解。",
+  "date": "2026-10-07",
+  "language": "zh-CN",
+  "sources": [
+    {
+      "title": "MSU Ask the Expert Inside the Beal Seed Excavation 2021",
+      "url": "https://msutoday.msu.edu/news/2021/05/ask-the-expert-beal-seed-experiment",
+      "source_type": "实验机构一手说明",
+      "accessed": "2026-10-07"
+    },
+    {
+      "title": "Finch Savage and Leubner Metzger 2006 Seed dormancy and germination",
+      "url": "https://doi.org/10.1111/j.1469-8137.2006.01787.x",
+      "source_type": "学术综述",
+      "accessed": "2026-10-07"
+    },
+    {
+      "title": "Baskin and Baskin 2004 A classification system for seed dormancy",
+      "url": "https://doi.org/10.1079/SSR2003150",
+      "source_type": "分类综述",
+      "accessed": "2026-10-07"
+    },
+    {
+      "title": "Kew Seed Collection",
+      "url": "https://www.kew.org/science/collections-and-resources/collections/seed-collection",
+      "source_type": "植物园科学说明",
+      "accessed": "2026-10-07"
+    },
+    {
+      "title": "MSU 2023 plant biologists shed light on seed mystery",
+      "url": "https://msutoday.msu.edu/news/2023/11/msu-plant-biologists-shed-light-on-144-year-old-seedy-mystery",
+      "source_type": "实验机构鉴定报道",
+      "accessed": "2026-10-07"
+    }
+  ]
+}

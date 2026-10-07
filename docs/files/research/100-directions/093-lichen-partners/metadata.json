@@ -1,0 +1,40 @@
+{
+  "id": "093",
+  "slug": "lichen-partners",
+  "topic": "共生生态",
+  "tags": [
+    "地衣",
+    "真菌",
+    "共生"
+  ],
+  "title": "地衣里有几位伙伴 这个问题可能问得太整齐",
+  "description": "真菌与光合伙伴构成核心关系，酵母和细菌等成员又使地衣更像一个有结构的微生物群落。",
+  "date": "2026-10-07",
+  "language": "zh-CN",
+  "sources": [
+    {
+      "title": "US Forest Service National Atlas of Epiphytic Lichens",
+      "url": "https://www.fs.usda.gov/sites/default/files/fs_media/fs_document/Lichen-Atlas.pdf",
+      "source_type": "官方学术图集",
+      "accessed": "2026-10-07"
+    },
+    {
+      "title": "Spribille et al 2016 Basidiomycete yeasts in lichen cortex",
+      "url": "https://doi.org/10.1126/science.aaf8287",
+      "source_type": "原始研究摘要与可访问正文",
+      "accessed": "2026-10-07"
+    },
+    {
+      "title": "Lendemer et al 2019 Taxonomically broad metagenomic survey",
+      "url": "https://doi.org/10.1002/ajb2.1339",
+      "source_type": "原始研究摘要",
+      "accessed": "2026-10-07"
+    },
+    {
+      "title": "Mark et al 2020 Contrasting co occurrence patterns",
+      "url": "https://doi.org/10.1111/nph.16475",
+      "source_type": "原始比较研究摘要",
+      "accessed": "2026-10-07"
+    }
+  ]
+}

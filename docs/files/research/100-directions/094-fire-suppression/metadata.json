@@ -1,0 +1,46 @@
+{
+  "id": "094",
+  "slug": "fire-suppression",
+  "topic": "火生态",
+  "tags": [
+    "火制度",
+    "燃料",
+    "森林"
+  ],
+  "title": "让森林多年不烧 为什么有时更危险",
+  "description": "火的频率、强度、季节和燃料结构共同塑造生态。干燥松林的经验，不能直接套给每一种植被。",
+  "date": "2026-10-07",
+  "language": "zh-CN",
+  "sources": [
+    {
+      "title": "NPS Wildland Fire in Ponderosa Pine",
+      "url": "https://www.nps.gov/articles/wildland-fire-in-ponderosa-pine.htm",
+      "source_type": "官方火生态资料",
+      "accessed": "2026-10-07"
+    },
+    {
+      "title": "Syphard et al 2006 Simulating effects of frequent fire on coastal shrublands",
+      "url": "https://pubs.usgs.gov/publication/70028384",
+      "source_type": "原始模拟研究摘要",
+      "accessed": "2026-10-07"
+    },
+    {
+      "title": "Abatzoglou and Williams 2016 Impact of anthropogenic climate change on wildfire",
+      "url": "https://doi.org/10.1073/pnas.1607171113",
+      "source_type": "原始归因研究摘要",
+      "accessed": "2026-10-07"
+    },
+    {
+      "title": "NPS Indigenous Fire Practices Shape our Land",
+      "url": "https://www.nps.gov/subjects/fire/indigenous-fire-practices-shape-our-land.htm",
+      "source_type": "官方文化生态资料含原住民研究者说明",
+      "accessed": "2026-10-07"
+    },
+    {
+      "title": "NPS Yosemite Fire Ecology and Monitoring",
+      "url": "https://www.nps.gov/yose/learn/nature/fireecology.htm",
+      "source_type": "官方生态术语说明",
+      "accessed": "2026-10-07"
+    }
+  ]
+}

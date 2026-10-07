@@ -1,0 +1,29 @@
+{
+  "id": "064",
+  "title": "弹窗打开以后 Tab键去了哪里",
+  "description": "焦点进入、退出、可见性与背景隔离共同决定键盘用户能否完成一次对话。",
+  "topic": "无障碍交互",
+  "tags": [
+    "键盘焦点",
+    "模态对话框",
+    "WCAG"
+  ],
+  "sources": [
+    {
+      "title": "WAI-ARIA APG Modal Dialog",
+      "url": "https://www.w3.org/WAI/ARIA/apg/patterns/dialog-modal/"
+    },
+    {
+      "title": "WCAG2.2 No Keyboard Trap",
+      "url": "https://www.w3.org/WAI/WCAG22/Understanding/no-keyboard-trap.html"
+    },
+    {
+      "title": "WCAG2.2 Focus Not Obscured Minimum",
+      "url": "https://www.w3.org/WAI/WCAG22/Understanding/focus-not-obscured-minimum.html"
+    },
+    {
+      "title": "HTML Standard inert",
+      "url": "https://html.spec.whatwg.org/multipage/interaction.html#inert"
+    }
+  ]
+}

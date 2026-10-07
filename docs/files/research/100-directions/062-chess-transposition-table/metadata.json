@@ -1,0 +1,29 @@
+{
+  "id": "062",
+  "title": "棋局缓存里的七分 可能只表示至少七分",
+  "description": "置换表保存的是带深度、边界与上下文的搜索结果；把它当普通字典会误用旧答案。",
+  "topic": "博弈搜索",
+  "tags": [
+    "置换表",
+    "Alpha Beta",
+    "缓存语义"
+  ],
+  "sources": [
+    {
+      "title": "Stockfish 17 tt.h",
+      "url": "https://github.com/official-stockfish/Stockfish/blob/sf_17/src/tt.h"
+    },
+    {
+      "title": "Stockfish 17 search.cpp",
+      "url": "https://github.com/official-stockfish/Stockfish/blob/sf_17/src/search.cpp"
+    },
+    {
+      "title": "Stockfish 17 position.cpp",
+      "url": "https://github.com/official-stockfish/Stockfish/blob/sf_17/src/position.cpp"
+    },
+    {
+      "title": "FIDE Laws of Chess 2023重复局面规则",
+      "url": "https://handbook.fide.com/chapter/E012023"
+    }
+  ]
+}

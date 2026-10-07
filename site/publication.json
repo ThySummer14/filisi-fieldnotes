@@ -88,6 +88,12 @@
     "research/100-directions/021-spoilers-enjoyment",
     "research/100-directions/059-fixed-timestep",
     "research/100-directions/060-astar-heuristic-contract",
-    "research/100-directions/061-navmesh-agent-radius"
+    "research/100-directions/061-navmesh-agent-radius",
+    "research/100-directions/062-chess-transposition-table",
+    "research/100-directions/063-rating-uncertainty",
+    "research/100-directions/064-keyboard-focus-contract",
+    "research/100-directions/092-seed-dormancy",
+    "research/100-directions/093-lichen-partners",
+    "research/100-directions/094-fire-suppression"
   ]
 }
