@@ -7,6 +7,12 @@ from html.parser import HTMLParser
 ROOT=Path(__file__).resolve().parent.parent
 SITE=ROOT/'site'
 CATEGORIES={'reading':'阅读与社会','game-design':'游戏设计','research':'跨题研究','motion':'影像与动态','portfolio':'作品档案','game-art':'像素与场景','fiction':'小说创作','design':'平面设计'}
+def category(item):
+    if item.get('series') == 'research-100-20261007':
+        n=int(item['series_number'])
+        return '感知与设计' if n<=34 else '计算与系统' if n<=67 else '社会与自然'
+    return CATEGORIES.get(item['path'].split('/')[0],'其他')
+
 class Text(HTMLParser):
     def __init__(self): super().__init__(); self.parts=[]; self.toc=[]; self.heading=None
     def handle_starttag(self,tag,attrs):
@@ -69,11 +75,12 @@ def build(policy,output):
         for p in allowed:
             src=inside(p);dst=output/'files'/p;dst.parent.mkdir(parents=True,exist_ok=True);shutil.copyfile(src,dst)
         body,text,toc=convert(item,allowed)
-        docs.append({'id':key,'title':item['title'],'category':CATEGORIES.get(key.split('/')[0],'其他'),'summary':item.get('summary',''),'status':item.get('status',''),'date':item.get('archived_at',''),'text':text,'html':body,'toc':toc,'downloads':[{'name':f['original_name'],'url':'./files/'+quote(f['path'],safe='/'),'format':Path(f['path']).suffix[1:].upper()} for f in item.get('originals',[])],'sources':'./files/'+quote(item['sources'],safe='/') if item.get('sources') else None})
+        docs.append({'id':key,'title':item['title'],'category':category(item),'topic':item.get('topic',''),'tags':item.get('tags',[]),'summary':item.get('summary',''),'status':item.get('status',''),'date':item.get('archived_at',''),'text':text,'html':body,'toc':toc,'downloads':[{'name':f['original_name'],'url':'./files/'+quote(f['path'],safe='/'),'format':Path(f['path']).suffix[1:].upper()} for f in item.get('originals',[])],'sources':'./files/'+quote(item['sources'],safe='/') if item.get('sources') else None})
     (output/'catalog.json').write_text(json.dumps({'schema':1,'items':docs},ensure_ascii=False))
     # Fingerprint catalog-dependent assets so a new publication cannot reuse an old index.
     digest=hashlib.sha256((output/'catalog.json').read_bytes()).hexdigest()[:16]
     app=(output/'app.js').read_text().replace("fetch('./catalog.json')", "fetch('./catalog.json?v="+digest+"')")
+    app=app.replace("'./search.mjs'", "'./search.mjs?v="+digest+"'")
     (output/'app.js').write_text(app)
     index=(output/'index.html').read_text().replace('src="./app.js"','src="./app.js?v='+digest+'"')
     (output/'index.html').write_text(index)

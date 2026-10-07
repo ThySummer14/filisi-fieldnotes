@@ -1,4 +1,4 @@
-import {search,segments} from './search.mjs';
+import {search,segments} from './search.mjs?v=f03343c1677e99f2';
 const $=id=>document.getElementById(id);let items=[],category='全部',lastFocus=null;
 const el=(tag,text,cls)=>{const n=document.createElement(tag);if(text!==undefined)n.textContent=text;if(cls)n.className=cls;return n};
 function highlight(node,text,q){for(const s of segments(text,q))node.append(s.hit?el('mark',s.text):document.createTextNode(s.text));}
@@ -21,4 +21,4 @@ function render(){const s=state();$('query').value=s.q;category=s.category;const
 $('search-form').onsubmit=e=>{e.preventDefault();go({q:$('query').value.trim(),article:null});};let timer;$('query').oninput=()=>{clearTimeout(timer);timer=setTimeout(()=>go({q:$('query').value.trim(),article:null},true),120);};$('clear').onclick=()=>{go({q:null,article:null});$('query').focus();};window.addEventListener('popstate',render);document.addEventListener('keydown',e=>{if(e.key==='/'&&!['INPUT','TEXTAREA'].includes(document.activeElement.tagName)&&!document.activeElement.isContentEditable){e.preventDefault();if($('library').hidden)go({article:null});$('query').focus();}});
 try{const theme=localStorage.getItem('fieldnotes-theme');if(theme)document.documentElement.dataset.theme=theme;}catch{}
 $('theme').onclick=()=>{const dark=document.documentElement.dataset.theme==='dark'||(!document.documentElement.dataset.theme&&matchMedia('(prefers-color-scheme: dark)').matches);document.documentElement.dataset.theme=dark?'light':'dark';try{localStorage.setItem('fieldnotes-theme',dark?'light':'dark');}catch{}};
-try{const r=await fetch('./catalog.json?v=4ed013b2e731d55d');if(!r.ok)throw Error('catalog');const data=await r.json();items=data.items;render();}catch{$('result-count').textContent='文库暂时无法读取';$('empty').hidden=false;$('empty').textContent='请刷新重试。若从本地打开，请通过静态服务器访问页面。';}
+try{const r=await fetch('./catalog.json?v=f03343c1677e99f2');if(!r.ok)throw Error('catalog');const data=await r.json();items=data.items;render();}catch{$('result-count').textContent='文库暂时无法读取';$('empty').hidden=false;$('empty').textContent='请刷新重试。若从本地打开，请通过静态服务器访问页面。';}

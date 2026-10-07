@@ -1,0 +1,40 @@
+{
+  "id": "086",
+  "slug": "glaze-kiln",
+  "topic": "陶瓷工艺",
+  "tags": [
+    "窑炉",
+    "氧化还原",
+    "釉"
+  ],
+  "title": "同一份釉料 为什么换个窑就变了颜色",
+  "description": "釉色记录了配料，也记录了氧化还原、温度和冷却过程；铜红釉尤其不适合只用一种离子解释。",
+  "date": "2026-10-07",
+  "language": "zh-CN",
+  "sources": [
+    {
+      "title": "The Met Korea Goryeo Celadon",
+      "url": "https://www.metmuseum.org/exhibitions/listings/2015/korea",
+      "source_type": "博物馆材料史说明",
+      "accessed": "2026-10-07"
+    },
+    {
+      "title": "V&A An A to Z of Ceramics",
+      "url": "https://www.vam.ac.uk/articles/a-z-of-ceramics",
+      "source_type": "博物馆工艺说明",
+      "accessed": "2026-10-07"
+    },
+    {
+      "title": "Yuan et al 2024 Changsha ware glaze color",
+      "url": "https://doi.org/10.1111/jace.20025",
+      "source_type": "原始材料研究",
+      "accessed": "2026-10-07"
+    },
+    {
+      "title": "Preparation of copper red glazes by in situ reductive process 2017",
+      "url": "https://www.jstage.jst.go.jp/article/jcersj2/125/7/125_17014/_article",
+      "source_type": "原始实验",
+      "accessed": "2026-10-07"
+    }
+  ]
+}

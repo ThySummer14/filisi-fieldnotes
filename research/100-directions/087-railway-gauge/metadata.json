@@ -1,0 +1,40 @@
+{
+  "id": "087",
+  "slug": "railway-gauge",
+  "topic": "基础设施史",
+  "tags": [
+    "轨距",
+    "标准化",
+    "铁路"
+  ],
+  "title": "轨距统一为何总要等很久",
+  "description": "两根钢轨之间的距离牵着车轮、车辆、维修和既有投资。选出一个标准，只是漫长改造的开始。",
+  "date": "2026-10-07",
+  "language": "zh-CN",
+  "sources": [
+    {
+      "title": "Science Museum Group Isambard Kingdom Brunel",
+      "url": "https://collection.sciencemuseumgroup.org.uk/people/ap265/brunel-isambard-kingdom",
+      "source_type": "博物馆历史人物资料",
+      "accessed": "2026-10-07"
+    },
+    {
+      "title": "UK Parliament Hansard 16 June 1846 Broad and Narrow Gauge",
+      "url": "https://api.parliament.uk/historic-hansard/commons/1846/jun/16/railways-the-broad-and-narrow-gauge",
+      "source_type": "一手议会辩论记录",
+      "accessed": "2026-10-07"
+    },
+    {
+      "title": "STEAM Museum Name plates and number plates",
+      "url": "https://www.steam-museum.org.uk/collection/name-plates-and-number-plates/",
+      "source_type": "博物馆馆藏历史说明",
+      "accessed": "2026-10-07"
+    },
+    {
+      "title": "National Museum of Australia Trans Australian Railway",
+      "url": "https://www.nma.gov.au/defining-moments/resources/trans-australian-railway",
+      "source_type": "博物馆历史综述",
+      "accessed": "2026-10-07"
+    }
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "id": "018",
+  "title": "一件事结束时，记忆开始换一种组织",
+  "description": "事件分段会改变信息如何保存和取用，但边界既非物理剪切点，也不是统一的遗忘开关。",
+  "topic": "事件知觉与记忆",
+  "tags": [
+    "事件边界",
+    "叙事记忆",
+    "预测",
+    "脑成像"
+  ],
+  "language": "zh-CN",
+  "sources": [
+    {
+      "id": 1,
+      "title": "Event perception: A mind/brain perspective",
+      "url": "https://scispace.com/pdf/event-perception-a-mind-brain-perspective-3ows4zte0m.pdf",
+      "type": "theoretical_review",
+      "accessed": "2026-10-07"
+    },
+    {
+      "id": 2,
+      "title": "Human brain activity time-locked to narrative event boundaries",
+      "url": "https://journals.sagepub.com/doi/abs/10.1111/j.1467-9280.2007.01920.x",
+      "type": "primary_research",
+      "accessed": "2026-10-07"
+    },
+    {
+      "id": 3,
+      "title": "Event boundaries in perception affect memory encoding and updating",
+      "url": "https://scispace.com/pdf/event-boundaries-in-perception-affect-memory-encoding-and-1p63vo0qga.pdf",
+      "type": "primary_research",
+      "accessed": "2026-10-07"
+    },
+    {
+      "id": 4,
+      "title": "Discovering event structure in continuous narrative perception and memory",
+      "url": "https://uploads.strikinglycdn.com/files/e7fbcd7b-37e0-4321-8915-3e50b752fa8b/Discovering%20event%20structure%20in%20narrative_Baldassano.pdf",
+      "type": "primary_research",
+      "accessed": "2026-10-07"
+    }
+  ]
+}

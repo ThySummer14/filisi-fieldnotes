@@ -3,7 +3,8 @@ export function search(items,q,category='全部') {
  const ts=terms(q);
  return items.filter(d=>category==='全部'||d.category===category).map(d=>{
   const title=d.title.toLocaleLowerCase(),summary=d.summary.toLocaleLowerCase(),body=d.text.toLocaleLowerCase();
-  const all=title+' '+summary+' '+body;
+  const labels=((d.topic||'')+' '+(d.tags||[]).join(' ')).toLocaleLowerCase();
+  const all=title+' '+summary+' '+body+' '+labels;
   if(!ts.every(t=>all.includes(t)))return null;
   const score=ts.reduce((n,t)=>n+(title.includes(t)?10:0)+(summary.includes(t)?4:0)+(body.includes(t)?1:0),0);
   const hit=ts.length?Math.min(...ts.map(t=>body.indexOf(t)).filter(i=>i>=0)):Infinity;

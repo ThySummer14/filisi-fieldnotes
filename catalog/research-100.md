@@ -1,6 +1,6 @@
 # 100个研究方向
 
-已收录 54 / 100 篇新研究。原有16篇专题研究与书稿不计入这个目标。编号是方向索引，不表示中间编号已经完成。
+已收录 60 / 100 篇新研究。原有16篇专题研究与书稿不计入这个目标。编号是方向索引，不表示中间编号已经完成。
 
 - 001 [同一条裙子，两套照明](../research/100-directions/001-dress-color-constancy/readable.md) · 视觉与色彩
 - 002 [余光中的字，为什么越挤越认不出](../research/100-directions/002-peripheral-crowding/readable.md) · 视觉与版式
@@ -17,6 +17,9 @@
 - 013 [给两点画上一个框之后](../research/100-directions/013-grouping-cue-conflicts/readable.md) · 视觉组织
 - 014 [两张静止图片之间，运动从哪里来](../research/100-directions/014-motion-is-not-afterimage/readable.md) · 运动知觉
 - 015 [更顺滑的动作，为什么有时显得更假](../research/100-directions/015-high-frame-rate-aesthetics/readable.md) · 运动影像审美
+- 016 [镜头已经换了，人却还在接电话](../research/100-directions/016-edit-blindness/readable.md) · 电影认知
+- 017 [明知他会获救，还是想让他快一点](../research/100-directions/017-known-ending-suspense/readable.md) · 叙事情绪
+- 018 [一件事结束时，记忆开始换一种组织](../research/100-directions/018-event-boundaries-memory/readable.md) · 事件知觉与记忆
 - 035 [0.1加0.2之后 系统究竟答应了什么](../research/100-directions/035-floating-point-contract/readable.md) · 数值计算
 - 036 [删除键眼里的一个字](../research/100-directions/036-unicode-cursor/readable.md) · 文本系统
 - 037 [明天中午和二十四小时后是两个任务](../research/100-directions/037-time-is-not-duration/readable.md) · 时间建模
@@ -56,3 +59,6 @@
 - 083 [铅笔留下的黑线 是一层可搬走的材料](../research/100-directions/083-pencil-graphite/readable.md) · 材料文化
 - 084 [不锈钢会生锈 是哪一层出了问题](../research/100-directions/084-stainless-corrosion/readable.md) · 材料科学
 - 085 [罗马混凝土的自愈 不是把旧配方照搬回来](../research/100-directions/085-roman-concrete/readable.md) · 建筑材料
+- 086 [同一份釉料 为什么换个窑就变了颜色](../research/100-directions/086-glaze-kiln/readable.md) · 陶瓷工艺
+- 087 [轨距统一为何总要等很久](../research/100-directions/087-railway-gauge/readable.md) · 基础设施史
+- 088 [一处饮水点 曾经装下怎样的公共生活](../research/100-directions/088-public-fountains/readable.md) · 城市史

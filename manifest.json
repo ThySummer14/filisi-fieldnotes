@@ -1,12 +1,12 @@
 {
   "archive_date": "2026-10-07",
-  "item_count": 70,
-  "original_file_count": 78,
+  "item_count": 76,
+  "original_file_count": 84,
   "original_docx_count": 14,
   "original_pdf_count": 6,
-  "original_markdown_count": 58,
+  "original_markdown_count": 64,
   "image_count": 33,
-  "readable_markdown_count": 70,
+  "readable_markdown_count": 76,
   "items": [
     {
       "path": "reading/sociological-imagination",
@@ -2766,6 +2766,189 @@
         "细胞自动机",
         "可逆计算",
         "信息保存"
+      ]
+    },
+    {
+      "path": "research/100-directions/016-edit-blindness",
+      "title": "镜头已经换了，人却还在接电话",
+      "archived_at": "2026-10-07",
+      "source_version": 1,
+      "status": "原创专题研究；例子、原始研究与方法边界见正文",
+      "summary": "动作连续与画面改变可以并存，剪辑漏报也不能证明视觉记忆为空。",
+      "readableMarkdown": "research/100-directions/016-edit-blindness/readable.md",
+      "sources": "research/100-directions/016-edit-blindness/sources.md",
+      "assets": [
+        "research/100-directions/016-edit-blindness/metadata.json"
+      ],
+      "originals": [
+        {
+          "path": "research/100-directions/016-edit-blindness/readable.md",
+          "original_name": "镜头已经换了，人却还在接电话.md",
+          "bytes": 6588,
+          "sha256": "9c811b7b048851bd6b3f22b623b07ca124924261f19a2754751587787a723518",
+          "byte_identical": true
+        }
+      ],
+      "series": "research-100-20261007",
+      "series_number": "016",
+      "topic": "电影认知",
+      "tags": [
+        "变化盲",
+        "剪辑盲",
+        "注意",
+        "视觉记忆"
+      ]
+    },
+    {
+      "path": "research/100-directions/017-known-ending-suspense",
+      "title": "明知他会获救，还是想让他快一点",
+      "archived_at": "2026-10-07",
+      "source_version": 1,
+      "status": "原创专题研究；例子、原始研究与方法边界见正文",
+      "summary": "重读悬念、即时知识调用与注意收窄，如何约束“未知结局才会紧张”的说法。",
+      "readableMarkdown": "research/100-directions/017-known-ending-suspense/readable.md",
+      "sources": "research/100-directions/017-known-ending-suspense/sources.md",
+      "assets": [
+        "research/100-directions/017-known-ending-suspense/metadata.json"
+      ],
+      "originals": [
+        {
+          "path": "research/100-directions/017-known-ending-suspense/readable.md",
+          "original_name": "明知他会获救，还是想让他快一点.md",
+          "bytes": 6496,
+          "sha256": "a329577fa3520231bdc30b6a91b6fad06784575b665635edd12ae3b8559fd06b",
+          "byte_identical": true
+        }
+      ],
+      "series": "research-100-20261007",
+      "series_number": "017",
+      "topic": "叙事情绪",
+      "tags": [
+        "悬念",
+        "重读",
+        "不确定性",
+        "注意"
+      ]
+    },
+    {
+      "path": "research/100-directions/018-event-boundaries-memory",
+      "title": "一件事结束时，记忆开始换一种组织",
+      "archived_at": "2026-10-07",
+      "source_version": 1,
+      "status": "原创专题研究；例子、原始研究与方法边界见正文",
+      "summary": "事件分段会改变信息如何保存和取用，但边界既非物理剪切点，也不是统一的遗忘开关。",
+      "readableMarkdown": "research/100-directions/018-event-boundaries-memory/readable.md",
+      "sources": "research/100-directions/018-event-boundaries-memory/sources.md",
+      "assets": [
+        "research/100-directions/018-event-boundaries-memory/metadata.json"
+      ],
+      "originals": [
+        {
+          "path": "research/100-directions/018-event-boundaries-memory/readable.md",
+          "original_name": "一件事结束时，记忆开始换一种组织.md",
+          "bytes": 6820,
+          "sha256": "4eb6254ec01c4da3451ffa5407d3a5f152b0657f7fe7b314f7d00f1a7545b881",
+          "byte_identical": true
+        }
+      ],
+      "series": "research-100-20261007",
+      "series_number": "018",
+      "topic": "事件知觉与记忆",
+      "tags": [
+        "事件边界",
+        "叙事记忆",
+        "预测",
+        "脑成像"
+      ]
+    },
+    {
+      "path": "research/100-directions/086-glaze-kiln",
+      "title": "同一份釉料 为什么换个窑就变了颜色",
+      "archived_at": "2026-10-07",
+      "source_version": 1,
+      "status": "原创专题研究；例子、原始研究与方法边界见正文",
+      "summary": "釉色记录了配料，也记录了氧化还原、温度和冷却过程；铜红釉尤其不适合只用一种离子解释。",
+      "readableMarkdown": "research/100-directions/086-glaze-kiln/readable.md",
+      "sources": "research/100-directions/086-glaze-kiln/sources.md",
+      "assets": [
+        "research/100-directions/086-glaze-kiln/metadata.json"
+      ],
+      "originals": [
+        {
+          "path": "research/100-directions/086-glaze-kiln/readable.md",
+          "original_name": "同一份釉料 为什么换个窑就变了颜色.md",
+          "bytes": 5830,
+          "sha256": "1b77f64ee9f92bae690c6da7ef0d06a5d8df31a43813fb9bbaa427a206969180",
+          "byte_identical": true
+        }
+      ],
+      "series": "research-100-20261007",
+      "series_number": "086",
+      "topic": "陶瓷工艺",
+      "tags": [
+        "窑炉",
+        "氧化还原",
+        "釉"
+      ]
+    },
+    {
+      "path": "research/100-directions/087-railway-gauge",
+      "title": "轨距统一为何总要等很久",
+      "archived_at": "2026-10-07",
+      "source_version": 1,
+      "status": "原创专题研究；例子、原始研究与方法边界见正文",
+      "summary": "两根钢轨之间的距离牵着车轮、车辆、维修和既有投资。选出一个标准，只是漫长改造的开始。",
+      "readableMarkdown": "research/100-directions/087-railway-gauge/readable.md",
+      "sources": "research/100-directions/087-railway-gauge/sources.md",
+      "assets": [
+        "research/100-directions/087-railway-gauge/metadata.json"
+      ],
+      "originals": [
+        {
+          "path": "research/100-directions/087-railway-gauge/readable.md",
+          "original_name": "轨距统一为何总要等很久.md",
+          "bytes": 6125,
+          "sha256": "cc0bae32f036229c6587ec8f46deb27d488e4da6025de558f4a5b5c1697352ef",
+          "byte_identical": true
+        }
+      ],
+      "series": "research-100-20261007",
+      "series_number": "087",
+      "topic": "基础设施史",
+      "tags": [
+        "轨距",
+        "标准化",
+        "铁路"
+      ]
+    },
+    {
+      "path": "research/100-directions/088-public-fountains",
+      "title": "一处饮水点 曾经装下怎样的公共生活",
+      "archived_at": "2026-10-07",
+      "source_version": 1,
+      "status": "原创专题研究；例子、原始研究与方法边界见正文",
+      "summary": "水嘴、杯链、马槽和隔离标牌，记录了城市愿意为谁提供免费补给，以及哪些人仍被挡在公共设施之外。",
+      "readableMarkdown": "research/100-directions/088-public-fountains/readable.md",
+      "sources": "research/100-directions/088-public-fountains/sources.md",
+      "assets": [
+        "research/100-directions/088-public-fountains/metadata.json"
+      ],
+      "originals": [
+        {
+          "path": "research/100-directions/088-public-fountains/readable.md",
+          "original_name": "一处饮水点 曾经装下怎样的公共生活.md",
+          "bytes": 6177,
+          "sha256": "11b08eac5569ed2d3fd5b4a34f2c21487215ae43604671e754c870e824ae4a63",
+          "byte_identical": true
+        }
+      ],
+      "series": "research-100-20261007",
+      "series_number": "088",
+      "topic": "城市史",
+      "tags": [
+        "公共饮水",
+        "基础设施",
+        "公共空间"
       ]
     }
   ]

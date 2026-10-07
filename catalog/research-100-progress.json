@@ -1,6 +1,6 @@
 {
   "target": 100,
-  "completed_count": 54,
+  "completed_count": 60,
   "existing_library_excluded": 16,
   "completed": [
     {
@@ -92,6 +92,24 @@
       "title": "更顺滑的动作，为什么有时显得更假",
       "topic": "运动影像审美",
       "path": "research/100-directions/015-high-frame-rate-aesthetics"
+    },
+    {
+      "number": "016",
+      "title": "镜头已经换了，人却还在接电话",
+      "topic": "电影认知",
+      "path": "research/100-directions/016-edit-blindness"
+    },
+    {
+      "number": "017",
+      "title": "明知他会获救，还是想让他快一点",
+      "topic": "叙事情绪",
+      "path": "research/100-directions/017-known-ending-suspense"
+    },
+    {
+      "number": "018",
+      "title": "一件事结束时，记忆开始换一种组织",
+      "topic": "事件知觉与记忆",
+      "path": "research/100-directions/018-event-boundaries-memory"
     },
     {
       "number": "035",
@@ -326,6 +344,24 @@
       "title": "罗马混凝土的自愈 不是把旧配方照搬回来",
       "topic": "建筑材料",
       "path": "research/100-directions/085-roman-concrete"
+    },
+    {
+      "number": "086",
+      "title": "同一份釉料 为什么换个窑就变了颜色",
+      "topic": "陶瓷工艺",
+      "path": "research/100-directions/086-glaze-kiln"
+    },
+    {
+      "number": "087",
+      "title": "轨距统一为何总要等很久",
+      "topic": "基础设施史",
+      "path": "research/100-directions/087-railway-gauge"
+    },
+    {
+      "number": "088",
+      "title": "一处饮水点 曾经装下怎样的公共生活",
+      "topic": "城市史",
+      "path": "research/100-directions/088-public-fountains"
     }
   ]
 }

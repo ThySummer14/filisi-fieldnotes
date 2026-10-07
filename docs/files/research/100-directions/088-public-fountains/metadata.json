@@ -1,0 +1,40 @@
+{
+  "id": "088",
+  "slug": "public-fountains",
+  "topic": "城市史",
+  "tags": [
+    "公共饮水",
+    "基础设施",
+    "公共空间"
+  ],
+  "title": "一处饮水点 曾经装下怎样的公共生活",
+  "description": "水嘴、杯链、马槽和隔离标牌，记录了城市愿意为谁提供免费补给，以及哪些人仍被挡在公共设施之外。",
+  "date": "2026-10-07",
+  "language": "zh-CN",
+  "sources": [
+    {
+      "title": "Historic England St Sepulchre railings and fountain 1359211",
+      "url": "https://historicengland.org.uk/listing/the-list/list-entry/1359211",
+      "source_type": "官方遗产记录",
+      "accessed": "2026-10-07"
+    },
+    {
+      "title": "Historic England Drinking Trough 1410037",
+      "url": "https://historicengland.org.uk/listing/the-list/list-entry/1410037",
+      "source_type": "官方实物历史记录",
+      "accessed": "2026-10-07"
+    },
+    {
+      "title": "Ville de Paris Tout savoir sur les fontaines Wallace",
+      "url": "https://www.paris.fr/pages/le-saviez-vous-les-fontaines-wallace-sont-une-des-richesses-patrimoniales-de-paris-6560",
+      "source_type": "市政府物质文化记录",
+      "accessed": "2026-10-07"
+    },
+    {
+      "title": "NMAAHC educational guide Drinking Fountain Sign",
+      "url": "https://nmaahc.si.edu/sites/default/files/2022-06/3594_SmithEdGuide__NMAAHC_FINAL.pdf",
+      "source_type": "博物馆藏品教学资料",
+      "accessed": "2026-10-07"
+    }
+  ]
+}

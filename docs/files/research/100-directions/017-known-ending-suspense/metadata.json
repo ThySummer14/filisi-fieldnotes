@@ -1,0 +1,43 @@
+{
+  "id": "017",
+  "title": "明知他会获救，还是想让他快一点",
+  "description": "重读悬念、即时知识调用与注意收窄，如何约束“未知结局才会紧张”的说法。",
+  "topic": "叙事情绪",
+  "tags": [
+    "悬念",
+    "重读",
+    "不确定性",
+    "注意"
+  ],
+  "language": "zh-CN",
+  "sources": [
+    {
+      "id": 1,
+      "title": "Suspense in the absence of uncertainty",
+      "url": "https://www.sciencedirect.com/science/article/pii/0749596X89900016",
+      "type": "primary_research",
+      "accessed": "2026-10-07"
+    },
+    {
+      "id": 2,
+      "title": "Confronting a Paradox: A New Perspective of the Impact of Uncertainty in Suspense",
+      "url": "https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2018.01392/full",
+      "type": "primary_research",
+      "accessed": "2026-10-07"
+    },
+    {
+      "id": 3,
+      "title": "Toward a general psychological model of tension and suspense",
+      "url": "https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2015.00079/full",
+      "type": "theoretical_review",
+      "accessed": "2026-10-07"
+    },
+    {
+      "id": 4,
+      "title": "Neural evidence that suspense narrows attentional focus",
+      "url": "https://control.gatech.edu/wp-content/uploads/pubs/Bezdek-et-al-2015-Neuroscience.pdf",
+      "type": "primary_research",
+      "accessed": "2026-10-07"
+    }
+  ]
+}
