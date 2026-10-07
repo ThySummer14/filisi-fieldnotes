@@ -1007,7 +1007,39 @@
       "pages": 15,
       "sources_opened": 14,
       "original_diagrams": 6,
-      "readableMarkdown": "design/graphic-reading-judgment/平面设计研究.md"
+      "readableMarkdown": "design/graphic-reading-judgment/平面设计研究.md",
+      "summary": "从阅读任务出发研究层级、网格、中文排版、图文、色彩、品牌与印刷数字交付。",
+      "sources": "design/graphic-reading-judgment/sources.md",
+      "assets": [
+        "design/graphic-reading-judgment/assets/01-hierarchy.png",
+        "design/graphic-reading-judgment/assets/01-hierarchy.svg",
+        "design/graphic-reading-judgment/assets/02-grid.png",
+        "design/graphic-reading-judgment/assets/02-grid.svg",
+        "design/graphic-reading-judgment/assets/03-type.png",
+        "design/graphic-reading-judgment/assets/03-type.svg",
+        "design/graphic-reading-judgment/assets/04-image-text.png",
+        "design/graphic-reading-judgment/assets/04-image-text.svg",
+        "design/graphic-reading-judgment/assets/05-color.png",
+        "design/graphic-reading-judgment/assets/05-color.svg",
+        "design/graphic-reading-judgment/assets/06-adaptation.png",
+        "design/graphic-reading-judgment/assets/06-adaptation.svg"
+      ],
+      "originals": [
+        {
+          "path": "design/graphic-reading-judgment/平面设计中的阅读与判断.docx",
+          "original_name": "平面设计中的阅读与判断.docx",
+          "bytes": 577335,
+          "sha256": "67be0ea8385cca4ca1faa1295c01100e2c026d205b2ece7e98ac9d55ff024641",
+          "byte_identical": true
+        },
+        {
+          "path": "design/graphic-reading-judgment/平面设计中的阅读与判断.pdf",
+          "original_name": "平面设计中的阅读与判断.pdf",
+          "bytes": 1061260,
+          "sha256": "35328e1acde765826fe1fac28548a650dead6b82a8539c873c4c52f9418ae9d4",
+          "byte_identical": true
+        }
+      ]
     }
   ]
 }
