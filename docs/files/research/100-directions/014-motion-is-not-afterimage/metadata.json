@@ -1,0 +1,43 @@
+{
+  "id": "014",
+  "title": "两张静止图片之间，运动从哪里来",
+  "description": "从重复闪现、运动能量模型到500赫兹边缘伪影，拆开残像、闪烁与似动。",
+  "topic": "运动知觉",
+  "tags": [
+    "似动",
+    "视觉暂留",
+    "phi",
+    "闪烁"
+  ],
+  "language": "zh-CN",
+  "sources": [
+    {
+      "id": 1,
+      "title": "Evidence that Viewers Prefer Higher Frame-Rate Film",
+      "url": "https://percept.eecs.yorku.ca/papers/wilcox%20hfr.pdf",
+      "type": "primary_research",
+      "accessed": "2026-10-07"
+    },
+    {
+      "id": 2,
+      "title": "Spatiotemporal energy models for the perception of motion",
+      "url": "https://www.researchgate.net/publication/19187704_Spatiotemporal_energy_models_for_the_perception_of_motion",
+      "type": "primary_theoretical_research",
+      "accessed": "2026-10-07"
+    },
+    {
+      "id": 3,
+      "title": "Phi is not beta, and why Wertheimer’s discovery launched the Gestalt revolution",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/10927113/",
+      "type": "peer_reviewed_review",
+      "accessed": "2026-10-07"
+    },
+    {
+      "id": 4,
+      "title": "Humans perceive flicker artifacts at 500 Hz",
+      "url": "https://www.nature.com/articles/srep07861",
+      "type": "primary_research",
+      "accessed": "2026-10-07"
+    }
+  ]
+}

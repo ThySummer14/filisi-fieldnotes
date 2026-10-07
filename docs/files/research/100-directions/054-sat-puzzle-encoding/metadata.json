@@ -1,0 +1,29 @@
+{
+  "id": "054",
+  "title": "求解器答对了题 也可能答错你的问题",
+  "description": "SAT建模需要同时检查编码、返回模型和无解解释，少写一条规则会改变整个谜题。",
+  "topic": "约束求解",
+  "tags": [
+    "SAT",
+    "SMT",
+    "形式化建模"
+  ],
+  "sources": [
+    {
+      "title": "PySAT Cardinality Encodings",
+      "url": "https://pysathq.github.io/docs/html/api/card.html"
+    },
+    {
+      "title": "MiniSat Solver.cc原始代码",
+      "url": "https://github.com/niklasso/minisat/blob/master/minisat/core/Solver.cc"
+    },
+    {
+      "title": "SMT-LIB整数理论",
+      "url": "https://smt-lib.org/theories-Ints.shtml"
+    },
+    {
+      "title": "Programming Z3",
+      "url": "https://z3prover.github.io/papers/programmingz3.html"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "id": "053",
+  "title": "循环引用没有消失 只是开始迭代了",
+  "description": "启用迭代计算能容许有意的反馈模型，但停止变化并不能独自证明结果正确。",
+  "topic": "电子表格模型",
+  "tags": [
+    "循环引用",
+    "固定点",
+    "数值收敛"
+  ],
+  "sources": [
+    {
+      "title": "Microsoft循环引用与迭代计算",
+      "url": "https://support.microsoft.com/en-us/excel/remove-or-allow-a-circular-reference-in-excel"
+    },
+    {
+      "title": "Excel Recalculation",
+      "url": "https://learn.microsoft.com/en-us/office/client-developer/excel/excel-recalculation"
+    },
+    {
+      "title": "LibreOffice Calc计算设置",
+      "url": "https://help.libreoffice.org/latest/en-GB/text/shared/optionen/01060500.html"
+    },
+    {
+      "title": "Microsoft显示精度设置警告",
+      "url": "https://support.microsoft.com/en-us/excel/set-rounding-precision"
+    }
+  ]
+}

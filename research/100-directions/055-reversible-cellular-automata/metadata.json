@@ -1,0 +1,29 @@
+{
+  "id": "055",
+  "title": "能算出下一帧 为什么找不回上一帧",
+  "description": "用规则90的碰撞和二阶构造，区分确定性、可逆性与保存历史。",
+  "topic": "离散动力系统",
+  "tags": [
+    "细胞自动机",
+    "可逆计算",
+    "信息保存"
+  ],
+  "sources": [
+    {
+      "title": "Wolfram MathWorld Rule 90",
+      "url": "https://mathworld.wolfram.com/Rule90.html"
+    },
+    {
+      "title": "Vlasov 二阶可逆自动机推广",
+      "url": "https://arxiv.org/pdf/1311.4297"
+    },
+    {
+      "title": "Peridier Basic Schemes for Reversible Two-Dimensional Cellular Automata",
+      "url": "https://content.wolfram.com/sites/13/2019/03/18-1-2.pdf"
+    },
+    {
+      "title": "Vlasov 二阶可逆电路可靠性",
+      "url": "https://arxiv.org/pdf/2312.13034"
+    }
+  ]
+}

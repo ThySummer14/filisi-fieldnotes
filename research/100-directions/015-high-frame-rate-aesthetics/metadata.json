@@ -1,0 +1,43 @@
+{
+  "id": "015",
+  "title": "更顺滑的动作，为什么有时显得更假",
+  "description": "高帧率的技术优势与审美偏好并不总同向，2025预注册研究还发现了相反的场景效应。",
+  "topic": "运动影像审美",
+  "tags": [
+    "高帧率",
+    "运动模糊",
+    "肥皂剧效应",
+    "真实感"
+  ],
+  "language": "zh-CN",
+  "sources": [
+    {
+      "id": 1,
+      "title": "High Frame Rates and Human Vision: A View Through the Window of Visibility",
+      "url": "https://www.researchgate.net/publication/260421420_High_Frame_Rates_and_Human_Vision_A_View_Through_the_Window_of_Visibility",
+      "type": "primary_theoretical_research",
+      "accessed": "2026-10-07"
+    },
+    {
+      "id": 2,
+      "title": "Evidence that Viewers Prefer Higher Frame-Rate Film",
+      "url": "https://percept.eecs.yorku.ca/papers/wilcox%20hfr.pdf",
+      "type": "primary_research",
+      "accessed": "2026-10-07"
+    },
+    {
+      "id": 3,
+      "title": "Digitized Reality: The Trouble with Motion",
+      "url": "https://www.researchgate.net/publication/310605537_Digitized_Reality_The_Trouble_with_Motion",
+      "type": "conference_research",
+      "accessed": "2026-10-07"
+    },
+    {
+      "id": 4,
+      "title": "Framerate Sensitivity and Cinemagoing Explain the Soap Opera Effect of Films: A Preregistered Study of Undergraduate Students in Singapore",
+      "url": "https://www.researchgate.net/publication/398623578_Framerate_Sensitivity_and_Cinemagoing_Explain_the_Soap_Opera_Effect_of_Films_A_Preregistered_Study_of_Undergraduate_Students_in_Singapore",
+      "type": "primary_research",
+      "accessed": "2026-10-07"
+    }
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "id": "013",
+  "title": "给两点画上一个框之后",
+  "description": "共同区域、连通性与相似性会竞争，格式塔原则没有一张固定胜负表。",
+  "topic": "视觉组织",
+  "tags": [
+    "共同区域",
+    "连通性",
+    "格式塔",
+    "信息设计"
+  ],
+  "language": "zh-CN",
+  "sources": [
+    {
+      "id": 1,
+      "title": "Common region: A new principle of perceptual grouping",
+      "url": "https://e-edu.nbu.bg/pluginfile.php/951829/mod_resource/content/1/Stephen-Palmer%20-%20Common%20region%20-%20A%20new%20principle%20of%20perceptual%20grouping%201992.pdf",
+      "type": "primary_theoretical_research",
+      "accessed": "2026-10-07"
+    },
+    {
+      "id": 2,
+      "title": "Rethinking perceptual organization: The role of uniform connectedness",
+      "url": "https://link.springer.com/content/pdf/10.3758/BF03200760.pdf",
+      "type": "primary_theoretical_research",
+      "accessed": "2026-10-07"
+    },
+    {
+      "id": 3,
+      "title": "When does grouping happen?",
+      "url": "https://palmerlab.berkeley.edu/pdf/PalmerBrooks%26Nelson.pdf",
+      "type": "review_and_primary_research",
+      "accessed": "2026-10-07"
+    },
+    {
+      "id": 4,
+      "title": "Traditional and new principles of perceptual grouping",
+      "url": "https://kar.kent.ac.uk/35324/1/Brooks-GroupingChapter-OUPHandbook-REPOSITORY.pdf",
+      "type": "authoritative_handbook",
+      "accessed": "2026-10-07"
+    }
+  ]
+}

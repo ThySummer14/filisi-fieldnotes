@@ -1,12 +1,12 @@
 {
   "archive_date": "2026-10-07",
-  "item_count": 64,
-  "original_file_count": 72,
+  "item_count": 70,
+  "original_file_count": 78,
   "original_docx_count": 14,
   "original_pdf_count": 6,
-  "original_markdown_count": 52,
+  "original_markdown_count": 58,
   "image_count": 33,
-  "readable_markdown_count": 64,
+  "readable_markdown_count": 70,
   "items": [
     {
       "path": "reading/sociological-imagination",
@@ -2583,6 +2583,189 @@
         "罗马混凝土",
         "热拌",
         "裂缝"
+      ]
+    },
+    {
+      "path": "research/100-directions/013-grouping-cue-conflicts",
+      "title": "给两点画上一个框之后",
+      "archived_at": "2026-10-07",
+      "source_version": 1,
+      "status": "原创专题研究；例子、原始研究与方法边界见正文",
+      "summary": "共同区域、连通性与相似性会竞争，格式塔原则没有一张固定胜负表。",
+      "readableMarkdown": "research/100-directions/013-grouping-cue-conflicts/readable.md",
+      "sources": "research/100-directions/013-grouping-cue-conflicts/sources.md",
+      "assets": [
+        "research/100-directions/013-grouping-cue-conflicts/metadata.json"
+      ],
+      "originals": [
+        {
+          "path": "research/100-directions/013-grouping-cue-conflicts/readable.md",
+          "original_name": "给两点画上一个框之后.md",
+          "bytes": 6406,
+          "sha256": "b0b6203f089252bf746fc10264dab4023ef359339992abb1b5c4e6544f6140b2",
+          "byte_identical": true
+        }
+      ],
+      "series": "research-100-20261007",
+      "series_number": "013",
+      "topic": "视觉组织",
+      "tags": [
+        "共同区域",
+        "连通性",
+        "格式塔",
+        "信息设计"
+      ]
+    },
+    {
+      "path": "research/100-directions/014-motion-is-not-afterimage",
+      "title": "两张静止图片之间，运动从哪里来",
+      "archived_at": "2026-10-07",
+      "source_version": 1,
+      "status": "原创专题研究；例子、原始研究与方法边界见正文",
+      "summary": "从重复闪现、运动能量模型到500赫兹边缘伪影，拆开残像、闪烁与似动。",
+      "readableMarkdown": "research/100-directions/014-motion-is-not-afterimage/readable.md",
+      "sources": "research/100-directions/014-motion-is-not-afterimage/sources.md",
+      "assets": [
+        "research/100-directions/014-motion-is-not-afterimage/metadata.json"
+      ],
+      "originals": [
+        {
+          "path": "research/100-directions/014-motion-is-not-afterimage/readable.md",
+          "original_name": "两张静止图片之间，运动从哪里来.md",
+          "bytes": 6512,
+          "sha256": "7750e57160572c829a12c353794c53727d3873c627b4ea7496c46bdcaf716152",
+          "byte_identical": true
+        }
+      ],
+      "series": "research-100-20261007",
+      "series_number": "014",
+      "topic": "运动知觉",
+      "tags": [
+        "似动",
+        "视觉暂留",
+        "phi",
+        "闪烁"
+      ]
+    },
+    {
+      "path": "research/100-directions/015-high-frame-rate-aesthetics",
+      "title": "更顺滑的动作，为什么有时显得更假",
+      "archived_at": "2026-10-07",
+      "source_version": 1,
+      "status": "原创专题研究；例子、原始研究与方法边界见正文",
+      "summary": "高帧率的技术优势与审美偏好并不总同向，2025预注册研究还发现了相反的场景效应。",
+      "readableMarkdown": "research/100-directions/015-high-frame-rate-aesthetics/readable.md",
+      "sources": "research/100-directions/015-high-frame-rate-aesthetics/sources.md",
+      "assets": [
+        "research/100-directions/015-high-frame-rate-aesthetics/metadata.json"
+      ],
+      "originals": [
+        {
+          "path": "research/100-directions/015-high-frame-rate-aesthetics/readable.md",
+          "original_name": "更顺滑的动作，为什么有时显得更假.md",
+          "bytes": 6752,
+          "sha256": "37189ee1d63da4abc15c72fc219239e797dead89a1edaf6199adc04d69538946",
+          "byte_identical": true
+        }
+      ],
+      "series": "research-100-20261007",
+      "series_number": "015",
+      "topic": "运动影像审美",
+      "tags": [
+        "高帧率",
+        "运动模糊",
+        "肥皂剧效应",
+        "真实感"
+      ]
+    },
+    {
+      "path": "research/100-directions/053-spreadsheet-circularity",
+      "title": "循环引用没有消失 只是开始迭代了",
+      "archived_at": "2026-10-07",
+      "source_version": 1,
+      "status": "原创专题研究；例子、原始研究与方法边界见正文",
+      "summary": "启用迭代计算能容许有意的反馈模型，但停止变化并不能独自证明结果正确。",
+      "readableMarkdown": "research/100-directions/053-spreadsheet-circularity/readable.md",
+      "sources": "research/100-directions/053-spreadsheet-circularity/sources.md",
+      "assets": [
+        "research/100-directions/053-spreadsheet-circularity/metadata.json"
+      ],
+      "originals": [
+        {
+          "path": "research/100-directions/053-spreadsheet-circularity/readable.md",
+          "original_name": "循环引用没有消失 只是开始迭代了.md",
+          "bytes": 6223,
+          "sha256": "eea7e749ce9f62ad5696f6d2645ef9cdbcaa3da8540cb090d136e416dc8dc850",
+          "byte_identical": true
+        }
+      ],
+      "series": "research-100-20261007",
+      "series_number": "053",
+      "topic": "电子表格模型",
+      "tags": [
+        "循环引用",
+        "固定点",
+        "数值收敛"
+      ]
+    },
+    {
+      "path": "research/100-directions/054-sat-puzzle-encoding",
+      "title": "求解器答对了题 也可能答错你的问题",
+      "archived_at": "2026-10-07",
+      "source_version": 1,
+      "status": "原创专题研究；例子、原始研究与方法边界见正文",
+      "summary": "SAT建模需要同时检查编码、返回模型和无解解释，少写一条规则会改变整个谜题。",
+      "readableMarkdown": "research/100-directions/054-sat-puzzle-encoding/readable.md",
+      "sources": "research/100-directions/054-sat-puzzle-encoding/sources.md",
+      "assets": [
+        "research/100-directions/054-sat-puzzle-encoding/metadata.json"
+      ],
+      "originals": [
+        {
+          "path": "research/100-directions/054-sat-puzzle-encoding/readable.md",
+          "original_name": "求解器答对了题 也可能答错你的问题.md",
+          "bytes": 5915,
+          "sha256": "629d5ddb4093ec7af39ae48df9ad7f4e0ad80105383449e0dde24b78ae79ac10",
+          "byte_identical": true
+        }
+      ],
+      "series": "research-100-20261007",
+      "series_number": "054",
+      "topic": "约束求解",
+      "tags": [
+        "SAT",
+        "SMT",
+        "形式化建模"
+      ]
+    },
+    {
+      "path": "research/100-directions/055-reversible-cellular-automata",
+      "title": "能算出下一帧 为什么找不回上一帧",
+      "archived_at": "2026-10-07",
+      "source_version": 1,
+      "status": "原创专题研究；例子、原始研究与方法边界见正文",
+      "summary": "用规则90的碰撞和二阶构造，区分确定性、可逆性与保存历史。",
+      "readableMarkdown": "research/100-directions/055-reversible-cellular-automata/readable.md",
+      "sources": "research/100-directions/055-reversible-cellular-automata/sources.md",
+      "assets": [
+        "research/100-directions/055-reversible-cellular-automata/metadata.json"
+      ],
+      "originals": [
+        {
+          "path": "research/100-directions/055-reversible-cellular-automata/readable.md",
+          "original_name": "能算出下一帧 为什么找不回上一帧.md",
+          "bytes": 5819,
+          "sha256": "268263ea63973628742e0c0a8720970586e6971d0e002e3e5a410993d7198bdc",
+          "byte_identical": true
+        }
+      ],
+      "series": "research-100-20261007",
+      "series_number": "055",
+      "topic": "离散动力系统",
+      "tags": [
+        "细胞自动机",
+        "可逆计算",
+        "信息保存"
       ]
     }
   ]

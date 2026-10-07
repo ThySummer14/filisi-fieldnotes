@@ -64,6 +64,12 @@
     "research/100-directions/012-line-length-tradeoffs",
     "research/100-directions/083-pencil-graphite",
     "research/100-directions/084-stainless-corrosion",
-    "research/100-directions/085-roman-concrete"
+    "research/100-directions/085-roman-concrete",
+    "research/100-directions/013-grouping-cue-conflicts",
+    "research/100-directions/014-motion-is-not-afterimage",
+    "research/100-directions/015-high-frame-rate-aesthetics",
+    "research/100-directions/053-spreadsheet-circularity",
+    "research/100-directions/054-sat-puzzle-encoding",
+    "research/100-directions/055-reversible-cellular-automata"
   ]
 }

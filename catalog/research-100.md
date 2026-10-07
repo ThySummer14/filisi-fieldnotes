@@ -1,6 +1,6 @@
 # 100个研究方向
 
-已收录 48 / 100 篇新研究。原有16篇专题研究与书稿不计入这个目标。编号是方向索引，不表示中间编号已经完成。
+已收录 54 / 100 篇新研究。原有16篇专题研究与书稿不计入这个目标。编号是方向索引，不表示中间编号已经完成。
 
 - 001 [同一条裙子，两套照明](../research/100-directions/001-dress-color-constancy/readable.md) · 视觉与色彩
 - 002 [余光中的字，为什么越挤越认不出](../research/100-directions/002-peripheral-crowding/readable.md) · 视觉与版式
@@ -14,6 +14,9 @@
 - 010 [没响的那一下，仍然发生了什么](../research/100-directions/010-perceiving-silence/readable.md) · 时间知觉
 - 011 [最喜欢的字体，未必读得最快](../research/100-directions/011-font-preference-speed/readable.md) · 字体与阅读
 - 012 [一行到底该放多少字](../research/100-directions/012-line-length-tradeoffs/readable.md) · 版式与阅读
+- 013 [给两点画上一个框之后](../research/100-directions/013-grouping-cue-conflicts/readable.md) · 视觉组织
+- 014 [两张静止图片之间，运动从哪里来](../research/100-directions/014-motion-is-not-afterimage/readable.md) · 运动知觉
+- 015 [更顺滑的动作，为什么有时显得更假](../research/100-directions/015-high-frame-rate-aesthetics/readable.md) · 运动影像审美
 - 035 [0.1加0.2之后 系统究竟答应了什么](../research/100-directions/035-floating-point-contract/readable.md) · 数值计算
 - 036 [删除键眼里的一个字](../research/100-directions/036-unicode-cursor/readable.md) · 文本系统
 - 037 [明天中午和二十四小时后是两个任务](../research/100-directions/037-time-is-not-duration/readable.md) · 时间建模
@@ -32,6 +35,9 @@
 - 050 [一个哈希能证明什么 不能证明什么](../research/100-directions/050-merkle-proof-boundary/readable.md) · 数据完整性
 - 051 [源代码一样 为什么打包文件还是不同](../research/100-directions/051-reproducible-build-inputs/readable.md) · 软件供应链
 - 052 [只改一行 也可能真的需要重算全部](../research/100-directions/052-incremental-computation/readable.md) · 开发工具
+- 053 [循环引用没有消失 只是开始迭代了](../research/100-directions/053-spreadsheet-circularity/readable.md) · 电子表格模型
+- 054 [求解器答对了题 也可能答错你的问题](../research/100-directions/054-sat-puzzle-encoding/readable.md) · 约束求解
+- 055 [能算出下一帧 为什么找不回上一帧](../research/100-directions/055-reversible-cellular-automata/readable.md) · 离散动力系统
 - 068 [日落后 城市还在退还白天的热](../research/100-directions/068-urban-night-heat/readable.md) · 城市气候
 - 069 [菌根网络存在之后 还需要证明什么](../research/100-directions/069-forest-fungal-networks/readable.md) · 森林生态
 - 070 [水坝留下的泥沙账单](../research/100-directions/070-dam-sediment/readable.md) · 河流地貌

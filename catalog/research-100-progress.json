@@ -1,6 +1,6 @@
 {
   "target": 100,
-  "completed_count": 48,
+  "completed_count": 54,
   "existing_library_excluded": 16,
   "completed": [
     {
@@ -74,6 +74,24 @@
       "title": "一行到底该放多少字",
       "topic": "版式与阅读",
       "path": "research/100-directions/012-line-length-tradeoffs"
+    },
+    {
+      "number": "013",
+      "title": "给两点画上一个框之后",
+      "topic": "视觉组织",
+      "path": "research/100-directions/013-grouping-cue-conflicts"
+    },
+    {
+      "number": "014",
+      "title": "两张静止图片之间，运动从哪里来",
+      "topic": "运动知觉",
+      "path": "research/100-directions/014-motion-is-not-afterimage"
+    },
+    {
+      "number": "015",
+      "title": "更顺滑的动作，为什么有时显得更假",
+      "topic": "运动影像审美",
+      "path": "research/100-directions/015-high-frame-rate-aesthetics"
     },
     {
       "number": "035",
@@ -182,6 +200,24 @@
       "title": "只改一行 也可能真的需要重算全部",
       "topic": "开发工具",
       "path": "research/100-directions/052-incremental-computation"
+    },
+    {
+      "number": "053",
+      "title": "循环引用没有消失 只是开始迭代了",
+      "topic": "电子表格模型",
+      "path": "research/100-directions/053-spreadsheet-circularity"
+    },
+    {
+      "number": "054",
+      "title": "求解器答对了题 也可能答错你的问题",
+      "topic": "约束求解",
+      "path": "research/100-directions/054-sat-puzzle-encoding"
+    },
+    {
+      "number": "055",
+      "title": "能算出下一帧 为什么找不回上一帧",
+      "topic": "离散动力系统",
+      "path": "research/100-directions/055-reversible-cellular-automata"
     },
     {
       "number": "068",
