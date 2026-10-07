@@ -1,12 +1,12 @@
 {
   "archive_date": "2026-10-07",
-  "item_count": 14,
-  "original_file_count": 20,
-  "original_docx_count": 13,
-  "original_pdf_count": 5,
-  "original_markdown_count": 2,
+  "item_count": 15,
+  "original_file_count": 23,
+  "original_docx_count": 14,
+  "original_pdf_count": 6,
+  "original_markdown_count": 3,
   "image_count": 33,
-  "readable_markdown_count": 14,
+  "readable_markdown_count": 15,
   "items": [
     {
       "path": "reading/sociological-imagination",
@@ -1065,6 +1065,42 @@
           "byte_identical": true
         }
       ]
+    },
+    {
+      "path": "motion/film-sound-storytelling",
+      "title": "门后的世界 电影声音设计如何讲故事",
+      "archived_at": "2026-10-07",
+      "source_version": 1,
+      "status": "声音设计研究；MV与游戏场景为原创设想，非实听或观众实验",
+      "summary": "从环境底声、声音透视与视点到声桥、掩蔽与动态，拆解雨夜MV和恐怖游戏走廊的叙事设计。",
+      "readableMarkdown": "motion/film-sound-storytelling/readable.md",
+      "sources": "motion/film-sound-storytelling/sources.md",
+      "assets": [],
+      "originals": [
+        {
+          "path": "motion/film-sound-storytelling/readable.md",
+          "original_name": "门后的世界_电影声音设计如何讲故事.md",
+          "bytes": 31638,
+          "sha256": "eb56492c299ab77c7a228fcf418221e86065488b0fb1108650547ef0e940da7d",
+          "byte_identical": true
+        },
+        {
+          "path": "motion/film-sound-storytelling/originals/report.docx",
+          "original_name": "门后的世界_电影声音设计如何讲故事.docx",
+          "bytes": 55290,
+          "sha256": "2d5f1f15b08a0ac23115c6731eafcfc32e3915c44eea5b28b4fbecd2578104eb",
+          "byte_identical": true
+        },
+        {
+          "path": "motion/film-sound-storytelling/originals/report.pdf",
+          "original_name": "门后的世界_电影声音设计如何讲故事.pdf",
+          "bytes": 739226,
+          "sha256": "701ed9098c869d5fdbc96563d5a0a9e6e45608c302c22d15ac1328b24a7907f2",
+          "byte_identical": true
+        }
+      ],
+      "pages": 11,
+      "sources_opened": 13
     }
   ]
 }

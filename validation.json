@@ -717,5 +717,16 @@
     "build_tests": 5,
     "search_assertions": 9,
     "article_links_checked": 14
+  },
+  "sound_design_addendum": {
+    "archive_date": "2026-10-07",
+    "pages": 11,
+    "sources": 13,
+    "pdf_links": 29,
+    "unchanged_prior_originals": 20,
+    "docx_hidden_text": 0,
+    "tracked_changes": 0,
+    "comments": 0,
+    "third_party_media_included": false
   }
 }
