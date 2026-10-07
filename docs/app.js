@@ -1,5 +1,5 @@
-import {LibraryData,routeGate} from './data.mjs?v=776181a2aaacf6e8';
-import {search,segments} from './search.mjs?v=776181a2aaacf6e8';
+import {LibraryData,routeGate} from './data.mjs?v=becdbf7eba92378a';
+import {search,segments} from './search.mjs?v=becdbf7eba92378a';
 const $=id=>document.getElementById(id);let items=[],category='全部',lastFocus=null,library=null,visibleLimit=60,lastListKey='';const gate=routeGate();
 const el=(tag,text,cls)=>{const n=document.createElement(tag);if(text!==undefined)n.textContent=text;if(cls)n.className=cls;return n};
 function highlight(node,text,q){for(const s of segments(text,q))node.append(s.hit?el('mark',s.text):document.createTextNode(s.text));}
@@ -24,5 +24,5 @@ async function render(){const token=gate.next(),s=state();$('query').value=s.q;c
 $('search-form').onsubmit=e=>{e.preventDefault();go({q:$('query').value.trim(),article:null});};let timer;$('query').oninput=()=>{gate.next();clearTimeout(timer);timer=setTimeout(()=>go({q:$('query').value.trim(),article:null},true),120);};$('clear').onclick=()=>{go({q:null,article:null});$('query').focus();};window.addEventListener('popstate',render);document.addEventListener('keydown',e=>{if(e.key==='/'&&!['INPUT','TEXTAREA'].includes(document.activeElement.tagName)&&!document.activeElement.isContentEditable){e.preventDefault();if($('library').hidden)go({article:null});$('query').focus();}});
 try{const theme=localStorage.getItem('fieldnotes-theme');if(theme)document.documentElement.dataset.theme=theme;}catch{}
 $('theme').onclick=()=>{const dark=document.documentElement.dataset.theme==='dark'||(!document.documentElement.dataset.theme&&matchMedia('(prefers-color-scheme: dark)').matches);document.documentElement.dataset.theme=dark?'light':'dark';try{localStorage.setItem('fieldnotes-theme',dark?'light':'dark');}catch{}};
-async function start(){try{const r=await fetch('./catalog.json?v=776181a2aaacf6e8',{signal:AbortSignal.timeout(20000)});if(!r.ok)throw Error('catalog');const data=await r.json();if(data.schema!==2)throw Error('schema');library=new LibraryData(data);items=await library.metadata();await render();}catch{$('result-count').textContent='文库暂时无法读取';$('empty').hidden=false;$('empty').replaceChildren(el('p','请检查网络后重试；本地文件请通过静态服务器打开。'));const b=el('button','重试');b.onclick=start;$('empty').append(b);}}
+async function start(){try{const r=await fetch('./catalog.json?v=becdbf7eba92378a',{signal:AbortSignal.timeout(20000)});if(!r.ok)throw Error('catalog');const data=await r.json();if(data.schema!==2)throw Error('schema');library=new LibraryData(data);items=await library.metadata();await render();}catch{$('result-count').textContent='文库暂时无法读取';$('empty').hidden=false;$('empty').replaceChildren(el('p','请检查网络后重试；本地文件请通过静态服务器打开。'));const b=el('button','重试');b.onclick=start;$('empty').append(b);}}
 await start();

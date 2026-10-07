@@ -1,0 +1,52 @@
+{
+  "id": "117",
+  "slug": "xylem-tension",
+  "title": "高树怎样把水拉到叶子，干旱又为何让部分水路失灵",
+  "version": 1,
+  "topic": "植物水力学与流体物理",
+  "question": "叶端失水怎样牵动百米液态水路，怎样用实验区分真实栓塞与取样造成的气泡？",
+  "description": "叶端失水怎样牵动百米液态水路，怎样用实验区分真实栓塞与取样造成的气泡？",
+  "language": "zh-CN",
+  "updated": "2026-10-07",
+  "sources": [
+    {
+      "title": "Koch et al. (2004), The limits to tree height",
+      "url": "https://doi.org/10.1038/nature02417",
+      "additional_urls": [
+        "https://www.researchgate.net/profile/George-Koch/publication/287547216_The_limits_of_tree_height/links/5af46ed64585157136ca2bdf/The-limits-of-tree-height.pdf"
+      ],
+      "type": "原始野外测量论文"
+    },
+    {
+      "title": "Jensen et al. (2016), Sap flow and sugar transport in plants",
+      "url": "https://doi.org/10.1103/RevModPhys.88.035007",
+      "additional_urls": [
+        "https://scispace.com/pdf/sap-flow-and-sugar-transport-in-plants-3ce9nnbq7f.pdf"
+      ],
+      "type": "物理学领域综述"
+    },
+    {
+      "title": "Choat et al. (2016), Noninvasive Measurement of Vulnerability to Drought-Induced Embolism by X-Ray Microtomography",
+      "url": "https://sylvain-delzon.com/wp-content/uploads/2016/05/Choatetal2016.pdf",
+      "type": "原始微CT与离心比较实验"
+    },
+    {
+      "title": "Torres-Ruiz et al. (2015), Direct X-Ray Microtomography Observation Confirms the Induction of Embolism upon Xylem Cutting under Tension",
+      "url": "https://sylvain-delzon.com/wp-content/uploads/2015/01/Torres-Ruiz-et-al-2015-PP.pdf",
+      "type": "原始切割前后成像实验"
+    },
+    {
+      "title": "Brodribb et al. (2017), Optical Measurement of Stem Xylem Vulnerability",
+      "url": "https://sylvain-delzon.com/wp-content/uploads/2017/10/Brodribb-et-al-2017.pdf",
+      "type": "原始光学测量与离心比较"
+    },
+    {
+      "title": "Petruzzellis et al. (2018), The pitfalls of in vivo imaging techniques: evidence for cellular damage caused by synchrotron X-ray computed micro-tomography",
+      "url": "https://doi.org/10.1111/nph.15368",
+      "additional_urls": [
+        "https://arts.units.it/retrieve/e2913fde-e505-f688-e053-3705fe0a67e0/2936858_Petruzzellis_et_al-2018-New_Phytologist-PostPrint.pdf"
+      ],
+      "type": "原始辐射影响对照实验"
+    }
+  ]
+}

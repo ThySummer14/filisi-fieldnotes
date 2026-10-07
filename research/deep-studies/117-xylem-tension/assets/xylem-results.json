@@ -1,0 +1,82 @@
+{
+  "scope": "Gravity, ideal hemispherical meniscus, and five parallel equal-length Poiseuille tubes",
+  "assumptions": [
+    "Water density=1000 kg/m3; g=9.81 m/s2",
+    "Surface tension=0.072 N/m; complete wetting and hemispherical meniscus",
+    "Capillary result balances static gravity only, without viscous losses",
+    "Five tubes have common pressure difference, length and viscosity",
+    "Laminar flow in circular tubes; no pit or network resistance",
+    "No actual leaf pore radius, tree height limit or drought threshold inferred"
+  ],
+  "gravity": {
+    "height_m": 100.0,
+    "delta_P_Pa": 981000.0,
+    "delta_P_MPa": 0.981,
+    "pressure_drop_MPa_per_m": 0.00981
+  },
+  "capillary": [
+    {
+      "hemisphere_radius_m": 2e-05,
+      "delta_P_Pa": 7199.999999999999,
+      "delta_P_MPa": 0.007199999999999999,
+      "static_equivalent_height_m": 0.7339449541284403
+    },
+    {
+      "hemisphere_radius_m": 1e-07,
+      "delta_P_Pa": 1440000.0,
+      "delta_P_MPa": 1.44,
+      "static_equivalent_height_m": 146.78899082568807
+    }
+  ],
+  "gauge_to_absolute_example": {
+    "atmospheric_MPa": 0.101,
+    "gauge_MPa": -1,
+    "absolute_MPa": -0.899
+  },
+  "five_tubes": {
+    "radius_ratios": [
+      1,
+      1,
+      1,
+      1,
+      2
+    ],
+    "conductance_weights": [
+      1,
+      1,
+      1,
+      1,
+      16
+    ],
+    "total_weight": 20,
+    "one_large_lost": {
+      "count_loss_fraction": "1/5",
+      "conductance_loss_fraction": "4/5",
+      "conductance_loss_percent": 80.0
+    },
+    "four_small_lost": {
+      "count_loss_fraction": "4/5",
+      "conductance_loss_fraction": "1/5",
+      "conductance_loss_percent": 20.0
+    }
+  },
+  "published_comparison_not_recomputed": {
+    "source": "Choat et al. 2016 Table I, DOI 10.1104/pp.15.00732; signs converted from -MPa column heading",
+    "P50_MPa": {
+      "Quercus_robur": {
+        "microCT": -4.16,
+        "Cavitron": -1.38,
+        "static_centrifuge": -0.47
+      },
+      "Populus_tremula_x_alba": {
+        "microCT": -1.81,
+        "Cavitron": -1.83
+      },
+      "Pinus_pinaster": {
+        "microCT": -3.27,
+        "Cavitron": -3.5
+      }
+    },
+    "note": "Reported means only; no raw observations fitted; CT endpoint inferred from conduit geometry"
+  }
+}

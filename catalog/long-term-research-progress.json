@@ -1,6 +1,6 @@
 {
   "target": 10000,
-  "completed_new_count": 16,
+  "completed_new_count": 18,
   "prior_library_excluded": 116,
   "existing_revisions_this_round": 0,
   "completed": [
@@ -83,6 +83,16 @@
       "number": "116",
       "title": "为什么南极臭氧在春天骤减，关键条件却形成于冬天",
       "path": "research/deep-studies/116-antarctic-ozone"
+    },
+    {
+      "number": "117",
+      "title": "高树怎样把水拉到叶子，干旱又为何让部分水路失灵",
+      "path": "research/deep-studies/117-xylem-tension"
+    },
+    {
+      "number": "118",
+      "title": "同是六角冰晶 为什么有时长成薄片 有时长成细柱",
+      "path": "research/deep-studies/118-snow-crystal-habit"
     }
   ]
 }

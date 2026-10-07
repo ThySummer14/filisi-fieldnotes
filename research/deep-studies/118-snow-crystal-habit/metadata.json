@@ -1,0 +1,55 @@
+{
+  "id": "118",
+  "slug": "snow-crystal-habit",
+  "title": "同是六角冰晶 为什么有时长成薄片 有时长成细柱",
+  "version": 1,
+  "topic": "晶体生长与大气物理",
+  "question": "同一种六角冰晶为何生长为薄片或细柱，基面与棱柱面的附着和水汽扩散怎样共同决定习性？",
+  "description": "同一种六角冰晶为何生长为薄片或细柱，基面与棱柱面的附着和水汽扩散怎样共同决定习性？",
+  "language": "zh-CN",
+  "updated": "2026-10-07",
+  "sources": [
+    {
+      "number": 1,
+      "title": "Libbrecht (2005), The physics of snow crystals",
+      "url": "https://www.its.caltech.edu/~atomic/publist/rpp5_4_R03.pdf",
+      "type": "权威综述"
+    },
+    {
+      "number": 2,
+      "title": "Nelson & Knight (1998), Snow Crystal Habit Changes Explained by Layer Nucleation",
+      "url": "https://www.redmondphysicalsciences.com/nelson-knight1998LayerNucl.pdf",
+      "type": "独立原始实验"
+    },
+    {
+      "number": 3,
+      "title": "Libbrecht & Rickerby (2012), Crystal Growth in the Presence of Surface Melting: Novel Behavior of the Principal Facets of Ice",
+      "url": "https://arxiv.org/pdf/1208.5982",
+      "type": "原始实验作者稿"
+    },
+    {
+      "number": 4,
+      "title": "Libbrecht et al. (2015), Toward a Comprehensive Model of Snow Crystal Growth: 4. Measurements of Diffusion-limited Growth at -15 C",
+      "url": "https://arxiv.org/pdf/1512.03389",
+      "type": "原始实验与半经验模型，arXiv v2"
+    },
+    {
+      "number": 5,
+      "title": "Libbrecht (2020), Toward a Comprehensive Model of Snow Crystal Growth: 7. Ice Attachment Kinetics near -2 C",
+      "url": "https://arxiv.org/pdf/2004.06212",
+      "type": "作者研究报告与半经验模型"
+    },
+    {
+      "number": 6,
+      "title": "Bailey & Hallett (2002), Growth Characteristics of Laboratory Grown Ice Crystals Between -20 C and -70 C",
+      "url": "https://ams.confex.com/ams/pdfpapers/42237.pdf",
+      "type": "独立原始会议实验报告"
+    },
+    {
+      "number": 7,
+      "title": "Cascajo-Castresana, Morin & Bittner (2021), The ice-vapour interface during growth and sublimation",
+      "url": "https://acp.copernicus.org/articles/21/18629/2021/",
+      "type": "独立环境扫描电镜原始实验"
+    }
+  ]
+}

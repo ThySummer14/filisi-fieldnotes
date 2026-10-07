@@ -1,12 +1,12 @@
 {
  "archive_date": "2026-10-07",
- "item_count": 132,
- "original_file_count": 140,
+ "item_count": 134,
+ "original_file_count": 142,
  "original_docx_count": 14,
  "original_pdf_count": 6,
- "original_markdown_count": 120,
+ "original_markdown_count": 122,
  "image_count": 33,
- "readable_markdown_count": 132,
+ "readable_markdown_count": 134,
  "items": [
   {
    "path": "reading/sociological-imagination",
@@ -4660,6 +4660,69 @@
      "original_name": "为什么南极臭氧在春天骤减，关键条件却形成于冬天.md",
      "bytes": 13344,
      "sha256": "b013ffb8d8d59f3d847176c6e77bd484e51461d1ea332ece0f326e46933eb651",
+     "byte_identical": true
+    }
+   ]
+  },
+  {
+   "path": "research/deep-studies/117-xylem-tension",
+   "archived_at": "2026-10-07",
+   "series": "long-term-research",
+   "series_number": "117",
+   "category": "社会与自然",
+   "title": "高树怎样把水拉到叶子，干旱又为何让部分水路失灵",
+   "source_version": 1,
+   "status": "原创深化研究；示例、原始研究与方法边界见正文。",
+   "summary": "叶端失水怎样牵动百米液态水路，怎样用实验区分真实栓塞与取样造成的气泡？",
+   "readableMarkdown": "research/deep-studies/117-xylem-tension/readable.md",
+   "sources": "research/deep-studies/117-xylem-tension/sources.md",
+   "assets": [
+    "research/deep-studies/117-xylem-tension/metadata.json",
+    "research/deep-studies/117-xylem-tension/assets/conduit-weighting.png",
+    "research/deep-studies/117-xylem-tension/assets/conduit-weighting.svg",
+    "research/deep-studies/117-xylem-tension/assets/recompute_xylem.py",
+    "research/deep-studies/117-xylem-tension/assets/xylem-results.json"
+   ],
+   "topic": "植物水力学与流体物理",
+   "originals": [
+    {
+     "path": "research/deep-studies/117-xylem-tension/readable.md",
+     "original_name": "高树怎样把水拉到叶子，干旱又为何让部分水路失灵.md",
+     "bytes": 13977,
+     "sha256": "5e8c67a61a6e367e164135f56ad3ab0b38a8be6ebf2917018c85e5599aa8e0df",
+     "byte_identical": true
+    }
+   ]
+  },
+  {
+   "path": "research/deep-studies/118-snow-crystal-habit",
+   "archived_at": "2026-10-07",
+   "series": "long-term-research",
+   "series_number": "118",
+   "category": "社会与自然",
+   "title": "同是六角冰晶 为什么有时长成薄片 有时长成细柱",
+   "source_version": 1,
+   "status": "原创深化研究；示例、原始研究与方法边界见正文。",
+   "summary": "同一种六角冰晶为何生长为薄片或细柱，基面与棱柱面的附着和水汽扩散怎样共同决定习性？",
+   "readableMarkdown": "research/deep-studies/118-snow-crystal-habit/readable.md",
+   "sources": "research/deep-studies/118-snow-crystal-habit/sources.md",
+   "assets": [
+    "research/deep-studies/118-snow-crystal-habit/metadata.json",
+    "research/deep-studies/118-snow-crystal-habit/assets/attachment-rate-comparison.png",
+    "research/deep-studies/118-snow-crystal-habit/assets/attachment-rate-comparison.svg",
+    "research/deep-studies/118-snow-crystal-habit/assets/facet-normal-growth.png",
+    "research/deep-studies/118-snow-crystal-habit/assets/facet-normal-growth.svg",
+    "research/deep-studies/118-snow-crystal-habit/assets/recompute_snow.py",
+    "research/deep-studies/118-snow-crystal-habit/assets/snow-rates.csv",
+    "research/deep-studies/118-snow-crystal-habit/assets/snow-results.json"
+   ],
+   "topic": "晶体生长与大气物理",
+   "originals": [
+    {
+     "path": "research/deep-studies/118-snow-crystal-habit/readable.md",
+     "original_name": "同是六角冰晶 为什么有时长成薄片 有时长成细柱.md",
+     "bytes": 13741,
+     "sha256": "1dedeb38afbf6fd249337dda7590a387934e878110dfbc37374a9913f04e7dfb",
      "byte_identical": true
     }
    ]

@@ -1,0 +1,63 @@
+{
+  "description": "Local facet-rate thought experiment at -15 C, fixed common surface supersaturation.",
+  "formula": "v = A * exp(-sigma0/sigma_surface) * v_kin * sigma_surface; A=1",
+  "parameter_origins": {
+    "v_kin_um_s": "Libbrecht et al. 2015 arXiv:1512.03389v2 p.4, 208 at -15 C",
+    "sigma0_basal": "2015 p.10, 2 percent",
+    "sigma0_prism_broad": "2015 pp.4-5 and 10, broad-facet literature value 3.3 percent",
+    "sigma0_prism_narrow": "2015 p.10, thin-edge fit near 0.15 percent",
+    "sigma_surface_for_example": "Chosen 0.5 percent; near 2015 p.13 thin-edge model inference, not a measured humidity imposed on both faces"
+  },
+  "inputs": {
+    "T_celsius": -15,
+    "v_kin_um_s": 208.0,
+    "A_basal": 1,
+    "A_prism": 1,
+    "sigma0_basal": 0.02,
+    "sigma0_prism_cases": {
+      "broad_prism": 0.033,
+      "narrow_prism": 0.0015
+    }
+  },
+  "examples": {
+    "broad_prism": {
+      "sigma_surface_fraction": 0.005,
+      "alpha_basal": 0.01831563888873418,
+      "alpha_prism": 0.0013603680375478928,
+      "v_basal_um_s": 0.019048264444283546,
+      "v_prism_um_s": 0.0014147827590498085,
+      "v_basal_over_v_prism": 13.463738035001695
+    },
+    "narrow_prism": {
+      "sigma_surface_fraction": 0.005,
+      "alpha_basal": 0.01831563888873418,
+      "alpha_prism": 0.7408182206817179,
+      "v_basal_um_s": 0.019048264444283546,
+      "v_prism_um_s": 0.7704509495089866,
+      "v_basal_over_v_prism": 0.024723526470339388
+    }
+  },
+  "limits": [
+    "Common, constant surface supersaturation is an imposed simplification.",
+    "No three-dimensional diffusion, latent heating, facet-width evolution, or shape integration.",
+    "The broad and narrow coefficients do not describe the same surface geometry.",
+    "A growth-rate ratio is not the aspect ratio of a crystal at an arbitrary finite time."
+  ],
+  "experimental_comparison": [
+    {
+      "T_celsius": -15,
+      "sigma_center_percent_approx": 4.6,
+      "observed": "block on needle tip"
+    },
+    {
+      "T_celsius": -15,
+      "sigma_center_percent_approx": 7.0,
+      "observed": "thick plate on needle tip"
+    },
+    {
+      "T_celsius": -15,
+      "sigma_center_percent_approx": 11.3,
+      "observed": "thin plate on needle tip"
+    }
+  ]
+}

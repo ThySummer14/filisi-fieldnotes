@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1100" height="740" viewBox="0 0 1100 740">
+<rect width="1100" height="740" fill="#f8f7f1"/>
+<g font-family="Noto Sans CJK SC, sans-serif" fill="#183b49">
+<text x="55" y="60" font-size="34">五根管子，承担的水量并不相同</text>
+<text x="55" y="101" font-size="22" fill="#526874">教学模型：相同长度、液体黏度及两端压差；仅改变半径。</text>
+<circle cx="140" cy="215" r="30" fill="#26838b"/>
+<text x="105" y="315" font-size="22">半径 r</text>
+<text x="97" y="353" font-size="22">能力 1份</text>
+<circle cx="310" cy="215" r="30" fill="#26838b"/>
+<text x="275" y="315" font-size="22">半径 r</text>
+<text x="267" y="353" font-size="22">能力 1份</text>
+<circle cx="480" cy="215" r="30" fill="#26838b"/>
+<text x="445" y="315" font-size="22">半径 r</text>
+<text x="437" y="353" font-size="22">能力 1份</text>
+<circle cx="650" cy="215" r="30" fill="#26838b"/>
+<text x="615" y="315" font-size="22">半径 r</text>
+<text x="607" y="353" font-size="22">能力 1份</text>
+<circle cx="885" cy="215" r="60" fill="#26838b"/>
+<text x="840" y="315" font-size="22">半径 2r</text>
+<text x="822" y="353" font-size="22">能力 16份</text>
+<text x="55" y="405" font-size="25">总能力：1＋1＋1＋1＋16＝20份；能力 ∝ 半径⁴</text>
+<text x="55" y="472" font-size="24">仅粗管失效</text>
+<rect x="295" y="445" width="576.0" height="44" fill="#cf7441"/>
+<rect x="871.0" y="445" width="144.0" height="44" fill="#26838b"/>
+<text x="309" y="476" font-size="22" fill="#ffffff">损失 80%</text>
+<text x="55" y="521" font-size="21" fill="#526874">管数损失 20%</text>
+<text x="55" y="580" font-size="24">四根细管失效</text>
+<rect x="295" y="553" width="144.0" height="44" fill="#cf7441"/>
+<rect x="439.0" y="553" width="576.0" height="44" fill="#26838b"/>
+<text x="309" y="584" font-size="22" fill="#ffffff">损失 20%</text>
+<text x="55" y="629" font-size="21" fill="#526874">管数损失 80%</text>
+<text x="55" y="690" font-size="20" fill="#526874">橙色为损失能力，蓝色为剩余能力。真实木质部还需考虑纹孔及连接网络。</text>
+</g></svg>
