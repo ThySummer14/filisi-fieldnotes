@@ -1,25 +1,114 @@
-# Filisi Fieldnotes · 研究文库
+# Filisi Fieldnotes 研究文库
 
-用于归档书稿、专题研究与创作技术文档。当前为私有仓库。
+归档日期：2026-10-07
 
-## 收录原则
+本批13项书稿与研究文档已获作者方确认公开。网页阅读界面正在准备；此目录提供完整正文与排版文件。
 
-- 按主题保存可阅读的正文、排版文件和来源说明。
-- 区分已验证结论、示例、模拟案例与尚未验证的设想。
-- 新修订保留版本记录，不把旧项目状态当作当前进度。
-- 第三方素材保留来源与使用限制；本仓库不授予第三方内容的再分发权。
-- 不收录账号凭证、邮件原文、私人聊天或内部工作记录。
+13 项成品档案：11 项既有文档、1 项像素视频研究与1项平面设计研究。按主题使用英文目录；此页提供中文导航。
 
-## 目录规划
+每项的「阅读全文」保留原文全部正文、表格、插图和链接；「原件与来源」提供原 Word／PDF 及引文索引。原件按字节保存，版式以原件为准。
 
-- `design/`：平面设计、排版、字体与视觉传播
-- `game-art/`：像素美术、水面、光影与天气效果
-- `game-design/`：关卡、程序化生成与交互设计
-- `motion/`：动态设计、MAD 与影像研究
-- `reading/`：阅读研究与课程文稿
-- `fiction/`：创作稿及修订版本
-- `catalog/`：文档目录、版本和来源索引
+## 平面设计研究
 
-## 当前进度
+- [平面设计中的阅读与判断](design/graphic-reading-judgment/README.md) · 第一版 · 15页
+  - 9章、6组原创图解、14个一手来源，含可编辑SVG与配色对比度计算。
+  - 未进行真实观众实验或印刷打样；练习活动为虚构设定。
 
-仓库已建立。近期修订文档正在整理归档；平面设计研究与像素教程参考正在进行。目录规划不代表文件已经上传。
+## 阅读目录
+
+### 阅读与消费课程
+
+- **社会学的想象力 选书研究与分享方案** · v1
+  - [阅读全文](reading/sociological-imagination/readable.md) · [原件与来源](reading/sociological-imagination/sources.md)
+  - 围绕第一章 The Promise 的精读与课堂分享方案。
+  - 状态：选书与课程分享方案
+
+- **消费选择如何影响日常生活 文章版** · v0
+  - [阅读全文](reading/consumer-choice-article/readable.md) · [原件与来源](reading/consumer-choice-article/sources.md)
+  - 基于模拟访谈的消费选择分析；完整保留虚构材料说明。
+  - 状态：课程作业文章版；模拟访谈／虚构案例，非实际调查
+
+- **消费行为与消费决策分析 课程作业** · v0
+  - [阅读全文](reading/consumer-behavior-coursework/readable.md) · [原件与来源](reading/consumer-behavior-coursework/sources.md)
+  - 店主模拟问答、六位虚构同学案例与比较表。
+  - 状态：课程作业问答版；模拟访谈／虚构案例，非实际调查
+
+### 游戏设计
+
+- **让随机的世界值得探索** · v0
+  - [阅读全文](game-design/pcg-explorable-worlds/readable.md) · [原件与来源](game-design/pcg-explorable-worlds/sources.md)
+  - 十二章程序化关卡生成入门书稿，保留全部教学图与参考链接。
+  - 状态：持续写作稿；原创教学案例，非第三方整书
+
+### 跨题研究
+
+- **一夜探索笔记** · v1
+  - [阅读全文](research/overnight-explorations/readable.md) · [原件与来源](research/overnight-explorations/sources.md)
+  - 从音色、几何和节奏到记忆、逆问题、路网与叙事的跨题探索。
+  - 状态：研究成稿；计算、文献结论与创作推断分开记录
+
+### 动态影像与历史计划
+
+- **静止系 MAD 制作实用教程** · v0
+  - [阅读全文](motion/static-mad-tutorial/readable.md) · [原件与来源](motion/static-mad-tutorial/sources.md)
+  - 从故事构思到第一支 24 秒短片的制作教程。
+  - 状态：教程成稿；示例参数并非本次 AE 实测结果
+
+- **章鱼噼的原罪 MAD 项目计划** · v1
+  - [阅读全文](motion/takopi-mad-historical-plan/readable.md) · [原件与来源](motion/takopi-mad-historical-plan/sources.md)
+  - 叙事型静止系 MAD 的历史项目计划与待核对项。
+  - 状态：已停止；仅保留历史构想，不作为当前制作安排
+
+- **众生行记 PV 复刻项目资料** · v4
+  - [阅读全文](motion/zhongsheng-pv-historical-record/readable.md) · [原件与来源](motion/zhongsheng-pv-historical-record/sources.md)
+  - 三维复刻的历史要求、源资料、头部相似度问题与停止状态。
+  - 状态：历史记录；状态仅截至 2026-10-05 22:13 UTC+8，不代表当前进度
+
+### 作品档案
+
+- **十四行作品档案 私有第一版** · v1
+  - [阅读全文](portfolio/sonnet-works/readable.md) · [原件与来源](portfolio/sonnet-works/sources.md)
+  - 三款网页游戏与 AI 辅助器乐作品集的入口、分工和版本记录。
+  - 状态：私有作品档案第一版；所列版本以文中 commit 为准
+
+### 游戏美术
+
+- **潮汐邮局体素作品项目资料** · v2
+  - [阅读全文](game-art/tidal-post/readable.md) · [原件与来源](game-art/tidal-post/sources.md)
+  - The Tidal Post 场景构图、交付范围、验证结果与限制。
+  - 状态：该轮作品已交付并接受；项目资料记录
+
+- **像素场景中的水面 雨雪与夜空** · 2026-10-07 成稿
+  - [阅读全文](game-art/pixel-scene-water-weather/readable.md) · [原件与来源](game-art/pixel-scene-water-weather/sources.md)
+  - Mushreb 视频研究与雨后灯港制作参考；雨天、旋转、ECS 仅标题／简介，雪天独立 BV 未核实。
+  - 状态：2026-10-07 成稿，9 页；水位、雪天、夜空基于用户完整转录
+
+### 同人小说
+
+- **富江 退潮之城** · v2
+  - [阅读全文](fiction/tomie-retreating-tide/readable.md) · [原件与来源](fiction/tomie-retreating-tide/sources.md)
+  - 十五章同人小说修订稿，保留阅读说明、目录和章节跳转。
+  - 状态：原创同人中篇私人阅读稿；非伊藤润二原作全文
+
+## 阅读时需保留的边界
+
+- 消费作业为模拟访谈／虚构案例，非实际调查；相关标签已完整保留。
+- 《章鱼噼的原罪》MAD 项目已停止。
+- 《众生行记》PV 是截至 2026-10-05 的历史记录，版本 4 不表示项目目前仍在该状态。
+- 《富江 退潮之城》为原创同人私人阅读稿，角色来源属于伊藤润二；不是原作全文。
+- 像素研究中的水位、雪天、夜空以用户完整转录为依据；雨天、旋转、ECS 仍只有标题／简介，雪天独立 BV 未核实。
+- 归档仅含已形成的交付文档，不含聊天记录、内部笔记或链接所指向的第三方整书。原件内的文字与元数据均未改写。
+
+## 完整性与格式
+
+- [机器可读清单](manifest.json)：主题、版本、状态、原件文件名、路径和校验值。
+- [提取检查结果](validation.json)：逐正文文本节点、表格、图片、内部锚点与已有 PDF 每页覆盖检查。
+- [SHA256 校验列表](SHA256SUMS)：本档案所有文件的哈希值；校验列表本身不自校验。
+
+Markdown 保留内容顺序，不模拟 Word 的物理分页与排版。已有原件未重新排版或重新渲染。外部链接只沿用原文，不表示本次重新核验其现状。
+
+## 版本与使用范围
+
+本批保留原件。原稿中的“私人阅读稿”“私有第一版”等字样描述当时交付用途，不改变本次已确认的公开范围。原稿内通用软件元数据日期不作为写作日期依据，版本与归档日期以本目录和各项说明为准。
+
+第三方作品、人物、商标、参考视频与链接内容仍归各自权利人；收录分析、同人故事或链接不表示获得第三方内容的通用再发行许可。没有附带第三方整书、漫画原页或商业字体文件。

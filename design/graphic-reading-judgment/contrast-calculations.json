@@ -1,0 +1,26 @@
+[
+  {
+    "foreground": "#A8AFB2",
+    "background": "#FFFFFF",
+    "ratio": 2.224617378571627,
+    "normal_text_AA": false
+  },
+  {
+    "foreground": "#FFFFFF",
+    "background": "#E9AA86",
+    "ratio": 1.988850337496128,
+    "normal_text_AA": false
+  },
+  {
+    "foreground": "#172B35",
+    "background": "#FFFFFF",
+    "ratio": 14.65057598384257,
+    "normal_text_AA": true
+  },
+  {
+    "foreground": "#FFFFFF",
+    "background": "#A74618",
+    "ratio": 5.945048905774805,
+    "normal_text_AA": true
+  }
+]

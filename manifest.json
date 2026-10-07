@@ -1,0 +1,1013 @@
+{
+  "archive_date": "2026-10-07",
+  "item_count": 13,
+  "original_file_count": 19,
+  "original_docx_count": 13,
+  "original_pdf_count": 5,
+  "original_markdown_count": 1,
+  "image_count": 33,
+  "readable_markdown_count": 13,
+  "items": [
+    {
+      "path": "reading/sociological-imagination",
+      "title": "社会学的想象力 选书研究与分享方案",
+      "archived_at": "2026-10-07",
+      "source_version": 1,
+      "status": "选书与课程分享方案",
+      "summary": "围绕第一章 The Promise 的精读与课堂分享方案。",
+      "readableMarkdown": "reading/sociological-imagination/readable.md",
+      "sources": "reading/sociological-imagination/sources.md",
+      "originals": [
+        {
+          "path": "reading/sociological-imagination/originals/source.docx",
+          "original_name": "社会学的想象力_选书研究与分享方案.docx",
+          "bytes": 42542,
+          "sha256": "7b14fccb7c3da2f60ba820ea031a004f2d89d3078218ae31a8284090941460cb",
+          "byte_identical": true
+        }
+      ],
+      "assets": [],
+      "audit": {
+        "path": "reading/sociological-imagination",
+        "body_paragraphs": 65,
+        "body_text_nodes": 62,
+        "body_text_characters": 3280,
+        "text_nodes_preserved_in_order": true,
+        "tables": 0,
+        "table_rows": 0,
+        "table_cells": 0,
+        "embedded_image_occurrences": 0,
+        "media_files_preserved": 0,
+        "external_hyperlink_occurrences": 7,
+        "internal_hyperlink_occurrences": 0,
+        "all_internal_anchors_resolved": true,
+        "auxiliary_parts_with_text": []
+      }
+    },
+    {
+      "path": "reading/consumer-choice-article",
+      "title": "消费选择如何影响日常生活 文章版",
+      "archived_at": "2026-10-07",
+      "source_version": 0,
+      "status": "课程作业文章版；模拟访谈／虚构案例，非实际调查",
+      "summary": "基于模拟访谈的消费选择分析；完整保留虚构材料说明。",
+      "readableMarkdown": "reading/consumer-choice-article/readable.md",
+      "sources": "reading/consumer-choice-article/sources.md",
+      "originals": [
+        {
+          "path": "reading/consumer-choice-article/originals/source.docx",
+          "original_name": "消费选择如何影响日常生活_文章版.docx",
+          "bytes": 42473,
+          "sha256": "168be309e50211913a144d8f40e491067e844e2b4f88719812763986b6ba6340",
+          "byte_identical": true
+        }
+      ],
+      "assets": [],
+      "audit": {
+        "path": "reading/consumer-choice-article",
+        "body_paragraphs": 37,
+        "body_text_nodes": 34,
+        "body_text_characters": 3145,
+        "text_nodes_preserved_in_order": true,
+        "tables": 0,
+        "table_rows": 0,
+        "table_cells": 0,
+        "embedded_image_occurrences": 0,
+        "media_files_preserved": 0,
+        "external_hyperlink_occurrences": 0,
+        "internal_hyperlink_occurrences": 0,
+        "all_internal_anchors_resolved": true,
+        "auxiliary_parts_with_text": [
+          "word/footer1.xml"
+        ]
+      }
+    },
+    {
+      "path": "reading/consumer-behavior-coursework",
+      "title": "消费行为与消费决策分析 课程作业",
+      "archived_at": "2026-10-07",
+      "source_version": 0,
+      "status": "课程作业问答版；模拟访谈／虚构案例，非实际调查",
+      "summary": "店主模拟问答、六位虚构同学案例与比较表。",
+      "readableMarkdown": "reading/consumer-behavior-coursework/readable.md",
+      "sources": "reading/consumer-behavior-coursework/sources.md",
+      "originals": [
+        {
+          "path": "reading/consumer-behavior-coursework/originals/source.docx",
+          "original_name": "消费行为与消费决策分析_课程作业.docx",
+          "bytes": 46843,
+          "sha256": "ba46d2fcc19fd39339aee9ef3ef05919bfe0fbfbbf6f9fd72b829304c4018c4a",
+          "byte_identical": true
+        }
+      ],
+      "assets": [],
+      "audit": {
+        "path": "reading/consumer-behavior-coursework",
+        "body_paragraphs": 168,
+        "body_text_nodes": 171,
+        "body_text_characters": 5633,
+        "text_nodes_preserved_in_order": true,
+        "tables": 2,
+        "table_rows": 12,
+        "table_cells": 43,
+        "embedded_image_occurrences": 0,
+        "media_files_preserved": 0,
+        "external_hyperlink_occurrences": 0,
+        "internal_hyperlink_occurrences": 0,
+        "all_internal_anchors_resolved": true,
+        "auxiliary_parts_with_text": [
+          "word/footer1.xml"
+        ]
+      }
+    },
+    {
+      "path": "game-design/pcg-explorable-worlds",
+      "title": "让随机的世界值得探索",
+      "archived_at": "2026-10-07",
+      "source_version": 0,
+      "status": "持续写作稿；原创教学案例，非第三方整书",
+      "summary": "十二章程序化关卡生成入门书稿，保留全部教学图与参考链接。",
+      "readableMarkdown": "game-design/pcg-explorable-worlds/readable.md",
+      "sources": "game-design/pcg-explorable-worlds/sources.md",
+      "originals": [
+        {
+          "path": "game-design/pcg-explorable-worlds/originals/source.docx",
+          "original_name": "让随机的世界值得探索_修订版.docx",
+          "bytes": 757302,
+          "sha256": "b5d675bd6d311c96428e30f0fe7a9b28d212fa3a349bb665832dc1d3a7044b52",
+          "byte_identical": true
+        }
+      ],
+      "assets": [
+        "game-design/pcg-explorable-worlds/assets/image-01.png",
+        "game-design/pcg-explorable-worlds/assets/image-02.png",
+        "game-design/pcg-explorable-worlds/assets/image-03.png",
+        "game-design/pcg-explorable-worlds/assets/image-04.png",
+        "game-design/pcg-explorable-worlds/assets/image-05.png",
+        "game-design/pcg-explorable-worlds/assets/image-06.png",
+        "game-design/pcg-explorable-worlds/assets/image-07.png",
+        "game-design/pcg-explorable-worlds/assets/image-08.png",
+        "game-design/pcg-explorable-worlds/assets/image-09.png",
+        "game-design/pcg-explorable-worlds/assets/image-10.png",
+        "game-design/pcg-explorable-worlds/assets/image-11.png",
+        "game-design/pcg-explorable-worlds/assets/image-12.png"
+      ],
+      "audit": {
+        "path": "game-design/pcg-explorable-worlds",
+        "body_paragraphs": 582,
+        "body_text_nodes": 613,
+        "body_text_characters": 34518,
+        "text_nodes_preserved_in_order": true,
+        "tables": 0,
+        "table_rows": 0,
+        "table_cells": 0,
+        "embedded_image_occurrences": 12,
+        "media_files_preserved": 12,
+        "external_hyperlink_occurrences": 62,
+        "internal_hyperlink_occurrences": 19,
+        "all_internal_anchors_resolved": true,
+        "auxiliary_parts_with_text": []
+      }
+    },
+    {
+      "path": "research/overnight-explorations",
+      "title": "一夜探索笔记",
+      "archived_at": "2026-10-07",
+      "source_version": 1,
+      "status": "研究成稿；计算、文献结论与创作推断分开记录",
+      "summary": "从音色、几何和节奏到记忆、逆问题、路网与叙事的跨题探索。",
+      "readableMarkdown": "research/overnight-explorations/readable.md",
+      "sources": "research/overnight-explorations/sources.md",
+      "originals": [
+        {
+          "path": "research/overnight-explorations/originals/source.docx",
+          "original_name": "一夜探索笔记.docx",
+          "bytes": 1011233,
+          "sha256": "c58eaba3c75d8cb86eeef8763b0131fb8682f08a66a351463cf56f63561ccc7e",
+          "byte_identical": true
+        },
+        {
+          "path": "research/overnight-explorations/originals/source.pdf",
+          "original_name": "一夜探索笔记.pdf",
+          "bytes": 1576141,
+          "sha256": "afd44f56789e848aa22af2741223d2198da6154423187eefd9216c50a366144e",
+          "byte_identical": true
+        }
+      ],
+      "assets": [
+        "research/overnight-explorations/assets/image-01.png",
+        "research/overnight-explorations/assets/image-02.png",
+        "research/overnight-explorations/assets/image-03.png",
+        "research/overnight-explorations/assets/image-04.png",
+        "research/overnight-explorations/assets/image-05.png",
+        "research/overnight-explorations/assets/image-06.png",
+        "research/overnight-explorations/assets/image-07.png",
+        "research/overnight-explorations/assets/image-08.png",
+        "research/overnight-explorations/assets/image-09.png",
+        "research/overnight-explorations/assets/image-10.png",
+        "research/overnight-explorations/assets/image-11.png"
+      ],
+      "audit": {
+        "path": "research/overnight-explorations",
+        "body_paragraphs": 358,
+        "body_text_nodes": 362,
+        "body_text_characters": 26652,
+        "text_nodes_preserved_in_order": true,
+        "tables": 0,
+        "table_rows": 0,
+        "table_cells": 0,
+        "embedded_image_occurrences": 11,
+        "media_files_preserved": 11,
+        "external_hyperlink_occurrences": 83,
+        "internal_hyperlink_occurrences": 0,
+        "all_internal_anchors_resolved": true,
+        "auxiliary_parts_with_text": [],
+        "pdf_coverage": {
+          "pages": 29,
+          "per_page": [
+            {
+              "page": 1,
+              "normalized_characters": 811,
+              "text_12gram_coverage": 1.0,
+              "body_12gram_coverage": 1.0,
+              "running_header_footer_excluded_from_body_comparison": []
+            },
+            {
+              "page": 2,
+              "normalized_characters": 499,
+              "text_12gram_coverage": 1.0,
+              "body_12gram_coverage": 1.0,
+              "running_header_footer_excluded_from_body_comparison": []
+            },
+            {
+              "page": 3,
+              "normalized_characters": 809,
+              "text_12gram_coverage": 1.0,
+              "body_12gram_coverage": 1.0,
+              "running_header_footer_excluded_from_body_comparison": []
+            },
+            {
+              "page": 4,
+              "normalized_characters": 842,
+              "text_12gram_coverage": 1.0,
+              "body_12gram_coverage": 1.0,
+              "running_header_footer_excluded_from_body_comparison": []
+            },
+            {
+              "page": 5,
+              "normalized_characters": 660,
+              "text_12gram_coverage": 1.0,
+              "body_12gram_coverage": 1.0,
+              "running_header_footer_excluded_from_body_comparison": []
+            },
+            {
+              "page": 6,
+              "normalized_characters": 929,
+              "text_12gram_coverage": 1.0,
+              "body_12gram_coverage": 1.0,
+              "running_header_footer_excluded_from_body_comparison": []
+            },
+            {
+              "page": 7,
+              "normalized_characters": 365,
+              "text_12gram_coverage": 1.0,
+              "body_12gram_coverage": 1.0,
+              "running_header_footer_excluded_from_body_comparison": []
+            },
+            {
+              "page": 8,
+              "normalized_characters": 1064,
+              "text_12gram_coverage": 1.0,
+              "body_12gram_coverage": 1.0,
+              "running_header_footer_excluded_from_body_comparison": []
+            },
+            {
+              "page": 9,
+              "normalized_characters": 514,
+              "text_12gram_coverage": 1.0,
+              "body_12gram_coverage": 1.0,
+              "running_header_footer_excluded_from_body_comparison": []
+            },
+            {
+              "page": 10,
+              "normalized_characters": 490,
+              "text_12gram_coverage": 1.0,
+              "body_12gram_coverage": 1.0,
+              "running_header_footer_excluded_from_body_comparison": []
+            },
+            {
+              "page": 11,
+              "normalized_characters": 794,
+              "text_12gram_coverage": 1.0,
+              "body_12gram_coverage": 1.0,
+              "running_header_footer_excluded_from_body_comparison": []
+            },
+            {
+              "page": 12,
+              "normalized_characters": 590,
+              "text_12gram_coverage": 1.0,
+              "body_12gram_coverage": 1.0,
+              "running_header_footer_excluded_from_body_comparison": []
+            },
+            {
+              "page": 13,
+              "normalized_characters": 600,
+              "text_12gram_coverage": 1.0,
+              "body_12gram_coverage": 1.0,
+              "running_header_footer_excluded_from_body_comparison": []
+            },
+            {
+              "page": 14,
+              "normalized_characters": 434,
+              "text_12gram_coverage": 1.0,
+              "body_12gram_coverage": 1.0,
+              "running_header_footer_excluded_from_body_comparison": []
+            },
+            {
+              "page": 15,
+              "normalized_characters": 613,
+              "text_12gram_coverage": 1.0,
+              "body_12gram_coverage": 1.0,
+              "running_header_footer_excluded_from_body_comparison": []
+            },
+            {
+              "page": 16,
+              "normalized_characters": 584,
+              "text_12gram_coverage": 1.0,
+              "body_12gram_coverage": 1.0,
+              "running_header_footer_excluded_from_body_comparison": []
+            },
+            {
+              "page": 17,
+              "normalized_characters": 908,
+              "text_12gram_coverage": 1.0,
+              "body_12gram_coverage": 1.0,
+              "running_header_footer_excluded_from_body_comparison": []
+            },
+            {
+              "page": 18,
+              "normalized_characters": 838,
+              "text_12gram_coverage": 1.0,
+              "body_12gram_coverage": 1.0,
+              "running_header_footer_excluded_from_body_comparison": []
+            },
+            {
+              "page": 19,
+              "normalized_characters": 708,
+              "text_12gram_coverage": 1.0,
+              "body_12gram_coverage": 1.0,
+              "running_header_footer_excluded_from_body_comparison": []
+            },
+            {
+              "page": 20,
+              "normalized_characters": 893,
+              "text_12gram_coverage": 1.0,
+              "body_12gram_coverage": 1.0,
+              "running_header_footer_excluded_from_body_comparison": []
+            },
+            {
+              "page": 21,
+              "normalized_characters": 925,
+              "text_12gram_coverage": 1.0,
+              "body_12gram_coverage": 1.0,
+              "running_header_footer_excluded_from_body_comparison": []
+            },
+            {
+              "page": 22,
+              "normalized_characters": 858,
+              "text_12gram_coverage": 1.0,
+              "body_12gram_coverage": 1.0,
+              "running_header_footer_excluded_from_body_comparison": []
+            },
+            {
+              "page": 23,
+              "normalized_characters": 607,
+              "text_12gram_coverage": 1.0,
+              "body_12gram_coverage": 1.0,
+              "running_header_footer_excluded_from_body_comparison": []
+            },
+            {
+              "page": 24,
+              "normalized_characters": 965,
+              "text_12gram_coverage": 1.0,
+              "body_12gram_coverage": 1.0,
+              "running_header_footer_excluded_from_body_comparison": []
+            },
+            {
+              "page": 25,
+              "normalized_characters": 967,
+              "text_12gram_coverage": 1.0,
+              "body_12gram_coverage": 1.0,
+              "running_header_footer_excluded_from_body_comparison": []
+            },
+            {
+              "page": 26,
+              "normalized_characters": 1304,
+              "text_12gram_coverage": 1.0,
+              "body_12gram_coverage": 1.0,
+              "running_header_footer_excluded_from_body_comparison": []
+            },
+            {
+              "page": 27,
+              "normalized_characters": 1336,
+              "text_12gram_coverage": 1.0,
+              "body_12gram_coverage": 1.0,
+              "running_header_footer_excluded_from_body_comparison": []
+            },
+            {
+              "page": 28,
+              "normalized_characters": 1219,
+              "text_12gram_coverage": 1.0,
+              "body_12gram_coverage": 1.0,
+              "running_header_footer_excluded_from_body_comparison": []
+            },
+            {
+              "page": 29,
+              "normalized_characters": 1152,
+              "text_12gram_coverage": 1.0,
+              "body_12gram_coverage": 1.0,
+              "running_header_footer_excluded_from_body_comparison": []
+            }
+          ],
+          "method": "Every PDF page compared with complete extracted DOCX text using normalized 12-character windows. Pixel PDF body comparison excludes only the verified repeating header and date plus automatic page number, both preserved separately in the Markdown auxiliary section. All body windows are present in the DOCX text."
+        }
+      }
+    },
+    {
+      "path": "motion/static-mad-tutorial",
+      "title": "静止系 MAD 制作实用教程",
+      "archived_at": "2026-10-07",
+      "source_version": 0,
+      "status": "教程成稿；示例参数并非本次 AE 实测结果",
+      "summary": "从故事构思到第一支 24 秒短片的制作教程。",
+      "readableMarkdown": "motion/static-mad-tutorial/readable.md",
+      "sources": "motion/static-mad-tutorial/sources.md",
+      "originals": [
+        {
+          "path": "motion/static-mad-tutorial/originals/source.docx",
+          "original_name": "静止系MAD制作实用教程.docx",
+          "bytes": 104651,
+          "sha256": "c5c2ed6d396638bac16a65ae5b02327e3e0073d0b1b21bcceb34ba834afd130e",
+          "byte_identical": true
+        },
+        {
+          "path": "motion/static-mad-tutorial/originals/source.pdf",
+          "original_name": "静止系MAD制作实用教程.pdf",
+          "bytes": 579488,
+          "sha256": "e4faf89677b627b703f1ff3c625035c40de74432a928a39c25638c9782db2c57",
+          "byte_identical": true
+        }
+      ],
+      "assets": [
+        "motion/static-mad-tutorial/assets/image-01.png"
+      ],
+      "audit": {
+        "path": "motion/static-mad-tutorial",
+        "body_paragraphs": 298,
+        "body_text_nodes": 297,
+        "body_text_characters": 16264,
+        "text_nodes_preserved_in_order": true,
+        "tables": 0,
+        "table_rows": 0,
+        "table_cells": 0,
+        "embedded_image_occurrences": 1,
+        "media_files_preserved": 1,
+        "external_hyperlink_occurrences": 41,
+        "internal_hyperlink_occurrences": 0,
+        "all_internal_anchors_resolved": true,
+        "auxiliary_parts_with_text": [],
+        "pdf_coverage": {
+          "pages": 17,
+          "per_page": [
+            {
+              "page": 1,
+              "normalized_characters": 698,
+              "text_12gram_coverage": 1.0,
+              "body_12gram_coverage": 1.0,
+              "running_header_footer_excluded_from_body_comparison": []
+            },
+            {
+              "page": 2,
+              "normalized_characters": 870,
+              "text_12gram_coverage": 1.0,
+              "body_12gram_coverage": 1.0,
+              "running_header_footer_excluded_from_body_comparison": []
+            },
+            {
+              "page": 3,
+              "normalized_characters": 756,
+              "text_12gram_coverage": 1.0,
+              "body_12gram_coverage": 1.0,
+              "running_header_footer_excluded_from_body_comparison": []
+            },
+            {
+              "page": 4,
+              "normalized_characters": 889,
+              "text_12gram_coverage": 1.0,
+              "body_12gram_coverage": 1.0,
+              "running_header_footer_excluded_from_body_comparison": []
+            },
+            {
+              "page": 5,
+              "normalized_characters": 943,
+              "text_12gram_coverage": 1.0,
+              "body_12gram_coverage": 1.0,
+              "running_header_footer_excluded_from_body_comparison": []
+            },
+            {
+              "page": 6,
+              "normalized_characters": 871,
+              "text_12gram_coverage": 1.0,
+              "body_12gram_coverage": 1.0,
+              "running_header_footer_excluded_from_body_comparison": []
+            },
+            {
+              "page": 7,
+              "normalized_characters": 868,
+              "text_12gram_coverage": 1.0,
+              "body_12gram_coverage": 1.0,
+              "running_header_footer_excluded_from_body_comparison": []
+            },
+            {
+              "page": 8,
+              "normalized_characters": 919,
+              "text_12gram_coverage": 1.0,
+              "body_12gram_coverage": 1.0,
+              "running_header_footer_excluded_from_body_comparison": []
+            },
+            {
+              "page": 9,
+              "normalized_characters": 585,
+              "text_12gram_coverage": 1.0,
+              "body_12gram_coverage": 1.0,
+              "running_header_footer_excluded_from_body_comparison": []
+            },
+            {
+              "page": 10,
+              "normalized_characters": 980,
+              "text_12gram_coverage": 1.0,
+              "body_12gram_coverage": 1.0,
+              "running_header_footer_excluded_from_body_comparison": []
+            },
+            {
+              "page": 11,
+              "normalized_characters": 802,
+              "text_12gram_coverage": 1.0,
+              "body_12gram_coverage": 1.0,
+              "running_header_footer_excluded_from_body_comparison": []
+            },
+            {
+              "page": 12,
+              "normalized_characters": 688,
+              "text_12gram_coverage": 1.0,
+              "body_12gram_coverage": 1.0,
+              "running_header_footer_excluded_from_body_comparison": []
+            },
+            {
+              "page": 13,
+              "normalized_characters": 669,
+              "text_12gram_coverage": 1.0,
+              "body_12gram_coverage": 1.0,
+              "running_header_footer_excluded_from_body_comparison": []
+            },
+            {
+              "page": 14,
+              "normalized_characters": 891,
+              "text_12gram_coverage": 1.0,
+              "body_12gram_coverage": 1.0,
+              "running_header_footer_excluded_from_body_comparison": []
+            },
+            {
+              "page": 15,
+              "normalized_characters": 930,
+              "text_12gram_coverage": 1.0,
+              "body_12gram_coverage": 1.0,
+              "running_header_footer_excluded_from_body_comparison": []
+            },
+            {
+              "page": 16,
+              "normalized_characters": 751,
+              "text_12gram_coverage": 1.0,
+              "body_12gram_coverage": 1.0,
+              "running_header_footer_excluded_from_body_comparison": []
+            },
+            {
+              "page": 17,
+              "normalized_characters": 944,
+              "text_12gram_coverage": 1.0,
+              "body_12gram_coverage": 1.0,
+              "running_header_footer_excluded_from_body_comparison": []
+            }
+          ],
+          "method": "Every PDF page compared with complete extracted DOCX text using normalized 12-character windows. Pixel PDF body comparison excludes only the verified repeating header and date plus automatic page number, both preserved separately in the Markdown auxiliary section. All body windows are present in the DOCX text."
+        }
+      }
+    },
+    {
+      "path": "portfolio/sonnet-works",
+      "title": "十四行作品档案 私有第一版",
+      "archived_at": "2026-10-07",
+      "source_version": 1,
+      "status": "私有作品档案第一版；所列版本以文中 commit 为准",
+      "summary": "三款网页游戏与 AI 辅助器乐作品集的入口、分工和版本记录。",
+      "readableMarkdown": "portfolio/sonnet-works/readable.md",
+      "sources": "portfolio/sonnet-works/sources.md",
+      "originals": [
+        {
+          "path": "portfolio/sonnet-works/originals/source.docx",
+          "original_name": "十四行作品档案_私有第一版.docx",
+          "bytes": 154678,
+          "sha256": "2bee2fe93d601a4040e4769cf0ac887a52dfcf0113d77a82aea3d0f59a872264",
+          "byte_identical": true
+        },
+        {
+          "path": "portfolio/sonnet-works/originals/source.pdf",
+          "original_name": "十四行作品档案_私有第一版.pdf",
+          "bytes": 414507,
+          "sha256": "656f32d36d03b58039d678051afb70a842533d8cd79645e0fde6bda6559c8ad5",
+          "byte_identical": true
+        }
+      ],
+      "assets": [
+        "portfolio/sonnet-works/assets/image-01.jpg",
+        "portfolio/sonnet-works/assets/image-02.jpg",
+        "portfolio/sonnet-works/assets/image-03.jpg"
+      ],
+      "audit": {
+        "path": "portfolio/sonnet-works",
+        "body_paragraphs": 96,
+        "body_text_nodes": 107,
+        "body_text_characters": 2959,
+        "text_nodes_preserved_in_order": true,
+        "tables": 0,
+        "table_rows": 0,
+        "table_cells": 0,
+        "embedded_image_occurrences": 3,
+        "media_files_preserved": 3,
+        "external_hyperlink_occurrences": 21,
+        "internal_hyperlink_occurrences": 0,
+        "all_internal_anchors_resolved": true,
+        "auxiliary_parts_with_text": [],
+        "pdf_coverage": {
+          "pages": 6,
+          "per_page": [
+            {
+              "page": 1,
+              "normalized_characters": 413,
+              "text_12gram_coverage": 1.0,
+              "body_12gram_coverage": 1.0,
+              "running_header_footer_excluded_from_body_comparison": []
+            },
+            {
+              "page": 2,
+              "normalized_characters": 509,
+              "text_12gram_coverage": 1.0,
+              "body_12gram_coverage": 1.0,
+              "running_header_footer_excluded_from_body_comparison": []
+            },
+            {
+              "page": 3,
+              "normalized_characters": 344,
+              "text_12gram_coverage": 1.0,
+              "body_12gram_coverage": 1.0,
+              "running_header_footer_excluded_from_body_comparison": []
+            },
+            {
+              "page": 4,
+              "normalized_characters": 358,
+              "text_12gram_coverage": 1.0,
+              "body_12gram_coverage": 1.0,
+              "running_header_footer_excluded_from_body_comparison": []
+            },
+            {
+              "page": 5,
+              "normalized_characters": 395,
+              "text_12gram_coverage": 1.0,
+              "body_12gram_coverage": 1.0,
+              "running_header_footer_excluded_from_body_comparison": []
+            },
+            {
+              "page": 6,
+              "normalized_characters": 571,
+              "text_12gram_coverage": 1.0,
+              "body_12gram_coverage": 1.0,
+              "running_header_footer_excluded_from_body_comparison": []
+            }
+          ],
+          "method": "Every PDF page compared with complete extracted DOCX text using normalized 12-character windows. Pixel PDF body comparison excludes only the verified repeating header and date plus automatic page number, both preserved separately in the Markdown auxiliary section. All body windows are present in the DOCX text."
+        }
+      }
+    },
+    {
+      "path": "motion/takopi-mad-historical-plan",
+      "title": "章鱼噼的原罪 MAD 项目计划",
+      "archived_at": "2026-10-07",
+      "source_version": 1,
+      "status": "已停止；仅保留历史构想，不作为当前制作安排",
+      "summary": "叙事型静止系 MAD 的历史项目计划与待核对项。",
+      "readableMarkdown": "motion/takopi-mad-historical-plan/readable.md",
+      "sources": "motion/takopi-mad-historical-plan/sources.md",
+      "originals": [
+        {
+          "path": "motion/takopi-mad-historical-plan/originals/source.docx",
+          "original_name": "章鱼噼的原罪MAD项目计划.docx",
+          "bytes": 40802,
+          "sha256": "0ee1ab05f3f4ad5a825dc53a4a971709ac8438fb509650b0502ebaff4418ab63",
+          "byte_identical": true
+        }
+      ],
+      "assets": [],
+      "audit": {
+        "path": "motion/takopi-mad-historical-plan",
+        "body_paragraphs": 51,
+        "body_text_nodes": 61,
+        "body_text_characters": 2031,
+        "text_nodes_preserved_in_order": true,
+        "tables": 0,
+        "table_rows": 0,
+        "table_cells": 0,
+        "embedded_image_occurrences": 0,
+        "media_files_preserved": 0,
+        "external_hyperlink_occurrences": 8,
+        "internal_hyperlink_occurrences": 0,
+        "all_internal_anchors_resolved": true,
+        "auxiliary_parts_with_text": []
+      }
+    },
+    {
+      "path": "game-art/tidal-post",
+      "title": "潮汐邮局体素作品项目资料",
+      "archived_at": "2026-10-07",
+      "source_version": 2,
+      "status": "该轮作品已交付并接受；项目资料记录",
+      "summary": "The Tidal Post 场景构图、交付范围、验证结果与限制。",
+      "readableMarkdown": "game-art/tidal-post/readable.md",
+      "sources": "game-art/tidal-post/sources.md",
+      "originals": [
+        {
+          "path": "game-art/tidal-post/originals/source.docx",
+          "original_name": "潮汐邮局体素作品项目资料.docx",
+          "bytes": 39208,
+          "sha256": "8e20a67dd0ce2b6900c71de426fa811fde1fdab7b99a1e7f06b80063c73f0103",
+          "byte_identical": true
+        }
+      ],
+      "assets": [],
+      "audit": {
+        "path": "game-art/tidal-post",
+        "body_paragraphs": 15,
+        "body_text_nodes": 20,
+        "body_text_characters": 738,
+        "text_nodes_preserved_in_order": true,
+        "tables": 0,
+        "table_rows": 0,
+        "table_cells": 0,
+        "embedded_image_occurrences": 0,
+        "media_files_preserved": 0,
+        "external_hyperlink_occurrences": 4,
+        "internal_hyperlink_occurrences": 0,
+        "all_internal_anchors_resolved": true,
+        "auxiliary_parts_with_text": [
+          "word/footer1.xml"
+        ]
+      }
+    },
+    {
+      "path": "motion/zhongsheng-pv-historical-record",
+      "title": "众生行记 PV 复刻项目资料",
+      "archived_at": "2026-10-07",
+      "source_version": 4,
+      "status": "历史记录；状态仅截至 2026-10-05 22:13 UTC+8，不代表当前进度",
+      "summary": "三维复刻的历史要求、源资料、头部相似度问题与停止状态。",
+      "readableMarkdown": "motion/zhongsheng-pv-historical-record/readable.md",
+      "sources": "motion/zhongsheng-pv-historical-record/sources.md",
+      "originals": [
+        {
+          "path": "motion/zhongsheng-pv-historical-record/originals/source.docx",
+          "original_name": "众生行记 PV 复刻项目资料.docx",
+          "bytes": 42352,
+          "sha256": "5ae80f14607d0f1abe3ab01d3308af8375b7f4658e38bc48a58ec6085e353b2f",
+          "byte_identical": true
+        }
+      ],
+      "assets": [],
+      "audit": {
+        "path": "motion/zhongsheng-pv-historical-record",
+        "body_paragraphs": 45,
+        "body_text_nodes": 68,
+        "body_text_characters": 2527,
+        "text_nodes_preserved_in_order": true,
+        "tables": 0,
+        "table_rows": 0,
+        "table_cells": 0,
+        "embedded_image_occurrences": 0,
+        "media_files_preserved": 0,
+        "external_hyperlink_occurrences": 10,
+        "internal_hyperlink_occurrences": 0,
+        "all_internal_anchors_resolved": true,
+        "auxiliary_parts_with_text": [
+          "word/footer1.xml"
+        ]
+      }
+    },
+    {
+      "path": "fiction/tomie-retreating-tide",
+      "title": "富江 退潮之城",
+      "archived_at": "2026-10-07",
+      "source_version": 2,
+      "status": "原创同人中篇私人阅读稿；非伊藤润二原作全文",
+      "summary": "十五章同人小说修订稿，保留阅读说明、目录和章节跳转。",
+      "readableMarkdown": "fiction/tomie-retreating-tide/readable.md",
+      "sources": "fiction/tomie-retreating-tide/sources.md",
+      "originals": [
+        {
+          "path": "fiction/tomie-retreating-tide/originals/source.docx",
+          "original_name": "富江_退潮之城_完整初稿.docx",
+          "bytes": 75673,
+          "sha256": "be12937c4e2421d8233d29ca010197f02032e8b542e6439b9a11a93b8e27cf36",
+          "byte_identical": true
+        }
+      ],
+      "assets": [],
+      "audit": {
+        "path": "fiction/tomie-retreating-tide",
+        "body_paragraphs": 871,
+        "body_text_nodes": 871,
+        "body_text_characters": 24394,
+        "text_nodes_preserved_in_order": true,
+        "tables": 0,
+        "table_rows": 0,
+        "table_cells": 0,
+        "embedded_image_occurrences": 0,
+        "media_files_preserved": 0,
+        "external_hyperlink_occurrences": 1,
+        "internal_hyperlink_occurrences": 15,
+        "all_internal_anchors_resolved": true,
+        "auxiliary_parts_with_text": [
+          "word/header1.xml",
+          "word/footer1.xml"
+        ]
+      }
+    },
+    {
+      "path": "game-art/pixel-scene-water-weather",
+      "title": "像素场景中的水面 雨雪与夜空",
+      "archived_at": "2026-10-07",
+      "source_version": null,
+      "status": "2026-10-07 成稿，9 页；水位、雪天、夜空基于用户完整转录",
+      "summary": "Mushreb 视频研究与雨后灯港制作参考；雨天、旋转、ECS 仅标题／简介，雪天独立 BV 未核实。",
+      "readableMarkdown": "game-art/pixel-scene-water-weather/readable.md",
+      "sources": "game-art/pixel-scene-water-weather/sources.md",
+      "originals": [
+        {
+          "path": "game-art/pixel-scene-water-weather/originals/source.docx",
+          "original_name": "像素场景制作参考.docx",
+          "bytes": 51624,
+          "sha256": "a82288ff7658c62bb44efc7e488191a399152cb651a6842f0afa655d6563a41b",
+          "byte_identical": true
+        },
+        {
+          "path": "game-art/pixel-scene-water-weather/originals/source.pdf",
+          "original_name": "像素场景制作参考.pdf",
+          "bytes": 680468,
+          "sha256": "f3ab6036ae9060214eee5f24b189236a99fc4bb23783cadbb3d35182d647e4b9",
+          "byte_identical": true
+        },
+        {
+          "path": "game-art/pixel-scene-water-weather/originals/source.md",
+          "original_name": "像素场景制作参考.md",
+          "bytes": 22655,
+          "sha256": "8e6167ada5f7c3cf4901d8d114acb2d2867f145efd533c1cdd11face0f7102ce",
+          "byte_identical": true
+        }
+      ],
+      "assets": [],
+      "audit": {
+        "path": "game-art/pixel-scene-water-weather",
+        "body_paragraphs": 208,
+        "body_text_nodes": 204,
+        "body_text_characters": 8670,
+        "text_nodes_preserved_in_order": true,
+        "tables": 4,
+        "table_rows": 28,
+        "table_cells": 84,
+        "embedded_image_occurrences": 0,
+        "media_files_preserved": 0,
+        "external_hyperlink_occurrences": 10,
+        "internal_hyperlink_occurrences": 0,
+        "all_internal_anchors_resolved": true,
+        "auxiliary_parts_with_text": [
+          "word/header1.xml",
+          "word/footer1.xml"
+        ],
+        "pdf_coverage": {
+          "pages": 9,
+          "per_page": [
+            {
+              "page": 1,
+              "normalized_characters": 695,
+              "text_12gram_coverage": 0.982456,
+              "body_12gram_coverage": 1.0,
+              "running_header_footer_excluded_from_body_comparison": [
+                "Mushreb 视频研究  /  像素场景制作参考",
+                "2026 年 10 月 7 日    ·    1"
+              ]
+            },
+            {
+              "page": 2,
+              "normalized_characters": 754,
+              "text_12gram_coverage": 0.983849,
+              "body_12gram_coverage": 1.0,
+              "running_header_footer_excluded_from_body_comparison": [
+                "Mushreb 视频研究  /  像素场景制作参考",
+                "2026 年 10 月 7 日    ·    2"
+              ]
+            },
+            {
+              "page": 3,
+              "normalized_characters": 875,
+              "text_12gram_coverage": 0.986111,
+              "body_12gram_coverage": 1.0,
+              "running_header_footer_excluded_from_body_comparison": [
+                "Mushreb 视频研究  /  像素场景制作参考",
+                "2026 年 10 月 7 日    ·    3"
+              ]
+            },
+            {
+              "page": 4,
+              "normalized_characters": 881,
+              "text_12gram_coverage": 0.986207,
+              "body_12gram_coverage": 1.0,
+              "running_header_footer_excluded_from_body_comparison": [
+                "Mushreb 视频研究  /  像素场景制作参考",
+                "2026 年 10 月 7 日    ·    4"
+              ]
+            },
+            {
+              "page": 5,
+              "normalized_characters": 768,
+              "text_12gram_coverage": 0.984148,
+              "body_12gram_coverage": 1.0,
+              "running_header_footer_excluded_from_body_comparison": [
+                "Mushreb 视频研究  /  像素场景制作参考",
+                "2026 年 10 月 7 日    ·    5"
+              ]
+            },
+            {
+              "page": 6,
+              "normalized_characters": 871,
+              "text_12gram_coverage": 0.986047,
+              "body_12gram_coverage": 1.0,
+              "running_header_footer_excluded_from_body_comparison": [
+                "Mushreb 视频研究  /  像素场景制作参考",
+                "2026 年 10 月 7 日    ·    6"
+              ]
+            },
+            {
+              "page": 7,
+              "normalized_characters": 891,
+              "text_12gram_coverage": 0.986364,
+              "body_12gram_coverage": 1.0,
+              "running_header_footer_excluded_from_body_comparison": [
+                "Mushreb 视频研究  /  像素场景制作参考",
+                "2026 年 10 月 7 日    ·    7"
+              ]
+            },
+            {
+              "page": 8,
+              "normalized_characters": 857,
+              "text_12gram_coverage": 0.985816,
+              "body_12gram_coverage": 1.0,
+              "running_header_footer_excluded_from_body_comparison": [
+                "Mushreb 视频研究  /  像素场景制作参考",
+                "2026 年 10 月 7 日    ·    8"
+              ]
+            },
+            {
+              "page": 9,
+              "normalized_characters": 1291,
+              "text_12gram_coverage": 0.990625,
+              "body_12gram_coverage": 1.0,
+              "running_header_footer_excluded_from_body_comparison": [
+                "Mushreb 视频研究  /  像素场景制作参考",
+                "2026 年 10 月 7 日    ·    9"
+              ]
+            }
+          ],
+          "method": "Every PDF page compared with complete extracted DOCX text using normalized 12-character windows. Pixel PDF body comparison excludes only the verified repeating header and date plus automatic page number, both preserved separately in the Markdown auxiliary section. All body windows are present in the DOCX text."
+        }
+      }
+    },
+    {
+      "path": "design/graphic-reading-judgment",
+      "title": "平面设计中的阅读与判断",
+      "archived_at": "2026-10-07",
+      "source_version": 1,
+      "status": "第一版研究成稿；原创虚构教学案例，非观众实验",
+      "pages": 15,
+      "sources_opened": 14,
+      "original_diagrams": 6,
+      "readableMarkdown": "design/graphic-reading-judgment/平面设计研究.md"
+    }
+  ]
+}
