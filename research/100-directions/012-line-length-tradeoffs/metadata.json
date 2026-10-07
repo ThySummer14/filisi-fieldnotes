@@ -1,0 +1,50 @@
+{
+  "id": "012",
+  "title": "一行到底该放多少字",
+  "description": "行长数字、回扫眼动与可访问性要求解决的是不同问题；中文实验也显示局部改善未必缩短总阅读时间。",
+  "topic": "版式与阅读",
+  "tags": [
+    "行长",
+    "行距",
+    "回扫眼动",
+    "可访问性"
+  ],
+  "language": "zh-CN",
+  "sources": [
+    {
+      "id": 1,
+      "title": "Understanding SC 1.4.8: Visual Presentation",
+      "url": "https://www.w3.org/WAI/WCAG22/Understanding/visual-presentation.html",
+      "type": "official_standard_explanation",
+      "accessed": "2026-10-07"
+    },
+    {
+      "id": 2,
+      "title": "The influence of reading speed and line length on the effectiveness of reading from screen",
+      "url": "https://www.sciencedirect.com/science/article/pii/S1071581901904586",
+      "type": "primary_research",
+      "accessed": "2026-10-07"
+    },
+    {
+      "id": 3,
+      "title": "How physical text layout affects reading from screen",
+      "url": "https://stu.westga.edu/~ssynan1/literacy/Dyson.pdf",
+      "type": "peer_reviewed_review",
+      "accessed": "2026-10-07"
+    },
+    {
+      "id": 4,
+      "title": "An eye-movement exploration into return-sweep targeting during reading",
+      "url": "https://link.springer.com/article/10.3758/s13414-019-01742-3",
+      "type": "primary_research",
+      "accessed": "2026-10-07"
+    },
+    {
+      "id": 5,
+      "title": "Column setting and text justification influence return-sweep eye movement behavior during Chinese multi-line reading",
+      "url": "https://d-nb.info/1338546015/34",
+      "type": "primary_research",
+      "accessed": "2026-10-07"
+    }
+  ]
+}

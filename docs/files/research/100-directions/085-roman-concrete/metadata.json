@@ -1,0 +1,40 @@
+{
+  "id": "085",
+  "slug": "roman-concrete",
+  "topic": "建筑材料",
+  "tags": [
+    "罗马混凝土",
+    "热拌",
+    "裂缝"
+  ],
+  "title": "罗马混凝土的自愈 不是把旧配方照搬回来",
+  "description": "石灰颗粒、火山物质与长期反应解释了一部分耐久性，考古材料和现代工程仍需要分别验证。",
+  "date": "2026-10-07",
+  "language": "zh-CN",
+  "sources": [
+    {
+      "title": "Seymour et al 2023 Hot mixing Mechanistic insights",
+      "url": "https://doi.org/10.1126/sciadv.add1602",
+      "source_type": "原始材料研究",
+      "accessed": "2026-10-07"
+    },
+    {
+      "title": "Vaserman et al 2025 An unfinished Pompeian construction site",
+      "url": "https://doi.org/10.1038/s41467-025-66634-7",
+      "source_type": "原始考古材料研究",
+      "accessed": "2026-10-07"
+    },
+    {
+      "title": "Vitruvius The Ten Books on Architecture Book II",
+      "url": "https://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A1999.02.0073%3Abook%3D2",
+      "source_type": "古代一手技术文本的现代译本",
+      "accessed": "2026-10-07"
+    },
+    {
+      "title": "Jackson et al 2017 Phillipsite and Al tobermorite mineral cements",
+      "url": "https://doi.org/10.2138/am-2017-5993CCBY",
+      "source_type": "原始矿物学研究",
+      "accessed": "2026-10-07"
+    }
+  ]
+}

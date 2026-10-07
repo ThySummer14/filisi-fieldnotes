@@ -1,6 +1,6 @@
 # 100个研究方向
 
-已收录 42 / 100 篇新研究。原有16篇专题研究与书稿不计入这个目标。编号是方向索引，不表示中间编号已经完成。
+已收录 48 / 100 篇新研究。原有16篇专题研究与书稿不计入这个目标。编号是方向索引，不表示中间编号已经完成。
 
 - 001 [同一条裙子，两套照明](../research/100-directions/001-dress-color-constancy/readable.md) · 视觉与色彩
 - 002 [余光中的字，为什么越挤越认不出](../research/100-directions/002-peripheral-crowding/readable.md) · 视觉与版式
@@ -11,6 +11,9 @@
 - 007 [切分音的甜点区没有固定刻度](../research/100-directions/007-syncopation-groove/readable.md) · 节奏与审美
 - 008 [听见空旷，未必听见了平方米](../research/100-directions/008-hearing-room-size/readable.md) · 空间听觉
 - 009 [分贝更低，为什么未必更安静](../research/100-directions/009-soundscape-beyond-decibels/readable.md) · 声景与环境知觉
+- 010 [没响的那一下，仍然发生了什么](../research/100-directions/010-perceiving-silence/readable.md) · 时间知觉
+- 011 [最喜欢的字体，未必读得最快](../research/100-directions/011-font-preference-speed/readable.md) · 字体与阅读
+- 012 [一行到底该放多少字](../research/100-directions/012-line-length-tradeoffs/readable.md) · 版式与阅读
 - 035 [0.1加0.2之后 系统究竟答应了什么](../research/100-directions/035-floating-point-contract/readable.md) · 数值计算
 - 036 [删除键眼里的一个字](../research/100-directions/036-unicode-cursor/readable.md) · 文本系统
 - 037 [明天中午和二十四小时后是两个任务](../research/100-directions/037-time-is-not-duration/readable.md) · 时间建模
@@ -44,3 +47,6 @@
 - 080 [暗渠打开以后 河流并不会自动回到从前](../research/100-directions/080-daylighting-streams/readable.md) · 城市河流
 - 081 [把冬天装船 天然冰贸易的保存术](../research/100-directions/081-ice-trade/readable.md) · 技术史
 - 082 [集装箱改变世界 靠的不只是一只铁盒](../research/100-directions/082-shipping-container/readable.md) · 技术史
+- 083 [铅笔留下的黑线 是一层可搬走的材料](../research/100-directions/083-pencil-graphite/readable.md) · 材料文化
+- 084 [不锈钢会生锈 是哪一层出了问题](../research/100-directions/084-stainless-corrosion/readable.md) · 材料科学
+- 085 [罗马混凝土的自愈 不是把旧配方照搬回来](../research/100-directions/085-roman-concrete/readable.md) · 建筑材料

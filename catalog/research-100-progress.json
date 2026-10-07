@@ -1,6 +1,6 @@
 {
   "target": 100,
-  "completed_count": 42,
+  "completed_count": 48,
   "existing_library_excluded": 16,
   "completed": [
     {
@@ -56,6 +56,24 @@
       "title": "分贝更低，为什么未必更安静",
       "topic": "声景与环境知觉",
       "path": "research/100-directions/009-soundscape-beyond-decibels"
+    },
+    {
+      "number": "010",
+      "title": "没响的那一下，仍然发生了什么",
+      "topic": "时间知觉",
+      "path": "research/100-directions/010-perceiving-silence"
+    },
+    {
+      "number": "011",
+      "title": "最喜欢的字体，未必读得最快",
+      "topic": "字体与阅读",
+      "path": "research/100-directions/011-font-preference-speed"
+    },
+    {
+      "number": "012",
+      "title": "一行到底该放多少字",
+      "topic": "版式与阅读",
+      "path": "research/100-directions/012-line-length-tradeoffs"
     },
     {
       "number": "035",
@@ -254,6 +272,24 @@
       "title": "集装箱改变世界 靠的不只是一只铁盒",
       "topic": "技术史",
       "path": "research/100-directions/082-shipping-container"
+    },
+    {
+      "number": "083",
+      "title": "铅笔留下的黑线 是一层可搬走的材料",
+      "topic": "材料文化",
+      "path": "research/100-directions/083-pencil-graphite"
+    },
+    {
+      "number": "084",
+      "title": "不锈钢会生锈 是哪一层出了问题",
+      "topic": "材料科学",
+      "path": "research/100-directions/084-stainless-corrosion"
+    },
+    {
+      "number": "085",
+      "title": "罗马混凝土的自愈 不是把旧配方照搬回来",
+      "topic": "建筑材料",
+      "path": "research/100-directions/085-roman-concrete"
     }
   ]
 }

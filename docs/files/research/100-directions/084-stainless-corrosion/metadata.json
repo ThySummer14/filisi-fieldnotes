@@ -1,0 +1,40 @@
+{
+  "id": "084",
+  "slug": "stainless-corrosion",
+  "topic": "材料科学",
+  "tags": [
+    "钝化",
+    "腐蚀",
+    "铬"
+  ],
+  "title": "不锈钢会生锈 是哪一层出了问题",
+  "description": "钝化膜会再生，也会在特定环境里失效。棕色污点、点蚀和材料牌号，不能靠一块磁铁就一起判定。",
+  "date": "2026-10-07",
+  "language": "zh-CN",
+  "sources": [
+    {
+      "title": "worldstainless Corrosion properties",
+      "url": "https://worldstainless.org/about-stainless/properties/corrosion-properties/",
+      "source_type": "行业技术说明",
+      "accessed": "2026-10-07"
+    },
+    {
+      "title": "BSSA Iron contamination and rust staining",
+      "url": "https://bssa.org.uk/bssa_articles/iron-contamination-and-rust-staining-on-stainless-steel/",
+      "source_type": "行业技术资料",
+      "accessed": "2026-10-07"
+    },
+    {
+      "title": "Hesketh et al 2022 Influence of H2S on localised corrosion of 316L",
+      "url": "https://www.nist.gov/publications/influence-h2s-localised-corrosion-316l-stainless-steel-part-1-coupon-testing",
+      "source_type": "原始实验机构记录",
+      "accessed": "2026-10-07"
+    },
+    {
+      "title": "worldstainless Categories grades and product forms",
+      "url": "https://worldstainless.org/about-stainless/what-are-stainless-steels/categories-grades-and-product-forms/",
+      "source_type": "行业材料分类",
+      "accessed": "2026-10-07"
+    }
+  ]
+}

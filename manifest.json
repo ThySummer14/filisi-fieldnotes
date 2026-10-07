@@ -1,12 +1,12 @@
 {
   "archive_date": "2026-10-07",
-  "item_count": 58,
-  "original_file_count": 66,
+  "item_count": 64,
+  "original_file_count": 72,
   "original_docx_count": 14,
   "original_pdf_count": 6,
-  "original_markdown_count": 46,
+  "original_markdown_count": 52,
   "image_count": 33,
-  "readable_markdown_count": 58,
+  "readable_markdown_count": 64,
   "items": [
     {
       "path": "reading/sociological-imagination",
@@ -2400,6 +2400,189 @@
         "集装箱",
         "标准",
         "港口"
+      ]
+    },
+    {
+      "path": "research/100-directions/010-perceiving-silence",
+      "title": "没响的那一下，仍然发生了什么",
+      "archived_at": "2026-10-07",
+      "source_version": 1,
+      "status": "原创专题研究；例子、原始研究与方法边界见正文",
+      "summary": "静默时间错觉与声音遗漏反应，分别为听觉事件和预测提供了什么证据。",
+      "readableMarkdown": "research/100-directions/010-perceiving-silence/readable.md",
+      "sources": "research/100-directions/010-perceiving-silence/sources.md",
+      "assets": [
+        "research/100-directions/010-perceiving-silence/metadata.json"
+      ],
+      "originals": [
+        {
+          "path": "research/100-directions/010-perceiving-silence/readable.md",
+          "original_name": "没响的那一下，仍然发生了什么.md",
+          "bytes": 6363,
+          "sha256": "ab286daf056e2a174c39fb5e25c20713639ced5372302787f72cfa28b99dc476",
+          "byte_identical": true
+        }
+      ],
+      "series": "research-100-20261007",
+      "series_number": "010",
+      "topic": "时间知觉",
+      "tags": [
+        "静默",
+        "遗漏反应",
+        "听觉预测",
+        "休止"
+      ]
+    },
+    {
+      "path": "research/100-directions/011-font-preference-speed",
+      "title": "最喜欢的字体，未必读得最快",
+      "archived_at": "2026-10-07",
+      "source_version": 1,
+      "status": "原创专题研究；例子、原始研究与方法边界见正文",
+      "summary": "拆开个人最快字体的35%差值、名义字号与实际字身，以及喜欢和表现的错位。",
+      "readableMarkdown": "research/100-directions/011-font-preference-speed/readable.md",
+      "sources": "research/100-directions/011-font-preference-speed/sources.md",
+      "assets": [
+        "research/100-directions/011-font-preference-speed/metadata.json"
+      ],
+      "originals": [
+        {
+          "path": "research/100-directions/011-font-preference-speed/readable.md",
+          "original_name": "最喜欢的字体，未必读得最快.md",
+          "bytes": 6683,
+          "sha256": "c9d2f26e337bcb546ac01715efb6823f71cc27c02cc2dd2982f869cb951590a7",
+          "byte_identical": true
+        }
+      ],
+      "series": "research-100-20261007",
+      "series_number": "011",
+      "topic": "字体与阅读",
+      "tags": [
+        "字体",
+        "阅读速度",
+        "偏好",
+        "实验设计"
+      ]
+    },
+    {
+      "path": "research/100-directions/012-line-length-tradeoffs",
+      "title": "一行到底该放多少字",
+      "archived_at": "2026-10-07",
+      "source_version": 1,
+      "status": "原创专题研究；例子、原始研究与方法边界见正文",
+      "summary": "行长数字、回扫眼动与可访问性要求解决的是不同问题；中文实验也显示局部改善未必缩短总阅读时间。",
+      "readableMarkdown": "research/100-directions/012-line-length-tradeoffs/readable.md",
+      "sources": "research/100-directions/012-line-length-tradeoffs/sources.md",
+      "assets": [
+        "research/100-directions/012-line-length-tradeoffs/metadata.json"
+      ],
+      "originals": [
+        {
+          "path": "research/100-directions/012-line-length-tradeoffs/readable.md",
+          "original_name": "一行到底该放多少字.md",
+          "bytes": 6694,
+          "sha256": "9b14ba6c17b1f3a74ca400be35ed562e5824feae03fc8b8a8446c4266a0dfad3",
+          "byte_identical": true
+        }
+      ],
+      "series": "research-100-20261007",
+      "series_number": "012",
+      "topic": "版式与阅读",
+      "tags": [
+        "行长",
+        "行距",
+        "回扫眼动",
+        "可访问性"
+      ]
+    },
+    {
+      "path": "research/100-directions/083-pencil-graphite",
+      "title": "铅笔留下的黑线 是一层可搬走的材料",
+      "archived_at": "2026-10-07",
+      "source_version": 1,
+      "status": "原创专题研究；例子、原始研究与方法边界见正文",
+      "summary": "石墨、黏土、纸面与橡皮共同决定一条线的深浅和可擦性，硬度字母并不能替代全部使用条件。",
+      "readableMarkdown": "research/100-directions/083-pencil-graphite/readable.md",
+      "sources": "research/100-directions/083-pencil-graphite/sources.md",
+      "assets": [
+        "research/100-directions/083-pencil-graphite/metadata.json"
+      ],
+      "originals": [
+        {
+          "path": "research/100-directions/083-pencil-graphite/readable.md",
+          "original_name": "铅笔留下的黑线 是一层可搬走的材料.md",
+          "bytes": 6187,
+          "sha256": "ac39db55d55d6bc2cf4faf3bed4394df4beffab974351805660b98712dfefc94",
+          "byte_identical": true
+        }
+      ],
+      "series": "research-100-20261007",
+      "series_number": "083",
+      "topic": "材料文化",
+      "tags": [
+        "石墨",
+        "黏土",
+        "铅笔"
+      ]
+    },
+    {
+      "path": "research/100-directions/084-stainless-corrosion",
+      "title": "不锈钢会生锈 是哪一层出了问题",
+      "archived_at": "2026-10-07",
+      "source_version": 1,
+      "status": "原创专题研究；例子、原始研究与方法边界见正文",
+      "summary": "钝化膜会再生，也会在特定环境里失效。棕色污点、点蚀和材料牌号，不能靠一块磁铁就一起判定。",
+      "readableMarkdown": "research/100-directions/084-stainless-corrosion/readable.md",
+      "sources": "research/100-directions/084-stainless-corrosion/sources.md",
+      "assets": [
+        "research/100-directions/084-stainless-corrosion/metadata.json"
+      ],
+      "originals": [
+        {
+          "path": "research/100-directions/084-stainless-corrosion/readable.md",
+          "original_name": "不锈钢会生锈 是哪一层出了问题.md",
+          "bytes": 6131,
+          "sha256": "49cff3e82f429486ac52847aabdbaf8cc276e5d3fbe76aec0d41bc201b56b5bf",
+          "byte_identical": true
+        }
+      ],
+      "series": "research-100-20261007",
+      "series_number": "084",
+      "topic": "材料科学",
+      "tags": [
+        "钝化",
+        "腐蚀",
+        "铬"
+      ]
+    },
+    {
+      "path": "research/100-directions/085-roman-concrete",
+      "title": "罗马混凝土的自愈 不是把旧配方照搬回来",
+      "archived_at": "2026-10-07",
+      "source_version": 1,
+      "status": "原创专题研究；例子、原始研究与方法边界见正文",
+      "summary": "石灰颗粒、火山物质与长期反应解释了一部分耐久性，考古材料和现代工程仍需要分别验证。",
+      "readableMarkdown": "research/100-directions/085-roman-concrete/readable.md",
+      "sources": "research/100-directions/085-roman-concrete/sources.md",
+      "assets": [
+        "research/100-directions/085-roman-concrete/metadata.json"
+      ],
+      "originals": [
+        {
+          "path": "research/100-directions/085-roman-concrete/readable.md",
+          "original_name": "罗马混凝土的自愈 不是把旧配方照搬回来.md",
+          "bytes": 5993,
+          "sha256": "f24f44829f83b1aa2c112effabfa69c9ef046b1d07a58fe33ea9b3c6027cee52",
+          "byte_identical": true
+        }
+      ],
+      "series": "research-100-20261007",
+      "series_number": "085",
+      "topic": "建筑材料",
+      "tags": [
+        "罗马混凝土",
+        "热拌",
+        "裂缝"
       ]
     }
   ]

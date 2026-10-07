@@ -1,0 +1,46 @@
+{
+  "id": "083",
+  "slug": "pencil-graphite",
+  "topic": "材料文化",
+  "tags": [
+    "石墨",
+    "黏土",
+    "铅笔"
+  ],
+  "title": "铅笔留下的黑线 是一层可搬走的材料",
+  "description": "石墨、黏土、纸面与橡皮共同决定一条线的深浅和可擦性，硬度字母并不能替代全部使用条件。",
+  "date": "2026-10-07",
+  "language": "zh-CN",
+  "sources": [
+    {
+      "title": "RSC Graphite and Carbon Fibres 2024",
+      "url": "https://books.rsc.org/books/edited-volume/2247/chapter/8277185/Graphite-and-Carbon-Fibres",
+      "source_type": "学术专章",
+      "accessed": "2026-10-07"
+    },
+    {
+      "title": "ACS The Secret Science of Pencils and Erasers",
+      "url": "https://www.acs.org/education/whatischemistry/adventures-in-chemistry/secret-science-stuff/pencil.html",
+      "source_type": "学会科普",
+      "accessed": "2026-10-07"
+    },
+    {
+      "title": "STAEDTLER Pencils and accessories",
+      "url": "https://www.staedtler.com/intl/en/products/pencils-and-accessories/",
+      "source_type": "制造商工艺一手说明",
+      "accessed": "2026-10-07"
+    },
+    {
+      "title": "Zhao et al 2024 Microcrystalline Cellulose Based Eraser",
+      "url": "https://doi.org/10.1021/acssuschemeng.3c07633",
+      "source_type": "原始材料研究摘要",
+      "accessed": "2026-10-07"
+    },
+    {
+      "title": "Science Museum Group Borrowdale Graphite Pencils",
+      "url": "https://collection.sciencemuseumgroup.org.uk/objects/co38584",
+      "source_type": "博物馆物件记录",
+      "accessed": "2026-10-07"
+    }
+  ]
+}

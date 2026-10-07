@@ -57,7 +57,13 @@
     "research/100-directions/052-incremental-computation",
     "research/100-directions/080-daylighting-streams",
     "research/100-directions/081-ice-trade",
-    "research/100-directions/082-shipping-container"
+    "research/100-directions/082-shipping-container",
+    "research/100-directions/010-perceiving-silence",
+    "research/100-directions/011-font-preference-speed",
+    "research/100-directions/012-line-length-tradeoffs",
+    "research/100-directions/083-pencil-graphite",
+    "research/100-directions/084-stainless-corrosion",
+    "research/100-directions/085-roman-concrete"
   ],
-  "item_count": 58
+  "item_count": 64
 }

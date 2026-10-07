@@ -1,0 +1,43 @@
+{
+  "id": "010",
+  "title": "没响的那一下，仍然发生了什么",
+  "description": "静默时间错觉与声音遗漏反应，分别为听觉事件和预测提供了什么证据。",
+  "topic": "时间知觉",
+  "tags": [
+    "静默",
+    "遗漏反应",
+    "听觉预测",
+    "休止"
+  ],
+  "language": "zh-CN",
+  "sources": [
+    {
+      "id": 1,
+      "title": "The perception of silence",
+      "url": "https://perception.jhu.edu/files/PDFs/23_Silence/GohPhillipsFirestone_PerceivingSilence_2023_PNAS.pdf",
+      "type": "primary_research",
+      "accessed": "2026-10-07"
+    },
+    {
+      "id": 2,
+      "title": "Evidence for a hierarchy of predictions and prediction errors in human cortex",
+      "url": "https://www.unicog.org/publications/PNAS-2011-Wacongne-20754-9.pdf",
+      "type": "primary_research",
+      "accessed": "2026-10-07"
+    },
+    {
+      "id": 3,
+      "title": "I know what is missing here: Electrophysiological prediction error signals elicited by omissions of predicted “what” but not “when”",
+      "url": "https://www.frontiersin.org/journals/human-neuroscience/articles/10.3389/fnhum.2013.00407/full",
+      "type": "primary_research",
+      "accessed": "2026-10-07"
+    },
+    {
+      "id": 4,
+      "title": "Attention and prediction in human audition: A lesson from cognitive psychophysiology",
+      "url": "https://www.uni-marburg.de/en/irtg1901/study-program/seminars/2015_schroger_europjneurosci.pdf",
+      "type": "peer_reviewed_review",
+      "accessed": "2026-10-07"
+    }
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "id": "011",
+  "title": "最喜欢的字体，未必读得最快",
+  "description": "拆开个人最快字体的35%差值、名义字号与实际字身，以及喜欢和表现的错位。",
+  "topic": "字体与阅读",
+  "tags": [
+    "字体",
+    "阅读速度",
+    "偏好",
+    "实验设计"
+  ],
+  "language": "zh-CN",
+  "sources": [
+    {
+      "id": 1,
+      "title": "Towards Individuated Reading Experiences: Different Fonts Increase Reading Speed for Different Individuals",
+      "url": "https://thereadabilityconsortium.org/wp-content/uploads/2023/07/Readability__TOCHI-1.pdf",
+      "type": "primary_research",
+      "accessed": "2026-10-07"
+    },
+    {
+      "id": 2,
+      "title": "Does print size matter for reading? A review of findings from vision science and typography",
+      "url": "https://legge.psych.umn.edu/sites/legge.psych.umn.edu/files/2020-08/Legge%20Bigelow%202011%20Does%20size%20matter%20for%20reading%3F%20A%20review%20of%20findings%20from%20vision%20science%20and%20typography.pdf",
+      "type": "peer_reviewed_review",
+      "accessed": "2026-10-07"
+    },
+    {
+      "id": 3,
+      "title": "Serifs and font legibility",
+      "url": "https://www.researchgate.net/publication/7661546_Serifs_and_font_legibility",
+      "type": "primary_research",
+      "accessed": "2026-10-07"
+    },
+    {
+      "id": 4,
+      "title": "How does typeface familiarity affect reading performance and reader preference?",
+      "url": "https://www.microsoft.com/en-us/research/wp-content/uploads/2021/06/Beier-Larson-2013-how-does-typeface-familiarity-affect-reading-performance-and-reader-preference.pdf",
+      "type": "primary_research",
+      "accessed": "2026-10-07"
+    }
+  ]
+}
