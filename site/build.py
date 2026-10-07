@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 """Fail-closed static export. Only explicitly selected items and declared files leave archive."""
-import argparse, json, re, shutil, subprocess
+import argparse, json, re, shutil, subprocess, hashlib
 from pathlib import Path
 from urllib.parse import urlsplit, unquote, quote
 from html.parser import HTMLParser
@@ -71,6 +71,12 @@ def build(policy,output):
         body,text,toc=convert(item,allowed)
         docs.append({'id':key,'title':item['title'],'category':CATEGORIES.get(key.split('/')[0],'其他'),'summary':item.get('summary',''),'status':item.get('status',''),'date':item.get('archived_at',''),'text':text,'html':body,'toc':toc,'downloads':[{'name':f['original_name'],'url':'./files/'+quote(f['path'],safe='/'),'format':Path(f['path']).suffix[1:].upper()} for f in item.get('originals',[])],'sources':'./files/'+quote(item['sources'],safe='/') if item.get('sources') else None})
     (output/'catalog.json').write_text(json.dumps({'schema':1,'items':docs},ensure_ascii=False))
+    # Fingerprint catalog-dependent assets so a new publication cannot reuse an old index.
+    digest=hashlib.sha256((output/'catalog.json').read_bytes()).hexdigest()[:16]
+    app=(output/'app.js').read_text().replace("fetch('./catalog.json')", "fetch('./catalog.json?v="+digest+"')")
+    (output/'app.js').write_text(app)
+    index=(output/'index.html').read_text().replace('src="./app.js"','src="./app.js?v='+digest+'"')
+    (output/'index.html').write_text(index)
     (output/'export-audit.json').write_text(json.dumps({'approved_items':selected,'item_count':len(docs)},ensure_ascii=False,indent=2))
     print(f'Built {len(docs)} explicitly selected articles → {output}')
     return docs
