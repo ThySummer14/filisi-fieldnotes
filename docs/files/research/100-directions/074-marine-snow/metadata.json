@@ -1,0 +1,46 @@
+{
+  "id": "074",
+  "slug": "marine-snow",
+  "topic": "海洋生态",
+  "tags": [
+    "海洋雪",
+    "生物泵",
+    "深海"
+  ],
+  "title": "海洋雪下沉途中 一直有人在吃它",
+  "description": "从表层光合作用到深海碳储存，中间隔着一场不断拆包、进食与重新包装的接力。",
+  "date": "2026-10-07",
+  "language": "zh-CN",
+  "sources": [
+    {
+      "title": "WHOI Biological carbon pump",
+      "url": "https://www.whoi.edu/ocean-learning-hub/ocean-topics/how-the-ocean-works/cycles/biological-carbon-pump/",
+      "source_type": "研究机构科学说明",
+      "accessed": "2026-10-07"
+    },
+    {
+      "title": "MBARI Ecology of Marine Snow",
+      "url": "https://www.mbari.org/project/ecology-of-marine-snow/",
+      "source_type": "研究项目说明",
+      "accessed": "2026-10-07"
+    },
+    {
+      "title": "Smith et al 2018 Episodic organic carbon fluxes",
+      "url": "https://doi.org/10.1073/pnas.1814559115",
+      "source_type": "原始研究摘要",
+      "accessed": "2026-10-07"
+    },
+    {
+      "title": "MBARI 2018 Pulses of sinking carbon",
+      "url": "https://www.mbari.org/news/pulses-of-sinking-carbon-are-reaching-the-deep-sea-in-ways-not-captured-by-global-climate-models/",
+      "source_type": "研究机构论文解读",
+      "accessed": "2026-10-07"
+    },
+    {
+      "title": "Kramer et al 2025 Sinking particles exporting diatoms and Hacrobia",
+      "url": "https://doi.org/10.1093/ismejo/wraf105",
+      "source_type": "原始研究摘要",
+      "accessed": "2026-10-07"
+    }
+  ]
+}

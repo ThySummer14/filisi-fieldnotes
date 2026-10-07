@@ -1,0 +1,43 @@
+{
+  "id": "007",
+  "title": "切分音的甜点区没有固定刻度",
+  "description": "中等切分常让人更想动，实际动作与和声实验却不完全沿着同一条倒U曲线。",
+  "topic": "节奏与审美",
+  "tags": [
+    "切分音",
+    "律动",
+    "音乐心理学",
+    "动作同步"
+  ],
+  "language": "zh-CN",
+  "sources": [
+    {
+      "id": 1,
+      "title": "Syncopation, body-movement and pleasure in groove music",
+      "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0094446",
+      "type": "primary_research",
+      "accessed": "2026-10-07"
+    },
+    {
+      "id": 2,
+      "title": "Syncopation creates the sensation of groove in synthesized music examples",
+      "url": "https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2014.01036/full",
+      "type": "primary_research",
+      "accessed": "2026-10-07"
+    },
+    {
+      "id": 3,
+      "title": "Syncopation affects free body-movement in musical groove",
+      "url": "https://doi.org/10.1007/s00221-016-4855-6",
+      "type": "primary_research",
+      "accessed": "2026-10-07"
+    },
+    {
+      "id": 4,
+      "title": "The sensation of groove is affected by the interaction of rhythmic and harmonic complexity",
+      "url": "https://www.concordia.ca/content/dam/artsci/psychology/penhune/publications/Matthews_plosone_2019.pdf",
+      "type": "primary_research",
+      "accessed": "2026-10-07"
+    }
+  ]
+}

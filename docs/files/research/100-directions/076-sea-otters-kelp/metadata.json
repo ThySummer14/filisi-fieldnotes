@@ -1,0 +1,40 @@
+{
+  "id": "076",
+  "slug": "sea-otters-kelp",
+  "topic": "生态关系",
+  "tags": [
+    "海獭",
+    "海胆",
+    "海带林"
+  ],
+  "title": "海獭很多 海带林为什么还会变秃",
+  "description": "蒙特雷湾的反例提醒人们，捕食者挑选的是值得吃的猎物，保护残林与让荒场恢复并非同一件事。",
+  "date": "2026-10-07",
+  "language": "zh-CN",
+  "sources": [
+    {
+      "title": "Estes and Palmisano 1974 Sea Otters Their Role in Structuring Nearshore Communities",
+      "url": "https://doi.org/10.1126/science.185.4156.1058",
+      "source_type": "原始比较研究摘要",
+      "accessed": "2026-10-07"
+    },
+    {
+      "title": "Smith et al 2021 Behavioral responses across a mosaic of ecosystem states",
+      "url": "https://doi.org/10.1073/pnas.2012493118",
+      "source_type": "原始研究",
+      "accessed": "2026-10-07"
+    },
+    {
+      "title": "UCSC 2021 Sea otters maintain remnants of healthy kelp forest",
+      "url": "https://news.ucsc.edu/?p=53031",
+      "source_type": "研究机构说明",
+      "accessed": "2026-10-07"
+    },
+    {
+      "title": "Smith and Tinker 2022 Alternations in foraging behaviour drive patch transition dynamics",
+      "url": "https://doi.org/10.1111/ele.14064",
+      "source_type": "原始研究",
+      "accessed": "2026-10-07"
+    }
+  ]
+}

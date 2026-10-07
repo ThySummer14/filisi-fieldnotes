@@ -40,6 +40,12 @@
     "research/100-directions/006-shepard-pitch-circle",
     "research/100-directions/044-sqlite-wal-reader",
     "research/100-directions/045-http-cache-freshness",
-    "research/100-directions/046-retry-idempotency"
+    "research/100-directions/046-retry-idempotency",
+    "research/100-directions/007-syncopation-groove",
+    "research/100-directions/008-hearing-room-size",
+    "research/100-directions/009-soundscape-beyond-decibels",
+    "research/100-directions/074-marine-snow",
+    "research/100-directions/075-ocean-oxygen",
+    "research/100-directions/076-sea-otters-kelp"
   ]
 }

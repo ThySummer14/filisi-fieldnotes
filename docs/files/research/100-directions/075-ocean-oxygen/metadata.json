@@ -1,0 +1,40 @@
+{
+  "id": "075",
+  "slug": "ocean-oxygen",
+  "topic": "海洋化学",
+  "tags": [
+    "溶解氧",
+    "分层",
+    "营养盐"
+  ],
+  "title": "蓝色海水下面 可能正在缺氧",
+  "description": "氧气的补给和消耗发生在不同地方，海面平静清澈，也不能说明海底适合动物生活。",
+  "date": "2026-10-07",
+  "language": "zh-CN",
+  "sources": [
+    {
+      "title": "NOAA Hypoxia",
+      "url": "https://oceanservice.noaa.gov/hazards/hypoxia/",
+      "source_type": "官方科学说明",
+      "accessed": "2026-10-07"
+    },
+    {
+      "title": "Helm et al 2011 Observed decreases in oxygen content of the global ocean",
+      "url": "https://doi.org/10.1029/2011GL049513",
+      "source_type": "原始研究摘要",
+      "accessed": "2026-10-07"
+    },
+    {
+      "title": "Schmidtko et al 2017 Decline in global oceanic oxygen content",
+      "url": "https://www.nature.com/articles/nature21399",
+      "source_type": "原始研究摘要",
+      "accessed": "2026-10-07"
+    },
+    {
+      "title": "Breitburg et al 2018 Declining oxygen in the global ocean and coastal waters",
+      "url": "https://doi.org/10.1126/science.aam7240",
+      "source_type": "学术综述",
+      "accessed": "2026-10-07"
+    }
+  ]
+}

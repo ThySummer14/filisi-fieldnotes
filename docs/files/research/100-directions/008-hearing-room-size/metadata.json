@@ -1,0 +1,43 @@
+{
+  "id": "008",
+  "title": "听见空旷，未必听见了平方米",
+  "description": "房间大小、声源距离和反射强弱使用相互交织的线索，回响不能直接换算平方米。",
+  "topic": "空间听觉",
+  "tags": [
+    "混响",
+    "距离知觉",
+    "房间声学",
+    "实验边界"
+  ],
+  "language": "zh-CN",
+  "sources": [
+    {
+      "id": 1,
+      "title": "Auditory distance perception in humans: A review of cues, development, neuronal bases, and effects of sensory loss",
+      "url": "https://link.springer.com/article/10.3758/s13414-015-1015-1",
+      "type": "peer_reviewed_review",
+      "accessed": "2026-10-07"
+    },
+    {
+      "id": 2,
+      "title": "Psychoacoustic cues in room size perception",
+      "url": "https://aes.org/publications/elibrary-page/?id=12755",
+      "type": "primary_research_abstract",
+      "accessed": "2026-10-07"
+    },
+    {
+      "id": 3,
+      "title": "Statistics of natural reverberation enable perceptual separation of sound and space",
+      "url": "https://mcdermottlab.mit.edu/papers/Traer_McDermott_2016_reverberation.pdf",
+      "type": "primary_research",
+      "accessed": "2026-10-07"
+    },
+    {
+      "id": 4,
+      "title": "Perceptual matching of room acoustics for auditory augmented reality in small rooms: Literature review and theoretical framework",
+      "url": "https://journals.sagepub.com/doi/10.1177/23312165221092919",
+      "type": "peer_reviewed_review",
+      "accessed": "2026-10-07"
+    }
+  ]
+}

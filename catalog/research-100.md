@@ -1,6 +1,6 @@
 # 100个研究方向
 
-已收录 24 / 100 篇新研究。原有16篇专题研究与书稿不计入这个目标。编号是方向索引，不表示中间编号已经完成。
+已收录 30 / 100 篇新研究。原有16篇专题研究与书稿不计入这个目标。编号是方向索引，不表示中间编号已经完成。
 
 - 001 [同一条裙子，两套照明](../research/100-directions/001-dress-color-constancy/readable.md) · 视觉与色彩
 - 002 [余光中的字，为什么越挤越认不出](../research/100-directions/002-peripheral-crowding/readable.md) · 视觉与版式
@@ -8,6 +8,9 @@
 - 004 [耳朵收到一条波形，听见几个人](../research/100-directions/004-auditory-grouping/readable.md) · 听觉组织
 - 005 [音箱没有放出的低音](../research/100-directions/005-missing-fundamental/readable.md) · 音高知觉
 - 006 [永远上楼的音阶，在哪里回到了一楼](../research/100-directions/006-shepard-pitch-circle/readable.md) · 音乐知觉
+- 007 [切分音的甜点区没有固定刻度](../research/100-directions/007-syncopation-groove/readable.md) · 节奏与审美
+- 008 [听见空旷，未必听见了平方米](../research/100-directions/008-hearing-room-size/readable.md) · 空间听觉
+- 009 [分贝更低，为什么未必更安静](../research/100-directions/009-soundscape-beyond-decibels/readable.md) · 声景与环境知觉
 - 035 [0.1加0.2之后 系统究竟答应了什么](../research/100-directions/035-floating-point-contract/readable.md) · 数值计算
 - 036 [删除键眼里的一个字](../research/100-directions/036-unicode-cursor/readable.md) · 文本系统
 - 037 [明天中午和二十四小时后是两个任务](../research/100-directions/037-time-is-not-duration/readable.md) · 时间建模
@@ -26,3 +29,6 @@
 - 071 [沙漠很多 建筑用砂仍会短缺](../research/100-directions/071-construction-sand/readable.md) · 物质资源
 - 072 [河流切掉一个弯 变化会传得很远](../research/100-directions/072-river-cutoffs/readable.md) · 河流地貌
 - 073 [泥炭地一旦排水 地下的旧碳就开始见天日](../research/100-directions/073-peat-water-carbon/readable.md) · 湿地生态
+- 074 [海洋雪下沉途中 一直有人在吃它](../research/100-directions/074-marine-snow/readable.md) · 海洋生态
+- 075 [蓝色海水下面 可能正在缺氧](../research/100-directions/075-ocean-oxygen/readable.md) · 海洋化学
+- 076 [海獭很多 海带林为什么还会变秃](../research/100-directions/076-sea-otters-kelp/readable.md) · 生态关系

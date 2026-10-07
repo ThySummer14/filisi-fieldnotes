@@ -1,12 +1,12 @@
 {
   "archive_date": "2026-10-07",
-  "item_count": 40,
-  "original_file_count": 48,
+  "item_count": 46,
+  "original_file_count": 54,
   "original_docx_count": 14,
   "original_pdf_count": 6,
-  "original_markdown_count": 28,
+  "original_markdown_count": 34,
   "image_count": 33,
-  "readable_markdown_count": 40,
+  "readable_markdown_count": 46,
   "items": [
     {
       "path": "reading/sociological-imagination",
@@ -1857,6 +1857,189 @@
         "幂等",
         "重试",
         "网络协议"
+      ]
+    },
+    {
+      "path": "research/100-directions/007-syncopation-groove",
+      "title": "切分音的甜点区没有固定刻度",
+      "archived_at": "2026-10-07",
+      "source_version": 1,
+      "status": "原创专题研究；例子、原始研究与方法边界见正文",
+      "summary": "中等切分常让人更想动，实际动作与和声实验却不完全沿着同一条倒U曲线。",
+      "readableMarkdown": "research/100-directions/007-syncopation-groove/readable.md",
+      "sources": "research/100-directions/007-syncopation-groove/sources.md",
+      "assets": [
+        "research/100-directions/007-syncopation-groove/metadata.json"
+      ],
+      "originals": [
+        {
+          "path": "research/100-directions/007-syncopation-groove/readable.md",
+          "original_name": "切分音的甜点区没有固定刻度.md",
+          "bytes": 6123,
+          "sha256": "6397f8f9e1e83febdfaf4a6d2a7db9bd56334458c09e29b60fadeff4114919e5",
+          "byte_identical": true
+        }
+      ],
+      "series": "research-100-20261007",
+      "series_number": "007",
+      "topic": "节奏与审美",
+      "tags": [
+        "切分音",
+        "律动",
+        "音乐心理学",
+        "动作同步"
+      ]
+    },
+    {
+      "path": "research/100-directions/008-hearing-room-size",
+      "title": "听见空旷，未必听见了平方米",
+      "archived_at": "2026-10-07",
+      "source_version": 1,
+      "status": "原创专题研究；例子、原始研究与方法边界见正文",
+      "summary": "房间大小、声源距离和反射强弱使用相互交织的线索，回响不能直接换算平方米。",
+      "readableMarkdown": "research/100-directions/008-hearing-room-size/readable.md",
+      "sources": "research/100-directions/008-hearing-room-size/sources.md",
+      "assets": [
+        "research/100-directions/008-hearing-room-size/metadata.json"
+      ],
+      "originals": [
+        {
+          "path": "research/100-directions/008-hearing-room-size/readable.md",
+          "original_name": "听见空旷，未必听见了平方米.md",
+          "bytes": 6639,
+          "sha256": "f1adde18406cf17938862b670298a52561563e7c9c78722c210a2b43048d02b9",
+          "byte_identical": true
+        }
+      ],
+      "series": "research-100-20261007",
+      "series_number": "008",
+      "topic": "空间听觉",
+      "tags": [
+        "混响",
+        "距离知觉",
+        "房间声学",
+        "实验边界"
+      ]
+    },
+    {
+      "path": "research/100-directions/009-soundscape-beyond-decibels",
+      "title": "分贝更低，为什么未必更安静",
+      "archived_at": "2026-10-07",
+      "source_version": 1,
+      "status": "原创专题研究；例子、原始研究与方法边界见正文",
+      "summary": "声景质量需要声音来源、活动与情境信息；喷泉案例说明掩蔽、喜好和降噪应分别测量。",
+      "readableMarkdown": "research/100-directions/009-soundscape-beyond-decibels/readable.md",
+      "sources": "research/100-directions/009-soundscape-beyond-decibels/sources.md",
+      "assets": [
+        "research/100-directions/009-soundscape-beyond-decibels/metadata.json"
+      ],
+      "originals": [
+        {
+          "path": "research/100-directions/009-soundscape-beyond-decibels/readable.md",
+          "original_name": "分贝更低，为什么未必更安静.md",
+          "bytes": 6427,
+          "sha256": "3ed9d95d42245e1f0dca55ee59096838e2c7ed298dabc9b8d583877edcbcae2a",
+          "byte_identical": true
+        }
+      ],
+      "series": "research-100-20261007",
+      "series_number": "009",
+      "topic": "声景与环境知觉",
+      "tags": [
+        "声景",
+        "主观响度",
+        "环境声音",
+        "测量"
+      ]
+    },
+    {
+      "path": "research/100-directions/074-marine-snow",
+      "title": "海洋雪下沉途中 一直有人在吃它",
+      "archived_at": "2026-10-07",
+      "source_version": 1,
+      "status": "原创专题研究；例子、原始研究与方法边界见正文",
+      "summary": "从表层光合作用到深海碳储存，中间隔着一场不断拆包、进食与重新包装的接力。",
+      "readableMarkdown": "research/100-directions/074-marine-snow/readable.md",
+      "sources": "research/100-directions/074-marine-snow/sources.md",
+      "assets": [
+        "research/100-directions/074-marine-snow/metadata.json"
+      ],
+      "originals": [
+        {
+          "path": "research/100-directions/074-marine-snow/readable.md",
+          "original_name": "海洋雪下沉途中 一直有人在吃它.md",
+          "bytes": 6288,
+          "sha256": "29451a4846c135ca8f269b63710e4fd92806a33c90371442041a55bbc7db0dfe",
+          "byte_identical": true
+        }
+      ],
+      "series": "research-100-20261007",
+      "series_number": "074",
+      "topic": "海洋生态",
+      "tags": [
+        "海洋雪",
+        "生物泵",
+        "深海"
+      ]
+    },
+    {
+      "path": "research/100-directions/075-ocean-oxygen",
+      "title": "蓝色海水下面 可能正在缺氧",
+      "archived_at": "2026-10-07",
+      "source_version": 1,
+      "status": "原创专题研究；例子、原始研究与方法边界见正文",
+      "summary": "氧气的补给和消耗发生在不同地方，海面平静清澈，也不能说明海底适合动物生活。",
+      "readableMarkdown": "research/100-directions/075-ocean-oxygen/readable.md",
+      "sources": "research/100-directions/075-ocean-oxygen/sources.md",
+      "assets": [
+        "research/100-directions/075-ocean-oxygen/metadata.json"
+      ],
+      "originals": [
+        {
+          "path": "research/100-directions/075-ocean-oxygen/readable.md",
+          "original_name": "蓝色海水下面 可能正在缺氧.md",
+          "bytes": 5777,
+          "sha256": "2bd7e479ff5a03969a6380ad13feaba78d729257b019841ad46327b08bb8893d",
+          "byte_identical": true
+        }
+      ],
+      "series": "research-100-20261007",
+      "series_number": "075",
+      "topic": "海洋化学",
+      "tags": [
+        "溶解氧",
+        "分层",
+        "营养盐"
+      ]
+    },
+    {
+      "path": "research/100-directions/076-sea-otters-kelp",
+      "title": "海獭很多 海带林为什么还会变秃",
+      "archived_at": "2026-10-07",
+      "source_version": 1,
+      "status": "原创专题研究；例子、原始研究与方法边界见正文",
+      "summary": "蒙特雷湾的反例提醒人们，捕食者挑选的是值得吃的猎物，保护残林与让荒场恢复并非同一件事。",
+      "readableMarkdown": "research/100-directions/076-sea-otters-kelp/readable.md",
+      "sources": "research/100-directions/076-sea-otters-kelp/sources.md",
+      "assets": [
+        "research/100-directions/076-sea-otters-kelp/metadata.json"
+      ],
+      "originals": [
+        {
+          "path": "research/100-directions/076-sea-otters-kelp/readable.md",
+          "original_name": "海獭很多 海带林为什么还会变秃.md",
+          "bytes": 5853,
+          "sha256": "d7c05c3f98627037521917ffe0e3b397edae58f5be7c958aabf3094730c2bdc7",
+          "byte_identical": true
+        }
+      ],
+      "series": "research-100-20261007",
+      "series_number": "076",
+      "topic": "生态关系",
+      "tags": [
+        "海獭",
+        "海胆",
+        "海带林"
       ]
     }
   ]

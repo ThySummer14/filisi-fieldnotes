@@ -1,6 +1,6 @@
 {
   "target": 100,
-  "completed_count": 24,
+  "completed_count": 30,
   "existing_library_excluded": 16,
   "completed": [
     {
@@ -38,6 +38,24 @@
       "title": "永远上楼的音阶，在哪里回到了一楼",
       "topic": "音乐知觉",
       "path": "research/100-directions/006-shepard-pitch-circle"
+    },
+    {
+      "number": "007",
+      "title": "切分音的甜点区没有固定刻度",
+      "topic": "节奏与审美",
+      "path": "research/100-directions/007-syncopation-groove"
+    },
+    {
+      "number": "008",
+      "title": "听见空旷，未必听见了平方米",
+      "topic": "空间听觉",
+      "path": "research/100-directions/008-hearing-room-size"
+    },
+    {
+      "number": "009",
+      "title": "分贝更低，为什么未必更安静",
+      "topic": "声景与环境知觉",
+      "path": "research/100-directions/009-soundscape-beyond-decibels"
     },
     {
       "number": "035",
@@ -146,6 +164,24 @@
       "title": "泥炭地一旦排水 地下的旧碳就开始见天日",
       "topic": "湿地生态",
       "path": "research/100-directions/073-peat-water-carbon"
+    },
+    {
+      "number": "074",
+      "title": "海洋雪下沉途中 一直有人在吃它",
+      "topic": "海洋生态",
+      "path": "research/100-directions/074-marine-snow"
+    },
+    {
+      "number": "075",
+      "title": "蓝色海水下面 可能正在缺氧",
+      "topic": "海洋化学",
+      "path": "research/100-directions/075-ocean-oxygen"
+    },
+    {
+      "number": "076",
+      "title": "海獭很多 海带林为什么还会变秃",
+      "topic": "生态关系",
+      "path": "research/100-directions/076-sea-otters-kelp"
     }
   ]
 }
