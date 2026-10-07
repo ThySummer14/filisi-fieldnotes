@@ -705,5 +705,17 @@
     "sensitive_external_links": 0,
     "prior_embedded_images_visually_reviewed": 27,
     "notes": "原件字节保留；模拟案例、历史状态与同人角色出处保留。未发现凭证、私人聊天或内部工作记录。第三方来源只作引用，不授予通用再分发许可。"
+  },
+  "effectcraft_addendum": {
+    "archived_at": "2026-10-07",
+    "articles": 14,
+    "sources": 27,
+    "fixed_sha_anchors": 67,
+    "unchanged_prior_originals": 19,
+    "upstream_tests_run": false,
+    "synthetic_model_rerun": "passed",
+    "build_tests": 5,
+    "search_assertions": 9,
+    "article_links_checked": 14
   }
 }

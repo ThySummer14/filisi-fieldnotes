@@ -1,0 +1,607 @@
+{
+  "repository": "https://github.com/storytold/effectcraft",
+  "commit": "f5ebe5f6c5e887dddda4a2be1fcb47154e959b81",
+  "inspection_date": "2026-10-07",
+  "sources": [
+    {
+      "path": "crates/time/src/lib.rs",
+      "sha256": "36a40443f3fe7706df2080b1f79a12ed47527db0e601a6dd8cdc4b76174cd8da",
+      "url": "https://github.com/storytold/effectcraft/blob/f5ebe5f6c5e887dddda4a2be1fcb47154e959b81/crates/time/src/lib.rs",
+      "symbols": [
+        {
+          "symbol": "TICKS_PER_SECOND",
+          "line": 3,
+          "url": "https://github.com/storytold/effectcraft/blob/f5ebe5f6c5e887dddda4a2be1fcb47154e959b81/crates/time/src/lib.rs#L3"
+        },
+        {
+          "symbol": "pub struct Tick",
+          "line": 22,
+          "url": "https://github.com/storytold/effectcraft/blob/f5ebe5f6c5e887dddda4a2be1fcb47154e959b81/crates/time/src/lib.rs#L22"
+        },
+        {
+          "symbol": "pub fn from_rational",
+          "line": 48,
+          "url": "https://github.com/storytold/effectcraft/blob/f5ebe5f6c5e887dddda4a2be1fcb47154e959b81/crates/time/src/lib.rs#L48"
+        },
+        {
+          "symbol": "pub struct TimeRange",
+          "line": 116,
+          "url": "https://github.com/storytold/effectcraft/blob/f5ebe5f6c5e887dddda4a2be1fcb47154e959b81/crates/time/src/lib.rs#L116"
+        },
+        {
+          "symbol": "pub struct FrameRate",
+          "line": 149,
+          "url": "https://github.com/storytold/effectcraft/blob/f5ebe5f6c5e887dddda4a2be1fcb47154e959b81/crates/time/src/lib.rs#L149"
+        }
+      ],
+      "evidence": "source-inspected; repository tests not executed"
+    },
+    {
+      "path": "crates/keyframe/src/lib.rs",
+      "sha256": "a14c753fa34f2493b12dfcf3fe5f7acbeb958d14b06dd92a6e227b8e0f7c997e",
+      "url": "https://github.com/storytold/effectcraft/blob/f5ebe5f6c5e887dddda4a2be1fcb47154e959b81/crates/keyframe/src/lib.rs",
+      "symbols": [
+        {
+          "symbol": "fn solve_u",
+          "line": 177,
+          "url": "https://github.com/storytold/effectcraft/blob/f5ebe5f6c5e887dddda4a2be1fcb47154e959b81/crates/keyframe/src/lib.rs#L177"
+        },
+        {
+          "symbol": "pub fn evaluate",
+          "line": 430,
+          "url": "https://github.com/storytold/effectcraft/blob/f5ebe5f6c5e887dddda4a2be1fcb47154e959b81/crates/keyframe/src/lib.rs#L430"
+        },
+        {
+          "symbol": "pub fn segment_value",
+          "line": 444,
+          "url": "https://github.com/storytold/effectcraft/blob/f5ebe5f6c5e887dddda4a2be1fcb47154e959b81/crates/keyframe/src/lib.rs#L444"
+        },
+        {
+          "symbol": "pub fn velocity",
+          "line": 502,
+          "url": "https://github.com/storytold/effectcraft/blob/f5ebe5f6c5e887dddda4a2be1fcb47154e959b81/crates/keyframe/src/lib.rs#L502"
+        },
+        {
+          "symbol": "fn maximum_influence_resolves_flat_midpoint_time_curve",
+          "line": 648,
+          "url": "https://github.com/storytold/effectcraft/blob/f5ebe5f6c5e887dddda4a2be1fcb47154e959b81/crates/keyframe/src/lib.rs#L648"
+        },
+        {
+          "symbol": "fn hold_key_keeps_its_incoming_segment_linear",
+          "line": 685,
+          "url": "https://github.com/storytold/effectcraft/blob/f5ebe5f6c5e887dddda4a2be1fcb47154e959b81/crates/keyframe/src/lib.rs#L685"
+        }
+      ],
+      "evidence": "source-inspected; repository tests not executed"
+    },
+    {
+      "path": "crates/render/src/lib.rs",
+      "sha256": "cf64f749a0ebf752b8a830fe2c2bb34b991d1daf00346a8176e165732fc46758",
+      "url": "https://github.com/storytold/effectcraft/blob/f5ebe5f6c5e887dddda4a2be1fcb47154e959b81/crates/render/src/lib.rs",
+      "symbols": [
+        {
+          "symbol": "fn draw_comp",
+          "line": 835,
+          "url": "https://github.com/storytold/effectcraft/blob/f5ebe5f6c5e887dddda4a2be1fcb47154e959b81/crates/render/src/lib.rs#L835"
+        },
+        {
+          "symbol": "fn masked_source",
+          "line": 1145,
+          "url": "https://github.com/storytold/effectcraft/blob/f5ebe5f6c5e887dddda4a2be1fcb47154e959b81/crates/render/src/lib.rs#L1145"
+        },
+        {
+          "symbol": "pub fn content_buf",
+          "line": 1214,
+          "url": "https://github.com/storytold/effectcraft/blob/f5ebe5f6c5e887dddda4a2be1fcb47154e959b81/crates/render/src/lib.rs#L1214"
+        },
+        {
+          "symbol": "fn draw_layer",
+          "line": 1591,
+          "url": "https://github.com/storytold/effectcraft/blob/f5ebe5f6c5e887dddda4a2be1fcb47154e959b81/crates/render/src/lib.rs#L1591"
+        },
+        {
+          "symbol": "fn composite_styled",
+          "line": 1629,
+          "url": "https://github.com/storytold/effectcraft/blob/f5ebe5f6c5e887dddda4a2be1fcb47154e959b81/crates/render/src/lib.rs#L1629"
+        },
+        {
+          "symbol": "fn composite_iso_with",
+          "line": 1684,
+          "url": "https://github.com/storytold/effectcraft/blob/f5ebe5f6c5e887dddda4a2be1fcb47154e959b81/crates/render/src/lib.rs#L1684"
+        },
+        {
+          "symbol": "fn draw_adjustment",
+          "line": 1725,
+          "url": "https://github.com/storytold/effectcraft/blob/f5ebe5f6c5e887dddda4a2be1fcb47154e959b81/crates/render/src/lib.rs#L1725"
+        }
+      ],
+      "evidence": "source-inspected; repository tests not executed"
+    },
+    {
+      "path": "crates/render/src/cache.rs",
+      "sha256": "623463ee084b0dcaeff800c244dd6f9140242f295d1327a2bf2e2df2886e582c",
+      "url": "https://github.com/storytold/effectcraft/blob/f5ebe5f6c5e887dddda4a2be1fcb47154e959b81/crates/render/src/cache.rs",
+      "symbols": [
+        {
+          "symbol": "pub struct LayerCache",
+          "line": 32,
+          "url": "https://github.com/storytold/effectcraft/blob/f5ebe5f6c5e887dddda4a2be1fcb47154e959b81/crates/render/src/cache.rs#L32"
+        },
+        {
+          "symbol": "pub fn set_gate",
+          "line": 88,
+          "url": "https://github.com/storytold/effectcraft/blob/f5ebe5f6c5e887dddda4a2be1fcb47154e959b81/crates/render/src/cache.rs#L88"
+        },
+        {
+          "symbol": "pub fn layer_key",
+          "line": 481,
+          "url": "https://github.com/storytold/effectcraft/blob/f5ebe5f6c5e887dddda4a2be1fcb47154e959b81/crates/render/src/cache.rs#L481"
+        },
+        {
+          "symbol": "pub fn input_key",
+          "line": 494,
+          "url": "https://github.com/storytold/effectcraft/blob/f5ebe5f6c5e887dddda4a2be1fcb47154e959b81/crates/render/src/cache.rs#L494"
+        },
+        {
+          "symbol": "fn key_any",
+          "line": 530,
+          "url": "https://github.com/storytold/effectcraft/blob/f5ebe5f6c5e887dddda4a2be1fcb47154e959b81/crates/render/src/cache.rs#L530"
+        }
+      ],
+      "evidence": "source-inspected; repository tests not executed"
+    },
+    {
+      "path": "crates/render/src/disk_cache.rs",
+      "sha256": "7e50afd6284dbc216abea0bba1864545d48129264088f4ec33f3bd5c6530445e",
+      "url": "https://github.com/storytold/effectcraft/blob/f5ebe5f6c5e887dddda4a2be1fcb47154e959b81/crates/render/src/disk_cache.rs",
+      "symbols": [
+        {
+          "symbol": "const RENDER_VERSION",
+          "line": 735,
+          "url": "https://github.com/storytold/effectcraft/blob/f5ebe5f6c5e887dddda4a2be1fcb47154e959b81/crates/render/src/disk_cache.rs#L735"
+        },
+        {
+          "symbol": "fn file_stamp",
+          "line": 743,
+          "url": "https://github.com/storytold/effectcraft/blob/f5ebe5f6c5e887dddda4a2be1fcb47154e959b81/crates/render/src/disk_cache.rs#L743"
+        },
+        {
+          "symbol": "pub fn footage_salt",
+          "line": 766,
+          "url": "https://github.com/storytold/effectcraft/blob/f5ebe5f6c5e887dddda4a2be1fcb47154e959b81/crates/render/src/disk_cache.rs#L766"
+        },
+        {
+          "symbol": "pub fn comp_content_key",
+          "line": 784,
+          "url": "https://github.com/storytold/effectcraft/blob/f5ebe5f6c5e887dddda4a2be1fcb47154e959b81/crates/render/src/disk_cache.rs#L784"
+        }
+      ],
+      "evidence": "source-inspected; repository tests not executed"
+    },
+    {
+      "path": "crates/render/src/audio.rs",
+      "sha256": "60e3a4d396977bf594e1bf63dd7f2630d221a48e2e9e407fb0743426bb9931e4",
+      "url": "https://github.com/storytold/effectcraft/blob/f5ebe5f6c5e887dddda4a2be1fcb47154e959b81/crates/render/src/audio.rs",
+      "symbols": [
+        {
+          "symbol": "pub fn mix_comp",
+          "line": 26,
+          "url": "https://github.com/storytold/effectcraft/blob/f5ebe5f6c5e887dddda4a2be1fcb47154e959b81/crates/render/src/audio.rs#L26"
+        },
+        {
+          "symbol": "fn units_ceil",
+          "line": 81,
+          "url": "https://github.com/storytold/effectcraft/blob/f5ebe5f6c5e887dddda4a2be1fcb47154e959b81/crates/render/src/audio.rs#L81"
+        }
+      ],
+      "evidence": "source-inspected; repository tests not executed"
+    },
+    {
+      "path": "crates/render/src/tests_audio_fx.rs",
+      "sha256": "7411e2bd4a801a3bb249f6475c6df1ca653ed40869667c6a8c92e3f947e0c002",
+      "url": "https://github.com/storytold/effectcraft/blob/f5ebe5f6c5e887dddda4a2be1fcb47154e959b81/crates/render/src/tests_audio_fx.rs",
+      "symbols": [
+        {
+          "symbol": "fn blocks_match_one_long_mix",
+          "line": 173,
+          "url": "https://github.com/storytold/effectcraft/blob/f5ebe5f6c5e887dddda4a2be1fcb47154e959b81/crates/render/src/tests_audio_fx.rs#L173"
+        }
+      ],
+      "evidence": "source-inspected; repository tests not executed"
+    },
+    {
+      "path": "crates/render/src/tests_time.rs",
+      "sha256": "f7b57489fcb66053915d08d6f73a01f9521228630ac4ff0d5f2bf704a88ec804",
+      "url": "https://github.com/storytold/effectcraft/blob/f5ebe5f6c5e887dddda4a2be1fcb47154e959b81/crates/render/src/tests_time.rs",
+      "symbols": [
+        {
+          "symbol": "fn cache_correct_while_scrubbing",
+          "line": 89,
+          "url": "https://github.com/storytold/effectcraft/blob/f5ebe5f6c5e887dddda4a2be1fcb47154e959b81/crates/render/src/tests_time.rs#L89"
+        }
+      ],
+      "evidence": "source-inspected; repository tests not executed"
+    },
+    {
+      "path": "crates/engine/src/lib.rs",
+      "sha256": "34b5c434af898ab9e556e32b248d3e555c33dcd8a1454d2041841848b99d0ba7",
+      "url": "https://github.com/storytold/effectcraft/blob/f5ebe5f6c5e887dddda4a2be1fcb47154e959b81/crates/engine/src/lib.rs",
+      "symbols": [
+        {
+          "symbol": "pub fn execute(",
+          "line": 517,
+          "url": "https://github.com/storytold/effectcraft/blob/f5ebe5f6c5e887dddda4a2be1fcb47154e959b81/crates/engine/src/lib.rs#L517"
+        },
+        {
+          "symbol": "pub fn execute_checked",
+          "line": 543,
+          "url": "https://github.com/storytold/effectcraft/blob/f5ebe5f6c5e887dddda4a2be1fcb47154e959b81/crates/engine/src/lib.rs#L543"
+        },
+        {
+          "symbol": "pub fn edit<",
+          "line": 554,
+          "url": "https://github.com/storytold/effectcraft/blob/f5ebe5f6c5e887dddda4a2be1fcb47154e959b81/crates/engine/src/lib.rs#L554"
+        },
+        {
+          "symbol": "pub fn bump",
+          "line": 601,
+          "url": "https://github.com/storytold/effectcraft/blob/f5ebe5f6c5e887dddda4a2be1fcb47154e959b81/crates/engine/src/lib.rs#L601"
+        },
+        {
+          "symbol": "pub fn undo",
+          "line": 613,
+          "url": "https://github.com/storytold/effectcraft/blob/f5ebe5f6c5e887dddda4a2be1fcb47154e959b81/crates/engine/src/lib.rs#L613"
+        }
+      ],
+      "evidence": "source-inspected; repository tests not executed"
+    },
+    {
+      "path": "crates/engine/src/history.rs",
+      "sha256": "bb75d015072fc6245b42755a4e3ed9e3ba0c79de5a68ce22ffcd59041769e941",
+      "url": "https://github.com/storytold/effectcraft/blob/f5ebe5f6c5e887dddda4a2be1fcb47154e959b81/crates/engine/src/history.rs",
+      "symbols": [
+        {
+          "symbol": "pub struct History",
+          "line": 27,
+          "url": "https://github.com/storytold/effectcraft/blob/f5ebe5f6c5e887dddda4a2be1fcb47154e959b81/crates/engine/src/history.rs#L27"
+        },
+        {
+          "symbol": "pub fn state_id",
+          "line": 74,
+          "url": "https://github.com/storytold/effectcraft/blob/f5ebe5f6c5e887dddda4a2be1fcb47154e959b81/crates/engine/src/history.rs#L74"
+        }
+      ],
+      "evidence": "source-inspected; repository tests not executed"
+    },
+    {
+      "path": "crates/engine/src/remote.rs",
+      "sha256": "c4544ba4d6b6a6771b4367e9d36c2f26380ab662c5aa46159f842fa394638815",
+      "url": "https://github.com/storytold/effectcraft/blob/f5ebe5f6c5e887dddda4a2be1fcb47154e959b81/crates/engine/src/remote.rs",
+      "symbols": [
+        {
+          "symbol": "pub fn diff",
+          "line": 65,
+          "url": "https://github.com/storytold/effectcraft/blob/f5ebe5f6c5e887dddda4a2be1fcb47154e959b81/crates/engine/src/remote.rs#L65"
+        },
+        {
+          "symbol": "pub fn patch",
+          "line": 105,
+          "url": "https://github.com/storytold/effectcraft/blob/f5ebe5f6c5e887dddda4a2be1fcb47154e959b81/crates/engine/src/remote.rs#L105"
+        },
+        {
+          "symbol": "pub fn sync",
+          "line": 226,
+          "url": "https://github.com/storytold/effectcraft/blob/f5ebe5f6c5e887dddda4a2be1fcb47154e959b81/crates/engine/src/remote.rs#L226"
+        },
+        {
+          "symbol": "pub fn handle",
+          "line": 350,
+          "url": "https://github.com/storytold/effectcraft/blob/f5ebe5f6c5e887dddda4a2be1fcb47154e959b81/crates/engine/src/remote.rs#L350"
+        },
+        {
+          "symbol": "fn replica_follows_edits_through_diffs_and_renders_the_same_frames",
+          "line": 580,
+          "url": "https://github.com/storytold/effectcraft/blob/f5ebe5f6c5e887dddda4a2be1fcb47154e959b81/crates/engine/src/remote.rs#L580"
+        }
+      ],
+      "evidence": "source-inspected; repository tests not executed"
+    },
+    {
+      "path": "crates/project/src/lib.rs",
+      "sha256": "bd9ef2d5699aa797c87ae9793bf8e2c1a17848a156d23f5e9d2dc9ae8a538826",
+      "url": "https://github.com/storytold/effectcraft/blob/f5ebe5f6c5e887dddda4a2be1fcb47154e959b81/crates/project/src/lib.rs",
+      "symbols": [
+        {
+          "symbol": "pub const SCHEMA_VERSION",
+          "line": 29,
+          "url": "https://github.com/storytold/effectcraft/blob/f5ebe5f6c5e887dddda4a2be1fcb47154e959b81/crates/project/src/lib.rs#L29"
+        },
+        {
+          "symbol": "pub fn to_file_json",
+          "line": 1263,
+          "url": "https://github.com/storytold/effectcraft/blob/f5ebe5f6c5e887dddda4a2be1fcb47154e959b81/crates/project/src/lib.rs#L1263"
+        },
+        {
+          "symbol": "pub fn from_json",
+          "line": 1284,
+          "url": "https://github.com/storytold/effectcraft/blob/f5ebe5f6c5e887dddda4a2be1fcb47154e959b81/crates/project/src/lib.rs#L1284"
+        }
+      ],
+      "evidence": "source-inspected; repository tests not executed"
+    },
+    {
+      "path": "crates/export/src/pipeline.rs",
+      "sha256": "9eb8dbe30fe85aaf0914cced382258b10072861226fbbb98156f4ec6090182aa",
+      "url": "https://github.com/storytold/effectcraft/blob/f5ebe5f6c5e887dddda4a2be1fcb47154e959b81/crates/export/src/pipeline.rs",
+      "symbols": [
+        {
+          "symbol": "async fn render_at",
+          "line": 78,
+          "url": "https://github.com/storytold/effectcraft/blob/f5ebe5f6c5e887dddda4a2be1fcb47154e959b81/crates/export/src/pipeline.rs#L78"
+        },
+        {
+          "symbol": "pub async fn frames",
+          "line": 107,
+          "url": "https://github.com/storytold/effectcraft/blob/f5ebe5f6c5e887dddda4a2be1fcb47154e959b81/crates/export/src/pipeline.rs#L107"
+        },
+        {
+          "symbol": "pub async fn frame_async",
+          "line": 126,
+          "url": "https://github.com/storytold/effectcraft/blob/f5ebe5f6c5e887dddda4a2be1fcb47154e959b81/crates/export/src/pipeline.rs#L126"
+        }
+      ],
+      "evidence": "source-inspected; repository tests not executed"
+    },
+    {
+      "path": "crates/export/src/lib.rs",
+      "sha256": "dbdd8ac6ebe5ce3810a552efa28e1a357c308708dc80497d3f4cb462e490c10c",
+      "url": "https://github.com/storytold/effectcraft/blob/f5ebe5f6c5e887dddda4a2be1fcb47154e959b81/crates/export/src/lib.rs",
+      "symbols": [
+        {
+          "symbol": "pub async fn export_async",
+          "line": 170,
+          "url": "https://github.com/storytold/effectcraft/blob/f5ebe5f6c5e887dddda4a2be1fcb47154e959b81/crates/export/src/lib.rs#L170"
+        }
+      ],
+      "evidence": "source-inspected; repository tests not executed"
+    },
+    {
+      "path": "crates/ui-egui/src/frames.rs",
+      "sha256": "d3ca70d12c018a82a5fbce5d2e5194f093d348e62a15406cbcb4c995589ab848",
+      "url": "https://github.com/storytold/effectcraft/blob/f5ebe5f6c5e887dddda4a2be1fcb47154e959b81/crates/ui-egui/src/frames.rs",
+      "symbols": [
+        {
+          "symbol": "pub struct FrameKey",
+          "line": 72,
+          "url": "https://github.com/storytold/effectcraft/blob/f5ebe5f6c5e887dddda4a2be1fcb47154e959b81/crates/ui-egui/src/frames.rs#L72"
+        },
+        {
+          "symbol": "pub fn comp_content",
+          "line": 235,
+          "url": "https://github.com/storytold/effectcraft/blob/f5ebe5f6c5e887dddda4a2be1fcb47154e959b81/crates/ui-egui/src/frames.rs#L235"
+        },
+        {
+          "symbol": "pub fn request_urgent",
+          "line": 607,
+          "url": "https://github.com/storytold/effectcraft/blob/f5ebe5f6c5e887dddda4a2be1fcb47154e959b81/crates/ui-egui/src/frames.rs#L607"
+        },
+        {
+          "symbol": "pub fn pump",
+          "line": 775,
+          "url": "https://github.com/storytold/effectcraft/blob/f5ebe5f6c5e887dddda4a2be1fcb47154e959b81/crates/ui-egui/src/frames.rs#L775"
+        }
+      ],
+      "evidence": "source-inspected; repository tests not executed"
+    },
+    {
+      "path": "crates/ui-egui/src/panels/graph.rs",
+      "sha256": "01188906f75ead8c99e420a3e1a2bb8d6a5dafae65258cb846d9e535ef43389c",
+      "url": "https://github.com/storytold/effectcraft/blob/f5ebe5f6c5e887dddda4a2be1fcb47154e959b81/crates/ui-egui/src/panels/graph.rs",
+      "symbols": [
+        {
+          "symbol": "fn curves",
+          "line": 105,
+          "url": "https://github.com/storytold/effectcraft/blob/f5ebe5f6c5e887dddda4a2be1fcb47154e959b81/crates/ui-egui/src/panels/graph.rs#L105"
+        },
+        {
+          "symbol": "let dragging",
+          "line": 228,
+          "url": "https://github.com/storytold/effectcraft/blob/f5ebe5f6c5e887dddda4a2be1fcb47154e959b81/crates/ui-egui/src/panels/graph.rs#L228"
+        },
+        {
+          "symbol": "hresp.dragged",
+          "line": 309,
+          "url": "https://github.com/storytold/effectcraft/blob/f5ebe5f6c5e887dddda4a2be1fcb47154e959b81/crates/ui-egui/src/panels/graph.rs#L309"
+        }
+      ],
+      "evidence": "source-inspected; repository tests not executed"
+    },
+    {
+      "path": "crates/ui-egui/tests/ui_timeline_zoom.rs",
+      "sha256": "6cc23c1f55c47fae0c44077a114348207c4b21e7df0fd5a02a97035019dfa8df",
+      "url": "https://github.com/storytold/effectcraft/blob/f5ebe5f6c5e887dddda4a2be1fcb47154e959b81/crates/ui-egui/tests/ui_timeline_zoom.rs",
+      "symbols": [
+        {
+          "symbol": "fn alt_wheel_zooms_out_until_the_whole_comp_shows",
+          "line": 40,
+          "url": "https://github.com/storytold/effectcraft/blob/f5ebe5f6c5e887dddda4a2be1fcb47154e959b81/crates/ui-egui/tests/ui_timeline_zoom.rs#L40"
+        },
+        {
+          "symbol": "fn semicolon_toggles_frame_level_and_the_whole_comp",
+          "line": 114,
+          "url": "https://github.com/storytold/effectcraft/blob/f5ebe5f6c5e887dddda4a2be1fcb47154e959b81/crates/ui-egui/tests/ui_timeline_zoom.rs#L114"
+        }
+      ],
+      "evidence": "source-inspected; repository tests not executed"
+    },
+    {
+      "path": "crates/ui-egui/tests/ui_panel_focus.rs",
+      "sha256": "db72d2914e0adb0677cef84a7c4c7e978d82fb01a5e06e7020fbc34d9e6c72ee",
+      "url": "https://github.com/storytold/effectcraft/blob/f5ebe5f6c5e887dddda4a2be1fcb47154e959b81/crates/ui-egui/tests/ui_panel_focus.rs",
+      "symbols": [
+        {
+          "symbol": "fn applying_an_effect_brings_up_effect_controls_on_that_layer",
+          "line": 133,
+          "url": "https://github.com/storytold/effectcraft/blob/f5ebe5f6c5e887dddda4a2be1fcb47154e959b81/crates/ui-egui/tests/ui_panel_focus.rs#L133"
+        }
+      ],
+      "evidence": "source-inspected; repository tests not executed"
+    },
+    {
+      "path": "crates/ui-egui/Cargo.toml",
+      "sha256": "e73be8f605b2760f64bb3a23f5b234febffc3507b8cdb99b35ea1b8223907992",
+      "url": "https://github.com/storytold/effectcraft/blob/f5ebe5f6c5e887dddda4a2be1fcb47154e959b81/crates/ui-egui/Cargo.toml",
+      "symbols": [
+        {
+          "symbol": "accesskit",
+          "line": 24,
+          "url": "https://github.com/storytold/effectcraft/blob/f5ebe5f6c5e887dddda4a2be1fcb47154e959b81/crates/ui-egui/Cargo.toml#L24"
+        }
+      ],
+      "evidence": "source-inspected; repository tests not executed"
+    },
+    {
+      "path": "docs/web.md",
+      "sha256": "787a47cb7d95bea9c880bca7855a17db3e7aa3251bc0c6755270d5ed72cd6a52",
+      "url": "https://github.com/storytold/effectcraft/blob/f5ebe5f6c5e887dddda4a2be1fcb47154e959b81/docs/web.md",
+      "symbols": [
+        {
+          "symbol": "Viewer frames: frame workers",
+          "line": 139,
+          "url": "https://github.com/storytold/effectcraft/blob/f5ebe5f6c5e887dddda4a2be1fcb47154e959b81/docs/web.md#L139"
+        },
+        {
+          "symbol": "## Gaps",
+          "line": 455,
+          "url": "https://github.com/storytold/effectcraft/blob/f5ebe5f6c5e887dddda4a2be1fcb47154e959b81/docs/web.md#L455"
+        }
+      ],
+      "evidence": "source-inspected; repository tests not executed"
+    },
+    {
+      "path": "docs/architecture.md",
+      "sha256": "af831b829af8eb48caab5fdcba767d4177a0c6a9ac197cdef25925e2533e8594",
+      "url": "https://github.com/storytold/effectcraft/blob/f5ebe5f6c5e887dddda4a2be1fcb47154e959b81/docs/architecture.md",
+      "symbols": [
+        {
+          "symbol": "## 2. Time",
+          "line": 54,
+          "url": "https://github.com/storytold/effectcraft/blob/f5ebe5f6c5e887dddda4a2be1fcb47154e959b81/docs/architecture.md#L54"
+        },
+        {
+          "symbol": "## 4. Rendering",
+          "line": 85,
+          "url": "https://github.com/storytold/effectcraft/blob/f5ebe5f6c5e887dddda4a2be1fcb47154e959b81/docs/architecture.md#L85"
+        }
+      ],
+      "evidence": "source-inspected; repository tests not executed"
+    },
+    {
+      "path": "Cargo.toml",
+      "sha256": "5c9d928d8ecc573e608c101d12a607700578c0532f28a31df6bafaf30c277762",
+      "url": "https://github.com/storytold/effectcraft/blob/f5ebe5f6c5e887dddda4a2be1fcb47154e959b81/Cargo.toml",
+      "symbols": [
+        {
+          "symbol": "license =",
+          "line": 9,
+          "url": "https://github.com/storytold/effectcraft/blob/f5ebe5f6c5e887dddda4a2be1fcb47154e959b81/Cargo.toml#L9"
+        },
+        {
+          "symbol": "filmcraft-codecs",
+          "line": 74,
+          "url": "https://github.com/storytold/effectcraft/blob/f5ebe5f6c5e887dddda4a2be1fcb47154e959b81/Cargo.toml#L74"
+        }
+      ],
+      "evidence": "source-inspected; repository tests not executed"
+    },
+    {
+      "path": "LICENSE-MIT",
+      "sha256": "7b6db9a363688683feacdf9b528f059637f2e5d2edbacd8720fc9b26781c9abe",
+      "url": "https://github.com/storytold/effectcraft/blob/f5ebe5f6c5e887dddda4a2be1fcb47154e959b81/LICENSE-MIT",
+      "symbols": [],
+      "evidence": "source-inspected; repository tests not executed"
+    },
+    {
+      "path": "LICENSE-APACHE",
+      "sha256": "0d542e0c8804e39aa7f37eb00da5a762149dc682d7829451287e11b938e94594",
+      "url": "https://github.com/storytold/effectcraft/blob/f5ebe5f6c5e887dddda4a2be1fcb47154e959b81/LICENSE-APACHE",
+      "symbols": [],
+      "evidence": "source-inspected; repository tests not executed"
+    },
+    {
+      "path": "NOTICE",
+      "sha256": "d0bf841555c56b6136745a61ec529c9a558c9dd7404d377d82f86d10e0e9b530",
+      "url": "https://github.com/storytold/effectcraft/blob/f5ebe5f6c5e887dddda4a2be1fcb47154e959b81/NOTICE",
+      "symbols": [],
+      "evidence": "source-inspected; repository tests not executed"
+    },
+    {
+      "path": "ATTRIBUTION.md",
+      "sha256": "784f76541a8c09462a0b0ab115f1609ac2e4b13dbba57a08bd093d7b2cedc90a",
+      "url": "https://github.com/storytold/effectcraft/blob/f5ebe5f6c5e887dddda4a2be1fcb47154e959b81/ATTRIBUTION.md",
+      "symbols": [],
+      "evidence": "source-inspected; repository tests not executed"
+    },
+    {
+      "path": "docs/brand/LICENSE-brand.txt",
+      "sha256": "7ee27fdb49f96a969ab80d5f800d8422aa17cb39d1cca286d18aa6227d8c7628",
+      "url": "https://github.com/storytold/effectcraft/blob/f5ebe5f6c5e887dddda4a2be1fcb47154e959b81/docs/brand/LICENSE-brand.txt",
+      "symbols": [],
+      "evidence": "source-inspected; repository tests not executed"
+    }
+  ],
+  "filisi_snapshot_hashes": [
+    {
+      "path": "src/core.js",
+      "sha256": "a7ae453f3e461a70bb478a9bf7329cb886f6eee7b3d18fe5f5d43e0267d20fa9",
+      "note": "local 0.4.1 working file; not attested to remote commit"
+    },
+    {
+      "path": "src/render.js",
+      "sha256": "4d8d5814bedee9936350910bdd418c0c052f2fe450998e6e65e135301d34ae46",
+      "note": "local 0.4.1 working file; not attested to remote commit"
+    },
+    {
+      "path": "src/export.js",
+      "sha256": "60af73fae1bac9d46017e93f0e7b55a9ce76d3ad1349de04f61d3d9ab732421d",
+      "note": "local 0.4.1 working file; not attested to remote commit"
+    },
+    {
+      "path": "src/media.js",
+      "sha256": "1659057f8cc961a1f62c987b9fe98378869a1228bc5c4ad8e45152a78188debf",
+      "note": "local 0.4.1 working file; not attested to remote commit"
+    },
+    {
+      "path": "src/media-plan.js",
+      "sha256": "ac6f033421107682d6c872f9ae4ffbe8152bc2ca24bd693b9f20ab0b8763da12",
+      "note": "local 0.4.1 working file; not attested to remote commit"
+    },
+    {
+      "path": "src/audio-export.js",
+      "sha256": "52d458766fec7ff95a37a9613275f3974cdf8f79fa21d36bb9eb65af11bcd357",
+      "note": "local 0.4.1 working file; not attested to remote commit"
+    },
+    {
+      "path": "src/curve.js",
+      "sha256": "da36647a5d8033b2f87984ecf76ae6e71d623311476b7f1baaddaf13a7138fb1",
+      "note": "local 0.4.1 working file; not attested to remote commit"
+    },
+    {
+      "path": "src/graph.js",
+      "sha256": "f914988bc856d22adeed8fe070d03049dc1c3f79152d1feb882c5e0a280f5ca5",
+      "note": "local 0.4.1 working file; not attested to remote commit"
+    },
+    {
+      "path": "src/media-core.js",
+      "sha256": "ec6e3dd68251d36de4bbd0542a077012b2c79ead362c0039c9d35d5453be018a",
+      "note": "local 0.4.1 working file; not attested to remote commit"
+    }
+  ],
+  "verification": {
+    "repository_build_run": false,
+    "repository_tests_run": false,
+    "synthetic_script": "synthetic_checks.py",
+    "synthetic_results": "synthetic-results.json",
+    "license_sample": "dependency-license-sample.json"
+  }
+}

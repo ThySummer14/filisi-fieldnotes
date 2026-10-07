@@ -1,0 +1,16 @@
+{
+  "duration_seconds": 169.583,
+  "fps": 30,
+  "video_frames": 5088,
+  "last_frame_pts": 169.56666666666666,
+  "nominal_video_end": 169.6,
+  "audio_samples": 8139984,
+  "number_safe_tick_hours": 9.849772427656559,
+  "all_rgba8_frames_gib": 17.46826171875,
+  "eight_rgba8_frames_mib": 28.125,
+  "stereo_float32_output_mib": 62.1031494140625,
+  "stereo_pcm16_output_mib": 31.05157470703125,
+  "late_reply_selected_frame": 20,
+  "checks": "passed",
+  "scope": "synthetic arithmetic and protocol model, not repository tests or actual media"
+}

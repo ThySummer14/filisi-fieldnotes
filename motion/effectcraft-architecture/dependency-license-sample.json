@@ -1,0 +1,86 @@
+[
+  {
+    "name": "boa_engine",
+    "version": "0.22.0",
+    "license": "Unlicense OR MIT",
+    "source": "https://crates.io/api/v1/crates/boa_engine/0.22.0"
+  },
+  {
+    "name": "eframe",
+    "version": "0.36.2",
+    "license": "MIT OR Apache-2.0",
+    "source": "https://crates.io/api/v1/crates/eframe/0.36.2"
+  },
+  {
+    "name": "egui",
+    "version": "0.36.2",
+    "license": "MIT OR Apache-2.0",
+    "source": "https://crates.io/api/v1/crates/egui/0.36.2"
+  },
+  {
+    "name": "exr",
+    "version": "1.74.2",
+    "license": "BSD-3-Clause",
+    "source": "https://crates.io/api/v1/crates/exr/1.74.2"
+  },
+  {
+    "name": "harfrust",
+    "version": "0.12.0",
+    "license": "MIT",
+    "source": "https://crates.io/api/v1/crates/harfrust/0.12.0"
+  },
+  {
+    "name": "image",
+    "version": "0.25.10",
+    "license": "MIT OR Apache-2.0",
+    "source": "https://crates.io/api/v1/crates/image/0.25.10"
+  },
+  {
+    "name": "rayon",
+    "version": "1.12.0",
+    "license": "MIT OR Apache-2.0",
+    "source": "https://crates.io/api/v1/crates/rayon/1.12.0"
+  },
+  {
+    "name": "serde",
+    "version": "1.0.229",
+    "license": "MIT OR Apache-2.0",
+    "source": "https://crates.io/api/v1/crates/serde/1.0.229"
+  },
+  {
+    "name": "serde_json",
+    "version": "1.0.151",
+    "license": "MIT OR Apache-2.0",
+    "source": "https://crates.io/api/v1/crates/serde_json/1.0.151"
+  },
+  {
+    "name": "skrifa",
+    "version": "0.44.0",
+    "license": "MIT OR Apache-2.0",
+    "source": "https://crates.io/api/v1/crates/skrifa/0.44.0"
+  },
+  {
+    "name": "tiny-skia",
+    "version": "0.12.0",
+    "license": "BSD-3-Clause",
+    "source": "https://crates.io/api/v1/crates/tiny-skia/0.12.0"
+  },
+  {
+    "name": "wasmi",
+    "version": "2.0.0",
+    "license": "MIT/Apache-2.0",
+    "source": "https://crates.io/api/v1/crates/wasmi/2.0.0"
+  },
+  {
+    "name": "web-time",
+    "version": "1.1.0",
+    "license": "MIT OR Apache-2.0",
+    "source": "https://crates.io/api/v1/crates/web-time/1.1.0"
+  },
+  {
+    "name": "wgpu",
+    "version": "30.0.1",
+    "license": "MIT OR Apache-2.0",
+    "source": "https://crates.io/api/v1/crates/wgpu/30.0.1"
+  }
+]

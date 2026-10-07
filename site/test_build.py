@@ -23,7 +23,7 @@ class BuildTests(unittest.TestCase):
    with self.assertRaises(ValueError):build(policy,out)
  def test_all_article_links_and_images(self):
   with tempfile.TemporaryDirectory() as temp:
-   p=Path(temp);items=json.loads((ROOT/'manifest.json').read_text())['items'];policy=p/'p.json';policy.write_text(json.dumps({'schema':1,'approved_items':[x['path'] for x in items]}));docs=build(policy,p/'out');self.assertEqual(len(docs),13)
+   p=Path(temp);items=json.loads((ROOT/'manifest.json').read_text())['items'];policy=p/'p.json';policy.write_text(json.dumps({'schema':1,'approved_items':[x['path'] for x in items]}));docs=build(policy,p/'out');self.assertEqual(len(docs),len(items))
    from html.parser import HTMLParser
    from urllib.parse import unquote
    class Links(HTMLParser):
