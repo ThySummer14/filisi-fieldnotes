@@ -1137,7 +1137,7 @@
       "path": "research/100-directions/035-floating-point-contract",
       "title": "0.1加0.2之后 系统究竟答应了什么",
       "archived_at": "2026-10-07",
-      "source_version": 1,
+      "source_version": 2,
       "status": "原创专题研究；例子、原始研究与方法边界见正文",
       "summary": "浮点误差并不总是精度不足；更常见的错误，是让近似数承担精确账目和身份判断的责任。",
       "readableMarkdown": "research/100-directions/035-floating-point-contract/readable.md",
@@ -1149,8 +1149,8 @@
         {
           "path": "research/100-directions/035-floating-point-contract/readable.md",
           "original_name": "0.1加0.2之后 系统究竟答应了什么.md",
-          "bytes": 5873,
-          "sha256": "8e39eecb48cad3f7d707ee43479ca4e10a50b128ea7a45e096b743d725f56a62",
+          "bytes": 5935,
+          "sha256": "6e3d2bbd9e374aa2f07ae103da2f8236787e9f59ca10ba563523663822f60ee3",
           "byte_identical": true
         }
       ],
@@ -1161,7 +1161,8 @@
         "浮点数",
         "数值稳定性",
         "软件契约"
-      ]
+      ],
+      "revision_note": "补充 Decimal 的 Inexact 不精确信号。"
     },
     {
       "path": "research/100-directions/036-unicode-cursor",
@@ -1470,7 +1471,7 @@
       "path": "research/100-directions/040-hyperloglog-registers",
       "title": "不记住访客名单 还能数出多少人",
       "archived_at": "2026-10-07",
-      "source_version": 1,
+      "source_version": 2,
       "status": "原创专题研究；例子、原始研究与方法边界见正文",
       "summary": "HyperLogLog保留罕见哈希模式而舍弃身份，这种压缩适合统计，也决定了不能删除和追查的边界。",
       "readableMarkdown": "research/100-directions/040-hyperloglog-registers/readable.md",
@@ -1482,8 +1483,8 @@
         {
           "path": "research/100-directions/040-hyperloglog-registers/readable.md",
           "original_name": "不记住访客名单 还能数出多少人.md",
-          "bytes": 6260,
-          "sha256": "e04e84764c73999e68a9aa784ad0b152e5d33d529409c22db4e9e5f8f03a2e44",
+          "bytes": 5859,
+          "sha256": "b93e40c030ea906ecb05b81af925852da475689604a3ee3d5e90032e87c16ad5",
           "byte_identical": true
         }
       ],
@@ -1494,7 +1495,8 @@
         "HyperLogLog",
         "数据流",
         "近似查询"
-      ]
+      ],
+      "revision_note": "删去重复验收建议，保留误差与序列化边界。"
     },
     {
       "path": "research/100-directions/041-consistent-hash-movement",
@@ -1530,7 +1532,7 @@
       "path": "research/100-directions/042-crdt-delete-intent",
       "title": "所有副本都同意 文字仍然可能不对",
       "archived_at": "2026-10-07",
-      "source_version": 1,
+      "source_version": 2,
       "status": "原创专题研究；例子、原始研究与方法边界见正文",
       "summary": "CRDT的收敛保证不能代替删除语义、多人编辑意图和应用不变量。",
       "readableMarkdown": "research/100-directions/042-crdt-delete-intent/readable.md",
@@ -1542,8 +1544,8 @@
         {
           "path": "research/100-directions/042-crdt-delete-intent/readable.md",
           "original_name": "所有副本都同意 文字仍然可能不对.md",
-          "bytes": 5768,
-          "sha256": "7dad86c44c2e9e962d2024777b6039796b67437bee48bb417b26b5fb85f05b1b",
+          "bytes": 5744,
+          "sha256": "29a8efe10c751613a29ae5176a24f4cfd33f1105725c4883db1babea9cab17b0",
           "byte_identical": true
         }
       ],
@@ -1554,7 +1556,8 @@
         "CRDT",
         "离线优先",
         "并发语义"
-      ]
+      ],
+      "revision_note": "以观察到的添加、并发添加和条目代际反例收紧结尾。"
     },
     {
       "path": "research/100-directions/043-undo-after-collaboration",
@@ -1833,7 +1836,7 @@
       "path": "research/100-directions/046-retry-idempotency",
       "title": "请求超时以后 那一次到底算不算",
       "archived_at": "2026-10-07",
-      "source_version": 1,
+      "source_version": 2,
       "status": "原创专题研究；例子、原始研究与方法边界见正文",
       "summary": "幂等键要标识一次业务意图，去重记录还必须与副作用一起处理失败。",
       "readableMarkdown": "research/100-directions/046-retry-idempotency/readable.md",
@@ -1845,8 +1848,8 @@
         {
           "path": "research/100-directions/046-retry-idempotency/readable.md",
           "original_name": "请求超时以后 那一次到底算不算.md",
-          "bytes": 6014,
-          "sha256": "3aae84377d240ef4ac5d628bc61d91a4b8ce5b3b96c82a21e98619d05709dc12",
+          "bytes": 6184,
+          "sha256": "834bf6f0903f0308570edeba936a96d826c8c7145b8ce18adf08fa0b1e495585",
           "byte_identical": true
         }
       ],
@@ -1857,7 +1860,8 @@
         "幂等",
         "重试",
         "网络协议"
-      ]
+      ],
+      "revision_note": "用同一业务意图与去重记录过期反例收紧结尾。"
     },
     {
       "path": "research/100-directions/007-syncopation-groove",
