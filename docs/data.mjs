@@ -1,6 +1,6 @@
 export function routeGate(){let version=0;return {next:()=>++version,current:n=>n===version};}
 export class LibraryData {
- constructor(index,fetcher=fetch){this.index=index;this.fetcher=fetcher;this.cache=new Map();this.active=0;this.queue=[];this.searchPromise=null;this.progress=null;}
+ constructor(index,fetcher=(...args)=>fetch(...args)){this.index=index;this.fetcher=fetcher;this.cache=new Map();this.active=0;this.queue=[];this.searchPromise=null;this.progress=null;}
  async slot(){if(this.active>=4)await new Promise(resolve=>this.queue.push(resolve));this.active++;}
  release(){this.active--;this.queue.shift()?.();}
  json(url){if(this.cache.has(url))return this.cache.get(url);const promise=(async()=>{await this.slot();try{const controller=new AbortController();const timer=setTimeout(()=>controller.abort(),20000);try{const response=await this.fetcher(url,{signal:controller.signal});if(!response.ok)throw Error('无法读取 '+url);return await response.json();}finally{clearTimeout(timer);}}finally{this.release();}})();this.cache.set(url,promise);promise.catch(()=>this.cache.delete(url));return promise;}

@@ -13,3 +13,6 @@ const gate=routeGate(),first=gate.next(),second=gate.next();assert(!gate.current
 const ordered=new LibraryData({metadata:['m'],item_count:1,search:['slow','fast']},async url=>{if(url==='slow')await new Promise(r=>setTimeout(r,10));return {ok:true,json:async()=>url==='m'?{items:[{id:'x'}]}:{entries:[{id:'x',text:url==='slow'?'first':'second'}]}};});
 assert.equal((await ordered.fulltext(await ordered.metadata(),()=>{}))[0].text,'firstsecond');
 console.log('schema2:116 full-text searches/readers; metadata-only startup; <=4 concurrency; failure retry; cache; ordered assembly; route gate passed');
+const originalFetch=globalThis.fetch;
+try{globalThis.fetch=function(){assert.equal(this,undefined,'default browser fetch must not receive a LibraryData receiver');return Promise.resolve({ok:true,json:async()=>({ok:true})});};assert.deepEqual(await new LibraryData({}).json('binding-check'),{ok:true});}finally{globalThis.fetch=originalFetch;}
+console.log('default fetch receiver regression passed');
