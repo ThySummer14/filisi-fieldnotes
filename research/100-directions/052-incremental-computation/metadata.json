@@ -1,0 +1,29 @@
+{
+  "id": "052",
+  "title": "只改一行 也可能真的需要重算全部",
+  "description": "增量系统依赖的是输入与结果的关系，改动文本的长度不能代表传播范围。",
+  "topic": "开发工具",
+  "tags": [
+    "增量计算",
+    "依赖图",
+    "构建系统"
+  ],
+  "sources": [
+    {
+      "title": "Rust增量编译详细说明",
+      "url": "https://rustc-dev-guide.rust-lang.org/queries/incremental-compilation-in-detail.html"
+    },
+    {
+      "title": "Bazel Skyframe",
+      "url": "https://bazel.build/reference/skyframe"
+    },
+    {
+      "title": "Ninja构建手册",
+      "url": "https://ninja-build.org/manual.html"
+    },
+    {
+      "title": "Mokhov等 Build Systems à la Carte",
+      "url": "https://www.microsoft.com/en-us/research/wp-content/uploads/2018/03/build-systems-final.pdf"
+    }
+  ]
+}

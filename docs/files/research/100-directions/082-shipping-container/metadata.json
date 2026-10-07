@@ -1,0 +1,40 @@
+{
+  "id": "082",
+  "slug": "shipping-container",
+  "topic": "技术史",
+  "tags": [
+    "集装箱",
+    "标准",
+    "港口"
+  ],
+  "title": "集装箱改变世界 靠的不只是一只铁盒",
+  "description": "尺寸、角件、承载测试、港口空间和跨国认可，使同一个箱子能够连续穿过不同运输系统。",
+  "date": "2026-10-07",
+  "language": "zh-CN",
+  "sources": [
+    {
+      "title": "Port Authority NY NJ The World in a Box 2015",
+      "url": "https://portfolio.panynj.gov/2015/06/23/the-world-in-a-box-a-quick-story-about-shipping/",
+      "source_type": "港务机构历史整理",
+      "accessed": "2026-10-07"
+    },
+    {
+      "title": "ISO Focus October 2007 container standard history",
+      "url": "https://www.iso.org/files/live/sites/isoorg/files/news/magazine/ISO%20Focus%20%282004-2009%29/2007/ISO%20Focus%2C%20October%202007.pdf",
+      "source_type": "标准组织历史文章含参与者回忆",
+      "accessed": "2026-10-07"
+    },
+    {
+      "title": "IMO International Convention for Safe Containers",
+      "url": "https://www.imo.org/en/about/conventions/pages/international-convention-for-safe-containers-%28csc%29.aspx",
+      "source_type": "官方制度历史说明",
+      "accessed": "2026-10-07"
+    },
+    {
+      "title": "Smithsonian Transforming the Waterfront",
+      "url": "https://www.americanhistory.si.edu/explore/exhibitions/america-on-the-move/online/transforming-waterfront",
+      "source_type": "博物馆历史综述",
+      "accessed": "2026-10-07"
+    }
+  ]
+}

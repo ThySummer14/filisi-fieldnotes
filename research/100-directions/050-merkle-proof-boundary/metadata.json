@@ -1,0 +1,29 @@
+{
+  "id": "050",
+  "title": "一个哈希能证明什么 不能证明什么",
+  "description": "Merkle路径能把局部内容连回已知根，但根的可信度、完整性与可取得性是另外的问题。",
+  "topic": "数据完整性",
+  "tags": [
+    "Merkle树",
+    "内容寻址",
+    "密码学边界"
+  ],
+  "sources": [
+    {
+      "title": "RFC 6962 Merkle树历史构造",
+      "url": "https://www.rfc-editor.org/rfc/rfc6962"
+    },
+    {
+      "title": "RFC 9162包含与一致性证明",
+      "url": "https://www.rfc-editor.org/rfc/rfc9162"
+    },
+    {
+      "title": "Git Internals Git Objects",
+      "url": "https://git-scm.com/book/en/v2/Git-Internals-Git-Objects"
+    },
+    {
+      "title": "IPFS Content Identifiers",
+      "url": "https://docs.ipfs.tech/concepts/content-addressing/"
+    }
+  ]
+}

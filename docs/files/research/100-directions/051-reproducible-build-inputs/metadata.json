@@ -1,0 +1,29 @@
+{
+  "id": "051",
+  "title": "源代码一样 为什么打包文件还是不同",
+  "description": "可复现构建要求把隐藏输入变成可描述的条件，但相同输出仍不等于可信软件。",
+  "topic": "软件供应链",
+  "tags": [
+    "可复现构建",
+    "确定性",
+    "构建环境"
+  ],
+  "sources": [
+    {
+      "title": "Reproducible Builds定义",
+      "url": "https://reproducible-builds.org/docs/definition/"
+    },
+    {
+      "title": "SOURCE_DATE_EPOCH规范说明",
+      "url": "https://reproducible-builds.org/docs/source-date-epoch/"
+    },
+    {
+      "title": "Bazel Hermeticity",
+      "url": "https://bazel.build/basics/hermeticity"
+    },
+    {
+      "title": "Ken Thompson Reflections on Trusting Trust",
+      "url": "https://www.cs.cmu.edu/~rdriley/487/papers/Thompson_1984_ReflectionsonTrustingTrust.pdf"
+    }
+  ]
+}

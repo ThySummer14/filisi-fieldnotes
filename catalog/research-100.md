@@ -1,6 +1,6 @@
 # 100个研究方向
 
-已收录 36 / 100 篇新研究。原有16篇专题研究与书稿不计入这个目标。编号是方向索引，不表示中间编号已经完成。
+已收录 42 / 100 篇新研究。原有16篇专题研究与书稿不计入这个目标。编号是方向索引，不表示中间编号已经完成。
 
 - 001 [同一条裙子，两套照明](../research/100-directions/001-dress-color-constancy/readable.md) · 视觉与色彩
 - 002 [余光中的字，为什么越挤越认不出](../research/100-directions/002-peripheral-crowding/readable.md) · 视觉与版式
@@ -26,6 +26,9 @@
 - 047 [队列变长以后 请求只是晚一点失败](../research/100-directions/047-backpressure-queue/readable.md) · 系统性能
 - 048 [一百个很快的请求 也能拼出一个慢页面](../research/100-directions/048-tail-latency-fanout/readable.md) · 分布式性能
 - 049 [两条日志的时间戳 能证明谁先影响谁吗](../research/100-directions/049-logical-clock-causality/readable.md) · 分布式理论
+- 050 [一个哈希能证明什么 不能证明什么](../research/100-directions/050-merkle-proof-boundary/readable.md) · 数据完整性
+- 051 [源代码一样 为什么打包文件还是不同](../research/100-directions/051-reproducible-build-inputs/readable.md) · 软件供应链
+- 052 [只改一行 也可能真的需要重算全部](../research/100-directions/052-incremental-computation/readable.md) · 开发工具
 - 068 [日落后 城市还在退还白天的热](../research/100-directions/068-urban-night-heat/readable.md) · 城市气候
 - 069 [菌根网络存在之后 还需要证明什么](../research/100-directions/069-forest-fungal-networks/readable.md) · 森林生态
 - 070 [水坝留下的泥沙账单](../research/100-directions/070-dam-sediment/readable.md) · 河流地貌
@@ -38,3 +41,6 @@
 - 077 [鸽子把楼房当悬崖 还继承了人的选择](../research/100-directions/077-pigeon-city/readable.md) · 城市动物
 - 078 [树池画得很大 地下可能仍是一只小花盆](../research/100-directions/078-street-tree-pits/readable.md) · 城市树木
 - 079 [雨落到铺装以后 城市改了它的时间表](../research/100-directions/079-sealed-soil/readable.md) · 城市水文
+- 080 [暗渠打开以后 河流并不会自动回到从前](../research/100-directions/080-daylighting-streams/readable.md) · 城市河流
+- 081 [把冬天装船 天然冰贸易的保存术](../research/100-directions/081-ice-trade/readable.md) · 技术史
+- 082 [集装箱改变世界 靠的不只是一只铁盒](../research/100-directions/082-shipping-container/readable.md) · 技术史

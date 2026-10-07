@@ -52,6 +52,12 @@
     "research/100-directions/049-logical-clock-causality",
     "research/100-directions/077-pigeon-city",
     "research/100-directions/078-street-tree-pits",
-    "research/100-directions/079-sealed-soil"
+    "research/100-directions/079-sealed-soil",
+    "research/100-directions/050-merkle-proof-boundary",
+    "research/100-directions/051-reproducible-build-inputs",
+    "research/100-directions/052-incremental-computation",
+    "research/100-directions/080-daylighting-streams",
+    "research/100-directions/081-ice-trade",
+    "research/100-directions/082-shipping-container"
   ]
 }

@@ -1,0 +1,46 @@
+{
+  "id": "081",
+  "slug": "ice-trade",
+  "topic": "技术史",
+  "tags": [
+    "冰贸易",
+    "保温",
+    "冷链"
+  ],
+  "title": "把冬天装船 天然冰贸易的保存术",
+  "description": "十九世纪的冰跨海航行，依靠的是允许损耗的保温体系，以及到岸之后同样重要的冰窖和销售网络。",
+  "date": "2026-10-07",
+  "language": "zh-CN",
+  "sources": [
+    {
+      "title": "Baker Library Art Nature and Business Tudor Ice Company",
+      "url": "https://www.library.hbs.edu/special-collections-and-archives/collections/collection-areas/art-program/art-nature-business",
+      "source_type": "馆藏物件说明与历史二手整理",
+      "accessed": "2026-10-07"
+    },
+    {
+      "title": "Thoreau Walden The Pond in Winter",
+      "url": "https://www.walden.org/wp-content/uploads/2016/03/Walden16PondInWinter.pdf",
+      "source_type": "一手文学见闻",
+      "accessed": "2026-10-07"
+    },
+    {
+      "title": "Smithsonian Chilly Reception",
+      "url": "https://www.smithsonianmag.com/history/chilly-reception-66099329/",
+      "source_type": "二手技术史报道",
+      "accessed": "2026-10-07"
+    },
+    {
+      "title": "Science Museum Group Seeger dry air siphon refrigerator",
+      "url": "https://collection.sciencemuseumgroup.org.uk/objects/co48804/seeger-dry-air-siphon-refrigerator-c-1900-iceboxes",
+      "source_type": "博物馆实物记录",
+      "accessed": "2026-10-07"
+    },
+    {
+      "title": "OpenStax Phase Change and Latent Heat",
+      "url": "https://openstax.org/books/physics/pages/11-3-phase-change-and-latent-heat",
+      "source_type": "大学教材",
+      "accessed": "2026-10-07"
+    }
+  ]
+}

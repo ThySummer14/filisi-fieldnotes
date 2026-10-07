@@ -1,12 +1,12 @@
 {
   "archive_date": "2026-10-07",
-  "item_count": 52,
-  "original_file_count": 60,
+  "item_count": 58,
+  "original_file_count": 66,
   "original_docx_count": 14,
   "original_pdf_count": 6,
-  "original_markdown_count": 40,
+  "original_markdown_count": 46,
   "image_count": 33,
-  "readable_markdown_count": 52,
+  "readable_markdown_count": 58,
   "items": [
     {
       "path": "reading/sociological-imagination",
@@ -2220,6 +2220,186 @@
         "不透水面",
         "渗透",
         "径流"
+      ]
+    },
+    {
+      "path": "research/100-directions/050-merkle-proof-boundary",
+      "title": "一个哈希能证明什么 不能证明什么",
+      "archived_at": "2026-10-07",
+      "source_version": 1,
+      "status": "原创专题研究；例子、原始研究与方法边界见正文",
+      "summary": "Merkle路径能把局部内容连回已知根，但根的可信度、完整性与可取得性是另外的问题。",
+      "readableMarkdown": "research/100-directions/050-merkle-proof-boundary/readable.md",
+      "sources": "research/100-directions/050-merkle-proof-boundary/sources.md",
+      "assets": [
+        "research/100-directions/050-merkle-proof-boundary/metadata.json"
+      ],
+      "originals": [
+        {
+          "path": "research/100-directions/050-merkle-proof-boundary/readable.md",
+          "original_name": "一个哈希能证明什么 不能证明什么.md",
+          "bytes": 5829,
+          "sha256": "98850bfcc47ccc2657ad118c2f44945e53568c00aa5c6bc78f2806e483b73f75",
+          "byte_identical": true
+        }
+      ],
+      "series": "research-100-20261007",
+      "series_number": "050",
+      "topic": "数据完整性",
+      "tags": [
+        "Merkle树",
+        "内容寻址",
+        "密码学边界"
+      ]
+    },
+    {
+      "path": "research/100-directions/051-reproducible-build-inputs",
+      "title": "源代码一样 为什么打包文件还是不同",
+      "archived_at": "2026-10-07",
+      "source_version": 1,
+      "status": "原创专题研究；例子、原始研究与方法边界见正文",
+      "summary": "可复现构建要求把隐藏输入变成可描述的条件，但相同输出仍不等于可信软件。",
+      "readableMarkdown": "research/100-directions/051-reproducible-build-inputs/readable.md",
+      "sources": "research/100-directions/051-reproducible-build-inputs/sources.md",
+      "assets": [
+        "research/100-directions/051-reproducible-build-inputs/metadata.json"
+      ],
+      "originals": [
+        {
+          "path": "research/100-directions/051-reproducible-build-inputs/readable.md",
+          "original_name": "源代码一样 为什么打包文件还是不同.md",
+          "bytes": 5994,
+          "sha256": "ea3d99763310fb62fe6e2ccdfc8f2e26e6b62f9b03da05eef4351f347e2540c0",
+          "byte_identical": true
+        }
+      ],
+      "series": "research-100-20261007",
+      "series_number": "051",
+      "topic": "软件供应链",
+      "tags": [
+        "可复现构建",
+        "确定性",
+        "构建环境"
+      ]
+    },
+    {
+      "path": "research/100-directions/052-incremental-computation",
+      "title": "只改一行 也可能真的需要重算全部",
+      "archived_at": "2026-10-07",
+      "source_version": 1,
+      "status": "原创专题研究；例子、原始研究与方法边界见正文",
+      "summary": "增量系统依赖的是输入与结果的关系，改动文本的长度不能代表传播范围。",
+      "readableMarkdown": "research/100-directions/052-incremental-computation/readable.md",
+      "sources": "research/100-directions/052-incremental-computation/sources.md",
+      "assets": [
+        "research/100-directions/052-incremental-computation/metadata.json"
+      ],
+      "originals": [
+        {
+          "path": "research/100-directions/052-incremental-computation/readable.md",
+          "original_name": "只改一行 也可能真的需要重算全部.md",
+          "bytes": 6011,
+          "sha256": "4c9cabf161abaa20248bbdfdb72d550b35975331bd38fada765264c5d0f23d7d",
+          "byte_identical": true
+        }
+      ],
+      "series": "research-100-20261007",
+      "series_number": "052",
+      "topic": "开发工具",
+      "tags": [
+        "增量计算",
+        "依赖图",
+        "构建系统"
+      ]
+    },
+    {
+      "path": "research/100-directions/080-daylighting-streams",
+      "title": "暗渠打开以后 河流并不会自动回到从前",
+      "archived_at": "2026-10-07",
+      "source_version": 1,
+      "status": "原创专题研究；例子、原始研究与方法边界见正文",
+      "summary": "河流复明能重建水边空间和部分生态过程，但水源、洪水、上游压力与维护方式仍决定它成为怎样的河。",
+      "readableMarkdown": "research/100-directions/080-daylighting-streams/readable.md",
+      "sources": "research/100-directions/080-daylighting-streams/sources.md",
+      "assets": [
+        "research/100-directions/080-daylighting-streams/metadata.json"
+      ],
+      "originals": [
+        {
+          "path": "research/100-directions/080-daylighting-streams/readable.md",
+          "original_name": "暗渠打开以后 河流并不会自动回到从前.md",
+          "bytes": 6444,
+          "sha256": "48f43a15e2937dc7baadd2f909a23272905df3e08c4fbe1cb3a98a9c1e1dd8c5",
+          "byte_identical": true
+        }
+      ],
+      "series": "research-100-20261007",
+      "series_number": "080",
+      "topic": "城市河流",
+      "tags": [
+        "河流复明",
+        "修复",
+        "城市空间"
+      ]
+    },
+    {
+      "path": "research/100-directions/081-ice-trade",
+      "title": "把冬天装船 天然冰贸易的保存术",
+      "archived_at": "2026-10-07",
+      "source_version": 1,
+      "status": "原创专题研究；例子、原始研究与方法边界见正文",
+      "summary": "十九世纪的冰跨海航行，依靠的是允许损耗的保温体系，以及到岸之后同样重要的冰窖和销售网络。",
+      "readableMarkdown": "research/100-directions/081-ice-trade/readable.md",
+      "sources": "research/100-directions/081-ice-trade/sources.md",
+      "assets": [
+        "research/100-directions/081-ice-trade/metadata.json"
+      ],
+      "originals": [
+        {
+          "path": "research/100-directions/081-ice-trade/readable.md",
+          "original_name": "把冬天装船 天然冰贸易的保存术.md",
+          "bytes": 6617,
+          "sha256": "237d968a45cc796769f1c9a8f4f03ce12724ab8aaa866c3adbd8fdbd10d20926",
+          "byte_identical": true
+        }
+      ],
+      "series": "research-100-20261007",
+      "series_number": "081",
+      "topic": "技术史",
+      "tags": [
+        "冰贸易",
+        "保温",
+        "冷链"
+      ]
+    },
+    {
+      "path": "research/100-directions/082-shipping-container",
+      "title": "集装箱改变世界 靠的不只是一只铁盒",
+      "archived_at": "2026-10-07",
+      "source_version": 1,
+      "status": "原创专题研究；例子、原始研究与方法边界见正文",
+      "summary": "尺寸、角件、承载测试、港口空间和跨国认可，使同一个箱子能够连续穿过不同运输系统。",
+      "readableMarkdown": "research/100-directions/082-shipping-container/readable.md",
+      "sources": "research/100-directions/082-shipping-container/sources.md",
+      "assets": [
+        "research/100-directions/082-shipping-container/metadata.json"
+      ],
+      "originals": [
+        {
+          "path": "research/100-directions/082-shipping-container/readable.md",
+          "original_name": "集装箱改变世界 靠的不只是一只铁盒.md",
+          "bytes": 6182,
+          "sha256": "77869b53577749262a371b7be3374e66af11bcd75c16c3b6d61b1089a6a1b1f6",
+          "byte_identical": true
+        }
+      ],
+      "series": "research-100-20261007",
+      "series_number": "082",
+      "topic": "技术史",
+      "tags": [
+        "集装箱",
+        "标准",
+        "港口"
       ]
     }
   ]

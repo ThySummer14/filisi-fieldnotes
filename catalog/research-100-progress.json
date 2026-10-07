@@ -1,6 +1,6 @@
 {
   "target": 100,
-  "completed_count": 36,
+  "completed_count": 42,
   "existing_library_excluded": 16,
   "completed": [
     {
@@ -148,6 +148,24 @@
       "path": "research/100-directions/049-logical-clock-causality"
     },
     {
+      "number": "050",
+      "title": "一个哈希能证明什么 不能证明什么",
+      "topic": "数据完整性",
+      "path": "research/100-directions/050-merkle-proof-boundary"
+    },
+    {
+      "number": "051",
+      "title": "源代码一样 为什么打包文件还是不同",
+      "topic": "软件供应链",
+      "path": "research/100-directions/051-reproducible-build-inputs"
+    },
+    {
+      "number": "052",
+      "title": "只改一行 也可能真的需要重算全部",
+      "topic": "开发工具",
+      "path": "research/100-directions/052-incremental-computation"
+    },
+    {
       "number": "068",
       "title": "日落后 城市还在退还白天的热",
       "topic": "城市气候",
@@ -218,6 +236,24 @@
       "title": "雨落到铺装以后 城市改了它的时间表",
       "topic": "城市水文",
       "path": "research/100-directions/079-sealed-soil"
+    },
+    {
+      "number": "080",
+      "title": "暗渠打开以后 河流并不会自动回到从前",
+      "topic": "城市河流",
+      "path": "research/100-directions/080-daylighting-streams"
+    },
+    {
+      "number": "081",
+      "title": "把冬天装船 天然冰贸易的保存术",
+      "topic": "技术史",
+      "path": "research/100-directions/081-ice-trade"
+    },
+    {
+      "number": "082",
+      "title": "集装箱改变世界 靠的不只是一只铁盒",
+      "topic": "技术史",
+      "path": "research/100-directions/082-shipping-container"
     }
   ]
 }

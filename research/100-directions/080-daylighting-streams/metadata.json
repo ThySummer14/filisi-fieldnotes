@@ -1,0 +1,46 @@
+{
+  "id": "080",
+  "slug": "daylighting-streams",
+  "topic": "城市河流",
+  "tags": [
+    "河流复明",
+    "修复",
+    "城市空间"
+  ],
+  "title": "暗渠打开以后 河流并不会自动回到从前",
+  "description": "河流复明能重建水边空间和部分生态过程，但水源、洪水、上游压力与维护方式仍决定它成为怎样的河。",
+  "date": "2026-10-07",
+  "language": "zh-CN",
+  "sources": [
+    {
+      "title": "Stadt Zürich Stadtbäche 2013",
+      "url": "https://www.stadt-zuerich.ch/content/dam/web/de/aktuell/publikationen/2013/stadtbaeche-stadt-zuerich.pdf",
+      "source_type": "市政府历史与管理材料",
+      "accessed": "2026-10-07"
+    },
+    {
+      "title": "Seoul Metropolitan Government Cheonggyecheon",
+      "url": "https://english.seoul.go.kr/service/amusement/stream/1-cheonggyecheon/",
+      "source_type": "官方项目记录",
+      "accessed": "2026-10-07"
+    },
+    {
+      "title": "Seoul Solution Cheong Gye Cheon Restoration Project",
+      "url": "https://seoulsolution.kr/sites/default/files/policy/%5BEN%5DCheong%20Gye%20Cheon%20Restoration%20Project.pdf",
+      "source_type": "官方历史项目演示",
+      "accessed": "2026-10-07"
+    },
+    {
+      "title": "NYSDEC Saw Mill River Flood Mitigation and Resilience Report 2025",
+      "url": "https://dec.ny.gov/sites/default/files/2025-10/sawmillriver_floodresiliencereport.pdf",
+      "source_type": "官方委托研究",
+      "accessed": "2026-10-07"
+    },
+    {
+      "title": "Wild et al 2011 Deculverting reviewing the evidence",
+      "url": "https://doi.org/10.1111/j.1747-6593.2010.00236.x",
+      "source_type": "学术综述",
+      "accessed": "2026-10-07"
+    }
+  ]
+}
