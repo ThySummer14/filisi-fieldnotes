@@ -1,0 +1,43 @@
+{
+  "id": "027",
+  "title": "画得出来的楼梯，为什么走不完",
+  "description": "二维投影、实体构造与空间解释分开后，不可能图形的矛盾才看得清。",
+  "topic": "视觉空间推断",
+  "tags": [
+    "不可能图形",
+    "局部与整体",
+    "深度线索",
+    "知觉假设"
+  ],
+  "language": "zh-CN",
+  "sources": [
+    {
+      "id": 1,
+      "title": "Perceptual illusions and brain models",
+      "url": "https://www.richardgregory.org/papers/brainmodels/illusions-and-brain-models_p2.htm",
+      "type": "primary_theory",
+      "accessed": "2026-10-07"
+    },
+    {
+      "id": 2,
+      "title": "Right-angle preference in impossible objects and impossible motion",
+      "url": "https://archive.bridgesmathart.org/2014/bridges2014-449.pdf",
+      "type": "primary_construction_research",
+      "accessed": "2026-10-07"
+    },
+    {
+      "id": 3,
+      "title": "Evidence for similar early but not late representation of possible and impossible objects",
+      "url": "https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2015.00094/full",
+      "type": "primary_research",
+      "accessed": "2026-10-07"
+    },
+    {
+      "id": 4,
+      "title": "Preference for impossible figures in 4-month-old infants",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC2746481/",
+      "type": "primary_research",
+      "accessed": "2026-10-07"
+    }
+  ]
+}

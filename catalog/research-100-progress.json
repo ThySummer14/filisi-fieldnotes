@@ -1,6 +1,6 @@
 {
   "target": 100,
-  "completed_count": 90,
+  "completed_count": 93,
   "existing_library_excluded": 16,
   "completed": [
     {
@@ -146,6 +146,24 @@
       "title": "高音为什么总想往上走",
       "topic": "跨感官对应",
       "path": "research/100-directions/024-pitch-crossmodal-correspondence"
+    },
+    {
+      "number": "025",
+      "title": "画里的路很深，画纸仍然很薄",
+      "topic": "图像空间知觉",
+      "path": "research/100-directions/025-picture-duality"
+    },
+    {
+      "number": "026",
+      "title": "高光不是贴在物体上的白色贴纸",
+      "topic": "材质知觉",
+      "path": "research/100-directions/026-gloss-under-changing-light"
+    },
+    {
+      "number": "027",
+      "title": "画得出来的楼梯，为什么走不完",
+      "topic": "视觉空间推断",
+      "path": "research/100-directions/027-impossible-object-interpretation"
     },
     {
       "number": "035",

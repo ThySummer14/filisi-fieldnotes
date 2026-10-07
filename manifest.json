@@ -1,12 +1,12 @@
 {
   "archive_date": "2026-10-07",
-  "item_count": 106,
-  "original_file_count": 114,
+  "item_count": 109,
+  "original_file_count": 117,
   "original_docx_count": 14,
   "original_pdf_count": 6,
-  "original_markdown_count": 94,
+  "original_markdown_count": 97,
   "image_count": 33,
-  "readable_markdown_count": 106,
+  "readable_markdown_count": 109,
   "items": [
     {
       "path": "reading/sociological-imagination",
@@ -3862,6 +3862,99 @@
         "潮汐",
         "月球",
         "海盆"
+      ]
+    },
+    {
+      "path": "research/100-directions/025-picture-duality",
+      "title": "画里的路很深，画纸仍然很薄",
+      "archived_at": "2026-10-07",
+      "source_version": 1,
+      "status": "原创专题研究；例子、原始研究与方法边界见正文",
+      "summary": "画面纵深与承载平面怎样共存：测量深度、斜视补偿和单眼实体感分别说明什么。",
+      "readableMarkdown": "research/100-directions/025-picture-duality/readable.md",
+      "sources": "research/100-directions/025-picture-duality/sources.md",
+      "assets": [
+        "research/100-directions/025-picture-duality/metadata.json"
+      ],
+      "originals": [
+        {
+          "path": "research/100-directions/025-picture-duality/readable.md",
+          "original_name": "画里的路很深，画纸仍然很薄.md",
+          "bytes": 6448,
+          "sha256": "78ecb53a1e199a043e98850e81b95ca46bdf3eddb1859107de3e2b04e1f6450d",
+          "byte_identical": true
+        }
+      ],
+      "series": "research-100-20261007",
+      "series_number": "025",
+      "topic": "图像空间知觉",
+      "tags": [
+        "双重知觉",
+        "透视",
+        "空间知觉",
+        "图像表面"
+      ]
+    },
+    {
+      "path": "research/100-directions/026-gloss-under-changing-light",
+      "title": "高光不是贴在物体上的白色贴纸",
+      "archived_at": "2026-10-07",
+      "source_version": 1,
+      "status": "原创专题研究；例子、原始研究与方法边界见正文",
+      "summary": "从偏度假说到高光空间关系，拆开物理反射与眼中光泽之间的误差。",
+      "readableMarkdown": "research/100-directions/026-gloss-under-changing-light/readable.md",
+      "sources": "research/100-directions/026-gloss-under-changing-light/sources.md",
+      "assets": [
+        "research/100-directions/026-gloss-under-changing-light/metadata.json"
+      ],
+      "originals": [
+        {
+          "path": "research/100-directions/026-gloss-under-changing-light/readable.md",
+          "original_name": "高光不是贴在物体上的白色贴纸.md",
+          "bytes": 6507,
+          "sha256": "92d2829321502cbf6fd784269f0fc648d6d19d5a0ead894aa39b1571afd5a859",
+          "byte_identical": true
+        }
+      ],
+      "series": "research-100-20261007",
+      "series_number": "026",
+      "topic": "材质知觉",
+      "tags": [
+        "光泽",
+        "图像统计",
+        "照明",
+        "高光"
+      ]
+    },
+    {
+      "path": "research/100-directions/027-impossible-object-interpretation",
+      "title": "画得出来的楼梯，为什么走不完",
+      "archived_at": "2026-10-07",
+      "source_version": 1,
+      "status": "原创专题研究；例子、原始研究与方法边界见正文",
+      "summary": "二维投影、实体构造与空间解释分开后，不可能图形的矛盾才看得清。",
+      "readableMarkdown": "research/100-directions/027-impossible-object-interpretation/readable.md",
+      "sources": "research/100-directions/027-impossible-object-interpretation/sources.md",
+      "assets": [
+        "research/100-directions/027-impossible-object-interpretation/metadata.json"
+      ],
+      "originals": [
+        {
+          "path": "research/100-directions/027-impossible-object-interpretation/readable.md",
+          "original_name": "画得出来的楼梯，为什么走不完.md",
+          "bytes": 6580,
+          "sha256": "410d71cd1cd293f3bc76c9c54da5a2e442c7b03bab7baa2fcb3a7301f27bd8a9",
+          "byte_identical": true
+        }
+      ],
+      "series": "research-100-20261007",
+      "series_number": "027",
+      "topic": "视觉空间推断",
+      "tags": [
+        "不可能图形",
+        "局部与整体",
+        "深度线索",
+        "知觉假设"
       ]
     }
   ]

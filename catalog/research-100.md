@@ -1,6 +1,6 @@
 # 100个研究方向
 
-已收录 90 / 100 篇新研究。原有16篇专题研究与书稿不计入这个目标。编号是方向索引，不表示中间编号已经完成。
+已收录 93 / 100 篇新研究。原有16篇专题研究与书稿不计入这个目标。编号是方向索引，不表示中间编号已经完成。
 
 - 001 [同一条裙子，两套照明](../research/100-directions/001-dress-color-constancy/readable.md) · 视觉与色彩
 - 002 [余光中的字，为什么越挤越认不出](../research/100-directions/002-peripheral-crowding/readable.md) · 视觉与版式
@@ -26,6 +26,9 @@
 - 022 [音乐响起后，那张脸变了吗](../research/100-directions/022-music-and-face-judgment/readable.md) · 跨感官情绪
 - 023 [“布巴”圆，“奇奇”尖，但别急着宣布天生如此](../research/100-directions/023-bouba-kiki-boundaries/readable.md) · 声音象征
 - 024 [高音为什么总想往上走](../research/100-directions/024-pitch-crossmodal-correspondence/readable.md) · 跨感官对应
+- 025 [画里的路很深，画纸仍然很薄](../research/100-directions/025-picture-duality/readable.md) · 图像空间知觉
+- 026 [高光不是贴在物体上的白色贴纸](../research/100-directions/026-gloss-under-changing-light/readable.md) · 材质知觉
+- 027 [画得出来的楼梯，为什么走不完](../research/100-directions/027-impossible-object-interpretation/readable.md) · 视觉空间推断
 - 035 [0.1加0.2之后 系统究竟答应了什么](../research/100-directions/035-floating-point-contract/readable.md) · 数值计算
 - 036 [删除键眼里的一个字](../research/100-directions/036-unicode-cursor/readable.md) · 文本系统
 - 037 [明天中午和二十四小时后是两个任务](../research/100-directions/037-time-is-not-duration/readable.md) · 时间建模

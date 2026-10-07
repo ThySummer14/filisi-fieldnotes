@@ -1,0 +1,43 @@
+{
+  "id": "026",
+  "title": "高光不是贴在物体上的白色贴纸",
+  "description": "从偏度假说到高光空间关系，拆开物理反射与眼中光泽之间的误差。",
+  "topic": "材质知觉",
+  "tags": [
+    "光泽",
+    "图像统计",
+    "照明",
+    "高光"
+  ],
+  "language": "zh-CN",
+  "sources": [
+    {
+      "id": 1,
+      "title": "Real-world illumination and the perception of surface reflectance properties",
+      "url": "https://cs.stanford.edu/people/rondror/papers/fleming_jov_03.pdf",
+      "type": "primary_research",
+      "accessed": "2026-10-07"
+    },
+    {
+      "id": 2,
+      "title": "Image statistics and the perception of surface qualities",
+      "url": "https://www.cns.nyu.edu/~msl/courses/2223/Readings/MotoyoshiNishidaSharanAdelson.Nature.2007.pdf",
+      "type": "primary_research",
+      "accessed": "2026-10-07"
+    },
+    {
+      "id": 3,
+      "title": "Image statistics do not explain the perception of gloss and lightness",
+      "url": "https://pdfs.semanticscholar.org/f290/1866bbc830dd51c9ffbcafe161ecca52119f.pdf",
+      "type": "primary_research",
+      "accessed": "2026-10-07"
+    },
+    {
+      "id": 4,
+      "title": "The perception and misperception of specular surface reflectance",
+      "url": "https://www.sciencedirect.com/science/article/pii/S0960982212009372",
+      "type": "primary_research",
+      "accessed": "2026-10-07"
+    }
+  ]
+}
