@@ -1,0 +1,43 @@
+{
+  "id": "028",
+  "title": "给画面称重，能称出美感吗",
+  "description": "对称、几何重心、主观平衡与喜欢不是同一项测量，连打分和亲手摆放也会改变结果。",
+  "topic": "构图与审美",
+  "tags": [
+    "视觉平衡",
+    "对称",
+    "语义距离",
+    "评价方法"
+  ],
+  "language": "zh-CN",
+  "sources": [
+    {
+      "id": 1,
+      "title": "Judging whether it is aesthetic: Does equilibrium compensate for the lack of symmetry?",
+      "url": "https://www.unige.ch/fapse/PSY/persons/kerzel/reprints/samuel.kerzel.2013.pdf",
+      "type": "primary_research",
+      "accessed": "2026-10-07"
+    },
+    {
+      "id": 2,
+      "title": "Aesthetic preference for spatial composition in multiobject pictures",
+      "url": "https://www.researchgate.net/publication/233397398_Aesthetic_Preference_for_Spatial_Composition_in_Multiobject_Pictures",
+      "type": "primary_research",
+      "accessed": "2026-10-07"
+    },
+    {
+      "id": 3,
+      "title": "Implicit and explicit evaluation of visual symmetry as a function of art expertise",
+      "url": "https://journals.sagepub.com/doi/pdf/10.1177/2041669518761464?download=true",
+      "type": "primary_research",
+      "accessed": "2026-10-07"
+    },
+    {
+      "id": 4,
+      "title": "Preference for symmetry, balance, or proximity in picture aesthetics depends on the method of evaluation",
+      "url": "https://journals.sagepub.com/doi/pdf/10.1177/20416695251381548",
+      "type": "primary_research",
+      "accessed": "2026-10-07"
+    }
+  ]
+}

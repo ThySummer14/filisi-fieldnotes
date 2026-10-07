@@ -1,6 +1,6 @@
 {
   "target": 100,
-  "completed_count": 93,
+  "completed_count": 96,
   "existing_library_excluded": 16,
   "completed": [
     {
@@ -164,6 +164,24 @@
       "title": "画得出来的楼梯，为什么走不完",
       "topic": "视觉空间推断",
       "path": "research/100-directions/027-impossible-object-interpretation"
+    },
+    {
+      "number": "028",
+      "title": "给画面称重，能称出美感吗",
+      "topic": "构图与审美",
+      "path": "research/100-directions/028-balance-and-symmetry"
+    },
+    {
+      "number": "029",
+      "title": "一条倒U形曲线，可能没有一个人站在峰顶",
+      "topic": "复杂性与审美",
+      "path": "research/100-directions/029-complexity-and-insight"
+    },
+    {
+      "number": "030",
+      "title": "顺眼与想再看，可能来自不同过程",
+      "topic": "审美加工机制",
+      "path": "research/100-directions/030-familiarity-and-surprise"
     },
     {
       "number": "035",

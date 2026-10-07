@@ -1,0 +1,43 @@
+{
+  "id": "030",
+  "title": "顺眼与想再看，可能来自不同过程",
+  "description": "把重复接触、加工流畅和预测误差放回各自的变量与检验，保留理论能够失败的条件。",
+  "topic": "审美加工机制",
+  "tags": [
+    "单纯曝光",
+    "流畅性",
+    "预测误差",
+    "愉悦与兴趣"
+  ],
+  "language": "zh-CN",
+  "sources": [
+    {
+      "id": 1,
+      "title": "A re-examination of the mere exposure effect: The influence of repeated exposure on recognition, familiarity, and liking",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/28263645/",
+      "type": "meta_analysis",
+      "accessed": "2026-10-07"
+    },
+    {
+      "id": 2,
+      "title": "Processing fluency and aesthetic pleasure: Is beauty in the perceiver’s processing experience?",
+      "url": "https://www.researchgate.net/publication/8144801_Processing_Fluency_and_Aesthetic_Pleasure_Is_Beauty_in_the_Perceiver%27s_Processing_Experience",
+      "type": "primary_theory_and_review",
+      "accessed": "2026-10-07"
+    },
+    {
+      "id": 3,
+      "title": "Aesthetic pleasure versus aesthetic interest: The two routes to aesthetic liking",
+      "url": "https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2017.00015/full",
+      "type": "primary_research",
+      "accessed": "2026-10-07"
+    },
+    {
+      "id": 4,
+      "title": "Putting reward in art: A tentative prediction error account of visual art",
+      "url": "https://sandervandecruys.be/pdf/2011_VandeCruys-i-Perception_Putting_reward.pdf",
+      "type": "primary_theory",
+      "accessed": "2026-10-07"
+    }
+  ]
+}

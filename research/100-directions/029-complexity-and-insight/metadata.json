@@ -1,0 +1,43 @@
+{
+  "id": "029",
+  "title": "一条倒U形曲线，可能没有一个人站在峰顶",
+  "description": "拆开群体平均、个人偏好与理解进展，检查“适度复杂最好看”为什么不能免检。",
+  "topic": "复杂性与审美",
+  "tags": [
+    "倒U形",
+    "个人差异",
+    "歧义",
+    "领悟"
+  ],
+  "language": "zh-CN",
+  "sources": [
+    {
+      "id": 1,
+      "title": "Liking versus complexity: Decomposing the inverted U-curve",
+      "url": "https://www.frontiersin.org/journals/human-neuroscience/articles/10.3389/fnhum.2016.00112/pdf",
+      "type": "primary_research",
+      "accessed": "2026-10-07"
+    },
+    {
+      "id": 2,
+      "title": "Examining complexity across domains: Relating subjective and objective measures of affective environmental scenes, paintings and music",
+      "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0072412",
+      "type": "primary_research",
+      "accessed": "2026-10-07"
+    },
+    {
+      "id": 3,
+      "title": "The aesthetic aha: On the pleasure of having insights into Gestalt",
+      "url": "https://tiffaning.com/files/Muth_Carbon_2013_The%20Aesthetic%20Aha.pdf",
+      "type": "primary_research",
+      "accessed": "2026-10-07"
+    },
+    {
+      "id": 4,
+      "title": "The appeal of challenge in the perception of art: How ambiguity, solvability of ambiguity, and the opportunity for insight affect appreciation",
+      "url": "https://experimental-psychology.de/ccc/docs/pubs/MuthHesslingerCarbon2015.pdf",
+      "type": "primary_research",
+      "accessed": "2026-10-07"
+    }
+  ]
+}
