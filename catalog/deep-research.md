@@ -1,6 +1,6 @@
 # 长期深化研究
 
-本轮新增6篇，长期目标按新增文章计为6/10000。此前116篇不计入这一新目标。另有2篇原文深化修订，沿用编号、不重复计数。
+累计新增8篇，长期目标按新增文章计为8/10000。此前116篇不计入这一新目标。另有2篇原文深化修订，沿用编号、不重复计数。
 
 ## 新增文章
 
@@ -10,6 +10,9 @@
 - 104 [恒星暗了一下，怎样知道前面经过的是行星](../research/deep-studies/104-transit-false-positives/readable.md)
 - 105 [盲眼洞穴鱼为什么先长出眼睛，再让它退去](../research/deep-studies/105-cavefish-eye-regression/readable.md)
 - 106 [罗塞塔石碑给了译文，为什么还要花二十多年才读懂](../research/deep-studies/106-rosetta-decipherment/readable.md)
+
+- 107 [GPS卫星钟为什么不能只在发射前对准一次](../research/deep-studies/107-gps-clock-rate/readable.md)
+- 108 [显微镜看不清挤在一起的分子，为什么让它们轮流发光就有用](../research/deep-studies/108-localization-microscopy/readable.md)
 
 ## 原编号深化修订
 

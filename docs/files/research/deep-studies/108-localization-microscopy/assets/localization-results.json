@@ -1,0 +1,56 @@
+{
+  "seed": 20261008,
+  "sigma_nm": 120.0,
+  "independent_single_emitter_trials": [
+    {
+      "photons": 100,
+      "expected_sd_nm": 12.0,
+      "empirical_sd_nm": 11.835453704057585,
+      "trials": 400
+    },
+    {
+      "photons": 400,
+      "expected_sd_nm": 6.0,
+      "empirical_sd_nm": 5.789088839620825,
+      "trials": 400
+    },
+    {
+      "photons": 1600,
+      "expected_sd_nm": 3.0,
+      "empirical_sd_nm": 3.157196063963079,
+      "trials": 400
+    }
+  ],
+  "two_equal_emitters_nm": [
+    -20,
+    20
+  ],
+  "combined_single_center": {
+    "expected_nm": 0,
+    "empirical_mean_nm": -0.1380240332607268,
+    "empirical_sd_nm": 3.0510099251393705
+  },
+  "systematic_shift_example_nm": 20,
+  "live_cell_frame_math": {
+    "raw_frames": 7500,
+    "exposure_ms": 40,
+    "total_s": 300,
+    "reconstructions": [
+      {
+        "final_frames": 5,
+        "raw_frames_per_group": 1500,
+        "seconds_per_reconstruction": 60.0
+      },
+      {
+        "final_frames": 10,
+        "raw_frames_per_group": 750,
+        "seconds_per_reconstruction": 30.0
+      },
+      {
+        "final_frames": 20,
+        "raw_frames_per_group": 375,
+        "seconds_per_reconstruction": 15.0
+      }
+    ]
+  }
+}

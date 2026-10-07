@@ -1,8 +1,8 @@
 {
   "target": 10000,
-  "completed_new_count": 6,
+  "completed_new_count": 8,
   "prior_library_excluded": 116,
-  "existing_revisions_this_round": 2,
+  "existing_revisions_this_round": 0,
   "completed": [
     {
       "number": "101",
@@ -33,6 +33,16 @@
       "number": "106",
       "title": "罗塞塔石碑给了译文，为什么还要花二十多年才读懂",
       "path": "research/deep-studies/106-rosetta-decipherment"
+    },
+    {
+      "number": "107",
+      "title": "GPS卫星钟为什么不能只在发射前对准一次",
+      "path": "research/deep-studies/107-gps-clock-rate"
+    },
+    {
+      "number": "108",
+      "title": "显微镜看不清挤在一起的分子，为什么让它们轮流发光就有用",
+      "path": "research/deep-studies/108-localization-microscopy"
     }
   ]
 }

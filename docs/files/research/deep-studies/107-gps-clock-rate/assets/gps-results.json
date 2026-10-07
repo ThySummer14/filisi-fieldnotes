@@ -1,0 +1,66 @@
+{
+  "model": "spherical Earth, stationary ground reference, circular satellite orbit; no geoid/rotation/oblateness",
+  "parameters": {
+    "c_m_s": 299792458.0,
+    "GM_m3_s2": 398600441800000.0,
+    "ground_radius_m": 6378137.0,
+    "orbital_radius_m": 26560000.0
+  },
+  "orbital_speed_m_s": 3873.957505512686,
+  "gravitational_gain_us_day": 45.650911342222365,
+  "motion_loss_us_day": -7.213599822661272,
+  "net_gain_us_day": 38.437311519561085,
+  "classic_adjustment_us_day": 38.575008,
+  "classic_nominal_MHz": 10.229999995432612,
+  "eccentric_example": {
+    "a_m": 26560000.0,
+    "e": 0.01,
+    "correction_peak_ns": 22.896628866967987,
+    "equivalent_range_peak_m": 6.8642366479420875
+  },
+  "chou_height_change": {
+    "h_m": 0.33,
+    "fractional_prediction": 3.598310281277403e-17
+  },
+  "one_dimensional_examples": [
+    {
+      "satellite_clock_errors_s": [
+        0,
+        0
+      ],
+      "pseudoranges_m": [
+        8000000.0,
+        12000000.0
+      ],
+      "x_estimate_m": 8000000.0,
+      "position_error_m": 0.0,
+      "receiver_clock_estimate_s": 0.0
+    },
+    {
+      "satellite_clock_errors_s": [
+        1e-06,
+        1e-06
+      ],
+      "pseudoranges_m": [
+        7999700.207542,
+        11999700.207542
+      ],
+      "x_estimate_m": 8000000.0,
+      "position_error_m": 0.0,
+      "receiver_clock_estimate_s": -9.99999999998871e-07
+    },
+    {
+      "satellite_clock_errors_s": [
+        1e-06,
+        0
+      ],
+      "pseudoranges_m": [
+        7999700.207542,
+        12000000.0
+      ],
+      "x_estimate_m": 7999850.103771,
+      "position_error_m": -149.89622899983078,
+      "receiver_clock_estimate_s": -4.99999999996329e-07
+    }
+  ]
+}

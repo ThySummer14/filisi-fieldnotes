@@ -122,6 +122,8 @@
     "research/deep-studies/106-rosetta-decipherment",
     "research/deep-studies/101-stable-matching",
     "research/deep-studies/104-transit-false-positives",
-    "research/deep-studies/103-zircon-two-clocks"
+    "research/deep-studies/103-zircon-two-clocks",
+    "research/deep-studies/107-gps-clock-rate",
+    "research/deep-studies/108-localization-microscopy"
   ]
 }

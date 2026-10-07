@@ -1,12 +1,12 @@
 {
   "archive_date": "2026-10-07",
-  "item_count": 122,
-  "original_file_count": 130,
+  "item_count": 124,
+  "original_file_count": 132,
   "original_docx_count": 14,
   "original_pdf_count": 6,
-  "original_markdown_count": 110,
+  "original_markdown_count": 112,
   "image_count": 33,
-  "readable_markdown_count": 122,
+  "readable_markdown_count": 124,
   "items": [
     {
       "path": "reading/sociological-imagination",
@@ -4353,6 +4353,67 @@
           "original_name": "一粒锆石报出两个年龄，地质学家怎样找出它经历过什么.md",
           "bytes": 11337,
           "sha256": "b99048cf78cb787e1cf5b103b4ae6f40a00b2f4469f2cb265fadd3af73879685",
+          "byte_identical": true
+        }
+      ]
+    },
+    {
+      "path": "research/deep-studies/107-gps-clock-rate",
+      "archived_at": "2026-10-07",
+      "series": "long-term-research",
+      "series_number": "107",
+      "category": "社会与自然",
+      "title": "GPS卫星钟为什么不能只在发射前对准一次",
+      "source_version": 1,
+      "status": "原创深化研究；示例、原始研究与方法边界见正文。",
+      "summary": "初始对时为何不能消除平均走速与周期钟差，共模伪距怎样影响解算？",
+      "readableMarkdown": "research/deep-studies/107-gps-clock-rate/readable.md",
+      "sources": "research/deep-studies/107-gps-clock-rate/sources.md",
+      "assets": [
+        "research/deep-studies/107-gps-clock-rate/metadata.json",
+        "research/deep-studies/107-gps-clock-rate/assets/clock-error-components.png",
+        "research/deep-studies/107-gps-clock-rate/assets/clock-error-components.svg",
+        "research/deep-studies/107-gps-clock-rate/assets/gps-results.json",
+        "research/deep-studies/107-gps-clock-rate/assets/make_clock_diagram.py",
+        "research/deep-studies/107-gps-clock-rate/assets/recompute_gps.py"
+      ],
+      "topic": "相对论计时与卫星导航",
+      "originals": [
+        {
+          "path": "research/deep-studies/107-gps-clock-rate/readable.md",
+          "original_name": "GPS卫星钟为什么不能只在发射前对准一次.md",
+          "bytes": 11239,
+          "sha256": "e3134fedabe94d51eb586f931375af93f93ebe9dadeab2f16d81b092e2d56e10",
+          "byte_identical": true
+        }
+      ]
+    },
+    {
+      "path": "research/deep-studies/108-localization-microscopy",
+      "archived_at": "2026-10-07",
+      "series": "long-term-research",
+      "series_number": "108",
+      "category": "社会与自然",
+      "title": "显微镜看不清挤在一起的分子，为什么让它们轮流发光就有用",
+      "source_version": 1,
+      "status": "原创深化研究；示例、原始研究与方法边界见正文。",
+      "summary": "单分子定位精度怎样与双对象分辨、标记采样密度和时间分组相互制约？",
+      "readableMarkdown": "research/deep-studies/108-localization-microscopy/readable.md",
+      "sources": "research/deep-studies/108-localization-microscopy/sources.md",
+      "assets": [
+        "research/deep-studies/108-localization-microscopy/metadata.json",
+        "research/deep-studies/108-localization-microscopy/assets/localization-concept.png",
+        "research/deep-studies/108-localization-microscopy/assets/localization-concept.svg",
+        "research/deep-studies/108-localization-microscopy/assets/localization-results.json",
+        "research/deep-studies/108-localization-microscopy/assets/recompute_localization.py"
+      ],
+      "topic": "单分子光学成像",
+      "originals": [
+        {
+          "path": "research/deep-studies/108-localization-microscopy/readable.md",
+          "original_name": "显微镜看不清挤在一起的分子，为什么让它们轮流发光就有用.md",
+          "bytes": 10357,
+          "sha256": "b8bdeaf588b191b6c212a5212a2e189fab8d0b176edaacdacefdc71b555df211",
           "byte_identical": true
         }
       ]

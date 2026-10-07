@@ -1,0 +1,48 @@
+{
+  "id": "108",
+  "slug": "localization-microscopy",
+  "title": "显微镜看不清挤在一起的分子，为什么让它们轮流发光就有用",
+  "version": 1,
+  "topic": "单分子光学成像",
+  "question": "单分子定位精度怎样与双对象分辨、标记采样密度和时间分组相互制约？",
+  "description": "单分子定位精度怎样与双对象分辨、标记采样密度和时间分组相互制约？",
+  "language": "zh-CN",
+  "updated": "2026-10-07",
+  "sources": [
+    {
+      "title": "Betzig et al. (2006), Imaging Intracellular Fluorescent Proteins at Nanometer Resolution",
+      "url": "https://www.janelia.org/sites/default/files/Library/Betzig%20PALM%20Science%202006.pdf",
+      "type": "作者机构托管原论文"
+    },
+    {
+      "title": "Thompson, Larson & Webb (2002), Precise nanometer localization analysis for individual fluorescent probes",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC1302065/",
+      "type": "原论文摘要与全文入口"
+    },
+    {
+      "title": "Hess, Girirajan & Mason (2006), Ultra-High Resolution Imaging by Fluorescence Photoactivation Localization Microscopy",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC1635685/",
+      "type": "原论文全文"
+    },
+    {
+      "title": "Rust, Bates & Zhuang (2006), Sub-diffraction-limit imaging by stochastic optical reconstruction microscopy",
+      "url": "https://rustlab.uchicago.edu/pdfs/rust2006.pdf",
+      "type": "作者原论文PDF"
+    },
+    {
+      "title": "Gould, Verkhusha & Hess (2009), Imaging biological structures with FPALM",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC2908010/",
+      "type": "原始方法论文"
+    },
+    {
+      "title": "Nieuwenhuizen et al. (2013), Measuring image resolution in optical nanoscopy",
+      "url": "https://home.imphys.tudelft.nl/~brieger/publications/Nieuwenhuizen2013.pdf",
+      "type": "作者原论文PDF"
+    },
+    {
+      "title": "Shroff et al. (2008), Live-cell PALM of nanoscale adhesion dynamics",
+      "url": "https://www.janelia.org/sites/default/files/Library/Shroff%20live%20cell%20Nat%20Meth%202008.pdf",
+      "type": "作者机构托管原论文"
+    }
+  ]
+}

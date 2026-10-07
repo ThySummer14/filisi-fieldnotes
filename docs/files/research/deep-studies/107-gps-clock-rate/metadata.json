@@ -1,0 +1,43 @@
+{
+  "id": "107",
+  "slug": "gps-clock-rate",
+  "title": "GPS卫星钟为什么不能只在发射前对准一次",
+  "version": 1,
+  "topic": "相对论计时与卫星导航",
+  "question": "初始对时为何不能消除平均走速与周期钟差，共模伪距怎样影响解算？",
+  "description": "初始对时为何不能消除平均走速与周期钟差，共模伪距怎样影响解算？",
+  "language": "zh-CN",
+  "updated": "2026-10-07",
+  "sources": [
+    {
+      "title": "Chou et al. (2010), Optical Clocks and Relativity",
+      "url": "https://tsapps.nist.gov/publication/get_pdf.cfm?pub_id=905055",
+      "type": "原论文NIST公开稿"
+    },
+    {
+      "title": "Ashby (2003), Relativity in the Global Positioning System",
+      "url": "https://doi.org/10.12942/lrr-2003-1",
+      "type": "理论作者开放综述"
+    },
+    {
+      "title": "Ashby & Weiss (1999), NIST Technical Note 1385",
+      "url": "https://tf.nist.gov/general/pdf/1274.pdf",
+      "type": "原始技术报告"
+    },
+    {
+      "title": "IS-GPS-200N, 01 August 2022",
+      "url": "https://www.gps.gov/sites/default/files/2025-07/IS-GPS-200N.pdf",
+      "type": "官方接口规范固定版"
+    },
+    {
+      "title": "Delva et al. (2018), A gravitational redshift test using eccentric Galileo satellites",
+      "url": "https://arxiv.org/pdf/1812.03711",
+      "type": "原论文预印本"
+    },
+    {
+      "title": "Herrmann et al. (2018), Test of the Gravitational Redshift with Galileo Satellites in an Eccentric Orbit",
+      "url": "https://arxiv.org/pdf/1812.09161",
+      "type": "原论文预印本"
+    }
+  ]
+}
