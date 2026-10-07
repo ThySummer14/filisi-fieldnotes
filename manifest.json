@@ -1380,7 +1380,7 @@
       "path": "research/100-directions/003-mcgurk-and-real-speech",
       "title": "嘴型改写听觉之后，还剩什么问题",
       "archived_at": "2026-10-07",
-      "source_version": 1,
+      "source_version": 2,
       "status": "原创专题研究；例子、原始研究与方法边界见正文",
       "summary": "麦格克效应的个体差异很稳定，但它测到的未必是日常交谈中的视听收益。",
       "readableMarkdown": "research/100-directions/003-mcgurk-and-real-speech/readable.md",
@@ -1392,8 +1392,8 @@
         {
           "path": "research/100-directions/003-mcgurk-and-real-speech/readable.md",
           "original_name": "嘴型改写听觉之后，还剩什么问题.md",
-          "bytes": 6786,
-          "sha256": "d5e8a1da29d08fd192d5e6acb21de2aad9316e1e9c27693264882b26b03470ea",
+          "bytes": 6813,
+          "sha256": "fb208e72727e9cc4392f6d1bcf9e4a7e4a6824fb593072a15a14d0806619f99e",
           "byte_identical": true
         }
       ],
@@ -1405,7 +1405,8 @@
         "视听语音",
         "个体差异",
         "测量效度"
-      ]
+      ],
+      "revision_note": "精确限定嘴型发音部位信息，删去来源未建立的任务先后。"
     },
     {
       "path": "research/100-directions/038-shuffle-bias",
@@ -2655,7 +2656,7 @@
       "path": "research/100-directions/015-high-frame-rate-aesthetics",
       "title": "更顺滑的动作，为什么有时显得更假",
       "archived_at": "2026-10-07",
-      "source_version": 1,
+      "source_version": 2,
       "status": "原创专题研究；例子、原始研究与方法边界见正文",
       "summary": "高帧率的技术优势与审美偏好并不总同向，2025预注册研究还发现了相反的场景效应。",
       "readableMarkdown": "research/100-directions/015-high-frame-rate-aesthetics/readable.md",
@@ -2667,8 +2668,8 @@
         {
           "path": "research/100-directions/015-high-frame-rate-aesthetics/readable.md",
           "original_name": "更顺滑的动作，为什么有时显得更假.md",
-          "bytes": 6752,
-          "sha256": "37189ee1d63da4abc15c72fc219239e797dead89a1edaf6199adc04d69538946",
+          "bytes": 6719,
+          "sha256": "42ada226bdb753779624f2c4ee8924f4bdaaf416b59d2439ccaddf48e135c74f",
           "byte_identical": true
         }
       ],
@@ -2680,7 +2681,8 @@
         "运动模糊",
         "肥皂剧效应",
         "真实感"
-      ]
+      ],
+      "revision_note": "将影院观影频率精确为影院观影占比，并保留三重交互条件。"
     },
     {
       "path": "research/100-directions/053-spreadsheet-circularity",
@@ -3201,7 +3203,7 @@
       "path": "research/100-directions/021-spoilers-enjoyment",
       "title": "剧透让故事更好看？研究没有给出通行证",
       "archived_at": "2026-10-07",
-      "source_version": 1,
+      "source_version": 2,
       "status": "原创专题研究；例子、原始研究与方法边界见正文",
       "summary": "从2011正向结果到2025空结果，剧透研究的分歧与读者选择权。",
       "readableMarkdown": "research/100-directions/021-spoilers-enjoyment/readable.md",
@@ -3213,8 +3215,8 @@
         {
           "path": "research/100-directions/021-spoilers-enjoyment/readable.md",
           "original_name": "剧透让故事更好看？研究没有给出通行证.md",
-          "bytes": 6801,
-          "sha256": "a25dc72740b351d1c67b01c66143945ae4d5b64d4434a7fb4d6d6ec960e8a87f",
+          "bytes": 6812,
+          "sha256": "a476a46dcdcf9ed3b828e5029cd0dbcccadba869bfa82ae30dd3b2a3fd70cf6f",
           "byte_identical": true
         }
       ],
@@ -3226,7 +3228,8 @@
         "阅读享受",
         "流畅性",
         "重复验证"
-      ]
+      ],
+      "revision_note": "明确效应量类型为 Cohen’s d。"
     },
     {
       "path": "research/100-directions/059-fixed-timestep",
