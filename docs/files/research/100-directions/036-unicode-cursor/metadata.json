@@ -1,0 +1,29 @@
+{
+  "id": "036",
+  "title": "删除键眼里的一个字",
+  "description": "从重音字母和表情符号拆开字节、码点、字素簇与光标索引之间的差别。",
+  "topic": "文本系统",
+  "tags": [
+    "Unicode",
+    "编辑器",
+    "交互设计"
+  ],
+  "sources": [
+    {
+      "title": "Unicode UAX #29 文本分段",
+      "url": "https://www.unicode.org/reports/tr29/"
+    },
+    {
+      "title": "Unicode UAX #15 归一化",
+      "url": "https://www.unicode.org/reports/tr15/"
+    },
+    {
+      "title": "Unicode 17 核心规范 第三章",
+      "url": "https://www.unicode.org/versions/Unicode17.0.0/core-spec/chapter-3/"
+    },
+    {
+      "title": "ECMA-402 Segmenter Objects",
+      "url": "https://tc39.es/ecma402/#segmenter-objects"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "id": "037",
+  "title": "明天中午和二十四小时后是两个任务",
+  "description": "用夏令时附近的一个小实验，说明日历重复规则为何不能只保存UTC时间戳。",
+  "topic": "时间建模",
+  "tags": [
+    "时区",
+    "Temporal",
+    "任务调度"
+  ],
+  "sources": [
+    {
+      "title": "Temporal 时区与歧义",
+      "url": "https://tc39.es/proposal-temporal/docs/timezone.html"
+    },
+    {
+      "title": "Temporal ZonedDateTime",
+      "url": "https://tc39.es/proposal-temporal/docs/zoneddatetime.html"
+    },
+    {
+      "title": "Python zoneinfo",
+      "url": "https://docs.python.org/3/library/zoneinfo.html"
+    },
+    {
+      "title": "PEP 495 本地时间消歧",
+      "url": "https://peps.python.org/pep-0495/"
+    }
+  ]
+}

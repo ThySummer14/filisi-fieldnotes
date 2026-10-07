@@ -746,5 +746,32 @@
     "pure_videos_unwatched": 4,
     "embedded_videos_unwatched_minimum": 2,
     "new_100_research_count": 0
+  },
+  "research_100_batch_1": {
+    "ids": [
+      "035",
+      "036",
+      "037",
+      "068",
+      "069",
+      "070"
+    ],
+    "new_completed": 6,
+    "existing_excluded": 16,
+    "privacy_review": "passed",
+    "topic_deduplication": "six distinct questions",
+    "local_numeric_unicode_timezone_examples_rerun": "passed",
+    "primary_source_spot_checks": [
+      "EPA heat measurements",
+      "Karst 2023 abstract",
+      "USGS Elwha 2018 summary"
+    ],
+    "internal_logs_published": false
+  },
+  "arknights_citation_correction": {
+    "source_version": 2,
+    "claim": "伊内丝对博士的判断",
+    "source": "DM-5 END [31]",
+    "other_plot_prose_changed": false
   }
 }

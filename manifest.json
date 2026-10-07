@@ -1,12 +1,12 @@
 {
   "archive_date": "2026-10-07",
-  "item_count": 16,
-  "original_file_count": 24,
+  "item_count": 22,
+  "original_file_count": 30,
   "original_docx_count": 14,
   "original_pdf_count": 6,
-  "original_markdown_count": 4,
+  "original_markdown_count": 10,
   "image_count": 33,
-  "readable_markdown_count": 16,
+  "readable_markdown_count": 22,
   "items": [
     {
       "path": "reading/sociological-imagination",
@@ -1107,7 +1107,7 @@
       "path": "reading/arknights-story-guide",
       "title": "明日方舟剧情导读",
       "archived_at": "2026-10-07",
-      "source_version": 1,
+      "source_version": 2,
       "status": "原创剧透导读；主线0至17与四篇关联故事；文本与视听边界已明确",
       "summary": "重大剧透导读：主线0至17章与四篇关联故事，连接人物选择、组织责任与历史记忆；附14组人物索引与509条公开剧情入口。",
       "readableMarkdown": "reading/arknights-story-guide/readable.md",
@@ -1119,8 +1119,8 @@
         {
           "path": "reading/arknights-story-guide/readable.md",
           "original_name": "明日方舟剧情导读.md",
-          "bytes": 25504,
-          "sha256": "2104c33e804d1d288cd23c1042d42032d7aa33b6bbb665f772b533ef1181ee54",
+          "bytes": 25558,
+          "sha256": "0c36b89cb7baed61e724208a242d07c08a84666f7cdaa07cc9246410d0044977",
           "byte_identical": true
         }
       ],
@@ -1129,7 +1129,188 @@
       "video_unwatched": {
         "pure": 4,
         "embedded_minimum": 2
-      }
+      },
+      "revision_note": "2026-10-07修正伊内丝评价博士的引用位置，定位至DM-5行动后；剧情叙述与范围未变。"
+    },
+    {
+      "path": "research/100-directions/035-floating-point-contract",
+      "title": "0.1加0.2之后 系统究竟答应了什么",
+      "archived_at": "2026-10-07",
+      "source_version": 1,
+      "status": "原创专题研究；例子、原始研究与方法边界见正文",
+      "summary": "浮点误差并不总是精度不足；更常见的错误，是让近似数承担精确账目和身份判断的责任。",
+      "readableMarkdown": "research/100-directions/035-floating-point-contract/readable.md",
+      "sources": "research/100-directions/035-floating-point-contract/sources.md",
+      "assets": [
+        "research/100-directions/035-floating-point-contract/metadata.json"
+      ],
+      "originals": [
+        {
+          "path": "research/100-directions/035-floating-point-contract/readable.md",
+          "original_name": "0.1加0.2之后 系统究竟答应了什么.md",
+          "bytes": 5873,
+          "sha256": "8e39eecb48cad3f7d707ee43479ca4e10a50b128ea7a45e096b743d725f56a62",
+          "byte_identical": true
+        }
+      ],
+      "series": "research-100-20261007",
+      "series_number": "035",
+      "topic": "数值计算",
+      "tags": [
+        "浮点数",
+        "数值稳定性",
+        "软件契约"
+      ]
+    },
+    {
+      "path": "research/100-directions/036-unicode-cursor",
+      "title": "删除键眼里的一个字",
+      "archived_at": "2026-10-07",
+      "source_version": 1,
+      "status": "原创专题研究；例子、原始研究与方法边界见正文",
+      "summary": "从重音字母和表情符号拆开字节、码点、字素簇与光标索引之间的差别。",
+      "readableMarkdown": "research/100-directions/036-unicode-cursor/readable.md",
+      "sources": "research/100-directions/036-unicode-cursor/sources.md",
+      "assets": [
+        "research/100-directions/036-unicode-cursor/metadata.json"
+      ],
+      "originals": [
+        {
+          "path": "research/100-directions/036-unicode-cursor/readable.md",
+          "original_name": "删除键眼里的一个字.md",
+          "bytes": 6024,
+          "sha256": "d2c8d15b370c25fe9d3270569226b976279bb1061bfdd7c36cd88994ddfe869b",
+          "byte_identical": true
+        }
+      ],
+      "series": "research-100-20261007",
+      "series_number": "036",
+      "topic": "文本系统",
+      "tags": [
+        "Unicode",
+        "编辑器",
+        "交互设计"
+      ]
+    },
+    {
+      "path": "research/100-directions/037-time-is-not-duration",
+      "title": "明天中午和二十四小时后是两个任务",
+      "archived_at": "2026-10-07",
+      "source_version": 1,
+      "status": "原创专题研究；例子、原始研究与方法边界见正文",
+      "summary": "用夏令时附近的一个小实验，说明日历重复规则为何不能只保存UTC时间戳。",
+      "readableMarkdown": "research/100-directions/037-time-is-not-duration/readable.md",
+      "sources": "research/100-directions/037-time-is-not-duration/sources.md",
+      "assets": [
+        "research/100-directions/037-time-is-not-duration/metadata.json"
+      ],
+      "originals": [
+        {
+          "path": "research/100-directions/037-time-is-not-duration/readable.md",
+          "original_name": "明天中午和二十四小时后是两个任务.md",
+          "bytes": 5895,
+          "sha256": "70509bc8f75785a277bfdee43a0a2571afbcdb7b636e5a8383a0a55ed575db57",
+          "byte_identical": true
+        }
+      ],
+      "series": "research-100-20261007",
+      "series_number": "037",
+      "topic": "时间建模",
+      "tags": [
+        "时区",
+        "Temporal",
+        "任务调度"
+      ]
+    },
+    {
+      "path": "research/100-directions/068-urban-night-heat",
+      "title": "日落后 城市还在退还白天的热",
+      "archived_at": "2026-10-07",
+      "source_version": 1,
+      "status": "原创专题研究；例子、原始研究与方法边界见正文",
+      "summary": "夜间热岛最容易误读的地方，是把城乡温差当成城市绝对温度，把屋顶温度当成人身边的气温。",
+      "readableMarkdown": "research/100-directions/068-urban-night-heat/readable.md",
+      "sources": "research/100-directions/068-urban-night-heat/sources.md",
+      "assets": [
+        "research/100-directions/068-urban-night-heat/metadata.json"
+      ],
+      "originals": [
+        {
+          "path": "research/100-directions/068-urban-night-heat/readable.md",
+          "original_name": "日落后 城市还在退还白天的热.md",
+          "bytes": 6016,
+          "sha256": "40715f4beb6235d2905c33b2cf2b2bc92000e15d5c560fa1d8c4d0a0ec3638a6",
+          "byte_identical": true
+        }
+      ],
+      "series": "research-100-20261007",
+      "series_number": "068",
+      "topic": "城市气候",
+      "tags": [
+        "热岛",
+        "城市材料",
+        "夜间气候"
+      ]
+    },
+    {
+      "path": "research/100-directions/069-forest-fungal-networks",
+      "title": "菌根网络存在之后 还需要证明什么",
+      "archived_at": "2026-10-07",
+      "source_version": 1,
+      "status": "原创专题研究；例子、原始研究与方法边界见正文",
+      "summary": "从同位素追踪到母树争论，连接、物质移动、净收益和亲缘偏好是四个不同的问题。",
+      "readableMarkdown": "research/100-directions/069-forest-fungal-networks/readable.md",
+      "sources": "research/100-directions/069-forest-fungal-networks/sources.md",
+      "assets": [
+        "research/100-directions/069-forest-fungal-networks/metadata.json"
+      ],
+      "originals": [
+        {
+          "path": "research/100-directions/069-forest-fungal-networks/readable.md",
+          "original_name": "菌根网络存在之后 还需要证明什么.md",
+          "bytes": 6650,
+          "sha256": "3c5b33df82ae3039b53eefec2a64cf61fbc9ef90664d1ca0c3283f6cce145734",
+          "byte_identical": true
+        }
+      ],
+      "series": "research-100-20261007",
+      "series_number": "069",
+      "topic": "森林生态",
+      "tags": [
+        "菌根",
+        "科学争议",
+        "碳流动"
+      ]
+    },
+    {
+      "path": "research/100-directions/070-dam-sediment",
+      "title": "水坝留下的泥沙账单",
+      "archived_at": "2026-10-07",
+      "source_version": 1,
+      "status": "原创专题研究；例子、原始研究与方法边界见正文",
+      "summary": "水流经过大坝以后，泥沙供给可能被截断。下游河床、河口和海岸并不在同一天收到后果。",
+      "readableMarkdown": "research/100-directions/070-dam-sediment/readable.md",
+      "sources": "research/100-directions/070-dam-sediment/sources.md",
+      "assets": [
+        "research/100-directions/070-dam-sediment/metadata.json"
+      ],
+      "originals": [
+        {
+          "path": "research/100-directions/070-dam-sediment/readable.md",
+          "original_name": "水坝留下的泥沙账单.md",
+          "bytes": 6499,
+          "sha256": "0dbea93a055642778f4398763b7d76e8a2e310d9b7d764a36773e62ba7174f39",
+          "byte_identical": true
+        }
+      ],
+      "series": "research-100-20261007",
+      "series_number": "070",
+      "topic": "河流地貌",
+      "tags": [
+        "泥沙",
+        "三角洲",
+        "水坝"
+      ]
     }
   ]
 }

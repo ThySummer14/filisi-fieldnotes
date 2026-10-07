@@ -15,7 +15,13 @@
     "design/graphic-reading-judgment",
     "motion/effectcraft-architecture",
     "motion/film-sound-storytelling",
-    "reading/arknights-story-guide"
+    "reading/arknights-story-guide",
+    "research/100-directions/035-floating-point-contract",
+    "research/100-directions/036-unicode-cursor",
+    "research/100-directions/037-time-is-not-duration",
+    "research/100-directions/068-urban-night-heat",
+    "research/100-directions/069-forest-fungal-networks",
+    "research/100-directions/070-dam-sediment"
   ],
-  "item_count": 16
+  "item_count": 22
 }

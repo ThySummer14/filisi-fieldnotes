@@ -1,0 +1,43 @@
+{
+  "target": 100,
+  "completed_count": 6,
+  "existing_library_excluded": 16,
+  "completed": [
+    {
+      "number": "035",
+      "title": "0.1加0.2之后 系统究竟答应了什么",
+      "topic": "数值计算",
+      "path": "research/100-directions/035-floating-point-contract"
+    },
+    {
+      "number": "036",
+      "title": "删除键眼里的一个字",
+      "topic": "文本系统",
+      "path": "research/100-directions/036-unicode-cursor"
+    },
+    {
+      "number": "037",
+      "title": "明天中午和二十四小时后是两个任务",
+      "topic": "时间建模",
+      "path": "research/100-directions/037-time-is-not-duration"
+    },
+    {
+      "number": "068",
+      "title": "日落后 城市还在退还白天的热",
+      "topic": "城市气候",
+      "path": "research/100-directions/068-urban-night-heat"
+    },
+    {
+      "number": "069",
+      "title": "菌根网络存在之后 还需要证明什么",
+      "topic": "森林生态",
+      "path": "research/100-directions/069-forest-fungal-networks"
+    },
+    {
+      "number": "070",
+      "title": "水坝留下的泥沙账单",
+      "topic": "河流地貌",
+      "path": "research/100-directions/070-dam-sediment"
+    }
+  ]
+}

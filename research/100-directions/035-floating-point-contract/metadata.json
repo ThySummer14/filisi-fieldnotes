@@ -1,0 +1,29 @@
+{
+  "id": "035",
+  "title": "0.1加0.2之后 系统究竟答应了什么",
+  "description": "浮点误差并不总是精度不足；更常见的错误，是让近似数承担精确账目和身份判断的责任。",
+  "topic": "数值计算",
+  "tags": [
+    "浮点数",
+    "数值稳定性",
+    "软件契约"
+  ],
+  "sources": [
+    {
+      "title": "Python 浮点数教程",
+      "url": "https://docs.python.org/3/tutorial/floatingpoint.html"
+    },
+    {
+      "title": "Python decimal",
+      "url": "https://docs.python.org/3/library/decimal.html"
+    },
+    {
+      "title": "Python math.isclose 与 fsum",
+      "url": "https://docs.python.org/3/library/math.html"
+    },
+    {
+      "title": "David Goldberg 浮点运算论文",
+      "url": "https://docs.oracle.com/cd/E19957-01/806-3568/ncg_goldberg.html"
+    }
+  ]
+}
