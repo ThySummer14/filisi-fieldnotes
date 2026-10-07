@@ -1,0 +1,29 @@
+{
+  "id": "065",
+  "title": "命令明明找到了 为什么还是不好用",
+  "description": "字符匹配只是命令面板的一层，排序还要处理上下文、稳定性和按下Enter的后果。",
+  "topic": "工具交互",
+  "tags": [
+    "命令面板",
+    "模糊搜索",
+    "排序"
+  ],
+  "sources": [
+    {
+      "title": "fzf匹配算法源码",
+      "url": "https://github.com/junegunn/fzf/blob/master/src/algo/algo.go"
+    },
+    {
+      "title": "VS Code fuzzyScorer源码",
+      "url": "https://github.com/microsoft/vscode/blob/main/src/vs/base/common/fuzzyScorer.ts"
+    },
+    {
+      "title": "VS Code Commands API",
+      "url": "https://code.visualstudio.com/api/extension-guides/command"
+    },
+    {
+      "title": "WAI-ARIA Combobox Pattern",
+      "url": "https://www.w3.org/WAI/ARIA/apg/patterns/combobox/"
+    }
+  ]
+}

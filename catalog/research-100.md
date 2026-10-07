@@ -1,6 +1,6 @@
 # 100个研究方向
 
-已收录 78 / 100 篇新研究。原有16篇专题研究与书稿不计入这个目标。编号是方向索引，不表示中间编号已经完成。
+已收录 84 / 100 篇新研究。原有16篇专题研究与书稿不计入这个目标。编号是方向索引，不表示中间编号已经完成。
 
 - 001 [同一条裙子，两套照明](../research/100-directions/001-dress-color-constancy/readable.md) · 视觉与色彩
 - 002 [余光中的字，为什么越挤越认不出](../research/100-directions/002-peripheral-crowding/readable.md) · 视觉与版式
@@ -53,6 +53,9 @@
 - 062 [棋局缓存里的七分 可能只表示至少七分](../research/100-directions/062-chess-transposition-table/readable.md) · 博弈搜索
 - 063 [同样一千五百分 系统可能知道得很不一样](../research/100-directions/063-rating-uncertainty/readable.md) · 竞技系统
 - 064 [弹窗打开以后 Tab键去了哪里](../research/100-directions/064-keyboard-focus-contract/readable.md) · 无障碍交互
+- 065 [命令明明找到了 为什么还是不好用](../research/100-directions/065-command-palette-ranking/readable.md) · 工具交互
+- 066 [给图片解码器一张照片 不必给它整个相册](../research/100-directions/066-capability-security/readable.md) · 安全架构
+- 067 [错误消息改了一个词 客户端就不重试了](../research/100-directions/067-error-values-api/readable.md) · API设计
 - 068 [日落后 城市还在退还白天的热](../research/100-directions/068-urban-night-heat/readable.md) · 城市气候
 - 069 [菌根网络存在之后 还需要证明什么](../research/100-directions/069-forest-fungal-networks/readable.md) · 森林生态
 - 070 [水坝留下的泥沙账单](../research/100-directions/070-dam-sediment/readable.md) · 河流地貌
@@ -80,3 +83,6 @@
 - 092 [活着却不发芽 种子在等哪些条件](../research/100-directions/092-seed-dormancy/readable.md) · 植物科学
 - 093 [地衣里有几位伙伴 这个问题可能问得太整齐](../research/100-directions/093-lichen-partners/readable.md) · 共生生态
 - 094 [让森林多年不烧 为什么有时更危险](../research/100-directions/094-fire-suppression/readable.md) · 火生态
+- 095 [把大动物放回去以后 什么才算恢复成功](../research/100-directions/095-rewilding-baselines/readable.md) · 保护科学
+- 096 [沙漠表面那层黑皮 为什么不能随便踩](../research/100-directions/096-desert-biocrust/readable.md) · 干旱区生态
+- 097 [冰川为什么会突然加速冲下山谷](../research/100-directions/097-surging-glaciers/readable.md) · 冰川科学

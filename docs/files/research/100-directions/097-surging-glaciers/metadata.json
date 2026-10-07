@@ -1,0 +1,46 @@
+{
+  "id": "097",
+  "slug": "surging-glaciers",
+  "topic": "冰川科学",
+  "tags": [
+    "跃动冰川",
+    "底部水压",
+    "冰流"
+  ],
+  "title": "冰川为什么会突然加速冲下山谷",
+  "description": "跃动把长期积存在上游的冰输送出去。底部的水、热量与排水能力决定失稳，前端推进也不能单独证明气候变冷。",
+  "date": "2026-10-07",
+  "language": "zh-CN",
+  "sources": [
+    {
+      "title": "NASA A Sign of Surging on Bivachny Glacier",
+      "url": "https://science.nasa.gov/earth/earth-observatory/a-sign-of-surging-on-bivachny-glacier-85503/",
+      "source_type": "官方遥感案例",
+      "accessed": "2026-10-07"
+    },
+    {
+      "title": "NASA Taking a Bite Out of Pi",
+      "url": "https://science.nasa.gov/earth/earth-observatory/taking-a-bite-out-of-pi-152557/",
+      "source_type": "官方遥感与科学说明",
+      "accessed": "2026-10-07"
+    },
+    {
+      "title": "Benn 等（2019）A general theory of glacier surges",
+      "url": "https://www.cambridge.org/core/journals/journal-of-glaciology/article/general-theory-of-glacier-surges/043253068C3895A0A41D217CD7F92ADD",
+      "source_type": "同行评议理论研究",
+      "accessed": "2026-10-07"
+    },
+    {
+      "title": "Benn、Hewitt 与 Luckman（2023）Enthalpy balance theory unifies diverse glacier surge behaviour",
+      "url": "https://www.cambridge.org/core/journals/annals-of-glaciology/article/enthalpy-balance-theory-unifies-diverse-glacier-surge-behaviour/329044E7A8B6C8BB069A0DD0EF19D153",
+      "source_type": "同行评议理论综合",
+      "accessed": "2026-10-07"
+    },
+    {
+      "title": "哥白尼哨兵计划（2023）Glacier surges mapped globally from space",
+      "url": "https://sentinels.copernicus.eu/web/success-stories/-/glacier-surges-mapped-globally-from-space",
+      "source_type": "官方研究说明",
+      "accessed": "2026-10-07"
+    }
+  ]
+}

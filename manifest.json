@@ -1,12 +1,12 @@
 {
   "archive_date": "2026-10-07",
-  "item_count": 94,
-  "original_file_count": 102,
+  "item_count": 100,
+  "original_file_count": 108,
   "original_docx_count": 14,
   "original_pdf_count": 6,
-  "original_markdown_count": 82,
+  "original_markdown_count": 88,
   "image_count": 33,
-  "readable_markdown_count": 94,
+  "readable_markdown_count": 100,
   "items": [
     {
       "path": "reading/sociological-imagination",
@@ -3492,6 +3492,186 @@
         "火制度",
         "燃料",
         "森林"
+      ]
+    },
+    {
+      "path": "research/100-directions/065-command-palette-ranking",
+      "title": "命令明明找到了 为什么还是不好用",
+      "archived_at": "2026-10-07",
+      "source_version": 1,
+      "status": "原创专题研究；例子、原始研究与方法边界见正文",
+      "summary": "字符匹配只是命令面板的一层，排序还要处理上下文、稳定性和按下Enter的后果。",
+      "readableMarkdown": "research/100-directions/065-command-palette-ranking/readable.md",
+      "sources": "research/100-directions/065-command-palette-ranking/sources.md",
+      "assets": [
+        "research/100-directions/065-command-palette-ranking/metadata.json"
+      ],
+      "originals": [
+        {
+          "path": "research/100-directions/065-command-palette-ranking/readable.md",
+          "original_name": "命令明明找到了 为什么还是不好用.md",
+          "bytes": 6319,
+          "sha256": "bd58a6f9f8675816b11efcca3cbb1b61c23b8443327882e3ad1895e8c3ee3e3e",
+          "byte_identical": true
+        }
+      ],
+      "series": "research-100-20261007",
+      "series_number": "065",
+      "topic": "工具交互",
+      "tags": [
+        "命令面板",
+        "模糊搜索",
+        "排序"
+      ]
+    },
+    {
+      "path": "research/100-directions/066-capability-security",
+      "title": "给图片解码器一张照片 不必给它整个相册",
+      "archived_at": "2026-10-07",
+      "source_version": 1,
+      "status": "原创专题研究；例子、原始研究与方法边界见正文",
+      "summary": "能力式权限把对象与允许操作一起交付，但撤销、派生权限和对外通信仍需明确边界。",
+      "readableMarkdown": "research/100-directions/066-capability-security/readable.md",
+      "sources": "research/100-directions/066-capability-security/sources.md",
+      "assets": [
+        "research/100-directions/066-capability-security/metadata.json"
+      ],
+      "originals": [
+        {
+          "path": "research/100-directions/066-capability-security/readable.md",
+          "original_name": "给图片解码器一张照片 不必给它整个相册.md",
+          "bytes": 6275,
+          "sha256": "23e74141d33212f13465d5d468a76865fb7d32aad391a644743ccaa94461aba0",
+          "byte_identical": true
+        }
+      ],
+      "series": "research-100-20261007",
+      "series_number": "066",
+      "topic": "安全架构",
+      "tags": [
+        "对象能力",
+        "最小权限",
+        "沙箱"
+      ]
+    },
+    {
+      "path": "research/100-directions/067-error-values-api",
+      "title": "错误消息改了一个词 客户端就不重试了",
+      "archived_at": "2026-10-07",
+      "source_version": 1,
+      "status": "原创专题研究；例子、原始研究与方法边界见正文",
+      "summary": "错误需要稳定的机器身份和可修改的人类解释，同时保留未知结果、部分成功与诊断边界。",
+      "readableMarkdown": "research/100-directions/067-error-values-api/readable.md",
+      "sources": "research/100-directions/067-error-values-api/sources.md",
+      "assets": [
+        "research/100-directions/067-error-values-api/metadata.json"
+      ],
+      "originals": [
+        {
+          "path": "research/100-directions/067-error-values-api/readable.md",
+          "original_name": "错误消息改了一个词 客户端就不重试了.md",
+          "bytes": 6458,
+          "sha256": "1910f6efc7634667c0b5776224781b4b013b0145961f7449e8eaf52f6c8e9182",
+          "byte_identical": true
+        }
+      ],
+      "series": "research-100-20261007",
+      "series_number": "067",
+      "topic": "API设计",
+      "tags": [
+        "类型化错误",
+        "错误协议",
+        "可恢复性"
+      ]
+    },
+    {
+      "path": "research/100-directions/095-rewilding-baselines",
+      "title": "把大动物放回去以后 什么才算恢复成功",
+      "archived_at": "2026-10-07",
+      "source_version": 1,
+      "status": "原创专题研究；例子、原始研究与方法边界见正文",
+      "summary": "再野化的难题从动物获释以后才开始：历史基线、食物网、河流水位和人的边界，共同决定怎样检验恢复。",
+      "readableMarkdown": "research/100-directions/095-rewilding-baselines/readable.md",
+      "sources": "research/100-directions/095-rewilding-baselines/sources.md",
+      "assets": [
+        "research/100-directions/095-rewilding-baselines/metadata.json"
+      ],
+      "originals": [
+        {
+          "path": "research/100-directions/095-rewilding-baselines/readable.md",
+          "original_name": "把大动物放回去以后 什么才算恢复成功.md",
+          "bytes": 6225,
+          "sha256": "91d24f4474b60dff720ae67d086f50f2fc3d77708d8691a3f2f9add3567611bb",
+          "byte_identical": true
+        }
+      ],
+      "series": "research-100-20261007",
+      "series_number": "095",
+      "topic": "保护科学",
+      "tags": [
+        "再野化",
+        "基线",
+        "生态过程"
+      ]
+    },
+    {
+      "path": "research/100-directions/096-desert-biocrust",
+      "title": "沙漠表面那层黑皮 为什么不能随便踩",
+      "archived_at": "2026-10-07",
+      "source_version": 1,
+      "status": "原创专题研究；例子、原始研究与方法边界见正文",
+      "summary": "生物土壤结皮把沙粒、养分与短暂的雨水联系起来。脚印破坏的既有表面结构，也有多年形成的群落功能。",
+      "readableMarkdown": "research/100-directions/096-desert-biocrust/readable.md",
+      "sources": "research/100-directions/096-desert-biocrust/sources.md",
+      "assets": [
+        "research/100-directions/096-desert-biocrust/metadata.json"
+      ],
+      "originals": [
+        {
+          "path": "research/100-directions/096-desert-biocrust/readable.md",
+          "original_name": "沙漠表面那层黑皮 为什么不能随便踩.md",
+          "bytes": 6010,
+          "sha256": "79fad85fedb4af4b8eec3faf214d8fb2b2ad4d43ac67df8c69d70d6ba7096b44",
+          "byte_identical": true
+        }
+      ],
+      "series": "research-100-20261007",
+      "series_number": "096",
+      "topic": "干旱区生态",
+      "tags": [
+        "生物土壤结皮",
+        "侵蚀",
+        "微生物"
+      ]
+    },
+    {
+      "path": "research/100-directions/097-surging-glaciers",
+      "title": "冰川为什么会突然加速冲下山谷",
+      "archived_at": "2026-10-07",
+      "source_version": 1,
+      "status": "原创专题研究；例子、原始研究与方法边界见正文",
+      "summary": "跃动把长期积存在上游的冰输送出去。底部的水、热量与排水能力决定失稳，前端推进也不能单独证明气候变冷。",
+      "readableMarkdown": "research/100-directions/097-surging-glaciers/readable.md",
+      "sources": "research/100-directions/097-surging-glaciers/sources.md",
+      "assets": [
+        "research/100-directions/097-surging-glaciers/metadata.json"
+      ],
+      "originals": [
+        {
+          "path": "research/100-directions/097-surging-glaciers/readable.md",
+          "original_name": "冰川为什么会突然加速冲下山谷.md",
+          "bytes": 6155,
+          "sha256": "eaebe206b60cbe830a9b677d830e31c7010639775966bce2fbe6bea4520322d5",
+          "byte_identical": true
+        }
+      ],
+      "series": "research-100-20261007",
+      "series_number": "097",
+      "topic": "冰川科学",
+      "tags": [
+        "跃动冰川",
+        "底部水压",
+        "冰流"
       ]
     }
   ]

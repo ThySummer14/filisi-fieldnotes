@@ -1,0 +1,40 @@
+{
+  "id": "096",
+  "slug": "desert-biocrust",
+  "topic": "干旱区生态",
+  "tags": [
+    "生物土壤结皮",
+    "侵蚀",
+    "微生物"
+  ],
+  "title": "沙漠表面那层黑皮 为什么不能随便踩",
+  "description": "生物土壤结皮把沙粒、养分与短暂的雨水联系起来。脚印破坏的既有表面结构，也有多年形成的群落功能。",
+  "date": "2026-10-07",
+  "language": "zh-CN",
+  "sources": [
+    {
+      "title": "Belnap（2001）Biological Soil Crusts: Webs of Life in the Desert",
+      "url": "https://pubs.usgs.gov/publication/fs06501",
+      "source_type": "USGS官方科学简报",
+      "accessed": "2026-10-07"
+    },
+    {
+      "title": "美国国家公园管理局 Biological Soil Crusts",
+      "url": "https://www.nps.gov/care/learn/nature/biosoil.htm",
+      "source_type": "官方科学与访客指引",
+      "accessed": "2026-10-07"
+    },
+    {
+      "title": "Eldridge 等（2020）The pervasive and multifaceted influence of biocrusts on water in the world’s drylands",
+      "url": "https://www.usgs.gov/publications/pervasive-and-multifaceted-influence-biocrusts-water-worlds-drylands",
+      "source_type": "同行评议综合研究",
+      "accessed": "2026-10-07"
+    },
+    {
+      "title": "Evans 与 Belnap（1999）Long-term consequences of disturbance on nitrogen dynamics in an arid ecosystem",
+      "url": "https://www.usgs.gov/publications/long-term-consequences-disturbance-nitrogen-dynamics-arid-ecosystem",
+      "source_type": "同行评议原始研究",
+      "accessed": "2026-10-07"
+    }
+  ]
+}

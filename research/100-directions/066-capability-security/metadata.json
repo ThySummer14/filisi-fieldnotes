@@ -1,0 +1,29 @@
+{
+  "id": "066",
+  "title": "给图片解码器一张照片 不必给它整个相册",
+  "description": "能力式权限把对象与允许操作一起交付，但撤销、派生权限和对外通信仍需明确边界。",
+  "topic": "安全架构",
+  "tags": [
+    "对象能力",
+    "最小权限",
+    "沙箱"
+  ],
+  "sources": [
+    {
+      "title": "Watson等 Capsicum USENIX2010",
+      "url": "https://www.usenix.org/legacy/event/sec10/tech/full_papers/Watson.pdf"
+    },
+    {
+      "title": "WASI Capabilities官方设计",
+      "url": "https://github.com/WebAssembly/WASI/blob/main/docs/Capabilities.md"
+    },
+    {
+      "title": "Chrome File System Access开发文档",
+      "url": "https://developer.chrome.com/docs/capabilities/web-apis/file-system-access"
+    },
+    {
+      "title": "WICG File System Access规范",
+      "url": "https://wicg.github.io/file-system-access/"
+    }
+  ]
+}

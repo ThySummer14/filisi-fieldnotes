@@ -1,0 +1,40 @@
+{
+  "id": "095",
+  "slug": "rewilding-baselines",
+  "topic": "保护科学",
+  "tags": [
+    "再野化",
+    "基线",
+    "生态过程"
+  ],
+  "title": "把大动物放回去以后 什么才算恢复成功",
+  "description": "再野化的难题从动物获释以后才开始：历史基线、食物网、河流水位和人的边界，共同决定怎样检验恢复。",
+  "date": "2026-10-07",
+  "language": "zh-CN",
+  "sources": [
+    {
+      "title": "Carver 等（2021）Guiding principles for rewilding",
+      "url": "https://pure.au.dk/ws/files/273853254/Conservation_Biology_2021_Carver_Guiding_principles_for_rewilding.pdf",
+      "source_type": "同行评议论文",
+      "accessed": "2026-10-07"
+    },
+    {
+      "title": "美国国家公园管理局 Cycles and Processes",
+      "url": "https://www.nps.gov/yell/learn/nature/cyclesprocesses.htm",
+      "source_type": "官方综合说明",
+      "accessed": "2026-10-07"
+    },
+    {
+      "title": "Marshall、Hobbs 与 Cooper（2013）Stream hydrology limits recovery of riparian ecosystems after wolf reintroduction",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/23390108/",
+      "source_type": "同行评议野外实验",
+      "accessed": "2026-10-07"
+    },
+    {
+      "title": "IUCN（2021）The benefits and risks of rewilding",
+      "url": "https://iucn.org/resources/issues-brief/benefits-and-risks-rewilding",
+      "source_type": "官方议题简报",
+      "accessed": "2026-10-07"
+    }
+  ]
+}

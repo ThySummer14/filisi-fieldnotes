@@ -1,0 +1,29 @@
+{
+  "id": "067",
+  "title": "错误消息改了一个词 客户端就不重试了",
+  "description": "错误需要稳定的机器身份和可修改的人类解释，同时保留未知结果、部分成功与诊断边界。",
+  "topic": "API设计",
+  "tags": [
+    "类型化错误",
+    "错误协议",
+    "可恢复性"
+  ],
+  "sources": [
+    {
+      "title": "RFC9457 Problem Details",
+      "url": "https://www.rfc-editor.org/rfc/rfc9457"
+    },
+    {
+      "title": "Rust std::result",
+      "url": "https://doc.rust-lang.org/std/result/"
+    },
+    {
+      "title": "gRPC Status Codes",
+      "url": "https://grpc.io/docs/guides/status-codes/"
+    },
+    {
+      "title": "Google AIP193 Errors",
+      "url": "https://google.aip.dev/193"
+    }
+  ]
+}

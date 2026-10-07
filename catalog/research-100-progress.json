@@ -1,6 +1,6 @@
 {
   "target": 100,
-  "completed_count": 78,
+  "completed_count": 84,
   "existing_library_excluded": 16,
   "completed": [
     {
@@ -310,6 +310,24 @@
       "path": "research/100-directions/064-keyboard-focus-contract"
     },
     {
+      "number": "065",
+      "title": "命令明明找到了 为什么还是不好用",
+      "topic": "工具交互",
+      "path": "research/100-directions/065-command-palette-ranking"
+    },
+    {
+      "number": "066",
+      "title": "给图片解码器一张照片 不必给它整个相册",
+      "topic": "安全架构",
+      "path": "research/100-directions/066-capability-security"
+    },
+    {
+      "number": "067",
+      "title": "错误消息改了一个词 客户端就不重试了",
+      "topic": "API设计",
+      "path": "research/100-directions/067-error-values-api"
+    },
+    {
       "number": "068",
       "title": "日落后 城市还在退还白天的热",
       "topic": "城市气候",
@@ -470,6 +488,24 @@
       "title": "让森林多年不烧 为什么有时更危险",
       "topic": "火生态",
       "path": "research/100-directions/094-fire-suppression"
+    },
+    {
+      "number": "095",
+      "title": "把大动物放回去以后 什么才算恢复成功",
+      "topic": "保护科学",
+      "path": "research/100-directions/095-rewilding-baselines"
+    },
+    {
+      "number": "096",
+      "title": "沙漠表面那层黑皮 为什么不能随便踩",
+      "topic": "干旱区生态",
+      "path": "research/100-directions/096-desert-biocrust"
+    },
+    {
+      "number": "097",
+      "title": "冰川为什么会突然加速冲下山谷",
+      "topic": "冰川科学",
+      "path": "research/100-directions/097-surging-glaciers"
     }
   ]
 }
